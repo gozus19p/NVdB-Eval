@@ -1,0 +1,250 @@
+{
+  "lemma": "verso",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6469ad0a50d0652266"
+    },
+    "source": "paraviaXML/127004.xml",
+    "lemma": "verso",
+    "grammar": [
+      "prep."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "complemento",
+          "complemento"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In direzione di, alla volta di, introduce un di moto a luogo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire",
+              "procedere verso Napoli",
+              "incamminarsi verso casa",
+              "guardare verso la finestra",
+              "marciare verso il nemico"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per esprimere vicinanza, prossimità, introduce un di stato in luogo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abita verso piazza Castello"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Poco prima, poco dopo, circa, per indicare la prossimità a un limite di tempo determinato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire verso le dieci",
+              "telefonami verso sera"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per indicare l’approssimarsi di un limite di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ci vedremo verso la fine della settimana",
+              "va",
+              "si avvia verso i sessant’anni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nei confronti, nei riguardi di, introduce il termine cui è rivolto un sentimento, un comportamento e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la lealtà verso gli amici",
+              "comportarsi scorrettamente verso qcn."
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rispetto a, in relazione a",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "figliuol mio, | perché hai tu così verso noi fatto?"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In paragone, in confronto a",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mordere era nulla | verso ’l graffiar"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "burocrazia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Commercio burocrazia , contro, dietro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rilasciare una ricevuta verso pagamento"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Ciascuna delle righe di cui è composto un testo poetico, caratterizzata da un determinato numero di sillabe e da un particolare ritmo.",
+      "examples": [
+        "Ha scritto una poesia di venti versi.",
+        "Il primo verso del sonetto è il più famoso."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Direzione o orientamento nello spazio, indicante il punto o la zona in cui ci si muove o si guarda.",
+      "examples": [
+        "Il vento soffia verso est.",
+        "Camminava verso la stazione senza guardarsi indietro."
+      ],
+      "nota": "Può essere usato anche in senso figurato, ad esempio: 'Si sta muovendo verso una soluzione del problema'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Modo o maniera in cui qualcosa viene fatto o si manifesta.",
+      "examples": [
+        "Non mi piace il verso in cui parla di questa situazione.",
+        "Ha trovato un nuovo verso per esprimere la sua creatività."
+      ],
+      "nota": "Spesso usato in espressioni come 'in un certo verso' o 'in qualche verso'."
+    },
+    {
+      "pos": "preposizione",
+      "definition": "Indica la direzione o l'approssimazione temporale o spaziale verso un punto o un momento.",
+      "examples": [
+        "Partiamo verso le otto.",
+        "Si è diretto verso il parco."
+      ],
+      "nota": "Può essere usata anche in senso figurato, ad esempio: 'Sta andando verso la pensione'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Suono caratteristico emesso da un animale, in particolare dagli uccelli.",
+      "examples": [
+        "Il verso del gufo è inconfondibile.",
+        "Ogni uccello ha il suo verso particolare."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "lemma": "piano",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1b69ad0a50d065ba1d"
+    },
+    "source": "paraviaXML/82414.xml",
+    "lemma": "piano",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Superficie piana orizzontale che delimita superiormente un mobile o un’altra struttura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il piano del tavolo",
+              "del comò"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ripiano di una scaffalatura, di una libreria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Terreno pianeggiante, pianura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un vasto piano coltivato",
+              "scendere al piano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "comune",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Legatoria , non ; piatto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , ente fondamentale della geometria determinato da tre punti non in linea retta, che assume caratteristiche diverse a seconda della geometria a cui si fa riferimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "piano euclideo",
+              "affine",
+              "proiettivo",
+              "metrico"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In uno spazio numerico tridimensionale, luogo geometrico dei punti le cui coordinate soddisfano un’equazione algebrica di primo grado ( simb. P)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle parti sovrapposte di un edificio compresa tra il pavimento e il soffitto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abito al secondo piano",
+              "un palazzo di dieci piani",
+              "una villetta a due piani"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Grado d’importanza, livello di qualità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere su due piani diversi",
+              "sullo stesso piano"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Considerare di ugual valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mettere sullo stesso piano"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Livello di interpretazione, registro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un testo con più piani di lettura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Punto di vista, ambito di riferimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sul piano teorico è una buona idea, ma su quello pratico non è realizzabile",
+              "sul piano politico",
+              "sul piano tecnico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geologia , suddivisione stratigrafica corrispondente all’età geologica della roccia, specialmente seguito da un aggettivo che indica la località geografica in cui è stato istituito",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "araldica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Araldica , campagna ridotta alla metà della sua altezza delimitata superiormente da una linea retta",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pianeggiante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un terreno in piano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Orizzontalmente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mettere in piano"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha una superficie priva di rilievi, dislivelli o irregolarità; completamente orizzontale e uniforme.",
+      "examples": [
+        "Cercate un terreno piano per montare la tenda.",
+        "La strada è finalmente piana dopo chilometri di curve in salita."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Detto di parola, che porta l'accento tonico sulla penultima sillaba.",
+      "examples": [
+        "La parola 'tavolo' non è piana, ma proparossitona; 'amore' invece è piana.",
+        "In italiano la maggior parte delle parole ha accento piano."
+      ],
+      "nota": "Termine tecnico della metrica e della fonologia italiana, ma di uso diffuso nella didattica scolastica."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Facile da comprendere, espresso in modo chiaro e semplice, senza oscurità o complicazioni.",
+      "examples": [
+        "Il professore spiegò il concetto in un linguaggio piano e accessibile a tutti.",
+        "Il testo è scritto in modo piano, adatto anche ai non specialisti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "avverbio",
+      "definition": "Con voce bassa e tenue, a bassa intensità sonora.",
+      "examples": [
+        "Parla piano, il bambino sta dormendo.",
+        "La musica era suonata così piano che quasi non si sentiva."
+      ],
+      "nota": "Usato anche come indicazione dinamica nella notazione musicale, dove può apparire come abbreviazione 'p'."
+    },
+    {
+      "pos": "avverbio",
+      "definition": "Con lentezza e cautela, senza fretta né bruscherie.",
+      "examples": [
+        "Vai piano con la macchina, la strada è ghiacciata.",
+        "Fai piano quando sposti quei vasi, sono fragili."
+      ],
+      "nota": "In questo senso è spesso usato come esortazione. Si distingue dal senso acustico per il contesto d'uso."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Superficie piatta e orizzontale, reale o geometrica, priva di rilievi.",
+      "examples": [
+        "Il piano del tavolo era rigato da anni di utilizzo.",
+        "In geometria, due rette parallele giacciono sullo stesso piano."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Ciascuno dei livelli orizzontali sovrapposti di un edificio.",
+      "examples": [
+        "L'appartamento si trova al terzo piano.",
+        "L'ascensore si è bloccato tra il primo e il secondo piano."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Progetto dettagliato che stabilisce obiettivi, modalità e tempi di un'azione o attività.",
+      "examples": [
+        "Il governo ha presentato un piano per la riduzione delle emissioni entro il 2030.",
+        "Dobbiamo elaborare un piano d'azione prima di procedere."
+      ],
+      "nota": "Frequente in collocazioni come 'piano di lavoro', 'piano strategico', 'piano regolatore'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Livello di importanza, prospettiva o punto di vista nell'ambito di una rappresentazione visiva, discorsiva o concettuale.",
+      "examples": [
+        "Il regista ha scelto un primo piano per enfatizzare l'emozione dell'attore.",
+        "Questa questione va affrontata su un piano diverso, non meramente economico."
+      ],
+      "nota": "In ambito cinematografico e fotografico si distinguono 'primo piano', 'piano medio', 'piano americano' ecc. In senso figurato indica una prospettiva o dimensione concettuale."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Strumento musicale a tastiera dotato di corde percosse da martelletti, che produce suoni per vibrazione delle corde stesse; pianoforte.",
+      "examples": [
+        "Mia sorella studia piano da quando aveva sei anni.",
+        "Il concerto si apre con una sonata per piano solo."
+      ],
+      "nota": "Forma abbreviata e colloquiale di 'pianoforte', di uso comune nel parlato e nello scritto informale."
+    }
+  ]
+}

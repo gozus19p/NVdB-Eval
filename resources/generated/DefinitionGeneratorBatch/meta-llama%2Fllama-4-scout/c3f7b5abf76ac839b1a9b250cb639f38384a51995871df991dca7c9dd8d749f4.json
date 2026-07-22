@@ -1,0 +1,209 @@
+{
+  "lemma": "cucina",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeaa69ad0a50d0655cc3"
+    },
+    "source": "paraviaXML/29589.xml",
+    "lemma": "cucina",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stanza in cui si preparano e si cuociono i cibi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mangiare in cucina",
+              "un appartamento di due stanze, bagno e cucina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’arte del preparare e far cuocere i cibi: di ricette; il modo particolare e caratteristico di preparare le vivande",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "corso di cucina",
+              "libro di cucina",
+              "la cucina francese",
+              "la cucina regionale italiana"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "I cibi squisiti, i pasti cucinati con cura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "amare la buona cucina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cibo cucinato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "odore di cucina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Apparecchio a fornelli per cucinare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cucina elettrica",
+              "a gas"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Complesso dei mobili che arredano tale stanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comprare la cucina nuova"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "gergale",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giornalismo , lavoro redazionale; redazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "alimentazione",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alimentazione , nei caseifici, locale in cui si prepara il formaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Stanza o locale destinato alla preparazione dei pasti",
+      "examples": [
+        "La cucina di casa mia è piccola.",
+        "In cucina si preparano i pasti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "L'arte e la tecnica di preparare i pasti",
+      "examples": [
+        "La cucina italiana è rinomata nel mondo.",
+        "La cucina molecolare è una tecnica innovativa."
+      ],
+      "nota": null
+    }
+  ]
+}

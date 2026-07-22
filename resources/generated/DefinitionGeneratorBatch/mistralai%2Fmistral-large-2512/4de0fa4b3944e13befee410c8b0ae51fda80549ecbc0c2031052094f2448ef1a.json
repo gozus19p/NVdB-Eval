@@ -1,0 +1,112 @@
+{
+  "lemma": "scopo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4669ad0a50d065dd14"
+    },
+    "source": "paraviaXML/104500.xml",
+    "lemma": "scopo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Obiettivo contigente in vista del quale viene presa un’iniziativa o si compie un’azione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere uno scopo preciso",
+              "per scopi oscuri",
+              "inconfessabili",
+              "mirare",
+              "tendere a uno scopo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "topografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Topografia , nei rilievi topografici, tavoletta a riquadri bianchi e rossi o bianchi e neri che scorre su un’asta graduata, usata come segnale nelle operazioni di osservazione a distanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Bersaglio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Obiettivo o risultato che si intende raggiungere con un'azione o un'attività.",
+      "examples": [
+        "Il principale scopo della riunione è trovare una soluzione al problema.",
+        "Ha studiato tanto con lo scopo di superare l'esame."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Fine ultimo o motivazione profonda che giustifica un comportamento o una scelta.",
+      "examples": [
+        "Il vero scopo della sua vita è aiutare gli altri.",
+        "Non capisco lo scopo di questa decisione."
+      ],
+      "nota": "Spesso usato in contesti filosofici, etici o esistenziali per indicare un fine superiore o una ragione di fondo."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Nel linguaggio militare o sportivo, bersaglio da colpire o area da raggiungere.",
+      "examples": [
+        "Il tiratore ha centrato lo scopo al primo tentativo.",
+        "Il calciatore ha calciato la palla verso lo scopo avversario."
+      ],
+      "nota": "In questo senso, è meno comune di 'bersaglio' o 'meta', ma ancora attestato in contesti specifici."
+    }
+  ]
+}

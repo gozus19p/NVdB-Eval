@@ -1,0 +1,154 @@
+{
+  "lemma": "avvertire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafea69ad0a50d0666146"
+    },
+    "source": "paraviaXML/11153.xml",
+    "lemma": "avvertire",
+    "grammar": [
+      "v.tr.",
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Informare qualcuno di qualcosa specialmente di importante o grave",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvertire di un pericolo",
+              "di una minaccia",
+              "di un rischio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avvisare, specialmente con tono minaccioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ti avverto di non scherzare col fuoco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sentire, percepire qualcosa ; notare, apprezzare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvertire un rumore",
+              "un dolore",
+              "avvertire l’importanza di qcs."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare attenzione, badare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "comunicare qualcosa a qualcuno in modo chiaro e diretto, spesso per metterlo in guardia o informarlo di un pericolo, un obbligo o una situazione rilevante",
+      "examples": [
+        "Mi ha avvertito che il treno sarebbe partito in ritardo.",
+        "Il cartello avvertiva i visitatori del rischio di scivolare."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "percepire qualcosa attraverso i sensi, specialmente in modo improvviso o involontario",
+      "examples": [
+        "Ho avvertito un forte dolore alla schiena dopo la caduta.",
+        "Avvertì un profumo familiare entrare dalla finestra."
+      ],
+      "nota": "In questo senso, il verbo è spesso usato con soggetti animati e si riferisce a sensazioni fisiche o emotive."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "rendersi conto di qualcosa, spesso in modo intuitivo o improvviso",
+      "examples": [
+        "Avvertì subito che qualcosa non andava.",
+        "Non aveva avvertito della presenza di estranei in casa."
+      ],
+      "nota": "In questa accezione, il verbo è spesso seguito da una proposizione subordinata introdotta da 'che' o 'di'."
+    }
+  ]
+}

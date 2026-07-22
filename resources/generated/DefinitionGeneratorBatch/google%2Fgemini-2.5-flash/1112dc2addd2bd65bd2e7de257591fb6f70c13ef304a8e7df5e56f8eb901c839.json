@@ -1,0 +1,155 @@
+{
+  "lemma": "ricetta",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3469ad0a50d065ce3a"
+    },
+    "source": "paraviaXML/94093.xml",
+    "lemma": "ricetta",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prescrizione scritta con cui il medico indica la medicina che il paziente deve prendere e le modalità di assunzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scrivere",
+              "mostrare la ricetta",
+              "farmaco acquistabile solo con la ricetta medica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il foglietto che riporta tale prescrizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ritirare la ricetta dal medico",
+              "consegnare la ricetta al farmacista"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cura, rimedio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "chiedere al medico una ricetta contro la gastrite"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Espediente, rimedio, accorgimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "trovare una ricetta per combattere la tristezza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Spiegazione dettagliata di ingredienti, dosi o procedimenti per preparare un piatto, un dolce, una bevanda",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere la ricetta su un libro di cucina",
+              "farsi dare la ricetta da un’amica"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme di istruzioni dettagliate per la preparazione di un piatto culinario o di una bevanda.",
+      "examples": [
+        "Ho trovato una nuova ricetta per il tiramisù che voglio provare questo weekend.",
+        "Mia nonna mi ha tramandato la sua ricetta segreta per gli gnocchi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Prescrizione medica rilasciata da un medico per l'acquisto di farmaci o l'esecuzione di esami diagnostici.",
+      "examples": [
+        "Per questo antibiotico è necessaria la ricetta del medico.",
+        "Ho dimenticato la ricetta a casa e non posso ritirare le analisi."
+      ],
+      "nota": "Nel linguaggio comune, si usa spesso 'ricetta medica' per specificare, anche se 'ricetta' è sufficiente dato il contesto."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Soluzione o metodo formulato per risolvere un problema o per raggiungere un risultato desiderato; procedura o linea d'azione suggerita.",
+      "examples": [
+        "Non esiste una ricetta universale per essere felici, ognuno deve trovare la propria strada.",
+        "Il nuovo governo ha presentato la sua ricetta per rilanciare l'economia."
+      ],
+      "nota": "Uso figurato, spesso con un'accezione che suggerisce una semplicità eccessiva o una pretesa di infallibilità."
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "lemma": "fenomeno",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec469ad0a50d06572b2"
+    },
+    "source": "paraviaXML/43017.xml",
+    "lemma": "fenomeno",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "TS",
+        "field": "scientifico",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scientifico , fatto, evento naturale o provocato che può essere oggetto di osservazione e di studio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fenomeno naturale",
+              "fisico",
+              "fenomeno tellurico",
+              "meteorologico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "filosofia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , ciò che appare, ciò che si manifesta all’esperienza sensibile e che si contrappone alla realtà oggettiva e intelligibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fatto, caso, evento di notevole entità e rilevanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fenomeno storico",
+              "sociale",
+              "il fenomeno dell’immigrazione"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Funziona da aggettivogeno, con riferimento a persone o cose di grande notorietà che segnano, positivamente o negativamente, un’epoca, una moda, una tendenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il fenomeno Maradona",
+              "il fenomeno mafia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona o cosa eccezionale, che suscita meraviglia e ammirazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "al piano è un fenomeno",
+              "ha una macchina che è un fenomeno"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "scherzoso"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona strana, curiosa, bizzarra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che fenomeno il tuo amico!",
+              "sei proprio un f.!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Fatto o evento osservabile che si manifesta nella realtà naturale o sociale, suscettibile di studio o analisi.",
+      "examples": [
+        "Il riscaldamento globale è un fenomeno che preoccupa gli scienziati di tutto il mondo.",
+        "Gli economisti stanno studiando il fenomeno della disoccupazione giovanile in Europa."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona o cosa che si distingue per qualità eccezionali o caratteristiche fuori dal comune.",
+      "examples": [
+        "Quel calciatore è un vero fenomeno, segna gol incredibili.",
+        "La nuova app è un fenomeno: ha già milioni di utenti in pochi mesi."
+      ],
+      "nota": "Spesso usato in senso elogiativo, ma può assumere una connotazione ironica o negativa a seconda del contesto."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Manifestazione insolita o straordinaria di qualcosa, spesso con implicazioni soprannaturali o misteriose.",
+      "examples": [
+        "In quel paesino si verificano spesso fenomeni paranormali.",
+        "Il mago ha mostrato un fenomeno di levitazione durante lo spettacolo."
+      ],
+      "nota": "Frequentemente associato a contesti di superstizione, esoterismo o illusionismo."
+    }
+  ]
+}

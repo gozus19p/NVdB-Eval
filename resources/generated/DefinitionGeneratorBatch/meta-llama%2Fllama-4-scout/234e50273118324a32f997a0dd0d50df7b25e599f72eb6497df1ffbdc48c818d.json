@@ -1,0 +1,215 @@
+{
+  "lemma": "testimone",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf9869ad0a50d0661f4a"
+    },
+    "source": "paraviaXML/120094.xml",
+    "lemma": "testimone",
+    "grammar": [
+      "s.m. e f.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi assiste a un fatto o ne ha una conoscenza diretta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono stato testimone del loro accordo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , chi è chiamato a deporre in un processo su ciò di cui è a conoscenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi assiste a un atto pubblico e lo sottoscrive insieme alle parti e a un pubblico ufficiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere testimone alla firma di un contratto",
+              "fare da testimone alle nozze"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Indizio, documento, prova",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tracce del passato testimoni di una fiorente civiltà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nelle gare a staffetta, il piccolo bastone che i concorrenti si devono passare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "geologia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica mineraria geologia ; carota",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "filologia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filologia , copia di un’opera il cui originale è andato perduto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2a",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2b–5",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "persona che ha visto o udito qualcosa di importante, specialmente un fatto che può essere oggetto di un processo giudiziario",
+      "examples": [
+        "Il testimone ha dichiarato di aver visto tutto.",
+        "La polizia ha cercato testimoni dell'incidente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "persona che assiste a un'azione o a un evento importante",
+      "examples": [
+        "Il testimone dell'evento ha ricevuto un premio.",
+        "I testimoni del matrimonio erano commossi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "essere presente a un evento o a un'azione e poterla attestare",
+      "examples": [
+        "Ho testimoniato la sua innocenza.",
+        "La sua presenza testimonia la sua importanza."
+      ],
+      "nota": null
+    }
+  ]
+}

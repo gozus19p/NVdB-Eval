@@ -1,0 +1,222 @@
+{
+  "lemma": "esperienza",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebf69ad0a50d0656e75"
+    },
+    "source": "paraviaXML/40590.xml",
+    "lemma": "esperienza",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "filosofia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Conoscenza diretta di qualcosa , per osservazione, per prova o per percezione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "conoscere per esperienza",
+              "avere esperienza di qcs.",
+              "parlare per esperienza",
+              "avere esperienza dei modi di vivere di molti paesi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , modalità di conoscenza della realtà che deriva immediatamente dai sensi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conoscenza pratica della vita e del mondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è un uomo di grande esperienza",
+              "avere esperienza del mondo",
+              "è un ragazzo senza esperienza"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Abilità che deriva dall’esercizio assiduo di un mestiere, una professione eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere esperienza negli affari"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impratichirsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare esperienza",
+              "non ti rimane che fare un po’ di esperienza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lo sperimentare una situazione, un’attività e simile ; vicenda che provoca in chi la vive nuove sensazioni e modificazioni interiori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare un’interessante esperienza di lavoro",
+              "realizzare un’esperienza pilota in ambito didattico",
+              "avere un’esperienza positiva",
+              "traumatica",
+              "formativa",
+              "dolorosa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , avventura amorosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quel ragazzo ha avuto tante esperienze"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "scientifico",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scientifico , riproduzione sperimentale di un fenomeno, esperimento, prova di laboratorio: verifica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre un’esperienza di termodinamica",
+              "le esperienze fatte convalidano la teoria"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Prova, sperimentazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le esperienze artistiche del dopoguerra",
+              "l’esperienza della comune"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Conoscenza acquisita direttamente attraverso il vissuto, la pratica o il contatto con la realtà, contrapposta alla conoscenza teorica.",
+      "examples": [
+        "Ha maturato una grande esperienza nel settore finanziario dopo vent'anni di lavoro.",
+        "L'esperienza gli ha insegnato a non fidarsi delle apparenze."
+      ],
+      "nota": "In questo senso è spesso non numerabile e si usa senza articolo o con articolo indeterminativo in senso generico: 'fare esperienza', 'avere esperienza di qualcosa'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Singolo evento, episodio o situazione vissuta in prima persona, considerata nella sua specificità e nel suo impatto sul soggetto.",
+      "examples": [
+        "Il viaggio in Giappone è stata un'esperienza indimenticabile.",
+        "Ha attraversato esperienze difficili che l'hanno segnata profondamente."
+      ],
+      "nota": "In questo senso è numerabile e si usa frequentemente al plurale o con l'articolo indeterminativo."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Procedimento di osservazione o prova condotto in modo controllato per verificare un'ipotesi o studiare un fenomeno; esperimento.",
+      "examples": [
+        "Il professore ha illustrato agli studenti un'esperienza di laboratorio sulla diffrazione della luce.",
+        "Le esperienze condotte in condizioni di microgravità hanno fornito dati sorprendenti."
+      ],
+      "nota": "Quest'uso è diffuso soprattutto in ambito scientifico e didattico, come sinonimo parziale di 'esperimento'. È più comune nel registro formale e accademico."
+    }
+  ]
+}

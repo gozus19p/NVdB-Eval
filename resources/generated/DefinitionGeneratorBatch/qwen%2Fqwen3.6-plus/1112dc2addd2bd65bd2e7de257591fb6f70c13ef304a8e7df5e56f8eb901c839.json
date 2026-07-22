@@ -1,0 +1,155 @@
+{
+  "lemma": "ricetta",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3469ad0a50d065ce3a"
+    },
+    "source": "paraviaXML/94093.xml",
+    "lemma": "ricetta",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prescrizione scritta con cui il medico indica la medicina che il paziente deve prendere e le modalità di assunzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scrivere",
+              "mostrare la ricetta",
+              "farmaco acquistabile solo con la ricetta medica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il foglietto che riporta tale prescrizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ritirare la ricetta dal medico",
+              "consegnare la ricetta al farmacista"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cura, rimedio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "chiedere al medico una ricetta contro la gastrite"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Espediente, rimedio, accorgimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "trovare una ricetta per combattere la tristezza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Spiegazione dettagliata di ingredienti, dosi o procedimenti per preparare un piatto, un dolce, una bevanda",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere la ricetta su un libro di cucina",
+              "farsi dare la ricetta da un’amica"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "insieme di istruzioni dettagliate per preparare un piatto o una pietanza",
+      "examples": [
+        "Ho trovato una ricetta per la pasta al pomodoro su un sito di cucina.",
+        "La nonna mi ha tramandato la ricetta dei suoi biscotti alla vaniglia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "documento scritto da un medico che autorizza la dispensazione di farmaci",
+      "examples": [
+        "Il dottore mi ha rilasciato una ricetta per gli antibiotici.",
+        "Devo portare la ricetta in farmacia per ritirare i medicinali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "procedimento o metodo considerato risolutivo o infallibile per raggiungere un determinato risultato",
+      "examples": [
+        "Non esiste una ricetta magica per risolvere problemi complessi.",
+        "Il successo professionale richiede dedizione, non ci sono ricette facili."
+      ],
+      "nota": "Usato prevalentemente in contesti figurati o discorsivi per indicare soluzioni presunte universalmente valide."
+    }
+  ]
+}

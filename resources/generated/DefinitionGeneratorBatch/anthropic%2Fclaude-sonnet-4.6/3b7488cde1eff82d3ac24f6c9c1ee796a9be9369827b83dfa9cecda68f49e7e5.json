@@ -1,0 +1,53 @@
+{
+  "lemma": "causare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa869ad0a50d0662bbc"
+    },
+    "source": "paraviaXML/20209.xml",
+    "lemma": "causare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "causare-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far succedere, provocare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "causare un danno",
+              "causare uno scandalo",
+              "la grandinata ha causato danni alle colture"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Essere la causa diretta di un evento, una situazione o un effetto negativo; provocare, determinare qualcosa come conseguenza di un'azione o di uno stato di cose.",
+      "examples": [
+        "L'incidente ha causato gravi danni all'infrastruttura stradale.",
+        "La siccità prolungata ha causato una crisi idrica in tutta la regione.",
+        "Il suo comportamento ha causato non pochi problemi all'intera squadra."
+      ],
+      "nota": "Il verbo ha spesso connotazione negativa: è più frequente con oggetti che indicano danni, problemi, disagi o eventi indesiderati. Per eventi neutri o positivi si preferisce generalmente 'determinare' o 'produrre'."
+    }
+  ]
+}

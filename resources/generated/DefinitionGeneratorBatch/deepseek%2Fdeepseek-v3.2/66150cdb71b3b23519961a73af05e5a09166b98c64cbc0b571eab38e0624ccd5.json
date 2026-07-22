@@ -1,0 +1,141 @@
+{
+  "lemma": "droga",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb769ad0a50d06567a5"
+    },
+    "source": "paraviaXML/36843.xml",
+    "lemma": "droga",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , sostanza vegetale secca ( cannella, vaniglia, pepe, eccetera ) usata per dare aroma alle vivande",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "farmacia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Farmacia , prodotto o sostanza di origine naturale contenente uno o più principi attivi con azione terapeutica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Denominazione generica di sostanze naturali o di sintesi con proprietà stupefacenti, eccitanti o allucinogene",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare uso di droga",
+              "spaccio",
+              "detenzione",
+              "traffico di droga"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Abitudine o vizio di cui non si può fare a meno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le sigarette sono la mia droga",
+              "la televisione è la droga di mio figlio"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Sostanza chimica, naturale o sintetica, che altera le funzioni mentali e fisiche, spesso provocando dipendenza.",
+      "examples": [
+        "Il traffico illecito di quella sostanza è un problema globale.",
+        "Molti paesi hanno leggi severe per contrastare l'abuso di quelle sostanze."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Sostanza stupefacente illegale.",
+      "examples": [
+        "Le forze dell'ordine hanno sequestrato un grosso carico nascosto in un container.",
+        "Il quartiere è degradato a causa dello spaccio diffuso."
+      ],
+      "nota": "Per antonomasia, spesso riferito agli stupefacenti illeciti più comuni (es. eroina, cocaina)."
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Sostanza che determina una forte assuefazione, in senso figurato.",
+      "examples": [
+        "Per lui, il lavoro è diventata una necessità da cui non riesce a staccarsi.",
+        "I social media possono essere una vera dipendenza per i giovani."
+      ],
+      "nota": "Uso figurato che estende il concetto di dipendenza ad attività o comportamenti."
+    }
+  ]
+}

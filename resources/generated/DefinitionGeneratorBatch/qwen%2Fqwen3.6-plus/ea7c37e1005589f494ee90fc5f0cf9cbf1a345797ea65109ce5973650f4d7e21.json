@@ -1,0 +1,153 @@
+{
+  "lemma": "meridionale",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0869ad0a50d064c14a"
+    },
+    "source": "paraviaXML/68794.xml",
+    "lemma": "meridionale",
+    "grammar": [
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "meridionale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che è situato a sud rispetto a un punto di riferimento ( abbr. meridionale )",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "costa meridionale della Francia",
+              "regioni meridionali dell’Inghilterra"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che proviene da sud",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "venti meridionali"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è esposto, che è rivolto verso sud",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "versante meridionale del Monte Bianco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Relativo a regioni o territori posti a sud, specialmente con riferimento all’Italia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dialetti meridionali",
+              "pronuncia meridionale",
+              "mi piace molto la cucina meridionale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante delle regioni del sud, specialmente d’Italia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che si trova o è orientato verso la parte sud di un territorio, di un pianeta o di qualsiasi area geografica considerata.",
+      "examples": [
+        "L'emisfero meridionale ospita una biodiversità marina profondamente diversa da quella delle acque settentrionali.",
+        "Dopo la ristrutturazione, l'ala meridionale del palazzo è stata destinata agli uffici amministrativi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo al Sud dell'Italia, con riferimento alle sue caratteristiche geografiche, storiche, socioeconomiche o culturali.",
+      "examples": [
+        "La questione meridionale è stata al centro di numerosi studi storici e sociologici nel corso del Novecento.",
+        "I tradizionali piatti meridionali si basano spesso sulla pasta di grano duro, sui legumi e sull'olio di oliva."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m./f.)",
+      "definition": "Persona originaria o residente stabilmente nel Sud dell'Italia.",
+      "examples": [
+        "Molti meridionali trasferitisi al Nord negli anni Sessanta hanno contribuito in modo decisivo allo sviluppo industriale lombardo e piemontese.",
+        "Durante il convegno, un relatore ha sottolineato come il meridionale medio tenda a valorizzare maggiormente le reti di parentela."
+      ],
+      "nota": "Forma sostantivata dell'aggettivo, utilizzabile al singolare e al plurale per entrambi i generi variando soltanto l'articolo o altri determinanti."
+    }
+  ]
+}

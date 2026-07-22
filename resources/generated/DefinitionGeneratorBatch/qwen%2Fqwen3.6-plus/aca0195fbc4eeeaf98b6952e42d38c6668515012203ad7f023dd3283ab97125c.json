@@ -1,0 +1,128 @@
+{
+  "lemma": "sedia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4869ad0a50d065de85"
+    },
+    "source": "paraviaXML/105452.xml",
+    "lemma": "sedia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mobile su cui si può sedere una sola persona, costituito da un piano orizzontale che poggia su quattro gambe e da una spalliera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sedia di legno",
+              "di ferro",
+              "di vimini",
+              "sedia pieghevole",
+              "sedia girevole",
+              "mi hai dato una sedia sgangherata",
+              "prendere",
+              "porgere una sedia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Seggio su cui siede un personaggio autorevole, trono: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non altrimenti che nella sedia della sua maestà, vi siede, stando d’intorno le femmine sue"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dimora, domicilio, luogo di residenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "tecnica, tecnologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , sostegno fisso di ghisa dei supporti delle trasmissioni meccaniche, che serve per tenerli a una determinata altezza dal suolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Mobile per una persona, solitamente dotato di schienale e gambe, progettato per sostenere chi si trova in posizione seduta.",
+      "examples": [
+        "Ho scelto una sedia ergonomica perché passo molte ore alla scrivania.",
+        "Quella vecchia sedia di vimini scricchiola ogni volta che ci si siede."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Posizione lavorativa, incarico istituzionale o ruolo direttivo all'interno di un'organizzazione o di un organo collegiale.",
+      "examples": [
+        "Dopo il rimpasto del consiglio, diversi membri temono di perdere la propria sedia.",
+        "La recente nomina gli ha finalmente garantito quella sedia che inseguiva da anni."
+      ],
+      "nota": "Utilizzato soprattutto in ambito aziendale, politico o accademico per indicare, per metonimia, la titolarità di un potere o di una responsabilità."
+    }
+  ]
+}

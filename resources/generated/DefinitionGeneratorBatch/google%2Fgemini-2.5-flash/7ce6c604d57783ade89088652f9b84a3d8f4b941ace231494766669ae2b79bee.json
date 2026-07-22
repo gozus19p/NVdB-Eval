@@ -1,0 +1,140 @@
+{
+  "lemma": "giocatore",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaed269ad0a50d0657e5b"
+    },
+    "source": "paraviaXML/48693.xml",
+    "lemma": "giocatore",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi si dedica a un gioco per divertimento o passatempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giocatore di carte",
+              "di scacchi",
+              "essere un ottimo",
+              "un pessimo giocatore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi pratica un gioco sportivo come professionista o come dilettante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giocatore di calcio",
+              "di basket",
+              "di tennis",
+              "i giocatori sono in campo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi pratica abitualmente il gioco d’azzardo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere un accanito giocatore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi raggira gli altri comportandosi con astuzia e senza scrupoli",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Persona che pratica un gioco, specialmente a livello agonistico o professionale.",
+      "examples": [
+        "Il giocatore di scacchi ha meditato a lungo sulla sua prossima mossa.",
+        "Molti giovani sognano di diventare giocatori di calcio famosi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Individuo che si dedica abitualmente o in modo eccessivo ai giochi d'azzardo.",
+      "examples": [
+        "Quel giocatore ha perso tutti i suoi averi al tavolo verde.",
+        "Il vizio del gioco può rovinare la vita di un giocatore compulsivo."
+      ],
+      "nota": "Spesso usato in senso peggiorativo, implicando una dipendenza o una condotta irresponsabile."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito a qualcosa che è adatto o usato per il gioco.",
+      "examples": [
+        "Il bambino ha ricevuto un trenino giocatore come regalo di compleanno.",
+        "Le carte da gioco erano sparpagliate sul tavolo."
+      ],
+      "nota": "Meno comune come aggettivo rispetto all'uso sostantivo, spesso sostituito da 'da gioco'."
+    }
+  ]
+}

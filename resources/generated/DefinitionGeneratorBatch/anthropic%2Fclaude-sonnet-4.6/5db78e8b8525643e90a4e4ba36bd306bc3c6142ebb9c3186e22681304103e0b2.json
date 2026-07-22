@@ -1,0 +1,208 @@
+{
+  "lemma": "capacità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae8f69ad0a50d065465e"
+    },
+    "source": "paraviaXML/18382.xml",
+    "lemma": "capacità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Attitudine a contenere, capienza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la capacità di un recipiente",
+              "di un’aula"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Possibilità di carico di un mezzo di trasporto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Attitudine, abilità a fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "capacità di organizzare un lavoro",
+              "capacità di sintesi",
+              "un ragazzo di grandi capacità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , nome di determinate grandezze variamente qualificate",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Volume interno di un corpo cavo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica ; capacità di memoria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , complesso di qualità mentali innate o acquisite mediante appositi esercizi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "medicina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina , in medicina legale, complesso di qualità fisiche o psichiche caratteristiche di un individuo che consentono la valutazione e la prevedibilità di azioni o eventi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Volume o quantità massima che un contenitore, uno spazio o un impianto può accogliere o contenere.",
+      "examples": [
+        "La capacità del serbatoio è di cinquanta litri.",
+        "Lo stadio ha una capacità di ottantamila spettatori."
+      ],
+      "nota": "Spesso usato in contesti tecnici e ingegneristici per indicare la portata massima di un sistema."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Abilità, attitudine o competenza di una persona nel compiere una determinata attività o nel raggiungere un obiettivo.",
+      "examples": [
+        "Ha dimostrato una grande capacità di adattarsi ai cambiamenti.",
+        "La sua capacità organizzativa ha reso possibile la riuscita del progetto."
+      ],
+      "nota": "In questo senso può riferirsi sia a facoltà innate sia a competenze acquisite."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Facoltà o potenzialità di un sistema, un'organizzazione o un ente di svolgere una determinata funzione o produrre un certo output.",
+      "examples": [
+        "L'azienda sta aumentando la propria capacità produttiva.",
+        "La rete ha raggiunto il limite della sua capacità di trasmissione dati."
+      ],
+      "nota": "Frequente nei linguaggi economico, industriale e informatico."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Nel diritto, idoneità giuridica di un soggetto a essere titolare di diritti e doveri o a compiere atti giuridicamente validi.",
+      "examples": [
+        "La capacità giuridica si acquista al momento della nascita.",
+        "Il giudice ha accertato la capacità di intendere e di volere dell'imputato."
+      ],
+      "nota": "Si distingue tradizionalmente in 'capacità giuridica' (titolarità di diritti) e 'capacità di agire' (esercizio autonomo dei diritti)."
+    }
+  ]
+}

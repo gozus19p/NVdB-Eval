@@ -1,0 +1,85 @@
+{
+  "lemma": "telefonare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe769ad0a50d0665eb5"
+    },
+    "source": "paraviaXML/118997.xml",
+    "lemma": "telefonare",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") mettersi in contatto, parlare per mezzo del telefono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "telefonare a qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Comunicare telefonicamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi telefonò la notizia"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Comunicare a distanza per mezzo di un apparecchio elettronico che trasmette la voce umana.",
+      "examples": [
+        "Devo telefonare a mia madre per dirle che arriverò in ritardo.",
+        "Ha telefonato dal suo cellulare mentre era in viaggio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Chiamare qualcuno tramite l'uso di un apparecchio telefonico per conversare a distanza.",
+      "examples": [
+        "Ho telefonato il medico per fissare un appuntamento urgente.",
+        "Non riesce a telefonare i suoi clienti a causa di un problema di linea."
+      ],
+      "nota": "L'uso transitivo è meno comune, spesso sostituito dalla preposizione 'a' (telefonare a qualcuno)."
+    }
+  ]
+}

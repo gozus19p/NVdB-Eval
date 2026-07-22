@@ -1,0 +1,122 @@
+{
+  "lemma": "adolescente",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0769ad0a50d064bed9"
+    },
+    "source": "paraviaXML/2155.xml",
+    "lemma": "adolescente",
+    "grammar": [
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi è nell’età dell’adolescenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho un figlio adolescente",
+              "i problemi degli adolescenti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dell’adolescenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "età adolescente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di atteggiamento, sentimento e simile , giovanile, immaturo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo invariabile",
+      "definition": "Che appartiene o è tipico del periodo di sviluppo compreso tra l'infanzia e l'età adulta, caratterizzato da rapide trasformazioni fisiche, emotive e cognitive.",
+      "examples": [
+        "Il film riesce a catturare perfettamente le inquietudini e le speranze proprie di chi si trova in piena fase di crescita.",
+        "Molti genitori faticano a gestire l'irrequietezza e i repentini cambiamenti d'umore tipici di questa età."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo invariabile",
+      "definition": "Detto di persona adulta che manifesta tratti di immaturità, incostanza o ribellione poco consoni alla propria età anagrafica.",
+      "examples": [
+        "Nonostante i quarant'anni compiuti, il suo modo di reagire alle frustrazioni con lamentele continue dimostra una marcata inesperienza emotiva.",
+        "Ha ottenuto un incarico dirigenziale, ma nelle riunioni mostra ancora una leggerezza e un'impulsività del tutto inadeguate al ruolo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Giovane persona, solitamente di età compresa tra i dieci e i diciannove anni, che si trova nella fase di transizione tra l'infanzia e la piena maturità.",
+      "examples": [
+        "Negli ultimi anni le scuole hanno organizzato sportelli di ascolto rivolti agli adolescenti per prevenire il disagio scolastico.",
+        "L'evento ha radunato migliaia di ragazzi provenienti da diverse città, tutti accomunati dalla passione per la musica indipendente."
+      ],
+      "nota": "In ambito sociologico e psicologico il termine definisce una specifica fascia demografica e di sviluppo, istituzionalmente riconosciuta e distinta sia dall'infanzia sia dalla vita adulta."
+    }
+  ]
+}

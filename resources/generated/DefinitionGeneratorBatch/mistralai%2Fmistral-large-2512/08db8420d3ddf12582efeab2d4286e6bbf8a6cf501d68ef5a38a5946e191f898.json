@@ -1,0 +1,219 @@
+{
+  "lemma": "favore",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec369ad0a50d0657231"
+    },
+    "source": "paraviaXML/42724.xml",
+    "lemma": "favore",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Atto compiuto disinteressatamente, per gentilezza o benevolenza verso qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "chiedere un favore",
+              "aver bisogno di un favore"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fammi il favore di andartene",
+              "ma mi faccia il f.!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Disposizione d’animo benevola verso qualcuno o qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guadagnarsi",
+              "perdere il favore dei superiori",
+              "ottenere il favore del pubblico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Aiuto, protezione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire col favore del vento",
+              "scappare col favore delle tenebre"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , disponibilità ai rapporti amorosi: divenire amante di qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "concedere i propri favori"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Favorevole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un voto",
+              "un giudizio a favore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , di testimone che depone per l’imputato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "teste a favore"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Atto di aiuto o sostegno rivolto a qualcuno, spesso disinteressato o motivato da benevolenza.",
+      "examples": [
+        "Mi ha fatto un grande favore prestandomi la macchina per il weekend.",
+        "Chiedere un favore a un amico è normale, ma non bisogna abusarne."
+      ],
+      "nota": "Può implicare una relazione di reciprocità, anche se non sempre esplicita. Spesso usato in contesti informali o amicali."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Condizione di preferenza o vantaggio accordato a qualcuno, spesso in modo ingiustificato o parziale.",
+      "examples": [
+        "Il direttore ha ottenuto quel posto per puro favore, non per merito.",
+        "Non è giusto che alcuni studenti ricevano favori dagli insegnanti."
+      ],
+      "nota": "In questo senso, assume spesso una connotazione negativa, implicando ingiustizia o nepotismo."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Espressione usata per chiedere gentilmente qualcosa a qualcuno, spesso in formule di cortesia.",
+      "examples": [
+        "Per favore, potresti passarmi il sale?",
+        "Mi scusi, per favore, sa dirmi che ore sono?"
+      ],
+      "nota": "In questa accezione, è quasi sempre accompagnato dalla preposizione 'per' e usato in frasi interrogative o imperative."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Circostanza o situazione che risulta vantaggiosa o propizia per qualcuno.",
+      "examples": [
+        "Il vento a favore ha permesso alla barca di arrivare prima del previsto.",
+        "Avere un amico in quella ditta è stato un vero favore per la mia carriera."
+      ],
+      "nota": "Spesso usato in espressioni come 'a favore di' o 'in favore di' per indicare un vantaggio o un sostegno."
+    }
+  ]
+}

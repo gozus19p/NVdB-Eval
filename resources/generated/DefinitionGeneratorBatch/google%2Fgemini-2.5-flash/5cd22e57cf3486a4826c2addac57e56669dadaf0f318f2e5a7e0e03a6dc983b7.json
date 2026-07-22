@@ -1,0 +1,133 @@
+{
+  "lemma": "ricerca",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3469ad0a50d065ce2f"
+    },
+    "source": "paraviaXML/94070.xml",
+    "lemma": "ricerca",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il ricercare e il suo risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la ricerca di un documento perso",
+              "di un lavoro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Attività intellettuale che mira a informarsi su un argomento o a estendere e ad approfondire la conoscenza in modo sistematico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ricerca filologica",
+              "storica",
+              "linguistica",
+              "laboratorio di ricerca"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il risultato di tale indagine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicare",
+              "presentare una ricerca sul nucleare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’insieme delle indagini scientifiche prodotte in un dato periodo, disciplina o paese",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività sistematica e metodica volta a scoprire, esaminare, interpretare e revisionare fatti, teorie o applicazioni pratiche di un campo del sapere, al fine di accrescere la conoscenza o risolvere problemi specifici.",
+      "examples": [
+        "La sua ricerca si concentra sull'intelligenza artificiale e le sue applicazioni.",
+        "Le università sono i luoghi principali dove si svolge la ricerca scientifica.",
+        "È stato pubblicato un articolo sui risultati della ricerca sulla cura per il cancro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Atto, operazione o processo di cercare con attenzione qualcosa o qualcuno che si è perduto, che non si conosce o che è nascosto.",
+      "examples": [
+        "Ha avviato la ricerca del portafoglio smarrito all'interno della casa.",
+        "Le squadre di soccorso hanno interrotto la ricerca dei dispersi a causa del maltempo.",
+        "La polizia ha esteso la ricerca del latitante ad altre regioni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme di attività o indagini finalizzate al reperimento, alla selezione o alla valutazione di beni, servizi o persone.",
+      "examples": [
+        "L'azienda ha avviato una ricerca di personale altamente qualificato.",
+        "Il mercato immobiliare è in continua ricerca di nuove soluzioni abitative.",
+        "Abbiamo fatto una ricerca di mercato per capire le preferenze dei consumatori."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "lemma": "opinione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0c69ad0a50d065ae52"
+    },
+    "source": "paraviaXML/76480.xml",
+    "lemma": "opinione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che si pensa di qualcuno o di qualcosa , idea, convincimento soggettivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "opinione arbitraria",
+              "fondata",
+              "infondata",
+              "cambiare opinione",
+              "farsi",
+              "formarsi un’opinione",
+              "rimanere della propria opinione",
+              "avere il coraggio delle proprie opinioni | essere dell’opinione"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ritenere",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 7,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quella della maggior parte della gente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "opinione corrente",
+              "prevalente"
+            ]
+          },
+          {
+            "number": 8,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "O. che ha preso vigore, radicata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "opinione invalsa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Considerazione o stima sia pubblica sia privata: reputarsi di grande valore, stimarsi oltremodo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere una buona",
+              "una cattiva opinione di qcn.",
+              "avere alta opinione di sé"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Giudizio o valutazione personale su qualcosa o qualcuno, spesso non basato su certezze assolute ma su conoscenze, credenze o sentimenti.",
+      "examples": [
+        "Ho un'ottima opinione del suo lavoro, trovo sia molto competente.",
+        "Le opinioni politiche sono spesso divergenti, è difficile trovare un accordo comune.",
+        "Molti giornalisti hanno espresso la loro opinione sulla riforma economica in discussione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Il consenso generale o il pensiero prevalente della collettività su un determinato argomento.",
+      "examples": [
+        "L'opinione pubblica è molto divisa sulla questione dell'immigrazione clandestina.",
+        "Il sondaggio ha rivelato un cambiamento significativo nell'opinione della gente riguardo al candidato.",
+        "Il governo cerca di influenzare l'opinione comune attraverso i mezzi di comunicazione."
+      ],
+      "nota": "Spesso in correlazione con 'pubblica'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Idea o convincimento fermamente tenuto, anche se non dimostrabile scientificamente.",
+      "examples": [
+        "Secondo la mia opinione, dovremmo agire subito, senza aspettare oltre.",
+        "È solo la sua opinione, non un fatto accertato giudicato universale.",
+        "Non è giusto imporre la propria opinione agli altri senza motivo."
+      ],
+      "nota": null
+    }
+  ]
+}

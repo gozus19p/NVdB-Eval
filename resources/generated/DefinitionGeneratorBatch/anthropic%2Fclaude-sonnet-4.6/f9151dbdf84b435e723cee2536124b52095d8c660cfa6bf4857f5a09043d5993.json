@@ -1,0 +1,177 @@
+{
+  "lemma": "mattino",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef869ad0a50d0659d76"
+    },
+    "source": "paraviaXML/67815.xml",
+    "lemma": "mattino",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parte del giorno compresa tra il sorgere del sole e mezzogiorno; mattina",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un mattino sereno",
+              "nuvoloso",
+              "le sei",
+              "le dieci del mattino"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nelle ore della mattina",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "al mattino",
+              "il mattino",
+              "il mattino presto",
+              "il mattino tardi"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "La mattina del giorno successivo; per iniziare a raccontare qualcosa riferendosi a un giorno imprecisato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mattino dopo",
+              "il mattino seguente",
+              "un mattino",
+              "un bel mattino",
+              "un brutto mattino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oriente, levante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "e volta nostra poppa nel m., | dei remi facemmo ali al folle volo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Inizio, esordio; l’infanzia, la giovinezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mattino della vita"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "liturgia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Liturgia ; mattutino",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Prima parte della giornata, che va dall'alba a mezzogiorno, caratterizzata dall'inizio delle attività quotidiane.",
+      "examples": [
+        "Mi sveglio ogni mattino alle sei per andare in ufficio.",
+        "Il mercato si tiene solo al mattino, dalle otto alle tredici."
+      ],
+      "nota": "Sostanzialmente sinonimo di 'mattina', con cui è intercambiabile nella maggior parte dei contesti; 'mattino' è leggermente più formale e ricorre spesso in espressioni fisse come 'di buon mattino', 'sul far del mattino'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In senso figurato, fase iniziale e promettente di un'esperienza, di un'epoca o della vita di una persona.",
+      "examples": [
+        "Siamo ancora al mattino di questa rivoluzione tecnologica.",
+        "Quei anni erano il mattino della sua carriera artistica."
+      ],
+      "nota": "Uso metaforico che richiama l'idea di inizio, freschezza e potenzialità, in contrasto con termini come 'tramonto' o 'sera', usati per indicare la fase finale o il declino."
+    }
+  ]
+}

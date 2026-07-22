@@ -1,0 +1,180 @@
+{
+  "lemma": "documento",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb569ad0a50d0656646"
+    },
+    "source": "paraviaXML/36139.xml",
+    "lemma": "documento",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Scritto che convalida o certifica la realtà di un fatto, di una condizione, specialmente in ambito giudiziario o burocratico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "presentare i documenti per il concorso",
+              "documento in carta semplice",
+              "documento in carta da bollo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al : invito, spesso perentorio, a esibire i propri documenti d’identità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "documenti!"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Certificato, attestato rilasciato da un’autorità: abbr. doc.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "documento notarile",
+              "documento autentico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Scritto, opera d’arte, reperto archeologico, monumento e simile di interesse storico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questi palazzi sono un documento della civiltà rinascimentale"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avvenimento che dimostra e comprova qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la dittatura come massimo documento di disumanità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Oggetto che può essere utilizzato a scopo di studio, ricerca e simile nelle scienze umane",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "documenti grafici",
+              "iconografici",
+              "visivi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ammaestramento, insegnamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Oggetto scritto o stampato, anche in forma elettronica, che registra e attesta informazioni, dati o fatti specifici.",
+      "examples": [
+        "Per iscriversi è necessario presentare un documento di identità.",
+        "Ho raccolto tutti i documenti relativi al caso in una cartella."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "File digitale strutturato contenente testo, immagini o altri dati, utilizzato in ambienti informatici.",
+      "examples": [
+        "Salva il documento prima di chiudere il programma di videoscrittura.",
+        "Il documento PDF è protetto da una password."
+      ],
+      "nota": null
+    }
+  ]
+}

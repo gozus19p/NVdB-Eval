@@ -1,0 +1,160 @@
+{
+  "lemma": "tassa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6269ad0a50d065f44d"
+    },
+    "source": "paraviaXML/118543.xml",
+    "lemma": "tassa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Compenso obbligatorio corrisposto allo stato o ad altro ente pubblico come controprestazione di un servizio specifico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tasse universitarie",
+              "scolastiche",
+              "automobilistiche"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Imposta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "metà del mio stipendio finisce in tasse",
+              "ci vorrebbero meno tasse!",
+              "pagare le tasse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Quota corrisposta a un’associazione, a un ente privato e simile per ricevere un servizio o per poter partecipare ad attività comuni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Multa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , retribuzione spettante a un pubblico ufficiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , quota o elemosina stabilita dal papa in occasione dei giubilei grazie alla quale si ottenevano le indulgenze senza andare a Roma",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Prelevamento monetario obbligatorio imposto da un'autorità pubblica, generalmente in cambio di un servizio o per finanziare spese collettive.",
+      "examples": [
+        "Ogni anno devo pagare la tassa di circolazione per la mia automobile.",
+        "L'introduzione di una nuova tassa sui rifiuti ha sollevato molte proteste."
+      ],
+      "nota": null
+    }
+  ]
+}

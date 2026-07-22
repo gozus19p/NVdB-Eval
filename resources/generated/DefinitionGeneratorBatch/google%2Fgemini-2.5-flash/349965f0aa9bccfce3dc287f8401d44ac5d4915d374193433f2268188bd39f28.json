@@ -1,0 +1,804 @@
+{
+  "lemma": "forma",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeca69ad0a50d0657736"
+    },
+    "source": "paraviaXML/45205.xml",
+    "lemma": "forma",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Aspetto esteriore di qualcosa determinato specialmente dal contorno che ne delimita la superficie o il volume",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "forma triangolare",
+              "ellissoidale",
+              "cubica",
+              "la forma di una foglia",
+              "di una nuvola",
+              "di una bottiglia",
+              "la forma degli occhi",
+              "della bocca"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , con riferimento al corpo umano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "forme snelle",
+              "agili",
+              "goffe"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , le parti prominenti e tondeggianti del corpo femminile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "forme voluttuose",
+              "giunoniche",
+              "un abito che mette in risalto le forme"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Figura vaga e indistinta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sogni popolati da strane forme"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Apparenza, sembianza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la dea assunse la forma di un cigno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipo di struttura, modo di articolarsi di una data realtà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "forma di governo repubblicana",
+              "forma di investimento",
+              "di pagamento"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Modo di manifestarsi o di esprimersi di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una forma approfondita di conoscenza",
+              "una forma di comportamento anomala",
+              "una forma di amore",
+              "di odio",
+              "forma benigna",
+              "forma maligna di un tumore"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Genere, tipo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una nuova forma d’arte",
+              "di divertimento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Modo in cui si compie o si svolge un’azione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "discutere in forma educata",
+              "trattative in forma strettamente privata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stile espressivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare",
+              "scrivere in forma elegante",
+              "corretta",
+              "sgrammaticata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Schema, struttura di un componimento letterario o musicale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "romanzo in forma epistolare"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Genere artistico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "analisi delle forme poetiche e musicali dell’800"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’insieme delle norme che regolano le relazioni sociali, convenienze: rispettare le convenienze",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non badare alla forma",
+              "salvare la forma"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rispetto delle convenienze, garbo, educazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mancare di forma"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vacua esteriorità, apparenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "badare alla forma ma non alla sostanza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Condizione psicofisica di una persona, specialmente di un atleta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "raggiungere una perfetta forma fisica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "filosofia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , in Platone, essenza, causa, caratteristica intellegibile e concettuale delle cose materiali, idea",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In Aristotele, principio sostanziale di ogni essere; essenza dell’essere individuale a esso immanente, inscindibile e complementare rispetto alla sua materia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In Kant, la funzione a priori del pensiero che ordina i dati immediati e particolari della conoscenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nell’estetica, l’idea artistica che si realizza nell’opera; l’ordine, l’organizzazione degli elementi che costituiscono il contenuto dell’opera stessa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nella fenomenologia di Husserl, l’essenza, l’idea, la struttura costante e universale dell’esperienza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel pensiero di ispirazione strutturalista, la struttura intesa come modello esplicativo dei comportamenti e degli eventi concreti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "grammatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Grammatica , aspetto morfologico di un termine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la forma del maschile",
+              "del femminile",
+              "del singolare",
+              "del plurale",
+              "di un nome",
+              "di un aggettivo",
+              "forma attiva",
+              "passiva",
+              "riflessiva di un verbo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "TS",
+        "field": "grammatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Grammatica , variante lessicale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "beltade è forma arcaica e letteraria di bellezza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , modo in cui devono essere redatti alcuni atti o negozi affinché possano assumere rilevanza giuridica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "redigere un contratto nella forma prescritta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia ; stadio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Individuo, specie animale o vegetale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "forme unicellulari",
+              "forme tipiche della savana tropicale"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che differisce dalla maggior parte degli individui della stessa specie per la colorazione scura uniforme",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "forma melanica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "usage": "TS",
+        "field": "tecnica cartaria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "In senso concreto, calco, stampo, modello per imprimere o conferire una data foggia a materiali, sostanze, tessuti e simile ; recipiente metallico usato per la preparazione di dolci, sformati e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una forma per scarpe",
+              "mettere il budino nella forma",
+              "cuocere la torta nella forma"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alimentazione , stampo rotondo e bucherellato in cui si mette il latte cagliato per farne formaggio, fascera; il pezzo di formaggio estratto da tale forma",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una forma di parmigiano",
+              "di groviera |"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica calzaturiera , attrezzo di legno a forma di piede usato dai calzolai per modellare, allargare o riparare le scarpe",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Artigianato , nella fabbricazione dei cappelli, attrezzo di legno in due pezzi smontabili corrispondenti alla cupola e alla falda, usato per modellare i tessuti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Edilizia , nelle fornaci, calco per la produzione di laterizi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sartoria , specie di manichino usato dal sarto per imbastire gli abiti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 7,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Metallurgia , in fonderia, stampo per la colata del metallo fuso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 8,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipografia , la superficie contenente gli elementi stampanti da trasferire sul supporto di stampa mediante inchiostrazione; lo strumento che serve a produrre i caratteri",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 9,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scultura , calco di gesso o di altro materiale duttile usato per riproduzione di statue in metallo: quelle che vanno distrutte per liberare il calco, quelle che possono essere smontate e ricomposte e che possono servire per diversi calchi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "forme perse",
+              "forme buone",
+              "forme a tasselli"
+            ]
+          },
+          {
+            "number": 10,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica ceramica , stampo di gesso o di metallo usato per modellare i vari manufatti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 11,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Edilizia , armatura di legno che viene riempita di malta o cemento per la costruzione di un muro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 12,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica cartaria ; modulo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipo di pane caratterizzato da una pezzatura a base larga e tondeggiante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una forma di pane integrale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "usage": "TS",
+        "field": "termine ecclesiastico",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine ecclesiastico , la formula pronunciata nell’amministrare un sacramento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "L'aspetto esteriore, la configurazione o la struttura fisica di un oggetto o di un essere vivente.",
+      "examples": [
+        "La forma di una mela non è mai perfettamente sferica.",
+        "Il vaso aveva una forma insolita, quasi futuristica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Condizione fisica o stato di salute generale di una persona o di un animale, spesso con riferimento all'efficienza o al benessere.",
+      "examples": [
+        "Dopo le vacanze, sono in ottima forma per riprendere gli allenamenti.",
+        "Il cavallo è tornato in piena forma dopo l'infortunio."
+      ],
+      "nota": "Si usa spesso con aggettivi come 'buona', 'cattiva', 'ottima', 'piena'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Modalità o maniera specifica in cui qualcosa si presenta, si manifesta o viene attuata, spesso in contrasto con la sostanza o il contenuto.",
+      "examples": [
+        "Ha espresso la sua opinione in forma molto diplomatica.",
+        "La comunicazione è importante, al di là della forma che assume."
+      ],
+      "nota": "Può riferirsi a modalità espressive, processuali o comportamentali."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Modello o stampo utilizzato per dare una specifica configurazione a un materiale malleabile o per produrre oggetti in serie.",
+      "examples": [
+        "Ho comprato una nuova forma per i dolci in silicone.",
+        "Il fabbro ha utilizzato una forma di ferro per forgiare la spada."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Tipologia o categoria di qualcosa, spesso distinguendo tra varietà o manifestazioni diverse dello stesso concetto.",
+      "examples": [
+        "Il jazz è una forma musicale complessa e affascinante.",
+        "Esistono diverse forme di energia rinnovabile."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Aspetto esteriore regolamentato o convenzionale di comportamenti, procedure o documenti, spesso legato a riti o formalità.",
+      "examples": [
+        "La forma è stata rispettata, anche se la sostanza è mancata.",
+        "La presentazione della domanda deve avvenire in forma scritta."
+      ],
+      "nota": "Spesso in contrapposizione al contenuto o alla sostanza."
+    }
+  ]
+}

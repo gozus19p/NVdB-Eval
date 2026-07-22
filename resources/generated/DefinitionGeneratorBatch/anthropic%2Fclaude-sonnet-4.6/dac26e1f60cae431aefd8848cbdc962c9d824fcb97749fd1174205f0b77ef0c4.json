@@ -1,0 +1,137 @@
+{
+  "lemma": "artistico",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a632"
+    },
+    "source": "paraviaXML/8870.xml",
+    "lemma": "artistico",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che riguarda l’arte o gli artisti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "corrente",
+              "scuola artistica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fatto con abilità e buongusto: esteticamente valido",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavorazione artistica",
+              "composizione artistica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Liceo artistico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frequentare l’artistico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo alla produzione, alla pratica o all'espressione delle arti visive, musicali, letterarie o performative.",
+      "examples": [
+        "Il museo ospita una ricca collezione artistica del Novecento.",
+        "Ha frequentato un liceo artistico per sviluppare le sue capacità creative."
+      ],
+      "nota": "È l'aggettivo di relazione corrispondente al sostantivo 'arte'; si usa in contesti istituzionali, accademici e quotidiani per qualificare ciò che appartiene all'ambito delle arti."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che denota elevata qualità estetica, abilità tecnica raffinata o cura formale nell'esecuzione di qualcosa.",
+      "examples": [
+        "La decorazione della torta nuziale era davvero artistica: sembrava un'opera d'arte.",
+        "Il modo in cui ha arrangiato i fiori era artistico e sofisticato."
+      ],
+      "nota": "In questo uso valutativo, il termine si estende oltre le arti propriamente dette per indicare qualsiasi realizzazione che manifesti un gusto estetico elevato o una maestria degna di nota."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Detto di pattinaggio, ginnastica o discipline sportive analoghe: che prevede l'esecuzione di figure, movimenti coreografati e componenti estetiche valutate da una giuria.",
+      "examples": [
+        "La coppia ha conquistato l'oro nel pattinaggio artistico alle ultime olimpiadi.",
+        "La ginnastica artistica richiede anni di allenamento intensivo fin dalla prima infanzia."
+      ],
+      "nota": "Uso specializzato nel lessico sportivo; si contrappone a discipline che privilegiano esclusivamente la velocità o la forza."
+    }
+  ]
+}

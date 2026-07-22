@@ -1,0 +1,230 @@
+{
+  "lemma": "stabilire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe369ad0a50d0665c14"
+    },
+    "source": "paraviaXML/114073.xml",
+    "lemma": "stabilire",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Determinare in modo stabile, collocare durevolmente, fissare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stabilire la propria residenza in città"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Istituire, costituire, organizzare in modo stabile e durevole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stabilire l’ordine in un paese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Decretare, deliberare specialmente in forza della propria autorità e facoltà decisionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stabilire l’aumento del prezzo del pane",
+              "la data delle elezioni",
+              "una norma da seguire"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Distribuire, assegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stabilire i turni di guardia",
+              "l’ordine dei posti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Decidere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stabilire di partire",
+              "di incontrarsi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente nel linguaggio sportivo, realizzare, ottenere un primato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stabilire un record"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "marina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rendere stabile, fissare qualcosa in modo che stia fermo, saldo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Marina , spiegarle e fissarle orientandole nel modo migliore per la rotta che l’imbarcazione deve seguire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stabilire le vele"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "fissare in modo definitivo o ufficiale qualcosa, spesso dopo una decisione o un accordo",
+      "examples": [
+        "Il governo ha stabilito nuove regole per la sicurezza stradale.",
+        "Abbiamo stabilito di incontrarci alle otto davanti al cinema."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "determinare con precisione un fatto, un dato o una verità",
+      "examples": [
+        "Gli investigatori hanno stabilito che l'incendio è stato doloso.",
+        "Il medico ha stabilito la causa della malattia dopo vari esami."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "istituire o fondare un'organizzazione, un'attività o una relazione duratura",
+      "examples": [
+        "La società è stata stabilita nel 1995 da due giovani imprenditori.",
+        "Hanno stabilito una collaborazione con un'università straniera."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "trovare una dimora fissa o un luogo in cui risiedere permanentemente",
+      "examples": [
+        "Dopo anni di viaggi, ha deciso di stabilirsi in campagna.",
+        "Si sono stabiliti a Roma per motivi di lavoro."
+      ],
+      "nota": "Spesso usato con la preposizione 'a' per indicare il luogo."
+    },
+    {
+      "pos": "verbo riflessivo (stabilirsi)",
+      "definition": "assumere una posizione o un atteggiamento definitivo",
+      "examples": [
+        "Il prezzo si è stabilito intorno ai cento euro dopo lunghe trattative.",
+        "La situazione politica si è stabilizzata dopo le elezioni."
+      ],
+      "nota": "Usato per indicare un ritorno a una condizione di equilibrio o normalità."
+    }
+  ]
+}

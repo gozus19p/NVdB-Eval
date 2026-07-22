@@ -1,0 +1,540 @@
+{
+  "lemma": "condurre",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafaa69ad0a50d0662d7e"
+    },
+    "source": "paraviaXML/25711.xml",
+    "lemma": "condurre",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accompagnare, portare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre i bambini a scuola",
+              "a spasso",
+              "condurre gli animali al pascolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ridurre qualcuno in un certo stato o condizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre alla disperazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Guidare un veicolo, pilotare un’imbarcazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre un’automobile",
+              "un motoscafo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Guidare un’iniziativa, un’attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre affari",
+              "trattative",
+              "negoziati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo",
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dirigere, amministrare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre un’azienda"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Gestire come presentatore: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre una trasmissione televisiva",
+              "condurre in studio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esercitare un’autorità, comandare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre un esercito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trascorrere, passare: seguire un certo tenore di vita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre una vita",
+              "un’esistenza felice",
+              "condurre una vita da signori"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "verbo transitivo",
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, essere in vantaggio sull’avversario: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’Inter conduce la classifica",
+              "il Cagliari conduce per uno a zero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , trasmettere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre calore",
+              "elettricità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "tecnica, tecnologia",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , far passare, trasportare da un luogo a un altro attraverso apposite condutture o canali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre le acque",
+              "il gas"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , tracciare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre una perpendicolare da un punto P a una retta A B"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indurre, persuadere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i’ fui colui che la Ghisolabella | condussi a far la voglia del marchese"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prendere in affitto, in locazione; noleggiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arruolare, assoldare milizie",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Assumere, stipendiare specialmente medici, avvocati e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Eseguire con arte un’opera, letteraria o musicale, che esige destrezza e precisione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di opere di fortificazione e simile , edificare, costruire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condurre un muro",
+              "condurre una fossa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far capo, portare a un determinato luogo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questa strada condurre a Siena"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Accompagnare o guidare una persona o un animale da un punto a un altro, assicurandone il movimento o la presenza in un luogo specifico.",
+      "examples": [
+        "La guida alpina ha condotto il gruppo al rifugio prima del tramonto.",
+        "Il custode ha condotto i visitatori nella sala delle esposizioni permanenti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Organizzare, coordinare e portare avanti un progetto, un'indagine, un'iniziativa o la propria vita quotidiana.",
+      "examples": [
+        "Il ricercatore sta conducendo uno studio clinico su un nuovo principio attivo.",
+        "Nonostante le difficoltà iniziali, siamo riusciti a condurre il progetto nei tempi previsti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Presentare e gestire la messa in onda di un programma televisivo o radiofonico; dirigere l'esecuzione musicale di un coro o un ensemble.",
+      "examples": [
+        "Da dieci anni conduce il talk show mattutino con grande professionalità.",
+        "Il direttore ha condotto l'orchestra filarmonica in una versione moderna del capolavoro ottocentesco."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Provocare, determinare o fare giungere a un risultato, a una conseguenza logica o a un esito specifico.",
+      "examples": [
+        "L'analisi dei dati ha condotto il team a rivedere completamente le ipotesi di partenza.",
+        "Questa strategia commerciale ha condotto l'impresa a un netto recupero di quote di mercato."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Comportarsi o agire in un determinato modo, mostrando una certa attitudine o linea di contegno.",
+      "examples": [
+        "Durante il colloquio di selezione si è condotto con estrema sicurezza e lucidità.",
+        "Gli atleti si sono condotti in modo esemplare rispettando le regole della gara."
+      ],
+      "nota": null
+    }
+  ]
+}

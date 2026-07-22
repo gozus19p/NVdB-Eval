@@ -1,0 +1,170 @@
+{
+  "lemma": "spiaggia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5669ad0a50d065ea5b"
+    },
+    "source": "paraviaXML/112845.xml",
+    "lemma": "spiaggia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Striscia pianeggiante, sabbiosa o ghiaiosa, che costeggia il mare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "spiaggia oceanica",
+              "le spiagge dell’Adriatico"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tratto di litorale frequentato dai bagnanti, talvolta attrezzato con impianti balneari",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "andare in spiaggia",
+              "prendere il sole sulla spiaggia",
+              "le cabine della spiaggia"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipica di chi è in vacanza in un centro balneare; poco impegnativa, leggera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vita di spiaggia",
+              "lettura da spiaggia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "geofisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geofisica , costa bassa che presenta fenomeni di sedimentazione dei materiali fini, provenienti da alluvioni o formatisi per erosione di rocce vicine",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Zona, territorio pianeggiante",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sponda di un lago, di un corso d’acqua",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , lista di metallo con cui si fissano al pavimento le due estremità di una guida che attraversa sale, corridoi e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Striscia di terreno pianeggiante lungo la riva del mare, di un lago o di un fiume, formata da sabbia, ghiaia o ciottoli, in cui le acque si ritirano lasciando la superficie scoperta.",
+      "examples": [
+        "D'estate la spiaggia si riempie di ombrelloni e bagnanti.",
+        "Abbiamo passeggiato sulla spiaggia al tramonto raccogliendo conchiglie.",
+        "La tempesta ha eroso buona parte della spiaggia."
+      ],
+      "nota": "Il termine si riferisce per antonomasia alla riva del mare; esteso per analogia a laghi e fiumi. Da non confondere con 'lido', che indica sia la spiaggia sia la struttura balneare attrezzata."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Stabilimento balneare o area attrezzata con lettini, ombrelloni e servizi, tipicamente a pagamento, situata lungo il mare.",
+      "examples": [
+        "Abbiamo preso la spiaggia per tutta l'estate: costa meno che pagare ogni giorno.",
+        "Preferisco la spiaggia libera a quella attrezzata."
+      ],
+      "nota": "Uso metonimico diffuso nel parlato italiano, specialmente nelle regioni costiere, per indicare l'abbonamento o la concessione a uno stabilimento balneare."
+    }
+  ]
+}

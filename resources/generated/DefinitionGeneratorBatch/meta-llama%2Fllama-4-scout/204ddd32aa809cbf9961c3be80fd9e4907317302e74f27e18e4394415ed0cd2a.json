@@ -1,0 +1,97 @@
+{
+  "lemma": "emozione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebb69ad0a50d0656afc"
+    },
+    "source": "paraviaXML/38698.xml",
+    "lemma": "emozione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impressione, sensazione forte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "provocare",
+              "suscitare una forte emozione",
+              "un’emozione violenta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Turbamento, agitazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un viaggio ricco di emozioni",
+              "che emozione rivederti!",
+              "essere in preda all’emozione",
+              "non riuscire a parlare per l’emozione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , intensa esperienza psichica, piacevole o spiacevole, accompagnata da reazioni fisiche e comportamentali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "sentimento intenso e passionale che suscita una reazione affettiva",
+      "examples": [
+        "La notizia della sua promozione ha suscitato in lei un'emozione indescrivibile.",
+        "Il film ha evocato in me un'onda di emozioni contrastanti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "manifestazione esteriore di un sentimento, come un'espressione facciale o un atteggiamento",
+      "examples": [
+        "Il suo viso ha espresso un'emozione di sorpresa quando ha aperto il regalo.",
+        "La sua emozione era palpabile quando ha parlato in pubblico per la prima volta."
+      ],
+      "nota": null
+    }
+  ]
+}

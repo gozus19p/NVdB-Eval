@@ -1,0 +1,105 @@
+{
+  "lemma": "bambina",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7e69ad0a50d06537e9"
+    },
+    "source": "paraviaXML/11992.xml",
+    "lemma": "bambina",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere umano femmina tra la nascita e l’inizio della fanciullezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è una bambina molto tranquilla"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Figlia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "come sta la tua b.?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come appellativo affettuoso o ironico riferito a una ragazza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bambina stasera si va a ballare!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Persona di sesso femminile nella prima fase della vita, dall'infanzia alla preadolescenza.",
+      "examples": [
+        "La bambina stava giocando nel cortile con le amiche.",
+        "Da bambina sognava di diventare veterinaria."
+      ],
+      "nota": "Forma femminile di 'bambino'. Il limite d'età è convenzionale e varia per contesto, ma generalmente copre il periodo fino agli 11-12 anni circa."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Figlia di qualsiasi età, con valore affettivo, usata da un genitore o figura adulta di riferimento per indicare la propria figlia.",
+      "examples": [
+        "È la mia bambina, anche se ormai ha trent'anni.",
+        "Lui guarda sempre la sua bambina con un'infinita tenerezza."
+      ],
+      "nota": "Uso affettivo-familiare in cui il riferimento anagrafico all'infanzia è neutralizzato; esprime il legame emotivo più che l'età della persona."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Persona adulta di sesso femminile considerata ingenua, inesperta o bisognosa di protezione, spesso con sfumatura paternalistica o condiscendente.",
+      "examples": [
+        "Non fare la bambina, certe cose capitano a tutti.",
+        "La trattano ancora come una bambina, eppure ha già venticinque anni."
+      ],
+      "nota": "Uso figurato con connotazione talvolta negativa o infantilizzante; può implicare critica verso chi mostra reazioni ritenute immature."
+    }
+  ]
+}

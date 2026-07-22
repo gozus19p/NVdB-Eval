@@ -1,0 +1,183 @@
+{
+  "lemma": "animare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa269ad0a50d06626fd"
+    },
+    "source": "paraviaXML/6041.xml",
+    "lemma": "animare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Render vivo, vivificare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il soffio vitale che anima il corpo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Riempire di attività, di movimento, di vivacità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i bambini animavano la strada deserta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rendere interessante, avvincente, divertente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "animare una conversazione",
+              "una serata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Organizzare e intrattenere con attività ricreative",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "animare un gruppo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Incitare, incoraggiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "animare qcn. a un’impresa",
+              "alla battaglia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intensificare, promuovere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "animare i commerci",
+              "le attività culturali"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Infondere energia, calore o movimento a un ambiente, un oggetto o una vicenda, donandogli dinamismo.",
+      "examples": [
+        "La luce calda delle lanterne ravvivava finalmente il vicolo dopo giorni di grigiore.",
+        "Un tocco di colore vivace può trasformare e vivacizzare anche gli interni più spogli."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Stimolare la partecipazione attiva, l'interesse o il confronto tra un gruppo di persone.",
+      "examples": [
+        "Il docente ha saputo coinvolgere gli studenti per stimolare il dibattito sulle tematiche ambientali.",
+        "Bastano poche domande mirate per rendere più partecipata la conversazione durante una cena."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Organizzare e condurre attività di svago e intrattenimento per un pubblico, tipicamente in contesti turistici, fieristici o commerciali.",
+      "examples": [
+        "L'hotel ha assunto due professionisti per gestire le serate estive con spettacoli e giochi di gruppo.",
+        "I centri commerciali organizzano laboratori creativi per intrattenere le famiglie durante il weekend."
+      ],
+      "nota": "accezione tipica del settore turistico-ricreativo e dell'organizzazione eventi"
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Realizzare sequenze di movimento per immagini, modelli o personaggi, generalmente mediante tecniche grafiche digitali o tradizionali.",
+      "examples": [
+        "Il team di sviluppo utilizza un software specifico per far muovere i personaggi del videogioco.",
+        "Per il documentario hanno deciso di applicare il movimento a fotografie d'epoca per ricreare momenti storici."
+      ],
+      "nota": "uso dominante in ambito multimediale, cinematografico e informatico"
+    },
+    {
+      "pos": "verbo intransitivo pronominale",
+      "definition": "Acquisire o manifestare maggiore vivacità, entusiasmo o attività fisica e mentale.",
+      "examples": [
+        "La platea si è svegliata non appena è iniziata la proiezione del film.",
+        "I suoi tratti si sono illuminati improvvisamente quando ha raccontato il viaggio in Giappone."
+      ],
+      "nota": null
+    }
+  ]
+}

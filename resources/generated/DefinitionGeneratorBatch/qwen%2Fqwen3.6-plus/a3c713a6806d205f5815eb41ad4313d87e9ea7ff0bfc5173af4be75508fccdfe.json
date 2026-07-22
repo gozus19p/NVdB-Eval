@@ -1,0 +1,70 @@
+{
+  "lemma": "preferire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc869ad0a50d06645e1"
+    },
+    "source": "paraviaXML/86117.xml",
+    "lemma": "preferire",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "preferire-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anteporre nel proprio giudizio, nei gusti, nella simpatia, negli affetti qualcuno o qualcosa rispetto ad altri o ad altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli preferisco di gran lunga il fratello",
+              "preferisco il mare alla montagna",
+              "preferirei che tu evitassi di coinvolgermi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento a una scelta specifica compiuta in una determinata occasione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "all’ultimo momento hanno preferito andare al cinema",
+              "gli è stata preferita la candidata più giovane"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Attribuire maggiore gradimento o considerazione a qualcosa o qualcuno rispetto a un’altra opzione, manifestando l’intenzione di sceglierla o di assecondarla.",
+      "examples": [
+        "Stasera preferisco una cena tranquilla in casa invece di uscire con gli amici.",
+        "Tra le due proposte, la commissione ha preferito la prima per la sua immediatezza.",
+        "Preferisco che tu mi dica la verità senza girarci intorno."
+      ],
+      "nota": null
+    }
+  ]
+}

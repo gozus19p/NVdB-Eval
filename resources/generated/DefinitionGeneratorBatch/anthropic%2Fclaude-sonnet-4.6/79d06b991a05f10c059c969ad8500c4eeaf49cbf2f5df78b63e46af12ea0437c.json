@@ -1,0 +1,198 @@
+{
+  "lemma": "vario",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aadfd69ad0a50d064776f"
+    },
+    "source": "paraviaXML/126052.xml",
+    "lemma": "vario",
+    "grammar": [
+      "agg.",
+      "agg.indef.",
+      "pron.indef.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Costituito da elementi tra loro differenziati, discordanti ma senza sgradevole contrasto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un paesaggio vario e piacevole",
+              "una conversazione",
+              "una serata varia e interessante",
+              "la vita è bella perché è varia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mutevole, incostante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il tempo è molto vario"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Differente, diverso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fiori di vari colori",
+              "avere vari interessi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo indefinito",
+          "pronome indefinito",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Numeroso, parecchio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "siamo stati varie volte a Firenze",
+              "ho sostenuto vari colloqui di lavoro",
+              "lo conosco da vari anni"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , diverse persone",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vari mi hanno detto la stessa cosa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , insieme di ciò che presenta diversità, varietà",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che presenta caratteristiche diverse tra loro, non uniforme, differenziato nella forma, nel contenuto o nella natura.",
+      "examples": [
+        "Il menù offre una scelta varia di piatti per tutti i gusti.",
+        "Ha avuto un'esperienza lavorativa varia, passando da un settore all'altro."
+      ],
+      "nota": "Usato al singolare, si riferisce alla qualità di ciò che non è monotono o uniforme."
+    },
+    {
+      "pos": "aggettivo (plurale)",
+      "definition": "Usato al plurale per indicare una molteplicità di elementi distinti, equivalente a 'diversi', 'parecchi', 'molteplici'.",
+      "examples": [
+        "Varie persone hanno segnalato il problema alle autorità.",
+        "Ho ricevuto vari messaggi di supporto dopo la pubblicazione dell'articolo."
+      ],
+      "nota": "Al plurale precede spesso il sostantivo senza articolo e ha valore quantitativo-indefinito, sovrapponibile a 'diversi' o 'parecchi'."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che cambia nel tempo o nelle circostanze, mutevole, non costante.",
+      "examples": [
+        "Il suo umore era vario e imprevedibile nel corso della giornata.",
+        "Le condizioni meteorologiche si preannunciano varie nei prossimi giorni."
+      ],
+      "nota": "Questo senso è meno frequente nell'italiano contemporaneo e si avvicina a 'variabile' o 'instabile'."
+    }
+  ]
+}

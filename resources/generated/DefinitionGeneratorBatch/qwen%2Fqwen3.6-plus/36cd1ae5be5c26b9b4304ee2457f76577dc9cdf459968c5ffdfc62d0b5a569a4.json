@@ -1,0 +1,227 @@
+{
+  "lemma": "esporre",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb469ad0a50d066358e"
+    },
+    "source": "paraviaXML/40684.xml",
+    "lemma": "esporre",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dire, riferire in modo chiaro e ordinato, spiegare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esporre le proprie ragioni",
+              "esporre a qcn. l’accaduto",
+              "esporre un programma politico"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Commentare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esporre il contenuto di un libro",
+              "esporre un passo del Vangelo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mostrare apertamente, in pubblico: presentare in una mostra o in un’esposizione: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esporre le bandiere in segno di trionfo",
+              "esporre una reliquia",
+              "ormai espone i suoi quadri solo in gallerie famose",
+              "l’artista ha esposto alla biennale di Venezia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettere all’aperto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esporre una coperta all’aria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mettere in una situazione difficile o pericolosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tutto ciò lo espone al ridicolo",
+              "non volle esporre i compagni al pericolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arrischiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esporre la propria vita",
+              "i propri averi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Abbandonare un neonato alla pubblica carità",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "fotografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scientifico tecnica, tecnologia , sottoporre a radiazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fotografia , sottoporre all’azione della luce",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esporre una pellicola"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Collocare oggetti o opere in un luogo visibile affinché possano essere osservati, valutati o acquistati.",
+      "examples": [
+        "Il gallerista ha deciso di esporre le tele più recenti nello spazio centrale.",
+        "Durante i saldi, i negozianti espongono i capi a prezzo ridotto direttamente fuori dal locale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Illustrare in modo chiaro e ordinato opinioni, motivazioni, avvenimenti o dati, generalmente a un pubblico o a un interlocutore.",
+      "examples": [
+        "Durante la riunione il direttore ha esposto brevemente i risultati dell'ultimo trimestre.",
+        "L'avvocato ha esposto la propria difesa con grande efficacia davanti alla corte."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Porre una persona o una cosa in una condizione di pericolo, vulnerabilità o possibile danno.",
+      "examples": [
+        "Uscire senza giubbino in una giornata di pioggia battente significa esporre il proprio corpo alle intemperie.",
+        "Con quelle dichiarazioni avventate il portavoce ha esposto l'azienda a pesanti critiche mediatiche."
+      ],
+      "nota": "Regge tipicamente un complemento indiretto introdotto dalla preposizione 'a' che indica il rischio, il pericolo o il giudizio a cui si viene sottoposti."
+    }
+  ]
+}

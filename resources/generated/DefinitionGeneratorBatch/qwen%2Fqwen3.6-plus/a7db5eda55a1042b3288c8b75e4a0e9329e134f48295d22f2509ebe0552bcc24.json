@@ -1,0 +1,158 @@
+{
+  "lemma": "organizzazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0d69ad0a50d065aef1"
+    },
+    "source": "paraviaXML/76868.xml",
+    "lemma": "organizzazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’organizzare, l’organizzarsi e il loro risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "seguire l’organizzazione di un lavoro",
+              "curare l’organizzazione del festival del cinema",
+              "gli ho affidato l’organizzazione del matrimonio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il modo in cui è organizzato un lavoro, una struttura e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’organizzazione amministrativa",
+              "cambiare l’organizzazione interna di un ufficio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Struttura organizzata per conseguire un fine comune: l’insieme di persone che vi operano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "organizzazione culturale",
+              "organizzazione di giovani scout"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia , disposizione di organi che formano una struttura corporea",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "TS",
+        "field": "medicina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina , processo di infiltrazione trombotica di cellule connettivali con esito in occlusione parziale o quasi completa dei vasi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Attività volta a coordinare e disporre in modo sistematico risorse, compiti o fasi operative per il conseguimento di un obiettivo, o il risultato di tale procedimento.",
+      "examples": [
+        "L'organizzazione del convegno è stata affidata a un'agenzia specializzata.",
+        "Grazie a una pianificazione rigida, la sua organizzazione dello studio è migliorata in pochi mesi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Ente, istituzione o aggregazione di persone che opera secondo regole e ruoli definiti per perseguire scopi comuni, a fini di lucro, sociali o illeciti.",
+      "examples": [
+        "Lavora come coordinatore logistico per un'organizzazione non governativa attiva in Africa.",
+        "Le forze dell'ordine hanno smantellato un'organizzazione criminale dedita al traffico di beni rubati."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Modo in cui gli elementi costitutivi di un insieme complesso sono ordinati, gerarchizzati e collegati tra loro al suo interno.",
+      "examples": [
+        "L'organizzazione del testo presenta capitoli tematici e una bibliografia finale ben curata.",
+        "I ricercatori hanno analizzato l'organizzazione spaziale delle fibre all'interno del campione."
+      ],
+      "nota": null
+    }
+  ]
+}

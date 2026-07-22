@@ -1,0 +1,219 @@
+{
+  "lemma": "realizzare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafcc69ad0a50d06648fb"
+    },
+    "source": "paraviaXML/91817.xml",
+    "lemma": "realizzare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tradurre in realtà, attuare; portare a compimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "realizzare un piano",
+              "un esperimento",
+              "è riuscito a realizzare pienamente le sue idee"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esaudire, avverare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha realizzato tutti i miei desideri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esprimere a pieno, rendere in forma artistica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "realizzare poeticamente i propri stati d’animo",
+              "un modello perfettamente realizzato"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Eseguire concretamente, produrre un’opera artistica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha realizzato questo dipinto dopo anni di lavoro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ricavare, ottenere un guadagno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dalla vendita ha realizzato molto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "TS",
+        "field": "economia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia , nel linguaggio commerciale, convertire in denaro liquido",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "realizzare un credito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport ; segnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rendersi conto, comprendere: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha realizzato tardi di aver sbagliato",
+              "non riesco proprio a realizzare"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "portare a termine, completare con successo",
+      "examples": [
+        "La squadra ha realizzato il progetto entro i tempi previsti.",
+        "Il team di sviluppo ha realizzato un'ottima applicazione mobile."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "rendere concreto, effettivo",
+      "examples": [
+        "La sua idea si è finalmente realizzata.",
+        "Il sogno di una vita si è realizzato quando ha incontrato il suo grande amore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "avere successo, concretizzarsi",
+      "examples": [
+        "Il suo piano non si è realizzato come previsto.",
+        "La sua passione si è realizzata nella carriera di artista."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "lemma": "comprare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafaa69ad0a50d0662d36"
+    },
+    "source": "paraviaXML/25147.xml",
+    "lemma": "comprare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "pronome"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Acquistare col denaro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comprare un vestito",
+              "una casa",
+              "dei titoli azionari",
+              "comprare a credito",
+              "comprare in",
+              "a contanti",
+              "comprare a buon prezzo",
+              "comprare bene",
+              "comprare a caro prezzo",
+              "comprare caro",
+              "comprare male",
+              "comprare qcs. dal droghiere",
+              "dal lattaio",
+              "al supermercato"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Col dativo: non hanno comprato nulla per lui o da lui",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi compri il giornale?",
+              "non gli hanno comprato nulla"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ingaggiarlo per la propria squadra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comprare un calciatore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Procurarsi illecitamente con denaro, promesse o favori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comprare il voto degli elettori",
+              "comprare una laurea"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Corrompere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comprare un giudice",
+              "un arbitro"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "Acquistare qualcosa in cambio di denaro",
+      "examples": [
+        "Ho comprato un nuovo telefono.",
+        "Il negozio vende e comprare abbigliamento."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Corrompere qualcuno con denaro o altri benefici",
+      "examples": [
+        "È stato accusato di aver comprato il voto di alcuni elettori.",
+        "Il politico è sospettato di aver comprato la collaborazione di un testimone."
+      ],
+      "nota": "Uso figurato e spesso negativo"
+    }
+  ]
+}

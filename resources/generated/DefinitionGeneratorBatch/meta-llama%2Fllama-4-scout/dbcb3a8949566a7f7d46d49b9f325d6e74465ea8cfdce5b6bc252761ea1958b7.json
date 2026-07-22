@@ -1,0 +1,186 @@
+{
+  "lemma": "romano",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0669ad0a50d064b57b"
+    },
+    "source": "paraviaXML/99114.xml",
+    "lemma": "romano",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di Roma, con riferimento all’antichità classica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "storia romana",
+              "centurioni romani",
+              "strade romane",
+              "acquedotti romani"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante dell’antica Roma o cittadino del suo Impero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dell’odierna Roma",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la periferia romana"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante di Roma moderna",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo alla città di Roma in quanto sede del papato e centro del cattolicesimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Chiesa apostolica romana"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "tipografia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipografia ; tondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "relativo a Roma",
+      "examples": [
+        "Il Colosseo è un monumento romano.",
+        "La cucina romana è famosa per la sua semplicità."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "persona originaria o residente a Roma",
+      "examples": [
+        "I romani sono noti per la loro ospitalità.",
+        "Il romano si è integrato bene nella nuova città."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "lingua romanza parlata nella regione del Lazio",
+      "examples": [
+        "Il latino è la base del romanesco, il dialetto romano.",
+        "Il romano è una lingua neolatina."
+      ],
+      "nota": "in questo senso, è più comune usare il termine 'romanesco'."
+    }
+  ]
+}

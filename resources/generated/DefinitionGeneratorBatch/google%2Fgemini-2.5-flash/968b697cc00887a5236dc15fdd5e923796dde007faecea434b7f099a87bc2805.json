@@ -1,0 +1,150 @@
+{
+  "lemma": "attenzione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7a69ad0a50d0653434"
+    },
+    "source": "paraviaXML/10007.xml",
+    "lemma": "attenzione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intensa applicazione e concentrazione della mente e dei sensi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ascoltare",
+              "guardare",
+              "osservare qcs.",
+              "qcn. con attenzione",
+              "lavorare con attenzione",
+              "mettere attenzione nel fare qcs."
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Formula epistolare, specialmente scritta sotto l’indirizzo della ditta o dell’ente destinatario, cui si fa seguire il nome della persona alla quale va recapitato il pacco, la lettera, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "alla cortese attenzione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , comportamenti, gesti con cui si prevengono desideri o bisogni altrui",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coprire qcn. di attenzioni",
+              "avere molte attenzioni per qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nteriettivo, esclamazione per esortare qualcuno a essere attento o per segnalare un pericolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attenzione prego!",
+              "a., sta arrivando!",
+              "a.! è molto rischioso!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "La capacità di concentrare la mente o i sensi su un oggetto, un'attività o un fenomeno specifico, selezionando stimoli e ignorandone altri.",
+      "examples": [
+        "È difficile mantenere l'attenzione per lungo tempo su un compito monotono.",
+        "Ha richiamato l'attenzione degli studenti con un colpo di tosse."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Un atto di premura, di riguardo o di sollecitudine dimostrato verso qualcuno o qualcosa.",
+      "examples": [
+        "Ti ringrazio per la tua attenzione, mi fa molto piacere.",
+        "Il medico ha mostrato grande attenzione per i bisogni del paziente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "interiezione",
+      "definition": "Espressione usata per richiamare in modo energico qualcuno, per avvertire di un pericolo o per chiedere di prestare cura a qualcosa.",
+      "examples": [
+        "Attenzione! Il pavimento è bagnato.",
+        "Attenzione ai dettagli, sono importanti per la riuscita del progetto."
+      ],
+      "nota": "Spesso seguita da un punto esclamativo."
+    }
+  ]
+}

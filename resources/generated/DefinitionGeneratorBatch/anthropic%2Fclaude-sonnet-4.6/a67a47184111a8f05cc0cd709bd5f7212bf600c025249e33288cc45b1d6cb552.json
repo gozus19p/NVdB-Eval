@@ -1,0 +1,142 @@
+{
+  "lemma": "sofferenza",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5069ad0a50d065e5ae"
+    },
+    "source": "paraviaXML/109933.xml",
+    "lemma": "sofferenza",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il soffrire per dolori fisici o angosce morali e spirituali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vivere nella sofferenza",
+              "la sua sofferenza è insanabile"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , dolore, patimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "morire fra le più atroci sofferenze",
+              "una vita piena di sofferenze"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sopportazione, pazienza: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parendo tempo a Gualtieri di fare l’ultima pruova della sofferenza di costei"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Banca , ritardo nell’estinzione di un debito bancario",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , credito bancario in sofferenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Stato di dolore fisico intenso e prolungato che colpisce il corpo di un essere vivente.",
+      "examples": [
+        "La malattia le causava una sofferenza fisica insopportabile.",
+        "I medici cercarono di alleviare la sofferenza del paziente con antidolorifici."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Stato di disagio o dolore emotivo e psicologico, causato da eventi traumatici, perdite, difficoltà affettive o esistenziali.",
+      "examples": [
+        "La separazione dai figli gli aveva causato una sofferenza interiore profonda.",
+        "Anni di terapia l'avevano aiutata ad elaborare le sue sofferenze passate."
+      ],
+      "nota": "È il senso più frequente nell'uso contemporaneo; si distingue dal senso fisico per il riferimento esplicito alla sfera emotiva, psicologica o morale."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In ambito economico e finanziario, condizione di difficoltà o crisi di un'azienda, di un settore o di un credito non rimborsato regolarmente.",
+      "examples": [
+        "La banca ha segnalato un aumento dei crediti in sofferenza nel bilancio annuale.",
+        "Molte piccole imprese sono in sofferenza a causa del calo della domanda."
+      ],
+      "nota": "Uso tecnico-economico diffuso nel linguaggio giornalistico e finanziario; l'espressione 'crediti in sofferenza' indica prestiti che il debitore non riesce a rimborsare."
+    }
+  ]
+}

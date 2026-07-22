@@ -1,0 +1,863 @@
+{
+  "lemma": "parlare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc669ad0a50d0664422"
+    },
+    "source": "paraviaXML/79612.xml",
+    "lemma": "parlare",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Articolare i suoni del linguaggio, pronunciare parole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ero così emozionato che non riuscivo a parlare",
+              "non smette mai di parlare",
+              "parlare con voce chiara",
+              "forte",
+              "a voce alta",
+              "bassa",
+              "lentamente",
+              "sottovoce"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con risonanza nasale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare col naso"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Usare una lingua oralmente non leggendo o scrivendo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parla cinese ma non sa scriverlo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Comunicare per mezzo del linguaggio, esprimere i propri pensieri e sentimenti attraverso le parole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare con arroganza",
+              "parlare in modo chiaro",
+              "confuso",
+              "sgarbato",
+              "volgare",
+              "è uno che parla senza riflettere"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Da solo a solo, senza testimoni; a caso, in modo avventato, a sproposito; esprimere ad alta voce i propri pensieri, come se ci si rivolgesse a un immaginario interlocutore; pronunciare qualche parola a voce bassissima, rivolgendosi a se stesso, quasi per riassumere i propri pensieri; usare, in un discorso, la prima persona plurale; formula per invitare una persona a non offendere, a misurare le parole; non interrompermi; per indicare che la persona che parla è la meno adatta a fare determinate affermazioni; come formula introduttiva nelle conversazioni telefoniche; in contrapposizione a , per esprimere la mancanza di contenuti in un discorso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare a tu per tu",
+              "a quattr’occhi",
+              "parlare a vanvera",
+              "parlare da sé",
+              "da solo",
+              "parlare tra sé e sé",
+              "parlare al plurale",
+              "bada a come parli",
+              "lasciami p.!",
+              "senti chi parla!",
+              "pronto chi parla?",
+              "con chi parlo?",
+              "dire",
+              "parla, parla ma in definitiva non dice nulla"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In relazione con un complemento che indica la persona o le persone con cui si parla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare a un amico",
+              "ai colleghi",
+              "rispondi: sto parlando con te!"
+            ]
+          },
+          {
+            "number": 7,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come protesta nei confronti di chi usa un tono eccessivamente confidenziale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con chi credi di p.?"
+            ]
+          },
+          {
+            "number": 8,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In relazione con un complemento che indica l’argomento di cui si parla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare di affari",
+              "di lavoro",
+              "d’arte",
+              "dei mutamenti politici"
+            ]
+          },
+          {
+            "number": 9,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cambiamo discorso; di cosa che non si vuole assolutamente fare; non se ne fa niente; facciamola finita con questa discussione; soffermarsi sempre e troppo a lungo sullo stesso argomento; con riferimento a un fatto o a una persona che è oggetto di chiacchiere, di pettegolezzi oppure di discussioni o di interesse; è un argomento di cui molti chiacchierano; a proposito di un argomento che si vuole evitare, perché particolarmente fastidioso o doloroso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parliamo d’altro",
+              "non se ne parla neanche",
+              "per il momento non se ne parla",
+              "non parliamone più!",
+              "non parlare d’altro",
+              "tutti ne parlano",
+              "ne ho sentito parlare",
+              "non me ne p.!",
+              "non me ne p.! è un problema che conosco fin troppo bene"
+            ]
+          },
+          {
+            "number": 10,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’argomento è chiuso; a chi, a cosa ti riferisci",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non voglio più sentirne parlare",
+              "di chi",
+              "di cosa stai parlando?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pronunciarsi su un argomento, dire la propria opinione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "io ti ho presentato le proposte: ora tocca a te parlare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conversare, discorrere; chiacchierare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbiamo passato tutta la sera a parlare"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mormora, fa pettegolezzi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la gente parla"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dialogare, discutere fra più persone di un determinato argomento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dobbiamo riunirci per parlare dei progetti per l’anno prossimo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Tenere una lezione, pronunciare un discorso, specialmente formalmente strutturato, rivolgendosi a un uditorio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare al popolo",
+              "in televisione",
+              "dalla cattedra",
+              "in piazza",
+              "parlare a favore",
+              "a difesa di qcn.",
+              "il capo del governo parlerà domani alla Camera"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Improvvisando",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare a braccio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di scritto, trattare di un determinato argomento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "domani ne parleranno i giornali",
+              "te ne parlerò nella prossima lettera",
+              "un libro che parla della vita di corte nel Rinascimento"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo",
+              "colloquiale",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di film, soggetto teatrale, trasmissione televisiva o simile , trattare, svolgere un argomento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il documentario di ieri sera parlava delle foche"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esprimere pensieri o sentimenti con mezzi diversi dal linguaggio verbale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare a gesti",
+              "con gli occhi",
+              "i muti parlano a segni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Manifestare un’intenzione, far progetti riguardo a qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare di trasferirsi",
+              "di cambiare casa",
+              "parlano di andare in Olanda",
+              "da tempo quei due parlano di matrimonio"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Gli hai esposto i tuoi propositi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gliene hai parlato?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rivelare informazioni segrete, notizie riservate",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi è stato ordinato di non parlare",
+              "finalmente ti sei deciso a parlare",
+              "se sai qualcosa parla!"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Confessare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’imputato non si decide a parlare",
+              "non parlò neanche sotto tortura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Essere in rapporto, avere relazione con altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlava con tutti i notabili del paese"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Amoreggiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "da giovane parlava con una che poi sposò un altro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Essere particolarmente espressivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "occhi che parlano"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Suonarlo con espressione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "far parlare uno strumento musicale"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Influire sulla sensibilità di qualcuno suscitando sentimenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gesti che parlano al cuore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Essere significativo, avere importanza determinante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli indizi parlano da soli",
+              "lasciar parlare i fatti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sono la prova eloquente di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i fatti parlano chiaro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di sentimenti personificati, manifestarsi attraverso fatti o parole: che lo spinge a dire o a fare determinate cose",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è il suo odio che parla",
+              "in lui è l’invidia che parla"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ascoltarne la voce, i suggerimenti positivi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "lasciare parlare la coscienza",
+              "la ragione",
+              "il buon senso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far ricordare, evocare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "in questa casa tutto parla della povera nonna",
+              "vecchi giocattoli che parlano della mia infanzia",
+              "luoghi che parlano dei bei tempi andati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Usare una determinata lingua",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare l’inglese",
+              "l’italiano",
+              "il francese",
+              "parlare bene",
+              "male il tedesco",
+              "non parla ancora correttamente la vostra lingua",
+              "sa parlare quattro lingue"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esprimersi poco chiaramente, senza farsi capire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare arabo",
+              "ostrogoto",
+              "turco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Usare un dato modo di esprimersi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare una lingua difficile",
+              "oscura",
+              "chiara"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dire: Dante) Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlando cose che ’l tacere è bello",
+              "possa ... parlare alquante parole alla donna vostra"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "popolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dire, seguito da proposizione oggettiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo, transitivo",
+      "definition": "Emittiere suoni articolati attraverso la bocca, formando parole per comunicare.",
+      "examples": [
+        "Il bambino ha iniziato a parlare all'età di un anno.",
+        "Parla sempre a voce molto alta al telefono."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (con complemento di argomento introdotto da 'di')",
+      "definition": "Aver qualcosa come oggetto di una conversazione o di un discorso.",
+      "examples": [
+        "Stamattina abbiamo parlato a lungo del nuovo progetto.",
+        "Il libro parla delle migrazioni del Novecento."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (con complemento di compagnia introdotto da 'con')",
+      "definition": "Intrattenere una conversazione con una o più persone.",
+      "examples": [
+        "Ho parlato con il direttore per chiarire la situazione.",
+        "Parliamo un attimo, ho bisogno di un consiglio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Possedere la capacità di esprimersi in una determinata lingua.",
+      "examples": [
+        "Mio nonno parlava fluentemente il tedesco.",
+        "Parla italiano molto bene, considerando che è qui da poco."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo figurato",
+      "definition": "Essere espressivo o rivelare qualcosa in modo non verbale, attraverso l'aspetto o il comportamento.",
+      "examples": [
+        "Quel quadro parla di solitudine e malinconia.",
+        "I suoi occhi parlavano di una grande tristezza."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Modo di esprimersi verbalmente, caratterizzato da un particolare stile o registro.",
+      "examples": [
+        "Il suo parlare è sempre molto educato e formale.",
+        "Ammiro il parlare semplice e diretto di quella scrittrice."
+      ],
+      "nota": "Uso prevalentemente letterario o elevato."
+    }
+  ]
+}

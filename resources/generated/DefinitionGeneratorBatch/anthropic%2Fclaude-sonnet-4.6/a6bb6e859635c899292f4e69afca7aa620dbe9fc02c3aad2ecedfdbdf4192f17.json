@@ -1,0 +1,113 @@
+{
+  "lemma": "adolescente",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0769ad0a50d064bed9"
+    },
+    "source": "paraviaXML/2155.xml",
+    "lemma": "adolescente",
+    "grammar": [
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi è nell’età dell’adolescenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho un figlio adolescente",
+              "i problemi degli adolescenti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dell’adolescenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "età adolescente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di atteggiamento, sentimento e simile , giovanile, immaturo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona che si trova nella fase di sviluppo compresa tra la pubertà e la prima età adulta, generalmente tra i 12 e i 18 anni circa.",
+      "examples": [
+        "Gli adolescenti di oggi trascorrono molte ore al giorno sui social network.",
+        "Mia figlia è diventata un'adolescente difficile da gestire."
+      ],
+      "nota": "Il termine è usato sia al maschile sia al femminile con la stessa forma; il plurale è 'adolescenti'."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo o proprio della fase di sviluppo tra pubertà e prima età adulta; che presenta caratteristiche tipiche di quella fase.",
+      "examples": [
+        "Stava attraversando una crisi adolescente fatta di ribellione e ricerca di identità.",
+        "Le ansie adolescenti non scompaiono sempre con la maggiore età."
+      ],
+      "nota": "Usato in funzione attributiva o predicativa; talvolta con sfumatura figurata per indicare comportamenti immaturi o insicuri in un adulto."
+    }
+  ]
+}

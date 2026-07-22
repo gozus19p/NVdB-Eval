@@ -1,0 +1,80 @@
+{
+  "lemma": "fidarsi",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb569ad0a50d0663651"
+    },
+    "source": "paraviaXML/43520.xml",
+    "lemma": "fidarsi",
+    "grammar": [
+      "v.pronom.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere fiducia in qualcuno o qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fidarsi di un amico",
+              "non mi fido della mia memoria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere il coraggio, la sicurezza di fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non mi fido a tuffarmi",
+              "il trampolino è troppo alto"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo pronominale",
+      "definition": "Credere nella sincerità, nell'onestà o nella competenza di una persona o di un'entità, ritenendola meritevole di appoggio o di considerazione positiva.",
+      "examples": [
+        "Nonostante i contrasti recenti, continuo a fidarmi del mio socio.",
+        "In questo settore è difficile fidarsi delle offerte trovate su internet senza verifiche preliminari."
+      ],
+      "nota": null
+    }
+  ]
+}

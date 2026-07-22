@@ -1,0 +1,300 @@
+{
+  "lemma": "femmina",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec469ad0a50d0657287"
+    },
+    "source": "paraviaXML/42928.xml",
+    "lemma": "femmina",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Individuo di sesso femminile: abbr. F)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha due figli: un maschio e una femmina"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tre figlie femmine"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Animale di sesso femminile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la femmina del cavallo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "funzione",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione specialmente invariabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un orso femmina",
+              "tigri femmine"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "TS",
+        "field": "funzione",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia , nelle specie a riproduzione sessuata, individuo portatore di gameti femminili; anche in funzione inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "usage": "TS",
+        "field": "botanica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica , pianta nella quale si sviluppano i pistilli e non gli stami",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Specie o varietà di pianta, più gracile, aggraziata o meno pregiata rispetto a un’altra",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "spregiativo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente , donna",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una femmina qualsiasi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "Donna ricca di femminilità, desiderabile, attraente: anche in funzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una vera femmina",
+              "essere molto femmina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Uomo debole e vile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quel ragazzo è una femmina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Donna di bassa condizione sociale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "funzione",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , strumento o parte di congegno di forma incavata che consente l’inserimento di un pezzo complementare: anche in funzione inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giunto a maschio e femmina",
+              "spinotto femmina"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Individuo animale di sesso che produce cellule riproduttive di dimensioni maggiori.",
+      "examples": [
+        "Nel gruppo, la femmina del leone si occupa principalmente della caccia.",
+        "La femmina di quella specie di uccelli ha un piumaggio meno sgargiante."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Persona di sesso femminile.",
+      "examples": [
+        "Nella storia, sono molte le femmine che hanno svolto ruoli di primo piano.",
+        "Al concorso di bellezza parteciparono solo femmine."
+      ],
+      "nota": "In questo senso, il termine può avere una connotazione cruda o biologica, ed è spesso sostituito nella lingua comune da 'donna' o 'ragazza'."
+    },
+    {
+      "pos": "aggettivo invariabile",
+      "definition": "Che presenta caratteristiche tipicamente associate al genere femminile o a un ruolo passivo.",
+      "examples": [
+        "Il connettore femmina del cavo si inserisce nel corrispondente maschio.",
+        "In alcuni dialetti, alcuni nomi hanno la forma femmina."
+      ],
+      "nota": "Usato prevalentemente in ambito tecnico, meccanico e, in linguistica, con riferimento a nomi di genere femminile."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "lemma": "pubblicità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2a69ad0a50d065c625"
+    },
+    "source": "paraviaXML/88688.xml",
+    "lemma": "pubblicità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere pubblico, l’essere accessibile al pubblico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicità di un dibattito",
+              "pubblicità delle udienze preliminari"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Divulgazione, diffusione tra il pubblico di dati, informazioni, fatti o simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una notizia che non ha ricevuto alcuna pubblicità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Propaganda svolta da un’azienda per richiamare l’attenzione del pubblico sul proprio prodotto e incrementarne le vendite",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicità affissionale",
+              "giornalistica",
+              "radiofonica",
+              "televisiva",
+              "agenzia di pubblicità",
+              "la pubblicità incide sul bilancio dell’azienda"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Qualsiasi forma di annuncio, specialmente riportato dai mass media, cui sia affidato tale compito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una pubblicità girata in esterni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività e tecniche volte a promuovere la vendita di beni o servizi, o a diffondere idee e messaggi, attraverso messaggi comunicativi a pagamento su vari media.",
+      "examples": [
+        "L'azienda ha investito una somma considerevole nella pubblicità del nuovo prodotto.",
+        "La pubblicità sui social media è diventata molto efficace per raggiungere un pubblico giovane."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Il messaggio specifico o l'insieme di messaggi attraverso cui si realizza l'azione promozionale o informativa.",
+      "examples": [
+        "Quella pubblicità in televisione è molto creativa e mi è rimasta impressa.",
+        "Le pubblicità ingannevoli sono perseguibili per legge."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "La condizione di essere reso noto o di pubblico dominio; la divulgazione di fatti, informazioni o atti.",
+      "examples": [
+        "La piena pubblicità degli atti governativi è un principio fondamentale della democrazia.",
+        "Il caso ha avuto grande pubblicità sui giornali causando un acceso dibattito."
+      ],
+      "nota": "Questo senso si riferisce più alla trasparenza e alla diffusione di informazioni."
+    }
+  ]
+}

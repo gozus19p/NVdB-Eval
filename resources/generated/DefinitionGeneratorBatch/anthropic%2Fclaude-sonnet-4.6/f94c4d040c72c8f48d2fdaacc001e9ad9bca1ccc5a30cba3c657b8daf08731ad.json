@@ -1,0 +1,173 @@
+{
+  "lemma": "carcere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9169ad0a50d06547cd"
+    },
+    "source": "paraviaXML/19057.xml",
+    "lemma": "carcere",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Edificio in cui viene rinchiuso chi è condannato per un reato o è in attesa di giudizio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scontare una pena in carcere",
+              "mettere",
+              "rinchiudere qcn. in carcere",
+              "fuggire dal carcere",
+              "uscire di",
+              "dal carcere"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Detenzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condannare qcn. a sei anni di carcere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Luogo opprimente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questa casa è diventata un carcere per me"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il corpo umano in quanto prigione dell’anima",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’inferno: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "caggiono in quel carcere cieco, nel quale mai il divino lume con grazia o con misericordia si vede"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , nei circhi romani, recinto in cui stavano cavalli e cocchi prima delle gare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Struttura detentiva statale in cui vengono recluse le persone condannate a una pena privativa della libertà o in attesa di giudizio.",
+      "examples": [
+        "Il tribunale lo ha condannato a tre anni di carcere.",
+        "Le condizioni di vita nel carcere di massima sicurezza sono molto dure.",
+        "Dopo vent'anni di carcere, è tornato in libertà."
+      ],
+      "nota": "Il plurale presenta una doppia forma: 'carceri' (f. pl.), usato prevalentemente in senso concreto e istituzionale (es. 'le carceri italiane sono sovraffollate'), e 'carceri' o 'carcere' in senso astratto. La forma plurale femminile 'le carceri' è quella d'uso corrente."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "La condizione di privazione della libertà personale in quanto pena o stato giuridico, indipendentemente dal luogo fisico.",
+      "examples": [
+        "Rischia il carcere se non rispetta le condizioni della libertà vigilata.",
+        "Per quel reato è previsto il carcere fino a cinque anni."
+      ],
+      "nota": "In questo senso astratto 'carcere' è sinonimo di 'detenzione' o 'pena detentiva' ed è usato prevalentemente in contesti giuridici e giornalistici."
+    },
+    {
+      "pos": "sostantivo m. (figurato)",
+      "definition": "Luogo, situazione o condizione percepita come oppressiva e costrittiva, che limita la libertà di movimento, di espressione o di scelta.",
+      "examples": [
+        "Quella relazione era diventata per lei un vero carcere da cui non riusciva a uscire.",
+        "La burocrazia è il carcere in cui si dibattono le piccole imprese."
+      ],
+      "nota": "Uso metaforico, connotato negativamente, che trasferisce l'idea di costrizione e mancanza di libertà a contesti non penali."
+    }
+  ]
+}

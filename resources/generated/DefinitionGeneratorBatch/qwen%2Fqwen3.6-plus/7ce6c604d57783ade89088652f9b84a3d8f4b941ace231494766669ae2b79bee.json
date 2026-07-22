@@ -1,0 +1,140 @@
+{
+  "lemma": "giocatore",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaed269ad0a50d0657e5b"
+    },
+    "source": "paraviaXML/48693.xml",
+    "lemma": "giocatore",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi si dedica a un gioco per divertimento o passatempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giocatore di carte",
+              "di scacchi",
+              "essere un ottimo",
+              "un pessimo giocatore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi pratica un gioco sportivo come professionista o come dilettante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giocatore di calcio",
+              "di basket",
+              "di tennis",
+              "i giocatori sono in campo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi pratica abitualmente il gioco d’azzardo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere un accanito giocatore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi raggira gli altri comportandosi con astuzia e senza scrupoli",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona che pratica un'attività ludica, sportiva o da tavolo, sia a livello dilettantistico sia professionistico.",
+      "examples": [
+        "La squadra ha acquistato un nuovo attaccante che in Serie A è già considerato un elemento decisivo.",
+        "Durante la finale del torneo di scacchi, ogni partecipante ha riflettuto a lungo prima di muovere i pezzi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona che scommette denaro, in modo abituale o occasionale, partecipando a giochi d'azzardo o a scommesse su eventi sportivi.",
+      "examples": [
+        "Dopo aver accumulato debiti significativi, ha deciso di abbandonare le sale e smettere di cercare la fortuna al tavolo verde.",
+        "I servizi di tutela offrono assistenza psicologica gratuita a chi manifesta comportamenti tipici della dipendenza da scommesse."
+      ],
+      "nota": "In ambito clinico e preventivo il termine è spesso associato a forme di disturbo da dipendenza comportamentale, acquisendo una connotazione negativa."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Individuo che agisce in contesti competitivi come la politica, la finanza o gli affari, dimostrando abilità strategica, capacità di manovra o spregiudicatezza nel raggiungere i propri obiettivi.",
+      "examples": [
+        "Nel panorama delle fusioni aziendali, il dirigente si è affermato come un abile trattante nel neutralizzare le opposizioni.",
+        "Molti osservatori politici lo considerano la figura principale nelle trattative per la formazione del nuovo governo."
+      ],
+      "nota": "Accezione figurata che sottolinea l'atteggiamento tattico e competitivo dell'individuo, talvolta con sfumature ambigue riguardo all'etica o alla trasparenza delle azioni."
+    }
+  ]
+}

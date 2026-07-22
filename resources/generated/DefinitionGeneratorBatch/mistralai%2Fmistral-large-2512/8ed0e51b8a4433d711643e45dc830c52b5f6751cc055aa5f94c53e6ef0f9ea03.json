@@ -1,0 +1,266 @@
+{
+  "lemma": "indirizzo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaedf69ad0a50d06588aa"
+    },
+    "source": "paraviaXML/55706.xml",
+    "lemma": "indirizzo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Insieme di indicazioni necessarie per rintracciare un luogo o una persona, per recapitare la posta, eccetera , costituito da nome, cognome, nome e numero della via, nome della città o del paese, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "farsi dare",
+              "scrivere",
+              "dimenticare l’indirizzo",
+              "una lettera senza indirizzo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Luogo dove si risiede",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a gennaio ho cambiato indirizzo"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rivolgersi alla persona sbagliata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sbagliare indirizzo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Indicazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "puoi darmi l’indirizzo di un buon dentista?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Criterio, linea di condotta, di orientamento in un’attività pratica, in un comportamento e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare un indirizzo alla propria vita",
+              "modificare il proprio indirizzo in politica estera"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impostazione, orientamento, specialmente in campo educativo e culturale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una scuola a indirizzo scientifico"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tendenza dominante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i diversi indirizzi della scienza moderna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Messaggio, discorso ufficiale rivolto da un’autorità, da un’importante personalità a un gruppo di persone",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il Presidente ha inviato un indirizzo di augurio alla nazione"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Messaggio, petizione rivolta a un’autorità da un gruppo, un’associazione, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rivolgere al sindaco un indirizzo per ottenere sgravi fiscali"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , numero che identifica una cella nella memoria centrale di un calcolatore elettronico o un’unità periferica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dedica di un’opera letteraria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Serie di informazioni che specificano il luogo in cui una persona risiede o un'entità è situata, utilizzata per la corrispondenza o la localizzazione.",
+      "examples": [
+        "Ho cambiato casa e devo comunicare il nuovo indirizzo alla posta.",
+        "Sul sito web trovi l'indirizzo della nostra sede principale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Orientamento o direzione data a un'attività, un progetto o un comportamento.",
+      "examples": [
+        "Il nuovo direttore ha dato un indirizzo innovativo all'azienda.",
+        "Il governo ha adottato un indirizzo più restrittivo in materia di sicurezza."
+      ],
+      "nota": "Spesso usato in contesti politici, aziendali o educativi."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Breve discorso formale rivolto a un pubblico, solitamente per introdurre un evento o un'attività.",
+      "examples": [
+        "Il preside ha tenuto un indirizzo di benvenuto agli studenti.",
+        "Prima della conferenza, l'organizzatore ha pronunciato un breve indirizzo."
+      ],
+      "nota": "Comune in contesti accademici, istituzionali o cerimoniali."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Sequenza di caratteri che identifica univocamente una risorsa su una rete informatica, come una pagina web o un server.",
+      "examples": [
+        "Per accedere al sito, digita l'indirizzo nella barra del browser.",
+        "Ho salvato l'indirizzo email del mio collega nella rubrica."
+      ],
+      "nota": "In ambito informatico, si riferisce specificamente a URL, indirizzi IP o email."
+    }
+  ]
+}

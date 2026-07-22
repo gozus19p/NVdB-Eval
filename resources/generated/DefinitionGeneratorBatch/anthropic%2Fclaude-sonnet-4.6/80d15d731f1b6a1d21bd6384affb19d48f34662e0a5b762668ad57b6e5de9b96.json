@@ -1,0 +1,154 @@
+{
+  "lemma": "avvertire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafea69ad0a50d0666146"
+    },
+    "source": "paraviaXML/11153.xml",
+    "lemma": "avvertire",
+    "grammar": [
+      "v.tr.",
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Informare qualcuno di qualcosa specialmente di importante o grave",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvertire di un pericolo",
+              "di una minaccia",
+              "di un rischio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avvisare, specialmente con tono minaccioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ti avverto di non scherzare col fuoco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sentire, percepire qualcosa ; notare, apprezzare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvertire un rumore",
+              "un dolore",
+              "avvertire l’importanza di qcs."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare attenzione, badare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Informare qualcuno di qualcosa, specie di un pericolo o di una situazione rilevante, affinché possa prendere le misure necessarie.",
+      "examples": [
+        "Ti avverto che domani ci sarà uno sciopero dei mezzi pubblici.",
+        "La polizia ha avvertito i residenti del rischio alluvione."
+      ],
+      "nota": "Implica spesso un intento protettivo o preventivo da parte di chi comunica; è sinonimo parziale di 'avvisare' e 'informare', ma con maggiore enfasi sulla rilevanza o urgenza del contenuto."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Ammonire qualcuno affinché modifichi un comportamento ritenuto scorretto o pericoloso, con il sottinteso di conseguenze in caso di inottemperanza.",
+      "examples": [
+        "L'insegnante ha avvertito gli studenti che un'altra interruzione sarebbe stata punita.",
+        "Il capo lo ha avvertito per l'ultima volta: un altro ritardo e sarebbe stato licenziato."
+      ],
+      "nota": "In questo senso contiene una sfumatura di minaccia o ultimatum, distinguendosi dal semplice informare."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Percepire attraverso i sensi o la coscienza una sensazione fisica o uno stato emotivo.",
+      "examples": [
+        "Ho avvertito un dolore acuto al fianco sinistro.",
+        "Appena entrata nella stanza, avvertì una strana sensazione di disagio."
+      ],
+      "nota": "In questo senso è sinonimo di 'sentire' e 'percepire'; si usa sia per sensazioni fisiche (dolore, freddo, odore) sia per stati interiori (paura, imbarazzo, sollievo)."
+    }
+  ]
+}

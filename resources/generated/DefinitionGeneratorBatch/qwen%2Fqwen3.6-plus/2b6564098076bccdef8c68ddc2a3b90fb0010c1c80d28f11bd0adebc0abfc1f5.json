@@ -1,0 +1,164 @@
+{
+  "lemma": "bosco",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae8769ad0a50d0653f10"
+    },
+    "source": "paraviaXML/15273.xml",
+    "lemma": "bosco",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "generalmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Terreno coperto di alberi, generalmente di alto fusto, arbusti e altre piante selvatiche; l’insieme di tali alberi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bosco di abeti, di querce",
+              "perdersi in un bosco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Groviglio di cose fitte, intricate",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Legna, legname",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "zootecnia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Zootecnia , in bachicoltura, il mucchio di fastelli in cui i bachi fanno il bozzolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "termine generico di ornitologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine generico di ornitologia ; moriglione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "agricoltura, agraria, agronomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Agricoltura, agraria, agronomia , vitigno che produce uva bianca diffuso in Liguria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Ampia estensione di terreno caratterizzata da una copertura densa di alberi e vegetazione arbustiva, che forma un ecosistema complesso e spesso chiuso.",
+      "examples": [
+        "Durante il fine settimana molte famiglie preferiscono fare una passeggiata nel bosco per allontanarsi dal caos cittadino.",
+        "Il guardaparco ha ricordato che è vietato accendere fuochi all'interno del bosco per prevenire gli incendi estivi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Configurazione fitta e intricata di elementi verticali o allungati, disposti in prossimità tra loro in modo tale da creare un effetto visivo di densità e disordine.",
+      "examples": [
+        "Il panorama della nuova periferia è dominato da un impressionante bosco di torri di vetro e cemento.",
+        "Ristrutturare il vecchio appartamento ha significato districarsi in un bosco di cavi elettrici e tubature obsolete."
+      ],
+      "nota": "Ocurrenza frequente nel linguaggio giornalistico e nella prosa descrittiva, utilizzata per trasmettere un'impressione di sovrabbondanza o ingombro visivo di natura artificiale."
+    }
+  ]
+}

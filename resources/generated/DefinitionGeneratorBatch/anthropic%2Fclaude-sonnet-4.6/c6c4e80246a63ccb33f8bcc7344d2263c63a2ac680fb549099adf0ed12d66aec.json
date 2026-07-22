@@ -1,0 +1,158 @@
+{
+  "lemma": "soldato",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5169ad0a50d065e61c"
+    },
+    "source": "paraviaXML/110178.xml",
+    "lemma": "soldato",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi combatte in un esercito, chi è parte delle truppe militari, senza distinzione di grado o arma, sia volontariamente, sia per obbligo di leva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un soldato valoroso",
+              "un presidio di soldati",
+              "arruolamento di soldati",
+              "soldato di cavalleria",
+              "di fanteria",
+              "di artiglieria",
+              "un corpo di soldati scelti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , chi veniva reclutato, dietro compenso, per combattere al servizio di un sovrano o di uno stato che fossero privi di un esercito nazionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi combatte fervidamente o strenuamente per la difesa di un ideale o di una fede, per l’affermazione di una nobile causa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un soldato della pace",
+              "della libertà",
+              "della giustizia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Zoologia specialmente al , nelle colonie di Imenotteri e di Isotteri, ciascun individuo specializzato nei compiti di difesa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–3",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "4",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Militare di grado inferiore appartenente a un esercito, che presta servizio armato per conto di uno Stato o di un'organizzazione.",
+      "examples": [
+        "I soldati erano schierati lungo il confine in attesa degli ordini.",
+        "Mio nonno era diventato soldato a soli diciassette anni durante la guerra."
+      ],
+      "nota": "Indica il grado militare più basso nella gerarchia dell'esercito, ma viene usato anche in senso generico per riferirsi a qualsiasi membro delle forze armate."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Chi si dedica con disciplina, fedeltà e abnegazione totale a una causa, a un'ideologia o a un'organizzazione, senza mettere in discussione gli ordini ricevuti.",
+      "examples": [
+        "È un soldato del partito: esegue qualsiasi direttiva senza protestare.",
+        "Si considerava un soldato della rivoluzione, pronto a sacrificarsi per i suoi ideali."
+      ],
+      "nota": "Uso figurato, spesso con connotazione critica che implica obbedienza cieca o mancanza di autonomia di giudizio."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Nelle colonie di insetti sociali come formiche e termiti, individuo specializzato nella difesa del gruppo, dotato di caratteristiche morfologiche particolari.",
+      "examples": [
+        "I soldati della colonia di termiti proteggono le operaie mentre costruiscono il nido.",
+        "Le formiche soldato hanno mandibole molto più robuste rispetto alle operaie."
+      ],
+      "nota": "Termine tecnico della biologia entomologica, ma ampiamente diffuso anche nel linguaggio comune."
+    }
+  ]
+}

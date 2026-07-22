@@ -1,0 +1,221 @@
+{
+  "lemma": "ipotesi",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaee569ad0a50d0658df2"
+    },
+    "source": "paraviaXML/60093.xml",
+    "lemma": "ipotesi",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "filosofia",
+              "scientifico"
+            ],
+            "definitions": [
+              {
+                "glossa": "None filosofia scientifico , ciò che è assunto a fondamento di una qualsiasi costruzione di pensiero; nelle scienze deduttive, l’enunciazione dei dati da cui si parte per dimostrare un teorema; nelle scienze operanti o che si ritengono operanti con metodo ipotetico–deduttivo: una proposizione assunta a titolo di principio, senza che sia direttamente dimostrabile vera o falsa, ma tale che se ne deducano proposizioni che siano verificabili o falsificabili",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Supposizione, congettura avanzata per spiegare fatti o fenomeni di cui non si ha una conoscenza certa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "formulare un’ipotesi",
+              "un’ipotesi probabile",
+              "improbabile",
+              "azzardata",
+              "assurda",
+              "restare nel campo delle ipotesi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Eventualità, caso: prospettando l’eventualità più favorevole o sfavorevole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nella migliore",
+              "nella peggiore delle ipotesi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , nell’enunciazione di un teorema, premessa o condizione che si suppone sia vera e da cui si ricava la tesi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "logica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Logica , enunciato che viene assunto per indagarne le conseguenze a prescindere dalla sua eventuale verità",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "grammatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Grammatica ; protasi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "termine biblico",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filologia , breve discorso premesso ad alcuni testi classici antichi per esporne l’argomento e fornire altre notizie",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine biblico , breve introduzione ai vari libri della Bibbia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Supposizione provvisoria formulata per spiegare un fenomeno o un insieme di fatti, che deve essere verificata o confutata attraverso osservazioni o esperimenti.",
+      "examples": [
+        "Gli scienziati hanno avanzato una nuova ipotesi sull'origine dell'universo.",
+        "L'ipotesi del ricercatore è stata confermata dai dati raccolti sul campo."
+      ],
+      "nota": "Termine centrale nel metodo scientifico; si distingue da 'teoria', che indica un'ipotesi già ampiamente verificata e consolidata."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Congettura o supposizione non necessariamente scientifica, formulata in assenza di certezze per orientare un ragionamento o una valutazione.",
+      "examples": [
+        "La mia ipotesi è che abbiano perso il treno, ma non ne sono sicuro.",
+        "Stiamo lavorando sulla sola ipotesi che il colpevole sia qualcuno di interno all'azienda."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Eventualità o caso considerato in astratto, spesso in contesti giuridici, amministrativi o decisionali.",
+      "examples": [
+        "Nell'ipotesi in cui il contratto non venga rinnovato, dovremo trovare un'altra soluzione.",
+        "Il regolamento prevede sanzioni anche nell'ipotesi di inadempienza parziale."
+      ],
+      "nota": "In questa accezione è frequente nelle locuzioni 'nell'ipotesi che', 'in tale ipotesi', tipiche del linguaggio burocratico e giuridico."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Nella logica e nella matematica, premessa o condizione assunta come punto di partenza di una dimostrazione o di un ragionamento deduttivo.",
+      "examples": [
+        "La dimostrazione del teorema si basa su tre ipotesi fondamentali.",
+        "Se l'ipotesi non è verificata, la conclusione non può essere considerata valida."
+      ],
+      "nota": "In matematica si contrappone a 'tesi', che indica invece ciò che si intende dimostrare."
+    }
+  ]
+}

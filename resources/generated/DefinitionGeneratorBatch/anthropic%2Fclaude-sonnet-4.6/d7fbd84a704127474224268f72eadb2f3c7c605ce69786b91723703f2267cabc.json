@@ -1,0 +1,177 @@
+{
+  "lemma": "poeta",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2069ad0a50d065bdf7"
+    },
+    "source": "paraviaXML/84186.xml",
+    "lemma": "poeta",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Autore di componimenti letterari in versi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "poeta lirico",
+              "epico",
+              "classico",
+              "burlesco",
+              "romantico",
+              "moderno",
+              "dialettale"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "antonomasia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per , Dante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il Divino",
+              "il Massimo Poeta"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con funzione appositiva, riferito al nome di uno scrittore, indica l’opera in poesia di tale scrittore specialmente contrapposta all’opera in prosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la produzione completa di Manzoni poeta",
+              "Boccaccio poeta e Boccaccio prosatore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi, scrivendo in versi o in prosa, riesce a esprimere una spiccata originalità artistica interpretando poeticamente la realtà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è un buon verseggiatore ma non certo un poeta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Qualsiasi artista che riesce a infondere nelle proprie opere fantasia creatrice e bellezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un poeta della pittura",
+              "della musica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona dotata di fervida immaginazione e grande sensibilità, che ricerca e ama le cose belle e nobili",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Persona dotata di scarso senso pratico, che vive fuori della realtà e si abbandona facilmente ai sogni e alle fantasticherie",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Chi compone testi in versi, dedicandosi alla scrittura poetica come arte o professione.",
+      "examples": [
+        "Giacomo Leopardi è considerato uno dei più grandi poeti della letteratura italiana.",
+        "Mia sorella è una giovane poeta che ha già pubblicato la sua prima raccolta."
+      ],
+      "nota": "Il femminile può essere 'poeta' (invariato, più tradizionale) o 'poetessa' (forma marcata, talvolta percepita come riduttiva in contesti contemporanei)."
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona dotata di sensibilità creativa e capacità di cogliere la bellezza e il significato profondo delle cose, anche al di fuori della scrittura in versi.",
+      "examples": [
+        "Con quella fotografia ha dimostrato di essere un vero poeta della luce.",
+        "Non serve scrivere versi per essere un poeta: lui lo è nell'anima."
+      ],
+      "nota": "Uso figurato ed estensivo, spesso con valore laudativo. Indica una qualità interiore piuttosto che un'attività letteraria concreta."
+    }
+  ]
+}

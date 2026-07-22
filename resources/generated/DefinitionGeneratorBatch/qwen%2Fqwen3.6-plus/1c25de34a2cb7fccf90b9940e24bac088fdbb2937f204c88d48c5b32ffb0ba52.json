@@ -1,0 +1,175 @@
+{
+  "lemma": "velocità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8169ad0a50d0660ce1"
+    },
+    "source": "paraviaXML/126409.xml",
+    "lemma": "velocità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Caratteristica di persone, animali, oggetti che si muovono in modo veloce; il fare qualcosa o il compiere un tragitto più velocemente della norma",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la velocità di un’automobile",
+              "aumentare",
+              "diminuire velocità",
+              "battere qcn. in velocità"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Molto velocemente; accelerare; decelerare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a grande velocità",
+              "prendere velocità",
+              "perdere velocità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rapidità, sveltezza, prontezza nel fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "velocità nel finire un lavoro",
+              "velocità di azione",
+              "di pensiero",
+              "di riflessi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "fisica"
+            ],
+            "definitions": [
+              {
+                "glossa": "None fisica , rapporto fra lo spazio percorso e il tempo impiegato a percorrerlo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "viaggiare alla velocità media di 100 km l’ora"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , grandezza che misura la distanza percorsa nell’unità di tempo ( simb. None v)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Negli autoveicoli, marcia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mettere la prima",
+              "la terza velocità",
+              "un’auto a cinque velocità"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Grandezza che esprime la misura dello spazio percorso da un corpo in una determinata unità di tempo.",
+      "examples": [
+        "L'auto ha superato il limite massimo di velocità consentito in autostrada.",
+        "La velocità delle onde sonore varia a seconda del mezzo in cui si propagano."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Qualità di chi o di ciò che compie un'azione, un'operazione o un processo in un tempo molto breve.",
+      "examples": [
+        "La velocità di elaborazione dei dati ha ridotto drasticamente i tempi di attesa dei clienti.",
+        "Ha dimostrato grande prontezza e celerità nel trovare una soluzione al problema imprevisto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Ciascuno dei rapporti di trasmissione disponibili in un cambio meccanico, selezionabile per adattare la potenza erogata alle condizioni di marcia.",
+      "examples": [
+        "La mountain bike ha ventiquattro rapporti per affrontare senza fatica anche le salite più ripide.",
+        "Prima di entrare in città, ti conviene scalare di marcia per risparmiare carburante."
+      ],
+      "nota": "Accezione tipica del linguaggio ciclistico; in ambito automobilistico il concetto equivalente è comunemente espresso con 'marcia', mentre qui è stato usato 'rapporto' e 'marcia' negli esempi per evitare il lemma e mostrare il contesto d'uso."
+    }
+  ]
+}

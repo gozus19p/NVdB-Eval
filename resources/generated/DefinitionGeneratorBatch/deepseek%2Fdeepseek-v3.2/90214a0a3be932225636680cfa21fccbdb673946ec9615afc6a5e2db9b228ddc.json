@@ -1,0 +1,560 @@
+{
+  "lemma": "tono",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6869ad0a50d065f965"
+    },
+    "source": "paraviaXML/121003.xml",
+    "lemma": "tono",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intensità, grado di elevazione di un suono o della voce",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tono acuto",
+              "grave",
+              "il tono del segnale acustico",
+              "abbassa il t., non sono sordo!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , onda acustica con oscillazioni sinusoidali di frequenza costante",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Modulazione, intonazione, espressione della voce che spesso rivela il carattere o il contenuto del discorso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare con tono arrogante",
+              "ironico",
+              "suadente",
+              "supplichevole",
+              "avere un tono di minaccia",
+              "di scherno",
+              "non usare questo t.!"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dimostrando di offendersi o rispondendo con parole offensive",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prenderla su un certo tono"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Stile, carattere, aspetto generale di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vestire in tono dimesso",
+              "elegante",
+              "un albergo di tono elevato"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Elegante, di classe",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "di tono"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Livello, tenore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere un tono di vita elevato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme degli aspetti formali e contenutistici che connotano un discorso, uno scritto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una prosa di tono lirico",
+              "un saggio di tono aulico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "musica"
+            ],
+            "definitions": [
+              {
+                "glossa": "Musica ; tonalità",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dare l’intonazione; stonare; essere stordito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare un tono",
+              "il tono",
+              "essere fuori tono"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , in una scala diatonica, l’intervallo più grande che intercorre tra due gradi congiunti di essa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4c",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , nel canto gregoriano, formula esecutiva consistente in un tipo di recitazione gravitante su una nota compresa in un sistema di otto modi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tono di recita",
+              "di preghiera",
+              "salmodico",
+              "responsoriale"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Modo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "TS",
+        "field": "linguistica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica ; accento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "TS",
+        "field": "linguistica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , accento musicale che, in alcune lingue come il cinese, serve a distinguere significanti diversi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sfumatura di colore, tonalità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un tono di rosa pallido",
+              "acceso",
+              "abbinare toni caldi a toni freddi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arte, nelle arti figurative, il colore considerato nella sua gradazione di luce, di chiaroscuro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prevalere di toni scuri",
+              "chiari"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7b",
+        "usage": "TS",
+        "field": "fotografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fotografia , in un’immagine fotografica, livello di saturazione di un colore o della scala dei grigi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "tipografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipografia , grado di maggiore o minore chiarezza dei caratteri, determinata dallo spessore delle aste che ne costituiscono l’occhio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "caratteri di tono chiaro",
+              "scuro",
+              "nero",
+              "grassetto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che appare scuro su fondo chiaro; che appare chiaro su fondo scuro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tono positivo",
+              "tono negativo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "CO",
+        "field": "fisiologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisiologia , grado di vigore ed elasticità di tessuti e organi in virtù del quale questi mantengono la loro forma e funzionalità",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Senso di benessere e vigore psicofisico; tonicità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "perdere",
+              "acquistare tono",
+              "uno spuntino ti darà tono"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stare bene, sentirsi in forma; liscia ed elastica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sentirsi in tono",
+              "una pelle ricca di tono"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "botanica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica , in fisiologia vegetale, stato di eccitazione di un organismo vegetale, condizionato da stimoli interni o esterni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ordine, regola",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Altezza o intensità di un suono o della voce umana.",
+      "examples": [
+        "Il cantante ha un tono di voce molto acuto.",
+        "Abbassa il tono, stai parlando troppo forte."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Modo di esprimersi che rivela un particolare atteggiamento o stato d'animo.",
+      "examples": [
+        "Mi rispose con un tono seccato.",
+        "L'articolo aveva un tono rassicurante verso i cittadini."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Livello di intensità, qualità o valore di qualcosa.",
+      "examples": [
+        "L'incontro ha alzato il tono del dibattito politico.",
+        "A quella cena il tono gastronomico era altissimo."
+      ],
+      "nota": "In questa accezione si riferisce spesso ad attività culturali, sociali o qualitative."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Livello di tensione o contrazione di un muscolo o di un tessuto organico.",
+      "examples": [
+        "Il medico ha verificato il tono muscolare del paziente.",
+        "Per mantenere un buon tono della pelle è importante idratarsi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Grado di chiarezza e intensità di un colore.",
+      "examples": [
+        "Ho scelto un tono di blu più chiaro per le pareti.",
+        "I toni caldi del tramonto erano spettacolari."
+      ],
+      "nota": null
+    }
+  ]
+}

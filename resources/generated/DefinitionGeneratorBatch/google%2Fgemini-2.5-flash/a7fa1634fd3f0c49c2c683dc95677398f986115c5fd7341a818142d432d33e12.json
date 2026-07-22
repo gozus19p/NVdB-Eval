@@ -1,0 +1,416 @@
+{
+  "lemma": "bagno",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7d69ad0a50d065374f"
+    },
+    "source": "paraviaXML/11730.xml",
+    "lemma": "bagno",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’immergersi nell’acqua, specialmente del mare, di un lago e simile , per ottenere refrigerio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare il bagno al largo, in piscina, nel fiume",
+              "è iniziata la stagione dei bagni"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In acque termali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bagni termali"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lavaggio integrale della persona compiuto immergendosi in acqua",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare, prendere un bagno",
+              "preferisco il bagno alla doccia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’acqua stessa in cui ci si immerge",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "preparare un bagno caldo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Molto sudato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere in un bagno di sudore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "TS",
+        "field": "medicina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina , pratica terapeutica di immersione in acqua o in altri liquidi in cui sono disciolte sostanze medicamentose; l’acqua o il liquido stesso in cui ci si immerge",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bagno antisettico, medicato, stimolante"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Applicazione sul corpo di sostanze solide o di pezze intrise di medicamenti a scopo curativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bagni di sabbia, di fango"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prolungata esposizione del corpo all’aria, alla luce o in un ambiente saturo di vapori a scopo terapeutico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bagni di sole, di aria, di vapore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "usage": "TS",
+        "field": "scientifico",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia scientifico , immersione di un oggetto in una soluzione per sottoporlo a vari trattamenti; la soluzione stessa in cui si immerge",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bagno di nichelatura",
+              "bagno di tintura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1e",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Profondo coinvolgimento in una situazione, un problema e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un bagno nella cultura francese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stanza con apparecchi igienici, gabinetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bagno padronale",
+              "bagno di servizio",
+              "una casa con doppi bagni"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vasca da bagno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , stabilimento balneare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i bagni Regina Giovanna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , stabilimento termale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , stazione balneare, marina o termale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lasciando immerso nell’acqua, specialmente per pulire, dissalare, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mettere",
+              "tenere a bagno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In acqua",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la barca si è rovesciata e siamo finiti a bagno"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In una situazione di grave passivo finanziario",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha sbagliato un investimento ed è finito a bagno"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Azione del lavarsi o immergersi in un liquido, generalmente acqua, per motivi di igiene, piacere o terapeutici.",
+      "examples": [
+        "Dopo una lunga giornata di lavoro, un bel bagno caldo è quello che ci vuole.",
+        "Il bambino si diverte sempre a fare il bagno con tanti giocattoli."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Locale di un'abitazione destinato all'igiene personale, solitamente attrezzato con lavabo, vasca o doccia e servizi igienici.",
+      "examples": [
+        "Ho lasciato le chiavi sul tavolo del bagno, per favore prendile.",
+        "Il nostro appartamento ha due bagni, uno principale e uno di servizio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Stabilimento balneare o area attrezzata su una spiaggia o in prossimità di una piscina, dove si può fare il bagno.",
+      "examples": [
+        "Andiamo al bagno 3 quest'estate, è molto ben organizzato.",
+        "Il bagno pubblico è stato chiuso per manutenzione straordinaria."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Fenomeno meteorologico che indica la caduta di una quantità significativa di pioggia, spesso intensa e improvvisa.",
+      "examples": [
+        "Siamo stati sorpresi da un bagno di pioggia mentre eravamo in bicicletta.",
+        "Prima di uscire, guarda le previsioni, potremmo prendere un bagno."
+      ],
+      "nota": "Uso figurato per indicare una pioggia abbondante."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Immersione in una grande quantità di qualcosa, spesso in senso figurato, che può essere piacevole o sgradevole.",
+      "examples": [
+        "L'attrice è stata accolta da un bagno di folla entusiasta.",
+        "Dopo la brutta figura, il politico ha fatto un bagno di umiltà."
+      ],
+      "nota": "Sottolinea l'idea di essere completamente circondati o sommersi da qualcosa."
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "lemma": "incontro",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaede69ad0a50d0658816"
+    },
+    "source": "paraviaXML/55197.xml",
+    "lemma": "incontro",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’incontrare, l’incontrarsi di due o più persone, specialmente casuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "incontro fortuito",
+              "gradito",
+              "inopportuno"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Imbattersi in un malvivente, in un tipo pericoloso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare un brutto incontro"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Appuntamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ritardare a un incontro",
+              "rimandare un incontro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Riunione: convegno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’incontro con il consiglio di amministrazione è stato fissato per martedì",
+              "incontro internazionale",
+              "di cardiologia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Gara, competizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "incontro di calcio",
+              "di tennis",
+              "disputare",
+              "vincere",
+              "perdere un incontro"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Scontro, specialmente tra forze armate o tra duellanti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il punto in cui due strade, due fiumi e simile si incontrano",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica : punto, retta in cui due enti geometrici s’incontrano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "punto",
+              "retta d’incontro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Successo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "trovare",
+              "avere incontro",
+              "moda",
+              "musica di grande",
+              "poco incontro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Circostanza, evenienza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale controdote",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Appuntamento o riunione programmata tra due o più persone",
+      "examples": [
+        "Ho un incontro di lavoro alle 15.",
+        "L'incontro di amici è stato fissato per sabato sera."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Incontro sportivo tra due squadre o atleti",
+      "examples": [
+        "La partita di calcio è stata un incontro molto intenso.",
+        "L'incontro di boxe sarà trasmesso in diretta televisiva."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Incontrarsi, cioè imbattersi o riunirsi",
+      "examples": [
+        "Ci incontriamo sempre alla stessa ora.",
+        "I due amici si incontrarono per caso in città."
+      ],
+      "nota": null
+    }
+  ]
+}

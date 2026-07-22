@@ -1,0 +1,145 @@
+{
+  "lemma": "frase",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaecb69ad0a50d06578a6"
+    },
+    "source": "paraviaXML/45894.xml",
+    "lemma": "frase",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Espressione linguistica dotata di senso compiuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frase interrogativa",
+              "frase esclamativa",
+              "imperativa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , sequenza di lessemi o, secondo un’altra terminologia, di morfi, specialmente sintatticamente connessi, prevista dal sistema linguistico e tale da poter essere realizzata dando luogo a un enunciato di senso compiuto e da risultare relativamente indipendente da altre eventuali sequenze di uno stesso testo o di uno scambio dialogico; nella grammatica generativa, unione di un sintagma nominale e di un sintagma verbale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Espressione, locuzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una frase gentile",
+              "senza senso",
+              "di circostanza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , parte del discorso musicale costituita dall’ordinato raggruppamento di più nuclei melodici e avente senso più o meno compiuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , successione finita di simboli che rappresenta un’istruzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Unità linguistica di base, composta da una o più parole disposte secondo le regole sintattiche di una lingua, che veicola un messaggio autonomo e si conclude tipicamente con una pausa intonativa forte o un segno di punteggiatura terminale.",
+      "examples": [
+        "Il linguista ha analizzato la struttura della sequenza per identificarne soggetto e predicato.",
+        "Prima di concludere la relazione, verifica che ogni periodo sia grammaticalmente corretto e ben punteggiato."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Sezione autonoma all'interno di un brano musicale, caratterizzata da una progressione di note e motivi che formano un'unità espressiva, ritmica e melodica compiuta.",
+      "examples": [
+        "Il direttore d'orchestra ha chiesto ai violini di suonare quella sezione con maggiore delicatezza e respiro.",
+        "La composizione si chiude con una breve sequenza tematica che riprende il motivo iniziale in modo più solenne."
+      ],
+      "nota": "Nella terminologia musicale, corrisponde funzionalmente al periodo linguistico, segnando un'unità di senso compiuta attraverso cadenze armoniche e melodiche."
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Enunciato breve, spesso ricercato o memorabile, impiegato per comunicare un'idea, una massima, un sentimento o un giudizio con particolare efficacia comunicativa o stilistica.",
+      "examples": [
+        "La sua conferenza era costellata di battute ad effetto, ma priva di contenuti sostanziali.",
+        "Quella riflessione dell'autore è diventata una citazione ricorrente tra gli appassionati di letteratura."
+      ],
+      "nota": "Nell'uso pragmatico contemporaneo assume frequentemente una connotazione dispregiativa quando indica parole vuote, formule retoriche o discorsi pomposi privi di sostanza."
+    }
+  ]
+}

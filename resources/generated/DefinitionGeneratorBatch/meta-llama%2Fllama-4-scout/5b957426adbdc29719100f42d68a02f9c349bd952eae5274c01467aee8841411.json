@@ -1,0 +1,206 @@
+{
+  "lemma": "spettacolo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5669ad0a50d065ea32"
+    },
+    "source": "paraviaXML/112748.xml",
+    "lemma": "spettacolo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rappresentazione, manifestazione, specialmente di tipo teatrale, cinematografico, televisivo, eccetera , che si svolge davanti a un pubblico appositamente convenuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "spettacolo lirico",
+              "musicale",
+              "di varietà",
+              "di balletto",
+              "di burattini"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con fuochi d’artificio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "spettacolo pirotecnico",
+              "pirico",
+              "uno spettacolo divertente",
+              "noioso"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione , che è stato trasformato in una sorta di rappresentazione che ne fa risaltare solo gli aspetti più sensazionali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "politica",
+              "informazione",
+              "cultura spettacolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle identiche rappresentazioni facenti parte di una serie programmata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la compagnia darà solo tre spettacoli",
+              "andare al cinema all’ultimo spettacolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , insieme delle attività attinenti cinema, teatro, televisione, eccetera e delle persone che vi lavorano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mondo",
+              "l’industria dello spettacolo",
+              "gente di spettacolo",
+              "lavorare nello spettacolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che colpisce o impressiona in quanto straordinario, impressionante, curioso, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo spettacolo del tramonto",
+              "quelle cascate sono un vero spettacolo",
+              "è uno spettacolo vederli litigare!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Folla di spettatori",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1a,1b,2,3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "evento o programma di intrattenimento pubblico, come un concerto, un film, una rappresentazione teatrale o uno spettacolo televisivo",
+      "examples": [
+        "Lo spettacolo di stasera è sold out.",
+        "Il teatro offre uno spettacolo di danza classica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "ciò che è visibile o osservabile, come una vista o un panorama",
+      "examples": [
+        "La vista dalla finestra è uno spettacolo meraviglioso.",
+        "Il tramonto è uno spettacolo naturale."
+      ],
+      "nota": null
+    }
+  ]
+}

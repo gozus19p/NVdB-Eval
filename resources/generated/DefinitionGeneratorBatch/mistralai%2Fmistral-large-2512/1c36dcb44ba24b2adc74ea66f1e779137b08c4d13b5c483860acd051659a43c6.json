@@ -1,0 +1,218 @@
+{
+  "lemma": "americano",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a568"
+    },
+    "source": "paraviaXML/4877.xml",
+    "lemma": "americano",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo all’America",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "continente americano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Degli Stati Uniti d’America",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante dell’America, specialmente degli Stati Uniti d’America",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’inglese parlato nell’America del Nord",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Aperitivo a base di vermouth rosso, bitter, scorza di limone o arancia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "amministrazione",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Amministrazione , giornale mastro che riporta gli sviluppi dei singoli mastrini",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3–5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "relativo agli Stati Uniti d'America o ai suoi abitanti",
+      "examples": [
+        "Ha studiato la letteratura americana all'università.",
+        "Il cinema americano ha influenzato molte culture nel mondo."
+      ],
+      "nota": "Può riferirsi anche a tutto il continente americano, ma nell'uso contemporaneo prevale il riferimento agli Stati Uniti. In caso di ambiguità, si specifica 'statunitense'."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "tipico o caratteristico degli Stati Uniti d'America",
+      "examples": [
+        "Mi piace il sogno americano, ma non la sua versione più materialista.",
+        "Hanno aperto un ristorante con un menu completamente americano."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "persona originaria o cittadina degli Stati Uniti d'America",
+      "examples": [
+        "Gli americani sono spesso molto patriottici.",
+        "Ha sposato un americano e si è trasferita a New York."
+      ],
+      "nota": "Al femminile si usa 'americana'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "tipo di caffè lungo, preparato con acqua calda e una dose di espresso",
+      "examples": [
+        "Al bar ho ordinato un americano con un po' di latte.",
+        "Preferisco l'americano al caffè normale perché è meno forte."
+      ],
+      "nota": "Chiamato così per la sua somiglianza con il caffè filtrato tipico degli Stati Uniti."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "gioco di carte simile al bridge, ma con regole semplificate",
+      "examples": [
+        "Dopo cena abbiamo giocato a americano fino a tardi.",
+        "Non conosco bene le regole dell'americano, me le spieghi?"
+      ],
+      "nota": "Detto anche 'ramino americano' o semplicemente 'ramino'."
+    }
+  ]
+}

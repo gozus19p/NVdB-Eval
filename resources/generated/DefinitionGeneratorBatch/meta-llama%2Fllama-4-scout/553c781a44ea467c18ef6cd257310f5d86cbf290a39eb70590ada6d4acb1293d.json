@@ -1,0 +1,91 @@
+{
+  "lemma": "comunista",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0869ad0a50d064bfae"
+    },
+    "source": "paraviaXML/25291.xml",
+    "lemma": "comunista",
+    "grammar": [
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo al comunismo, ai comunisti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "movimento",
+              "paese comunista",
+              "idee comuniste",
+              "principi comunisti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi crede, aderisce alla teoria del comunismo o chi fa parte di un partito che vi si ispira",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un militante",
+              "un simpatizzante comunista"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "relativo al comunismo, che sostiene o si ispira ai principi del comunismo",
+      "examples": [
+        "Il partito comunista ha ottenuto pochi voti alle elezioni.",
+        "La rivoluzione comunista in Cina ebbe inizio nel 1927."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "persona che sostiene o pratica il comunismo",
+      "examples": [
+        "Il comunista era un acceso sostenitore dell'abolizione delle classi sociali.",
+        "I comunisti erano molto attivi nel movimento sindacale."
+      ],
+      "nota": null
+    }
+  ]
+}

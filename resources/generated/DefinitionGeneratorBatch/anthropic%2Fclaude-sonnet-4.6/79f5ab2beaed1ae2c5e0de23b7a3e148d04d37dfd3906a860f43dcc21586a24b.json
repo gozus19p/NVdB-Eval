@@ -1,0 +1,273 @@
+{
+  "lemma": "minuto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaefe69ad0a50d065a2b9"
+    },
+    "source": "paraviaXML/70247.xml",
+    "lemma": "minuto",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simbolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Unità di tempo corrispondente alla sessantesima parte dell’ora solare media, nonché a sessanta secondi ( abbr. min. simbolo None m)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono le ore nove, dieci minuti e tredici secondi",
+              "dovrebbe arrivare fra una ventina di minuti",
+              "la lancetta dei minuti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Brevissimo spazio di tempo, momento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è questione di un minuto",
+              "un minuto e arrivo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Essere tanto occupati da non poter fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non avere",
+              "non trovare un minuto di tempo per qcs."
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Essere continuamente assillati da impegni, preoccupazioni o simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non avere",
+              "non trovare un minuto di pace",
+              "di tregua"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere attivissimi o irrequieti; trovarsi nella necessità di agire tempestivamente; molto spesso, ripetutamente, continuamente; agire tempestivamente o impegnarsi in un’attività febbrile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non stare fermi un minuto",
+              "non avere",
+              "non esserci un minuto da perdere",
+              "ogni minuto",
+              "ogni mezzo minuto",
+              "non perdere un minuto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "geometria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geometria ; primo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport ; sospensione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "metrologia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Metrologia , unità di misura della superficie usata anticamente nello Stato Pontificio; unità di misura della lunghezza che equivaleva a un quinto di oncia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fra breve, tra poco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "deve arrivare da un minuto all’altro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "All’improvviso, improvvisamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha cambiato idea da un minuto all’al-tro"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Unità di misura del tempo pari a sessanta secondi, corrispondente alla sessantesima parte di un'ora.",
+      "examples": [
+        "Il treno parte tra dieci minuti, sbrigati.",
+        "La riunione è durata esattamente quarantacinque minuti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Unità di misura degli angoli pari alla sessantesima parte di un grado.",
+      "examples": [
+        "L'angolo misura trenta gradi e quindici minuti.",
+        "In navigazione è fondamentale calcolare con precisione i minuti d'arco."
+      ],
+      "nota": "Detto anche 'minuto d'arco' o 'primo', in contrapposizione al 'secondo' che ne è la sessantesima parte."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Di dimensioni molto piccole, di grandezza ridotta al minimo.",
+      "examples": [
+        "Il gioielliere esaminava i minuti ingranaggi dell'orologio con la lente d'ingrandimento.",
+        "Le minute particelle di polvere erano visibili solo al microscopio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Di corporatura esile e delicata, riferito a persone di costituzione fisica gracile e sottile.",
+      "examples": [
+        "Era una donna minuta, ma di carattere straordinariamente forte.",
+        "Il ragazzo era così minuto che sembrava più giovane della sua età."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Accurato, dettagliato, attento ai più piccoli particolari, detto di analisi, descrizioni o lavori.",
+      "examples": [
+        "Ha condotto un'analisi minuta di ogni clausola del contratto.",
+        "La sua descrizione minuta dei luoghi lasciava poco spazio all'immaginazione."
+      ],
+      "nota": "In questo senso è spesso utilizzato in contesti formali o letterari."
+    }
+  ]
+}

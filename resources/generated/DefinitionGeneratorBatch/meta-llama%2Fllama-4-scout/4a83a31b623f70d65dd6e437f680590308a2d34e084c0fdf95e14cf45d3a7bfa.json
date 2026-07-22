@@ -1,0 +1,82 @@
+{
+  "lemma": "avvenire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa569ad0a50d0662965"
+    },
+    "source": "paraviaXML/11088.xml",
+    "lemma": "avvenire",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "avvenire-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "proposizione",
+          "locuzione congiuntivale",
+          "locuzione congiuntivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accadere, succedere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvenne l’imprevisto",
+              "sono avvenuti fatti terribili",
+              "andrò, avvenga quel che vuole"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "impersonale",
+              "variante",
+              "variante"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impersonale , introduce soggettive: variante ; avvegnaché None variante ; avvegnaché.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avviene di incontrare per caso qcn."
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "futuro, periodo di tempo che verrà",
+      "examples": [
+        "Dobbiamo pensare all'avvenire dei nostri figli.",
+        "L'avvenire della tecnologia è incerto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "accadere, succedere, capitare",
+      "examples": [
+        "Che cosa è avvenuto ieri sera?",
+        "Avvenne un grande terremoto."
+      ],
+      "nota": null
+    }
+  ]
+}

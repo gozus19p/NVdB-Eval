@@ -1,0 +1,187 @@
+{
+  "lemma": "laboratorio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaee869ad0a50d0659029"
+    },
+    "source": "paraviaXML/61621.xml",
+    "lemma": "laboratorio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Locale dotato di apposite apparecchiature per ricerche ed esperimenti scientifici",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "laboratorio chimico",
+              "farmaceutico",
+              "laboratorio di analisi mediche"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Utilizzati per tali esperimenti ( abbr. lab.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ricerche di laboratorio",
+              "prova di laboratorio",
+              "esperimenti di laboratorio",
+              "animali da laboratorio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Officina in cui si svolgono attività artigianali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "laboratorio di restauro",
+              "di sartoria",
+              "laboratorio orafo",
+              "il laboratorio di un tappezziere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "generalmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Locale annesso a un negozio dove si eseguono particolari operazioni, generalmente riparazioni o modifiche, sulle merci in vendita o su merci e oggetti già di proprietà dei clienti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "laboratorio di riparazioni di apparecchiature stereo",
+              "laboratorio fotografico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Luogo in cui si elaborano e si producono esperienze innovative dal punto di vista artistico o culturale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "laboratorio teatrale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "industria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Industria , parte di un forno industriale in cui si immette il materiale da lavorare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Struttura o ambiente dotato di attrezzature specializzate in cui vengono condotti esperimenti, analisi scientifiche e ricerche di carattere tecnologico o accademico.",
+      "examples": [
+        "I ricercatori hanno isolato il nuovo ceppo batterico nel laboratorio di microbiologia.",
+        "Prima di autorizzare la commercializzazione, il farmaco è stato testato in un laboratorio indipendente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Officina o bottega di dimensioni contenute dove artigiani o tecnici producono, assemblano o riparano manufatti, spesso su misura o in serie limitate.",
+      "examples": [
+        "L'orologiaio ha aperto il suo laboratorio al pubblico per mostrare le fasi di restauro dei meccanismi antichi.",
+        "In quel piccolo atelier si confezionano su richiesta borse e accessori in cuoio lavorato a mano."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Aula o spazio all'interno di un istituto scolastico o formativo, allestito per permettere agli allievi di svolgere esercitazioni pratiche, sperimentazioni guidate o progetti collaborativi.",
+      "examples": [
+        "Le classi quinte trascorrono il pomeriggio nel laboratorio di informatica a imparare le basi della programmazione.",
+        "La docente ha organizzato un percorso di scrittura creativa trasformando la lezione tradizionale in un'attività pratica."
+      ],
+      "nota": "Indica frequentemente un approccio didattico centrato sull'apprendimento attivo e sulla sperimentazione diretta (es. didattica laboratoriale)."
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Contesto, area geografica o periodo storico caratterizzato dalla sperimentazione attiva di nuove idee, tendenze culturali o modelli sociali, anticipandone la diffusione su scala più ampia.",
+      "examples": [
+        "Il quartiere è diventato un laboratorio urbano per progetti di rigenerazione e inclusione sociale.",
+        "Gli anni Settanta sono stati un vero e proprio laboratorio politico che ha plasmato il sindacalismo moderno."
+      ],
+      "nota": null
+    }
+  ]
+}

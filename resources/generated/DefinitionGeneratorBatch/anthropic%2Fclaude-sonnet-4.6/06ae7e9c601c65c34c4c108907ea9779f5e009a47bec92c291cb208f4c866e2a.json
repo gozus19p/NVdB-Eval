@@ -1,0 +1,194 @@
+{
+  "lemma": "verità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8269ad0a50d0660d96"
+    },
+    "source": "paraviaXML/126845.xml",
+    "lemma": "verità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’essere vero, caratteristica di ciò che è conforme alla realtà: anche in funzione inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "verità di una notizia",
+              "non credere alla verità di un’affermazione",
+              "libro verità",
+              "televisione verità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione pragmatica"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che è vero in senso assoluto o in relazione con determinati fatti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la ricerca della verità",
+              "sapere",
+              "ignorare la verità",
+              "tacere",
+              "dire la verità",
+              "la pura",
+              "la sacrosanta verità",
+              "tutta la verità"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "In , per invitare qualcuno a parlare senza reticenze; per attenuare un’affermazione, un giudizio precedente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "di’",
+              "dica",
+              "dite la verità",
+              "a dire la verità",
+              "per dire la verità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Affermazione o conoscenza che corrisponde a un concetto ideale del vero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le verità della fede",
+              "della scienza",
+              "una verità indiscutibile",
+              "incontestabile",
+              "dire una grande",
+              "una profonda verità"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Un’asserzione non completamente vera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una mezza verità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sincerità, buonafede",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Corrispondenza tra un'affermazione o un pensiero e la realtà dei fatti; ciò che è conforme a come le cose stanno effettivamente.",
+      "examples": [
+        "Dopo anni di bugie, finalmente è emersa la verità su quella notte.",
+        "Il testimone giurò di dire tutta la verità davanti al giudice."
+      ],
+      "nota": "In questo senso si contrappone a 'menzogna', 'bugia', 'falsità'. Può essere usato con l'articolo determinativo ('la verità') per riferirsi a una verità specifica e nota ai parlanti, o con l'indeterminativo ('una verità') per indicare un fatto vero tra altri possibili."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Principio, affermazione o convinzione considerata universalmente o assolutamente valida, indipendentemente dal contesto.",
+      "examples": [
+        "Le verità matematiche non dipendono dall'opinione di nessuno.",
+        "Quel filosofo sosteneva che non esistono verità assolute."
+      ],
+      "nota": "Spesso usato al plurale ('verità') per indicare principi fondamentali o assiomi, anche in ambito morale, religioso o scientifico."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Dichiarazione sincera e diretta di qualcosa che può essere scomodo o difficile da sentire; ciò che si pensa realmente senza reticenze.",
+      "examples": [
+        "Ti dico una verità che forse non vuoi sentire: il tuo progetto ha delle lacune serie.",
+        "Ha avuto il coraggio di dire la verità ai suoi amici, anche a costo di perderli."
+      ],
+      "nota": "In questo uso è frequente l'espressione 'dire la verità' con valore pragmatico di franchezza. Si avvicina semanticamente a 'sincerità' e 'franchezza'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Qualità di ciò che appare autentico, genuino e privo di artificiosità, specialmente in ambito artistico o espressivo.",
+      "examples": [
+        "La recitazione di quella giovane attrice aveva una verità rara, difficile da trovare sui palcoscenici di oggi.",
+        "Il romanzo colpisce per la verità dei personaggi, descritti con grande realismo."
+      ],
+      "nota": "Uso prevalentemente critico-estetico, riferito a opere d'arte, performance o rappresentazioni. Sinonimo parziale di 'autenticità', 'veridicità'."
+    }
+  ]
+}

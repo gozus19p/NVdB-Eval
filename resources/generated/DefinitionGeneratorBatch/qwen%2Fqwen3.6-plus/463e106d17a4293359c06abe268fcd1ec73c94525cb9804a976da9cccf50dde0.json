@@ -1,0 +1,73 @@
+{
+  "lemma": "ristorante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3869ad0a50d065d1cd"
+    },
+    "source": "paraviaXML/98171.xml",
+    "lemma": "ristorante",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "ristorante-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Locale pubblico in cui si cucinano, si servono e si consumano ai tavoli pasti completi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ristorante di lusso",
+              "tipico",
+              "cinese",
+              "messicano",
+              "andare",
+              "cenare al ristorante"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "albergo",
+              "caffè ristorante"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Locale pubblico autorizzato e attrezzato con cucina dove si preparano e si somministrano pasti e bevande ai clienti per il consumo in loco, generalmente dietro pagamento.",
+      "examples": [
+        "Per festeggiare la promozione abbiamo prenotato un tavolo in un ristorante tipico di montagna.",
+        "Il ristorante dell'aeroporto rimane aperto ventiquattr'ore per servire i passeggeri in transito."
+      ],
+      "nota": null
+    }
+  ]
+}

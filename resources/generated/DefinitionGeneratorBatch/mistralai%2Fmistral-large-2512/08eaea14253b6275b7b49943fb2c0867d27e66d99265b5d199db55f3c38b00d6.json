@@ -1,0 +1,145 @@
+{
+  "lemma": "frase",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaecb69ad0a50d06578a6"
+    },
+    "source": "paraviaXML/45894.xml",
+    "lemma": "frase",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Espressione linguistica dotata di senso compiuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frase interrogativa",
+              "frase esclamativa",
+              "imperativa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , sequenza di lessemi o, secondo un’altra terminologia, di morfi, specialmente sintatticamente connessi, prevista dal sistema linguistico e tale da poter essere realizzata dando luogo a un enunciato di senso compiuto e da risultare relativamente indipendente da altre eventuali sequenze di uno stesso testo o di uno scambio dialogico; nella grammatica generativa, unione di un sintagma nominale e di un sintagma verbale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Espressione, locuzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una frase gentile",
+              "senza senso",
+              "di circostanza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , parte del discorso musicale costituita dall’ordinato raggruppamento di più nuclei melodici e avente senso più o meno compiuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , successione finita di simboli che rappresenta un’istruzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme di parole che esprime un pensiero compiuto, dotato di senso logico e grammaticale.",
+      "examples": [
+        "Ha scritto una frase molto lunga e complicata sul tema della libertà.",
+        "Il professore ha chiesto agli studenti di analizzare la struttura della frase."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Espressione breve e memorabile, spesso usata come motto o citazione.",
+      "examples": [
+        "La frase 'Penso, dunque sono' è famosa in tutto il mondo.",
+        "Ha inciso una frase motivazionale sulla parete della sua stanza."
+      ],
+      "nota": "In questo senso, si riferisce spesso a enunciati di particolare efficacia comunicativa o valore simbolico."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Modo di esprimersi tipico di una persona o di un gruppo, spesso caratterizzato da particolari scelte lessicali o sintattiche.",
+      "examples": [
+        "Riconosco subito la sua frase contorta e piena di subordinate.",
+        "Nella sua email ha usato una frase molto formale, quasi burocratica."
+      ],
+      "nota": "Può avere una connotazione neutra o leggermente critica, a seconda del contesto."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "lemma": "sport",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6c69ad0a50d06528e9"
+    },
+    "source": "paraviaXML/113474.xml",
+    "lemma": "sport",
+    "grammar": [
+      "s.m.inv.",
+      "agg.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Attività fisica volta a mantenere in efficienza il corpo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "praticare dello sport"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle discipline sportive ( e l’insieme degli esercizi atletici e delle gare che le contraddistinguono) praticate individualmente o in gruppo nel rispetto di regole codificate, con intenti ludici o agonistici",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sport dilettantistico",
+              "professionistico",
+              "sport individuale",
+              "a squadre",
+              "lo sport del calcio",
+              "del tennis",
+              "del nuoto"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "esempio",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Quelli praticati a contatto con l’acqua, come ad esempio nuoto, vela, sci d’acqua, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sport acquatici"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "esempio",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Quelli praticati sulla neve o sul ghiaccio, come ad esempio sci, bob, pattinaggio, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sport invernali"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quelli praticati su auto o moto da corsa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sport motoristici"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di vettura, che ha prestazioni tecniche più brillanti rispetto alla versione normale e una linea che richiama quella delle auto da corsa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "modello sport"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Attività fisica o mentale svolta in modo competitivo o ricreativo, individuale o di squadra, secondo regole stabilite.",
+      "examples": [
+        "Il calcio è uno sport molto popolare.",
+        "La pratica dello sport fa bene alla salute."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Attività o passatempo che richiede abilità, destrezza o resistenza, anche se non è un'attività fisica.",
+      "examples": [
+        "La diplomazia è uno sport difficile.",
+        "La politica può essere uno sport senza regole."
+      ],
+      "nota": null
+    }
+  ]
+}

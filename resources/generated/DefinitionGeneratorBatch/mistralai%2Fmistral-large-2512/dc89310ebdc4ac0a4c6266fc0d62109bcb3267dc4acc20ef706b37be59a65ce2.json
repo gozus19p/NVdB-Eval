@@ -1,0 +1,223 @@
+{
+  "lemma": "promettere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc969ad0a50d066468d"
+    },
+    "source": "paraviaXML/87609.xml",
+    "lemma": "promettere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Assicurare l’assolvimento di un impegno preso, di una promessa fatta: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "promettere una ricompensa",
+              "gli ho promesso un gelato",
+              "ti prometto che verrò",
+              "non puoi tirarti indietro, hai promesso!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Manifestare l’intenzione di compiere qualcosa di sgradito ad altri, specialmente minacciando una punizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo è il ceffone che ti avevo promesso!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Assumere un impegno nei confronti di una divinità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "promettere davanti a Dio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Contrarre un obbligo in forma solenne, anche mediante giuramento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "promise davanti ai testimoni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Far prevedere determinati sviluppi, sia positivi che negativi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "oggi il tempo promette sereno",
+              "la stagione promette un raccolto abbondante",
+              "la situazione non promette nulla di buono"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Far presagire di essere particolarmente dotati in un lavoro, in un’attività, in uno sport e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo ragazzo promette bene",
+              "promette di diventare una grande ballerina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Assicurare, render certo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Impegnarsi a fare o dare qualcosa a qualcuno in futuro.",
+      "examples": [
+        "Mi ha promesso che mi aiuterà con il trasloco.",
+        "Hanno promesso un aumento di stipendio a tutti i dipendenti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Dare buone speranze o aspettative, spesso riferito a qualità o risultati futuri.",
+      "examples": [
+        "Questo giovane calciatore promette molto bene.",
+        "Il progetto promette di rivoluzionare il settore tecnologico."
+      ],
+      "nota": "Spesso usato in espressioni come 'promettere bene' o 'promettere male'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Far prevedere o anticipare qualcosa, spesso in senso negativo o incerto.",
+      "examples": [
+        "Il cielo nuvoloso promette pioggia per il pomeriggio.",
+        "Questi primi sintomi promettono una brutta influenza."
+      ],
+      "nota": "Usato anche in contesti figurati per indicare segnali di eventi futuri."
+    },
+    {
+      "pos": "verbo riflessivo (promettersi)",
+      "definition": "Prevedere o aspettarsi qualcosa per sé stessi, spesso con una connotazione di speranza.",
+      "examples": [
+        "Si è promesso di non ripetere gli stessi errori.",
+        "Ci siamo promessi una vacanza indimenticabile."
+      ],
+      "nota": "Può implicare un impegno personale o un desiderio."
+    }
+  ]
+}

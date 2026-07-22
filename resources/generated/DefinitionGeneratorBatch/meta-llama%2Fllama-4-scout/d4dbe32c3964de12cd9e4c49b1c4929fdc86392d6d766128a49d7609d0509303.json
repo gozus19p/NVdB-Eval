@@ -1,0 +1,216 @@
+{
+  "lemma": "seguito",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4869ad0a50d065deef"
+    },
+    "source": "paraviaXML/105652.xml",
+    "lemma": "seguito",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di persone che seguono e accompagnano un personaggio importante: accompagnarlo in un viaggio o in un’impresa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la regina e il suo seguito",
+              "essere al seguito di qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di persone che sostengono una dottrina, una teoria o chi le propugna",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un partito con un grande seguito",
+              "una setta religiosa con uno scarso seguito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Approvazione, favore collettivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’invito a scioperare non ha avuto molto seguito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Successione, sequenza di avvenimenti, specialmente negativi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la sua vita è un seguito di disgrazie"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Continuazione, prosecuzione di un racconto, di una narrazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "voglio sentire il seguito della storia",
+              "il seguito alla prossima puntata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Risultato, conseguenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fortunatamente il litigio non ebbe seguito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Inseguimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6b",
+        "usage": "TS",
+        "field": "tecnica venatoria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica venatoria , l’inseguire e lo stanare la selvaggina da parte di una muta di cani addestrati",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "insieme delle persone che seguono o imitano qualcuno",
+      "examples": [
+        "Il seguito del cantante è molto numeroso.",
+        "Il politico ha un seguito fedele tra i suoi elettori."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "parte di un testo o di un racconto che viene dopo una sezione precedente",
+      "examples": [
+        "Il seguito del romanzo è stato pubblicato il mese scorso.",
+        "La seconda stagione della serie TV è il seguito della prima."
+      ],
+      "nota": null
+    }
+  ]
+}

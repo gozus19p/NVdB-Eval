@@ -1,0 +1,133 @@
+{
+  "lemma": "pausa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1669ad0a50d065b663"
+    },
+    "source": "paraviaXML/80425.xml",
+    "lemma": "pausa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Interruzione o sospensione temporanea di un’azione, di un’attività lavorativa o intellettuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare una pausa per il pranzo",
+              "una pausa di mezz’ora"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Breve sospensione che si fa, parlando o recitando, fra due parole, incisi o proposizioni, specialmente per riprendere fiato, per chiarezza o per ragioni espressive",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "alla domanda fece seguire una lunga pausa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "fonetica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fonetica , cessazione dell’attività fonatoria tra due successive serie di foni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , interruzione del suono o del canto indicata dalla notazione, che cade in qualsiasi momento della composizione musicale, con diverso rilievo e funzione a seconda della durata e della posizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Breve interruzione temporanea di un'attività, di un'azione o di un suono.",
+      "examples": [
+        "Dopo due ore di studio, mi concedo una pausa.",
+        "Il direttore chiese una pausa durante le prove dell'orchestra."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Momento di sospensione o di silenzio all'interno di un discorso o di un'opera musicale, con effetto espressivo.",
+      "examples": [
+        "Fece una pausa drammatica prima di annunciare il vincitore.",
+        "In quel passaggio musicale è fondamentale rispettare la pausa indicata."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Lasso di tempo destinato al riposo o al ristoro nel corso di una giornata lavorativa o scolastica.",
+      "examples": [
+        "Durante la pausa pranzo vado spesso a fare una passeggiata.",
+        "Gli studenti sono in cortile per la pausa ricreativa."
+      ],
+      "nota": "Comunemente riferito agli intervalli regolari e programmati."
+    }
+  ]
+}

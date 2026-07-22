@@ -1,0 +1,331 @@
+{
+  "lemma": "cittadino",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a8ac"
+    },
+    "source": "paraviaXML/23156.xml",
+    "lemma": "cittadino",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Della città",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parco cittadino",
+              "mercato cittadino",
+              "traffico cittadino"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Proprio della città e dei suoi abitanti, specialmente in contrapposizione a ciò che è tipico della campagna",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abitudini cittadine"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che si pretendono moderne e raffinate",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere maniere cittadine",
+              "un’aria cittadina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Civico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "virtù cittadine"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Civile, intestino",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lotte cittadine"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi vive in una città: in contrapposizione agli abitanti della campagna, con pretese di urbanità e raffinatezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i cittadini di Padova",
+              "un cittadino leccese",
+              "appello ai cittadini",
+              "modi da cittadino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi ha la cittadinanza di uno stato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cittadino italiano",
+              "cittadino inglese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Membro di una comunità ideale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cittadino della repubblica delle lettere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Concittadino: Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "voi cittadini mi chiamaste Ciacco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Abitatore, frequentatore: Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "amore femmi un cittadin de’ boschi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8a",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , nell’età comunale, borghese appartenente all’ordine intermedio tra nobiltà e popolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8b",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Civile, borghese, contrapposto a militare o ecclesiastico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , durante la rivoluzione francese, titolo dato a tutti senza distinzione di classe sociale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona che appartiene a uno Stato o a una comunità politica, con i relativi diritti e doveri civili e giuridici.",
+      "examples": [
+        "Ogni cittadino ha il diritto di voto a partire dai diciotto anni.",
+        "I cittadini europei possono circolare liberamente all'interno dell'Unione."
+      ],
+      "nota": "Si distingue da 'straniero' o 'apolide'; implica un rapporto giuridico formale con uno Stato. Al femminile: 'la cittadina'."
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Abitante di una città, in contrapposizione a chi vive in campagna o in zone rurali.",
+      "examples": [
+        "I cittadini soffrono maggiormente dello smog rispetto a chi vive in campagna.",
+        "Da vero cittadino, non sa nemmeno come si munge una mucca."
+      ],
+      "nota": "In questo senso si contrappone a 'contadino', 'rurale' o 'provinciale'."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che appartiene o si riferisce alla città, alla sua struttura urbana o alla vita che vi si svolge.",
+      "examples": [
+        "Il traffico cittadino è diventato insostenibile nelle ore di punta.",
+        "Le amministrazioni locali cercano di migliorare i servizi cittadini."
+      ],
+      "nota": "Usato prevalentemente in funzione attributiva o predicativa; sinonimo parziale di 'urbano'."
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "lemma": "vino",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6d69ad0a50d065292c"
+    },
+    "source": "paraviaXML/127773.xml",
+    "lemma": "vino",
+    "grammar": [
+      "s.m.",
+      "agg.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Bevanda alcolica ottenuta dalla fermentazione del mosto d’uva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vino dolce",
+              "leggero",
+              "abboccato",
+              "amabile",
+              "asciutto",
+              "secco",
+              "d’annata",
+              "vini italiani",
+              "francesi",
+              "imbottigliare",
+              "travasare il vino",
+              "un bicchiere",
+              "un litro",
+              "un fiasco",
+              "una damigiana di vino",
+              "bere vino pasteggiando",
+              "servire il vino",
+              "abbinare il vino ai cibi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Gli effetti inebrianti provocati da un’eccessiva assunzione di vino; poterne bere una quantità notevole senza ubriacarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i fumi del vino",
+              "reggere il vino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Bevanda alcolica ottenuta da frutti fermentati",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vino di sambuco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha una gradazione o una tonalità di rosso molto intensa e tendente al violetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una maglia color vino",
+              "pantaloni rosso vino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "V. a bassa gradazione alcolica adatto al consumo quotidiano durante i pasti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "merceologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Merceologia , v. che non riporta la specificazione della provenienza geografica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Bevanda alcolica ottenuta dalla fermentazione del succo d'uva, prodotta in numerose varietà distinte per colore, aroma e gradazione.",
+      "examples": [
+        "A cena abbiamo aperto una bottiglia di vino rosso toscano.",
+        "Il sommelier ha consigliato un vino bianco secco da abbinare al pesce."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In senso esteso, bevanda alcolica fermentata ottenuta da frutti o altri vegetali diversi dall'uva, spesso specificata con un complemento.",
+      "examples": [
+        "Ci ha offerto un vino di mele fatto in casa.",
+        "In alcune regioni nordiche è diffuso il vino di ribes."
+      ],
+      "nota": "Questo uso richiede sempre un complemento specificatore (es. 'di mele', 'di riso') per distinguerlo dal senso prototipico."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In senso figurato, simbolo di convivialità, piacere della tavola o eccesso nel bere.",
+      "examples": [
+        "Il vino è stato da sempre al centro della cultura mediterranea.",
+        "Era un uomo che non sapeva resistere al vino e alle cattive compagnie."
+      ],
+      "nota": "In questo uso figurato il termine evoca spesso valori culturali, rituali o vizi legati al consumo di alcolici."
+    }
+  ]
+}

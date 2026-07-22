@@ -1,0 +1,217 @@
+{
+  "lemma": "frequentare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafea69ad0a50d06661cf"
+    },
+    "source": "paraviaXML/46109.xml",
+    "lemma": "frequentare",
+    "grammar": [
+      "v.tr.",
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Visitare spesso, recarsi abitualmente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frequentare un bar",
+              "un locale notturno",
+              "frequentare la chiesa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Incontrare con assiduità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frequentare gli amici",
+              "un gruppo di persone",
+              "lo frequento da due anni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere iscritto, seguire con regolarità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frequentare un corso di studi",
+              "un ciclo di lezioni",
+              "frequentare l’università"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Studiarli, leggerli assiduamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frequentare i classici"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accostarvisi spesso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frequentare i sacramenti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Usare di frequente",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Recarsi spesso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frequentare in luoghi malfamati"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere relazioni sociali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frequentare con persone poco raccomandabili"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Recarsi abitualmente in un luogo, visitarlo con regolarità.",
+      "examples": [
+        "Frequenta quella palestra da tre anni ormai.",
+        "Il locale è frequentato soprattutto da giovani universitari."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Seguire regolarmente un corso di studi, una scuola o un'istituzione formativa.",
+      "examples": [
+        "Ha frequentato il liceo classico e poi si è iscritta a medicina.",
+        "Mio figlio frequenta la terza elementare."
+      ],
+      "nota": "In questo senso il complemento oggetto è tipicamente un'istituzione scolastica o un corso specifico."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Avere rapporti abituali e ripetuti con una persona, vederla spesso.",
+      "examples": [
+        "Da quando si è trasferito, frequenta molta gente nuova.",
+        "Non frequento più i vecchi amici del liceo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Avere una relazione sentimentale o romantica con qualcuno, uscire regolarmente insieme.",
+      "examples": [
+        "Si sono messi insieme dopo aversi frequentato per quasi un anno.",
+        "Lo sta frequentando da qualche mese, ma non è ancora ufficiale."
+      ],
+      "nota": "Uso tipico del registro colloquiale contemporaneo, spesso riferito a una fase preliminare rispetto a una relazione stabile."
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Vedersi reciprocamente con regolarità, mantenere contatti abituali tra più persone.",
+      "examples": [
+        "Dopo il matrimonio ci siamo frequentati sempre meno.",
+        "I due si frequentano da anni e sono ormai grandi amici."
+      ],
+      "nota": null
+    }
+  ]
+}

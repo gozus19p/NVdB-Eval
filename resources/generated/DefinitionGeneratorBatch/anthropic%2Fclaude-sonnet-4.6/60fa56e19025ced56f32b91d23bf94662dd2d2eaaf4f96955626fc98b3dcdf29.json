@@ -1,0 +1,227 @@
+{
+  "lemma": "unico",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0769ad0a50d064b9e5"
+    },
+    "source": "paraviaXML/124871.xml",
+    "lemma": "unico",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è il solo esistente del suo tipo o specie; che non ha uguali, simili, antecedenti o seguenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un modello",
+              "un volume",
+              "un esemplare unico",
+              "l’unica volta che l’ho visto"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Irripetibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "più unico che raro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "enfatico",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che si distingue per pregi, virtù, capacità rare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è una persona unica",
+              "è un amico unico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "enfatico",
+              "qualcosa",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , che non ha eguali per valore, importanza, pregio e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un pittore dal genio unico",
+              "un castello unico al mondo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi è solo a fare, a dire qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non sono l’unico a pensarla così",
+              "sarai l’unico che si opporrà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il solo esemplare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quest’abito è l’unico di colore rosso",
+              "è l’unico rimasto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "filosofia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , l’individuo in quanto singolare, irripetibile, eccezionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che esiste o si trova da solo, senza altri della stessa categoria o tipo; che non ha equivalenti o pari.",
+      "examples": [
+        "È il figlio unico di una famiglia benestante.",
+        "Questo è l'unico treno disponibile per Milano stasera."
+      ],
+      "nota": "In questo senso indica unicità numerica o di categoria; spesso in posizione prenominale."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che possiede caratteristiche talmente particolari e irripetibili da non avere riscontro altrove; straordinario, ineguagliabile.",
+      "examples": [
+        "La sua voce ha un timbro davvero unico, impossibile da confondere.",
+        "Il paesaggio di quella valle è unico al mondo."
+      ],
+      "nota": "Uso qualitativo-valutativo, distinto da quello quantitativo; spesso in posizione postnominale o predicativa."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito a persona, che si comporta in modo bizzarro, stravagante o sorprendente, spesso con sfumatura affettuosa o ironica.",
+      "examples": [
+        "Sei proprio unico, riesci sempre a farmi ridere nei momenti peggiori.",
+        "Mia zia è unica: si è messa a cantare in mezzo alla cerimonia."
+      ],
+      "nota": "Uso colloquiale, prevalentemente predicativo; la connotazione può essere positiva o ironica a seconda del contesto."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona o cosa che non ha uguali, che è sola nel suo genere.",
+      "examples": [
+        "Tra tutti i candidati, lui è davvero l'unico in grado di gestire la situazione.",
+        "Degli originali ne rimane uno solo: è l'unico che si conosce."
+      ],
+      "nota": "Uso sostantivato dell'aggettivo, frequente con articolo determinativo."
+    }
+  ]
+}

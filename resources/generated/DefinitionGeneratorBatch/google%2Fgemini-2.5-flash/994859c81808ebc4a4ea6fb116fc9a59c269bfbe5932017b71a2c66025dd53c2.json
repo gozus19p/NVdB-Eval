@@ -1,0 +1,95 @@
+{
+  "lemma": "indagine",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaede69ad0a50d065886a"
+    },
+    "source": "paraviaXML/55470.xml",
+    "lemma": "indagine",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ricerca sistematica per conoscere, scoprire qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "indagine demoscopica",
+              "statistica",
+              "storica",
+              "filologica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , investigazione giudiziaria o degli organi di polizia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziare",
+              "concludere un’indagine",
+              "depistare le indagini",
+              "dare un nuovo corso alle indagini"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività sistematica e metodica volta a raccogliere informazioni, esaminare fatti o analizzare dati con l'obiettivo di conoscere, comprendere o accertare qualcosa di specifico.",
+      "examples": [
+        "La polizia ha avviato un'indagine approfondita sull'incidente per determinarne le cause.",
+        "Il sociologo ha condotto un'indagine sul comportamento dei consumatori online.",
+        "Prima di acquistare un immobile è sempre consigliabile fare un'indagine di mercato approfondita."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Esame introspettivo o riflessione profonda che una persona compie su se stessa, sui propri pensieri, sentimenti o motivazioni.",
+      "examples": [
+        "Attraverso un'attenta indagine interiore, è riuscito a comprendere meglio le proprie paure.",
+        "Il periodo di isolamento forzato ha favorito un'indagine sulla sua identità personale.",
+        "Il filosofo dedicò la sua vita a un'indagine continua sulla natura dell'esistenza umana."
+      ],
+      "nota": "Questo senso si riferisce usualmente a un'attività di riflessione interna."
+    }
+  ]
+}

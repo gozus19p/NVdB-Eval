@@ -1,0 +1,513 @@
+{
+  "lemma": "carico",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9169ad0a50d0654837"
+    },
+    "source": "paraviaXML/19231.xml",
+    "lemma": "carico",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il caricare merci, materiali e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il carico è stato completato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che si carica, specialmente su un animale o un mezzo di trasporto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un carico di frutta",
+              "un carico leggero",
+              "pesante"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Gran quantità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prendersi un carico di bastonate"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Onere, peso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il carico del lavoro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Responsabilità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il carico della famiglia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Peso, pressione di un corpo su un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il tetto è crollato per il carico della neve"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Incarico, incombenza: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "de’ quali il primo a cui la reina tal carico impose fu Filostrato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ingegneria , grandezza fisica di cui viene gravata una struttura portante, una macchina, un impianto e simile nel suo funzionamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "elettrotecnica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Elettrotecnica ; circuito di carico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, nel gioco della briscola, l’asso e il tre non di briscola",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo",
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Argomento, discorso particolarmente forte ed efficace",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il padre alla fine ha calato il suo carico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "commercio",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Commercio , nel gergo assicurativo, somma versata dal riassicuratore all’assicuratore cedente",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, specialmente al , pesante seduta di allenamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che dipende da altri per il proprio mantenimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "persone",
+              "conviventi a carico"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , di testimone, che depone contro l’imputato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "teste a carico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In dipendenza da altri: provvedere al suo mantenimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere qcn. a carico",
+              "avere a carico tutta la famiglia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "In dipendenza da qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ricevere da qualcuno il proprio sostentamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rimanere a carico di qcn."
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "riferimento"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con riferimento a un onere finanziario che deve essere sostenuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tassa a carico del destinatario"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , contro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "procedimento a carico di qcn.",
+              "deporre a carico di qcn"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Insieme di merci, oggetti o persone trasportati da un veicolo, nave, aereo o altro mezzo di trasporto.",
+      "examples": [
+        "Il camion ha scaricato il carico di frutta al mercato ortofrutticolo.",
+        "La nave ha perso parte del suo carico durante la tempesta."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Peso fisico o quantità di lavoro, responsabilità o obbligo che grava su qualcuno o qualcosa.",
+      "examples": [
+        "Dopo il pensionamento del collega, il carico di lavoro è aumentato notevolmente.",
+        "Crescere tre figli da sola è un carico enorme da sostenere."
+      ],
+      "nota": "In questo senso si usa spesso in espressioni come 'carico di lavoro', 'carico fiscale', 'carico familiare'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Quantità di energia elettrica accumulata o erogata in un circuito o dispositivo.",
+      "examples": [
+        "Il carico della batteria si è esaurito prima del previsto.",
+        "Il tecnico ha verificato il carico della rete elettrica prima di procedere."
+      ],
+      "nota": "Uso prevalentemente tecnico ma diffuso nel linguaggio comune, specie in riferimento a batterie di dispositivi elettronici."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Nella locuzione 'a carico di', indica chi sostiene una spesa, un obbligo giuridico o chi dipende economicamente da un'altra persona.",
+      "examples": [
+        "Le spese legali sono a carico dell'imputato.",
+        "Ha tre figli a carico e fatica ad arrivare a fine mese."
+      ],
+      "nota": "Locuzione frequente in ambito legale, fiscale e burocratico."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In senso figurato, elemento di colpa o imputazione attribuito a qualcuno in ambito giudiziario.",
+      "examples": [
+        "Le prove a carico dell'accusato sono schiaccianti.",
+        "Non ci sono testimonianze a suo carico che reggano in tribunale."
+      ],
+      "nota": "Si contrappone a 'a discarico', usato per prove o argomenti a favore dell'imputato."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che trasporta o contiene qualcosa in grande quantità; gravato da un peso fisico.",
+      "examples": [
+        "Il mulo carico di legna avanzava lentamente sul sentiero.",
+        "Tornò a casa carico di buste della spesa."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Detto di colore, intenso, saturo, non diluito.",
+      "examples": [
+        "Preferisce tinte cariche come il bordeaux e il verde scuro.",
+        "Il rosso carico di quel tramonto era spettacolare."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Detto di bevanda, preparata con una concentrazione elevata di ingrediente principale.",
+      "examples": [
+        "Mi piace il caffè carico, altrimenti non mi sveglio.",
+        "Ha ordinato un tè molto carico con poco latte."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "In senso figurato, gravato emotivamente, oppressivo o teso.",
+      "examples": [
+        "L'atmosfera in ufficio era carica di tensione dopo l'annuncio dei licenziamenti.",
+        "Le sue parole erano cariche di significati nascosti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Colloquiale: in stato di ebbrezza o sotto l'effetto di sostanze.",
+      "examples": [
+        "Era completamente carico quando l'hanno trovato per strada.",
+        "Non guidare se sei carico, chiama un taxi."
+      ],
+      "nota": "Uso colloquiale e informale, tipico del parlato giovanile."
+    }
+  ]
+}

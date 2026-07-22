@@ -1,0 +1,138 @@
+{
+  "lemma": "ringraziare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafd369ad0a50d0664ed1"
+    },
+    "source": "paraviaXML/96562.xml",
+    "lemma": "ringraziare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esprimere gratitudine e riconoscenza con parole o con atti verso la persona da cui si è ricevuto un beneficio, un favore, un dono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ringraziare vivamente",
+              "di cuore",
+              "ringraziare a voce",
+              "per iscritto",
+              "la ringraziò per il gradito pensiero",
+              "ti ringrazio dell’invito"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "In formule di cortesia, rifiutando un invito, un’offerta e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vi ringrazio di cuore, ma non posso accettare"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per indicare il positivo evolversi di una situazione o il mancato verificarsi di qualcosa di temuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ringraziando il Cielo",
+              "sia ringraziato il Signore",
+              "il Cielo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Riconoscere l’importanza di un fatto, una situazione e simile per i benefici che ne sono derivati",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ringrazio il caso che ci ha fatto incontrare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Manifestare devotamente la propria riconoscenza a Dio, alla Vergine, ai santi per le grazie e gli aiuti concessi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Esprimere gratitudine o riconoscimento a qualcuno per un beneficio ricevuto, un gesto di cortesia o un aiuto prestato.",
+      "examples": [
+        "Voglio ringraziarti per il prezioso aiuto che mi hai dato.",
+        "Il presidente ha voluto ringraziare pubblicamente tutti i volontari per il loro impegno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Rendersi conto con sollievo o riconoscenza di essere scampato a un pericolo, di aver evitato una situazione spiacevole o di aver ricevuto una fortuna inaspettata.",
+      "examples": [
+        "Dopo l'incidente, si è ringraziato di essere vivo.",
+        "Mi ringrazio ogni giorno di aver scelto questa strada, è stata una decisione giusta."
+      ],
+      "nota": "L'uso riflessivo implica spesso un elemento di fortuna o destino favorevole."
+    }
+  ]
+}

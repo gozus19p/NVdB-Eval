@@ -1,0 +1,229 @@
+{
+  "lemma": "osservare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc569ad0a50d066439b"
+    },
+    "source": "paraviaXML/77419.xml",
+    "lemma": "osservare",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Guardare con attenzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "osservare un quadro",
+              "la vetrina di un negozio",
+              "una persona"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esaminare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "osservare qcs. al microscopio",
+              "osservare alla moviola i movimenti dell’avversario"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Analizzare, studiare attentamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "osservare l’andamento di un fenomeno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rilevare, notare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "come puoi osservare non c’è nulla di strano",
+              "conviene osservare che",
+              "ti faccio osservare che stai sbagliando"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Obiettare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non ho nulla da osservare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Seguire, non trasgredire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "osservare la legge",
+              "gli ordini",
+              "la disciplina"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mantenere, rispettare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "osservare il silenzio",
+              "il digiuno",
+              "la regola",
+              "la parola data"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trascorrere secondo le prescrizioni religiose",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "osservare la domenica",
+              "il sabato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare attenzione, badare: Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il nostro autore, osservando al diverso modo che teneva costui nel soddisfare alle domande, dice ch’era un uomo così fatto"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "notare, vedere con attenzione",
+      "examples": [
+        "Il detective ha osservato attentamente la scena del crimine.",
+        "Osserva come il bambino impara rapidamente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "esprimere un giudizio o un'opinione",
+      "examples": [
+        "La critica ha osservato che il film è troppo lungo.",
+        "Osservò che era necessario cambiare strategia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "esaminare se stessi, riflettere",
+      "examples": [
+        "Si osservò nello specchio e notò i cambiamenti.",
+        "Mi osservo e cerco di capire cosa fare."
+      ],
+      "nota": null
+    }
+  ]
+}

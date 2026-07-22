@@ -1,0 +1,143 @@
+{
+  "lemma": "tedesco",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0769ad0a50d064b8ca"
+    },
+    "source": "paraviaXML/118853.xml",
+    "lemma": "tedesco",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Della Germania",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante della Germania",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "linguistica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , lingua germanica occidentale, parlata oggi come lingua nazionale o ufficiale in Germania, Austria, Svizzera, Lussemburgo, Liechtenstein, Namibia e da minoranze linguistiche in Danimarca e altri paesi, tra le quali cospicue quelle dell’est europeo, quella sudtirolese o altoatesina in Italia e quelle dei numerosi stati dell’America settentrionale e meridionale, costituitasi come lingua scritta cancelleresca attraverso il conguaglio di parlate alto–tedesche, usata da Lutero nella traduzione della Bibbia ( 1522–34) progressivamente affermatasi nel parlato penetrando profondamente i dialetti sia alto–tedeschi sia basso–tedeschi e diventando una delle lingue di maggior prestigio nella cultura letteraria, artistica, scientifica e filosofica del mondo moderno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Materia d’insegnamento relativa a tale lingua e alla sua letteratura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "professore",
+              "testo di tedesco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo alla Germania, al suo territorio, alla sua cultura o alle sue istituzioni.",
+      "examples": [
+        "L'economia tedesca è tra le più forti d'Europa.",
+        "Ha studiato filosofia tedesca all'università."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona originaria della Germania o avente la cittadinanza tedesca.",
+      "examples": [
+        "Il mio vicino è un tedesco trasferitosi a Milano per lavoro.",
+        "I tedeschi sono arrivati in massa sulle spiagge adriatiche durante l'estate."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Lingua appartenente al ramo germanico delle lingue indoeuropee, parlata principalmente in Germania, Austria e Svizzera.",
+      "examples": [
+        "Sta seguendo un corso di tedesco per motivi professionali.",
+        "Il tedesco è una delle lingue ufficiali dell'Unione Europea."
+      ],
+      "nota": "Usato sempre al singolare quando designa la lingua."
+    },
+    {
+      "pos": "aggettivo (uso figurato)",
+      "definition": "Detto di comportamento o atteggiamento percepito come rigidamente disciplinato, preciso o inflessibile, con connotazione spesso ironica o stereotipata.",
+      "examples": [
+        "Ha una puntualità tutta tedesca: non arriva mai un minuto in ritardo.",
+        "La sua organizzazione è tedesca: tutto programmato nei minimi dettagli."
+      ],
+      "nota": "Uso stereotipato che fa riferimento a qualità quali precisione e rigore associate culturalmente ai tedeschi; può avere connotazione ironica."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "lemma": "fretta",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaecc69ad0a50d065791f"
+    },
+    "source": "paraviaXML/46144.xml",
+    "lemma": "fretta",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Desiderio o bisogno di concludere con grande rapidità ciò che si sta facendo o che si sta per fare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere fretta",
+              "non esserci fretta",
+              "dimenticare qcs. nella fretta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sollecitarlo a sbrigarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "mettere fretta a qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rapidità negli atti, nei movimenti e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare",
+              "mangiare con fretta",
+              "camminare con molta fretta"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Stato di agitazione o urgenza che porta ad accelerare le proprie azioni o decisioni, spesso per mancanza di tempo o per desiderio di completare qualcosa rapidamente.",
+      "examples": [
+        "Ho una gran fretta di finire questo lavoro prima di cena.",
+        "Non capisco tutta questa fretta, c'è tempo per fare le cose con calma."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Rapida esecuzione di un'azione o di un processo, talvolta a discapito della cura o della precisione.",
+      "examples": [
+        "La fretta con cui ha preparato la torta ha compromesso il risultato finale.",
+        "A causa della fretta, non ho controllato bene i documenti prima di firmare."
+      ],
+      "nota": "Spesso in contesti in cui la rapidità ha un esito negativo."
+    }
+  ]
+}

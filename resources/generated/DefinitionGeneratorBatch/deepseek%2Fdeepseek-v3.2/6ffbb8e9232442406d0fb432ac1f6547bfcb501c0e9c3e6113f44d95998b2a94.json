@@ -1,0 +1,204 @@
+{
+  "lemma": "necessario",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064b130"
+    },
+    "source": "paraviaXML/73228.xml",
+    "lemma": "necessario",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è indispensabile, che rende possibile una determinata condizione; che serve, che è utile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il riposo è necessario al corpo",
+              "cibo necessario alla sussistenza",
+              "requisito necessario per uno scopo",
+              "attrezzi necessari a un lavoro",
+              "prendere le necessarie precauzioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Eutro, in costruzioni impersonali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è necessario che tu prenda la patente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che serve, che è strettamente indispensabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il necessario per vivere",
+              "fornire il necessario",
+              "non fare più del necessario",
+              "lo stretto necessario"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "filosofia",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , che non può non essere o non può essere diverso da ciò che è",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "principio necessario",
+              "conseguenze necessarie a una premessa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parente, familiare: Machiavelli)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rendendogli i suoi figliuoli o altri suoi necessari"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Latrina",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1a,1b,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1c,3,4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo qualificativo",
+      "definition": "Indispensabile o essenziale per il raggiungimento di un fine, o richiesto dalle circostanze.",
+      "examples": [
+        "Il visto è necessario per entrare nel paese.",
+        "È necessario un impegno maggiore per superare la crisi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Ciò che è indispensabile, oggetto o elemento essenziale.",
+      "examples": [
+        "Ho comprato tutti i necessari per il viaggio.",
+        "Portò con sé solo lo stretto necessario."
+      ],
+      "nota": "Usato prevalentemente al singolare, spesso con articoli determinativi o dimostrativi (il necessario, questo necessario)."
+    }
+  ]
+}

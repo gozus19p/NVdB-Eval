@@ -1,0 +1,139 @@
+{
+  "lemma": "progetto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2769ad0a50d065c40f"
+    },
+    "source": "paraviaXML/87471.xml",
+    "lemma": "progetto",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Piano organico e dettagliato per l’esecuzione di un lavoro e lo svolgimento di un’attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "progetto di riforma scolastica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Documentazione tecnica di tale piano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esaminare",
+              "approvare un progetto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Elaborato tecnico per l’attuazione di un’opera di ingegneria civile, di urbanistica, di restauro, eccetera , costituito da una relazione descrittiva, dai disegni, dai calcoli e da un preventivo di spesa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "progetto di massima",
+              "definitivo",
+              "il progetto di una villa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Idea, proposito, intenzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che progetti avete per le vacanze?"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Idea o piano preliminare per la realizzazione di qualcosa, spesso accompagnato da una rappresentazione grafica o descrittiva dell'opera da compiere.",
+      "examples": [
+        "L'architetto ha presentato un nuovo progetto per l'ampliamento del palazzo comunale.",
+        "Il progetto grafico della rivista ha vinto numerosi premi per la sua originalità."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Insieme di attività pianificate e organizzate per raggiungere un obiettivo specifico entro un determinato periodo, generalmente con risorse definite.",
+      "examples": [
+        "L'azienda ha avviato un ambizioso progetto di espansione nel mercato asiatico.",
+        "Il nostro team sta lavorando al progetto di ricerca sulla sostenibilità energetica."
+      ],
+      "nota": "Spesso usato in contesti aziendali o accademici per indicare iniziative strutturate."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Intenzione o proposito di compiere una determinata azione nel futuro, un'aspirazione o un obiettivo personale.",
+      "examples": [
+        "Il suo più grande progetto per l'anno nuovo è imparare una nuova lingua.",
+        "Molti giovani hanno il progetto di viaggiare per il mondo dopo la laurea."
+      ],
+      "nota": "Si riferisce più a un intento personale che a un piano formalizzato."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Bozza o prima stesura di un documento, un testo legislativo o un'opera letteraria, prima della sua forma definitiva.",
+      "examples": [
+        "Il progetto di legge è stato discusso in parlamento e sarà presto votato.",
+        "Mi ha inviato il progetto del suo romanzo per avere un parere preliminare."
+      ],
+      "nota": null
+    }
+  ]
+}

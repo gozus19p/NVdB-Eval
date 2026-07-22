@@ -1,0 +1,233 @@
+{
+  "lemma": "acquistare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf9f69ad0a50d0662474"
+    },
+    "source": "paraviaXML/1665.xml",
+    "lemma": "acquistare",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ottenere in proprietà pagando, comprare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "acquistare qcs. da qcn.",
+              "acquistare derrate all’ingrosso",
+              "acquistare l’automobile a rate",
+              "in contanti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ingaggiarlo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "acquistare un calciatore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Procurarsi, acquisire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "acquistare cognizioni",
+              "esperienza",
+              "fama",
+              "acquistare dei vantaggi",
+              "delle agevolazioni"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Procurare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quel lavoro gli acquistò molta fama"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conquistare: Machiavelli)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Cesare Borgia ... acquistò lo stato con la fortuna del padre"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Prendere, assumere, specialmente qualità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "acquistare un’aria particolare",
+              "acquistare peso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Andare avanti, procedere: Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sempre acquistando dal lato mancino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo",
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Migliorare, guadagnare: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "acquistare in virtù",
+              "in bellezza",
+              "con questa cintura il vestito acquista molto"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Ottenere qualcosa in cambio di denaro o di altra forma di pagamento; comprare.",
+      "examples": [
+        "Ho acquistato un nuovo computer online a un ottimo prezzo.",
+        "La famiglia ha acquistato una casa in periferia dopo anni di affitto."
+      ],
+      "nota": "È il termine più formale e neutro rispetto a 'comprare', frequente in contesti commerciali, legali e scritti."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Ottenere, guadagnare o raggiungere qualcosa di non materiale attraverso uno sforzo, un'esperienza o il trascorrere del tempo.",
+      "examples": [
+        "Con gli anni ha acquistato una grande esperienza nel settore.",
+        "Il progetto ha acquistato credibilità grazie ai risultati ottenuti."
+      ],
+      "nota": "In questo senso figurato il complemento oggetto è tipicamente un'entità astratta come fiducia, fama, esperienza, importanza."
+    },
+    {
+      "pos": "verbo intransitivo / riflessivo (acquistarsi)",
+      "definition": "Migliorare nel proprio aspetto, nel proprio valore o nell'impressione che si produce sugli altri.",
+      "examples": [
+        "Con quel taglio di capelli ha acquistato molto.",
+        "Il dipinto si acquista guardandolo da lontano."
+      ],
+      "nota": "In questo uso il verbo è spesso intransitivo assoluto o riflessivo e si accompagna talvolta all'avverbio 'molto'."
+    }
+  ]
+}

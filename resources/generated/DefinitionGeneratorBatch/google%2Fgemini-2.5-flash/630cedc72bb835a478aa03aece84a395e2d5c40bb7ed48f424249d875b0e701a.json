@@ -1,0 +1,111 @@
+{
+  "lemma": "se",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6569ad0a50d06522eb"
+    },
+    "source": "paraviaXML/105281.xml",
+    "lemma": "se",
+    "grammar": [
+      "pron.pers. di terza pers.m. e f.sing. e pl."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Forma che il pronome assume con i pronomi atoni e la particella , in posizione proclitica o enclitica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "si",
+              "lo",
+              "la",
+              "li",
+              "le",
+              "ne",
+              "se l’è visto davanti",
+              "se lo mise in tasca",
+              "non vuole prendersene cura",
+              "prendersela a cuore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Da solo, specialmente in posizione enclitica, si: Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non pò fermarse"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una proposizione condizionale o ipotetica, esprimendo una condizione necessaria per il verificarsi di quanto affermato nella principale.",
+      "examples": [
+        "Se piove, non usciamo.",
+        "Ti aiuto volentieri, se hai bisogno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una proposizione interrogativa indiretta, per esprimere un dubbio o una possibilità.",
+      "examples": [
+        "Non sappiamo se arriverà in tempo.",
+        "Mi chiedo se sia la scelta più giusta."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "pronome riflessivo",
+      "definition": "Indica che l'azione del verbo ricade sul soggetto stesso della frase, riferendosi a nomi o pronomi di terza persona singolare o plurale.",
+      "examples": [
+        "Si lava i capelli ogni giorno.",
+        "I bambini si sono divertiti molto.",
+        "Ha comprato un regalo per sé."
+      ],
+      "nota": "Può essere atono ('si') o tonico ('sé')."
+    },
+    {
+      "pos": "pronome impersonale",
+      "definition": "Costituisce una forma impersonale del verbo, indicando un'azione compiuta da un soggetto generico e non specifico.",
+      "examples": [
+        "Si dice che verrà la neve.",
+        "Quando si è stanchi, è meglio riposare."
+      ],
+      "nota": null
+    }
+  ]
+}

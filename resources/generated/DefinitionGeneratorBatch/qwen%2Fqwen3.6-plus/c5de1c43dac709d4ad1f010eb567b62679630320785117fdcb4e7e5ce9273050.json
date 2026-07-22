@@ -1,0 +1,167 @@
+{
+  "lemma": "risultato",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae4d69ad0a50d0650f5e"
+    },
+    "source": "paraviaXML/98247.xml",
+    "lemma": "risultato",
+    "grammar": [
+      "p.pass.",
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio passato",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Risultare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che risulta come conclusione o come esito finale di un processo, di un’attività o simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attendere i risultati delle indagini",
+              "delle elezioni"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Profitto, livello di preparazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’impegno è migliorato ma il risultato è ancora scarso"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Punteggio parziale o finale di un incontro sportivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ascoltare i risultati delle partite alla radio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il numero o la formula ottenuti al termine dello svolgimento di un calcolo, di un’operazione matematica, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il risultato della divisione",
+              "dell’equazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2,3",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Esito o conseguenza diretta che si manifesta al termine di un'azione, di un processo, di una ricerca o di un evento.",
+      "examples": [
+        "Gli osservatori analizzeranno le cifre ufficiali del referendum nei prossimi giorni.",
+        "Dopo mesi di trattative, la conclusione ha superato le aspettative di entrambe le parti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Valore numerico o soluzione finale ottenuta dall'esecuzione di un'operazione aritmetica, algebrica o di elaborazione dati.",
+      "examples": [
+        "Il programma di contabilità restituisce il valore corretto solo se i parametri iniziali sono inseriti senza errori.",
+        "La formula visualizza una cifra negativa a causa di un'errata immissione nella cella di riferimento."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Impressione complessiva, effetto visivo o atmosferico che emerge dalla combinazione, disposizione o utilizzo di più elementi.",
+      "examples": [
+        "La giustapposizione di materiali diversi produce un effetto scenico inaspettatamente moderno.",
+        "Modificando l'illuminazione e i colori, la sala assume un'atmosfera più intima e rilassante."
+      ],
+      "nota": "Impiegato principalmente in contesti estetici, architettonici o comunicativi per descrivere l'impatto percettivo finale."
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "lemma": "nascondere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc469ad0a50d06642a2"
+    },
+    "source": "paraviaXML/72968.xml",
+    "lemma": "nascondere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sottrarre un oggetto alla vista o alle ricerche di qualcuno , riponendolo in un posto adatto allo scopo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nascondere i gioielli",
+              "nascondere lettere compromettenti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tenere nascosta una persona in modo che altri non la veda o non la trovi, sistemandola in un luogo sicuro, riparato o segreto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nascondere un ricercato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sottrarre alla vista interponendosi fra ciò che si osserva e l’osservatore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo muro nasconde la montagna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dissimulare pensieri, sentimenti, stati d’animo e simile che non si vogliono far conoscere ad altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nascondere l’emozione",
+              "non vi nascondo i miei dubbi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere o non avere la coscienza pulita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non avere nulla da nascondere",
+              "avere qcs. da nascondere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impedire di far conoscere, insabbiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nascondere le prove",
+              "uno scandalo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "Tenere qualcosa o qualcuno in un luogo riparato in modo che non sia visibile",
+      "examples": [
+        "Ha nascosto il regalo sotto il letto.",
+        "Il bambino si nasconde dietro la tenda."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Celare qualcosa o qualcuno, tenendolo occulto agli occhi altrui",
+      "examples": [
+        "Nascondeva la verità ai suoi amici.",
+        "Il ladro ha nascosto le prove del delitto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Celarsi, occultarsi alla vista altrui",
+      "examples": [
+        "Si nascondeva sempre dietro una maschera di indifferenza.",
+        "Il gatto si nasconde sotto il divano."
+      ],
+      "nota": null
+    }
+  ]
+}

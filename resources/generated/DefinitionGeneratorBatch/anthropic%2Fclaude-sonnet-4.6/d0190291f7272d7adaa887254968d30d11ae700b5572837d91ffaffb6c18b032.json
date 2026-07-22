@@ -1,0 +1,62 @@
+{
+  "lemma": "agosto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6d69ad0a50d06529d8"
+    },
+    "source": "paraviaXML/3390.xml",
+    "lemma": "agosto",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "agosto-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ottavo mese dell’anno, di trentuno giorni nel calendario gregoriano e giuliano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire in, ad agosto",
+              "è stato un agosto piovoso",
+              "accadde nell’agosto del 1960"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Ottavo mese dell'anno nel calendario gregoriano, composto di trentuno giorni, collocato tra luglio e settembre.",
+      "examples": [
+        "Partiamo per le vacanze il primo agosto e torniamo a settembre.",
+        "Il ferragosto cade ogni anno il quindici agosto.",
+        "Quest'anno agosto è stato insolitamente fresco e piovoso."
+      ],
+      "nota": "Spesso associato al periodo di ferie estive e di caldo intenso nell'emisfero boreale. In senso metonimico può riferirsi al mese intero come periodo vacanziero: 'tutta la città si svuota in agosto'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Periodo di grande guadagno o abbondanza, usato nell'espressione idiomatica 'fare agosto' per indicare l'ottenimento di grandi profitti in poco tempo.",
+      "examples": [
+        "Con i saldi di fine stagione i commercianti hanno fatto agosto.",
+        "Quell'estate i gelatai del lungomare hanno fatto agosto grazie al caldo record."
+      ],
+      "nota": "Uso esclusivamente idiomatico, nella locuzione 'fare agosto'. Deriva dall'associazione storica del mese con i raccolti abbondanti e i guadagni del periodo estivo."
+    }
+  ]
+}

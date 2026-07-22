@@ -1,0 +1,202 @@
+{
+  "lemma": "segnale",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4869ad0a50d065dec1"
+    },
+    "source": "paraviaXML/105571.xml",
+    "lemma": "segnale",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Indicazione visiva o acustica, stabilita specialmente convenzionalmente, con cui si fornisce una notizia, un messaggio, un ordine e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare",
+              "aspettare il segnale",
+              "il segnale di attacco",
+              "il segnale di partenza",
+              "segnale acustico",
+              "ottico",
+              "luminoso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Apparecchio, dispositivo per trasmettere tali segni convenzionali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Segnale stradale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "TS",
+        "field": "ferrovia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ferrovia ; semaforo ferroviario",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Segno, indizio, traccia da cui si può accertare o supporre la presenza o l’esistenza di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non ci sono segnali di ripresa",
+              "è un segnale della malattia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "elettrotecnica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Elettrotecnica , genericamente, tensione, corrente o altra grandezza fisica con cui si trasmette un’informazione in entrata o in uscita di un’apparecchiatura",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Segnalibro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Messaggio visivo o acustico che trasmette informazioni",
+      "examples": [
+        "Il semaforo è un segnale di traffico.",
+        "Il segnale di soccorso è stato lanciato dagli astronauti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Segno o indicazione che avverte o informa",
+      "examples": [
+        "Il segnale di pericolo è stato posto vicino alla scarpata.",
+        "Il segnale di uscita è visibile in caso di emergenza."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "trasmettere un messaggio o un'informazione attraverso un segnale",
+      "examples": [
+        "Il sistema di allarme segnala la presenza di intrusi.",
+        "Il dispositivo segnala la bassa pressione delle gomme."
+      ],
+      "nota": null
+    }
+  ]
+}

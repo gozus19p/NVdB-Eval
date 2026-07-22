@@ -1,0 +1,245 @@
+{
+  "lemma": "epoca",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebd69ad0a50d0656cac"
+    },
+    "source": "paraviaXML/39515.xml",
+    "lemma": "epoca",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Periodo compreso fra due date storiche, caratterizzato da avvenimenti o processi particolari",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’epoca della rivoluzione russa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Caratterizzarla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "segnare un’epoca",
+              "i Beatles hanno segnato un’epoca"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tempo, periodo: momento, data: età",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la nostra epoca",
+              "non lo vedo dall’epoca del liceo",
+              "ci siamo visti all’epoca del mio matrimonio",
+              "le epoche della vita"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Remota",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "epoca immemorabile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Data storica, da cui si fa iniziare convenzionalmente una nuova era",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "astronomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Astronomia , momento da cui si inizia a contare un valore temporale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "geologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geologia , unità di suddivisione del periodo, a sua volta divisa in età",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "commercio",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Commercio , data di decorrenza di termini",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Antico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "palazzo",
+              "mobili d’epoca"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di quel tempo, coevo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una commedia goldoniana con costumi d’epoca"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Periodo storico caratterizzato da eventi, tendenze o caratteristiche particolari che lo distinguono da altri periodi.",
+      "examples": [
+        "L'epoca rinascimentale ha visto un grande sviluppo artistico e culturale.",
+        "Durante l'epoca vittoriana, le convenzioni sociali erano molto rigide."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Momento preciso o fase significativa nella storia o nella vita di qualcuno.",
+      "examples": [
+        "La scoperta dell'America segnò un'epoca nella storia mondiale.",
+        "Quella vittoria rappresentò un'epoca di cambiamento per la squadra."
+      ],
+      "nota": "Spesso usato in contesti storici o biografici per indicare un punto di svolta."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Periodo di tempo molto lungo, spesso percepito come remoto o lontano nel passato.",
+      "examples": [
+        "Questi reperti risalgono a un'epoca in cui l'uomo non conosceva ancora la scrittura.",
+        "Le mode di quell'epoca sembrano oggi davvero bizzarre."
+      ],
+      "nota": "Può avere una connotazione di antichità o distanza temporale, anche senza riferimenti storici precisi."
+    }
+  ]
+}

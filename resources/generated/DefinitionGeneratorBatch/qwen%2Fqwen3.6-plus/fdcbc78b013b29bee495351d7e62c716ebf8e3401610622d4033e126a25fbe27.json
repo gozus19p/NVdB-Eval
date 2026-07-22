@@ -1,0 +1,166 @@
+{
+  "lemma": "procedura",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2769ad0a50d065c384"
+    },
+    "source": "paraviaXML/87139.xml",
+    "lemma": "procedura",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Complesso delle norme, specialmente di carattere giudiziario o amministrativo, da seguire per raggiungere un determinato fine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la normale procedura di un ente burocratico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Insieme delle formalità da seguire per lo svolgimento di un’azione, di un’operazione e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "osservare la procedura",
+              "errore di procedura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Serie di operazioni e manovre da eseguire, specialmente nell’aeronautica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "procedura di volo",
+              "di lancio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , insieme delle norme legislative che disciplinano lo svolgimento dei processi penali o civili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "procedura penale",
+              "civile",
+              "errore di procedura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , sequenza logica di operazioni da eseguirsi per raggiungere la soluzione di un problema complesso, specialmente nell’ambito della gestione aziendale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Modo di procedere, di agire",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Successione prestabilita di operazioni, atti o passaggi regolamentati, da compiere in un ordine specifico per eseguire un compito, adempiere a un obbligo o raggiungere un risultato in ambito istituzionale, tecnico o scientifico.",
+      "examples": [
+        "Per ottenere il visto bisogna presentare la domanda seguendo tassativamente la procedura indicata dal consolato.",
+        "Il team di manutenzione ha attivato immediatamente la procedura di emergenza per isolare la falla nel sistema idrico."
+      ],
+      "nota": null
+    }
+  ]
+}

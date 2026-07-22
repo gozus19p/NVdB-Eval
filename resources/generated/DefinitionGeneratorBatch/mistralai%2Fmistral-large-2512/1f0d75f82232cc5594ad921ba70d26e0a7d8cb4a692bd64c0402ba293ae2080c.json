@@ -1,0 +1,90 @@
+{
+  "lemma": "insegnante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6269ad0a50d06520ec"
+    },
+    "source": "paraviaXML/57710.xml",
+    "lemma": "insegnante",
+    "grammar": [
+      "p.pres.",
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio presente",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi insegna, specialmente per professione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "insegnante di lettere",
+              "insegnante di nuoto",
+              "di liceo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona che svolge professionalmente l'attività di educare e istruire gli studenti in una scuola o in un istituto di formazione.",
+      "examples": [
+        "Mia madre è un'insegnante di matematica alle superiori.",
+        "Gli insegnanti hanno organizzato uno sciopero per chiedere migliori condizioni di lavoro."
+      ],
+      "nota": "Il termine è usato sia per uomini che per donne, con accordo dell'articolo (l'insegnante, un'insegnante). Può riferirsi a docenti di ogni ordine e grado scolastico, ma non a formatori in contesti non istituzionali (es. corsi privati)."
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona che trasmette conoscenze o competenze in un ambito specifico, anche al di fuori del contesto scolastico.",
+      "examples": [
+        "Quel musicista è un grande insegnante per i giovani che vogliono imparare a suonare il pianoforte.",
+        "Durante il corso di cucina, l'insegnante ci ha mostrato come preparare la pasta fresca."
+      ],
+      "nota": "In questo senso, il termine può essere usato in modo più ampio, includendo anche figure non professionali o contesti informali. Spesso sostituito da sinonimi come 'maestro' o 'istruttore' a seconda del contesto."
+    }
+  ]
+}

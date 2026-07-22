@@ -1,0 +1,81 @@
+{
+  "lemma": "edicola",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb869ad0a50d06568cc"
+    },
+    "source": "paraviaXML/37528.xml",
+    "lemma": "edicola",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Architettura , piccola costruzione contenente un’immagine sacra, una statua e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’edicola con molti ex voto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chiosco, specialmente per la vendita dei giornali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Struttura di piccole dimensioni, aperta su uno o più lati, utilizzata per la vendita di giornali, riviste e altri piccoli articoli.",
+      "examples": [
+        "Ho comprato il quotidiano all'edicola all'angolo.",
+        "Prima di partire, mi sono fermato all'edicola della stazione per acquistare una rivista da leggere in treno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Piccolo manufatto architettonico, spesso ornamentale, che può incorniciare una statua sacra, una fontana o un'iscrizione, tipicamente visibile in luoghi pubblici o privati con funzione devozionale o commemorativa.",
+      "examples": [
+        "Lungo la strada di campagna c'era un'antica edicola votiva con l'immagine di una madonna.",
+        "Nel cortile del palazzo è stata restaurata un'edicola settecentesca che ospita una statua."
+      ],
+      "nota": null
+    }
+  ]
+}

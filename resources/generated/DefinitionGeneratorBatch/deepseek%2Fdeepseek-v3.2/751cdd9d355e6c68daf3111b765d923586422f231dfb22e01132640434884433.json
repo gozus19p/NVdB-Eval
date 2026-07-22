@@ -1,0 +1,265 @@
+{
+  "lemma": "guidare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb869ad0a50d066383f"
+    },
+    "source": "paraviaXML/50896.xml",
+    "lemma": "guidare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accompagnare facendo da guida",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guidare un cieco",
+              "guidare una comitiva lungo un sentiero impervio",
+              "guidare un gruppo di turisti alla visita di un museo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Condurre un branco di animali domestici sorvegliandoli",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guidare una mandria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Servire da punto di riferimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le stelle ci hanno guidato durante la navigazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Educare, ammaestrare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guidare i figli durante la crescita",
+              "è un ragazzo che non si lascia guidare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Indirizzare, avviare a un determinato fine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guidare una nazione alla pace",
+              "gli ideali rivoluzionari hanno guidato la sua giovinezza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Comandare, capeggiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guidare una rivolta",
+              "guidare un esercito",
+              "guidare uno stato"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dirigere, amministrare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guidare un’impresa",
+              "un’azienda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Condurre un veicolo regolandone la direzione e la velocità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guidare un carro",
+              "guidare un’automobile",
+              "guidare un aereo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Condurre un’auto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non so guidare",
+              "imparare a guidare",
+              "guidare bene",
+              "male",
+              "in modo spericolato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, essere al primo posto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il Napoli guida la classifica di serie A"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Condurre un veicolo determinandone direzione e velocità.",
+      "examples": [
+        "Ha imparato a guidare l'automobile a diciotto anni.",
+        "Le norme di sicurezza impongono di guidare con prudenza."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Dirigere un'attività o un'organizzazione, assumendosene la responsabilità.",
+      "examples": [
+        "Il nuovo amministratore ha il compito di guidare l'azienda verso la ripresa.",
+        "È stato scelto per guidare il progetto di ricerca."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Indicare la via a qualcuno, accompagnandolo o fornendo istruzioni.",
+      "examples": [
+        "La guida turistica li guidò attraverso i vicoli della città vecchia.",
+        "Mi hai gentilmente guidato fino all'uscita."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Influenzare il comportamento o le scelte di una persona, ispirandola o consigliandola.",
+      "examples": [
+        "I suoi valori morali lo guidano in ogni decisione.",
+        "L'entusiasmo del maestro guidò molti studenti verso quella carriera."
+      ],
+      "nota": null
+    }
+  ]
+}

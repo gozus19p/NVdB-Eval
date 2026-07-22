@@ -1,0 +1,133 @@
+{
+  "lemma": "pausa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1669ad0a50d065b663"
+    },
+    "source": "paraviaXML/80425.xml",
+    "lemma": "pausa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Interruzione o sospensione temporanea di un’azione, di un’attività lavorativa o intellettuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare una pausa per il pranzo",
+              "una pausa di mezz’ora"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Breve sospensione che si fa, parlando o recitando, fra due parole, incisi o proposizioni, specialmente per riprendere fiato, per chiarezza o per ragioni espressive",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "alla domanda fece seguire una lunga pausa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "fonetica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fonetica , cessazione dell’attività fonatoria tra due successive serie di foni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , interruzione del suono o del canto indicata dalla notazione, che cade in qualsiasi momento della composizione musicale, con diverso rilievo e funzione a seconda della durata e della posizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Interruzione temporanea di un'attività lavorativa, di studio o di un impegno quotidiano, finalizzata al ristoro o allo svago.",
+      "examples": [
+        "Il datore di lavoro ha deciso di estendere l'intervallo pomeridiano a causa del caldo record.",
+        "Dopo tre ore di riunione ci hanno finalmente concesso dieci minuti per recuperare le energie."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Interruzione del flusso sonoro o del ritmo nella musica, nel canto o nell'eloquio, spesso indicata da uno specifico segno grafico o dal silenzio.",
+      "examples": [
+        "Il direttore d'orchestra ha ribadito ai musicisti l'importanza di rispettare la durata esatta dei silenzi sullo spartito.",
+        "L'attore utilizzava interruzioni calcolate durante il monologo per accentuare la tensione drammatica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Periodo di calma o di inattività che sospende momentaneamente una fase di intensa tensione, evoluzione o attività in un contesto più ampio.",
+      "examples": [
+        "Dopo settimane di trattative infuocate, i diplomatici hanno annunciato una sospensione dei contatti per rivedere la strategia.",
+        "L'economia nazionale ha registrato un fisiologico rallentamento prima della ripresa degli investimenti."
+      ],
+      "nota": null
+    }
+  ]
+}

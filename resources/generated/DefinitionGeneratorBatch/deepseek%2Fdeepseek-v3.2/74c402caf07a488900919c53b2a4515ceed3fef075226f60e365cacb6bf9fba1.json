@@ -1,0 +1,120 @@
+{
+  "lemma": "pericolo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1969ad0a50d065b873"
+    },
+    "source": "paraviaXML/81511.xml",
+    "lemma": "pericolo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "interiezione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Circostanza o situazione da cui può derivare un grave danno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "trovarsi",
+              "sentirsi in pericolo",
+              "in caso di pericolo sfondare il vetro!",
+              "correre un pericolo",
+              "scongiurare un pericolo"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "I per avvertire di un rischio, segnalare un’emergenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "p.!",
+              "attenzione, p.!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Persona o cosa che può causare danni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il pericolo dell’inquinamento",
+              "del traffico sulle autostrade"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale",
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Probabilità, possibilità: nelle risposte, con valore negativo: assolutamente no, niente affatto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non c’è pericolo che obbedisca",
+              "non c’è pericolo che faccia complimenti",
+              "non c’è p.!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Situazione, condizione o evento che presenta una possibilità concreta di causare danni, lesioni, sofferenza o perdite.",
+      "examples": [
+        "La strada ghiacciata costituisce un pericolo per gli automobilisti.",
+        "Il medico ha segnalato il pericolo di una diffusione dell'epidemia."
+      ],
+      "nota": null
+    }
+  ]
+}

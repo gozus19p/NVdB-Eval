@@ -1,0 +1,163 @@
+{
+  "lemma": "genitore",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaed069ad0a50d0657ca6"
+    },
+    "source": "paraviaXML/47912.xml",
+    "lemma": "genitore",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il padre o la madre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i minori devono avere l’autorizzazione di un genitore",
+              "firma del genitore"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , il padre e la madre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "amare i propri genitori",
+              "vivere con i propri genitori"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Colui che genera o ha generato: Dante) anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "era stato genitore di tanta meraviglia quanta si vedea ch’era questa nobilissima Beatrice",
+              "del tridente enosigeo tremava | la genitrice Terra"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Foscolo)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [
+              "singolare",
+              "antonomasia",
+              "iniziale",
+              "maiuscolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , per , con iniziale maiuscolo , Dio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "da questa polve al trono | del Genitor salì"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , programma o parte di un programma che ne attiva un altro, detto figlio, e sospende il proprio funzionamento fino a che il secondo non si è concluso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Persona che ha generato uno o più figli.",
+      "examples": [
+        "Il padre e la madre sono i due genitori del bambino.",
+        "Gli insegnanti hanno incontrato i genitori degli studenti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Persona che esercita le funzioni di cura e responsabilità nei confronti di un minore, non necessariamente in relazione biologica.",
+      "examples": [
+        "Il bambino è stato affidato a due genitori adottivi.",
+        "Lo zio ha agito come genitore durante l'assenza dei suoi."
+      ],
+      "nota": "Può riferirsi a figure affettive o legali che svolgono un ruolo parentale."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "lemma": "durante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6469ad0a50d06521ea"
+    },
+    "source": "paraviaXML/37085.xml",
+    "lemma": "durante",
+    "grammar": [
+      "p.pres.",
+      "prep.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio presente"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Durare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mentre si svolge qualcosa , nel corso di",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "durante le vacanze ho viaggiato molto",
+              "dormire durante il giorno",
+              "lo vedrò durante la lezione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "estensivo",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Finanza , periodo compreso tra l’apertura e la chiusura di una seduta di borsa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Operazione che deve essere eseguita entro tale periodo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "preposizione",
+      "definition": "Indica un intervallo di tempo nel quale si svolge un'azione o si verifica un evento.",
+      "examples": [
+        "Ho letto un libro durante il viaggio in treno.",
+        "Durante la riunione, sono state prese decisioni importanti."
+      ],
+      "nota": "Può essere sostituita da 'nel corso di' o 'mentre' in molti contesti, ma 'durante' enfatizza la durata dell'intervallo temporale."
+    },
+    {
+      "pos": "avverbio (in locuzioni)",
+      "definition": "In combinazione con sostantivi o aggettivi, forma espressioni che indicano un periodo di tempo specifico.",
+      "examples": [
+        "L'ufficio resterà chiuso durante feriale.",
+        "Durante l'estate, le temperature possono superare i 35 gradi."
+      ],
+      "nota": "Spesso usato in locuzioni fisse come 'durante il giorno', 'durante la notte', 'durante l'anno'."
+    }
+  ]
+}

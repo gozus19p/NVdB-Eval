@@ -1,0 +1,169 @@
+{
+  "lemma": "grazie",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae2569ad0a50d064ed3c"
+    },
+    "source": "paraviaXML/50286.xml",
+    "lemma": "grazie",
+    "grammar": [
+      "inter.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AD",
+        "field": "",
+        "grammar": [
+          "interiezione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esprime ringraziamento, gratitudine, riconoscenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "grazie per il regalo",
+              "grazie per tutto ciò che hai fatto per me",
+              "grazie di tutto",
+              "grazie di cuore",
+              "grazie tante!",
+              "grazie mille!",
+              "grazie infinite!",
+              "mille g.!",
+              "molte g.!",
+              "grazie a lei!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AD",
+        "field": "",
+        "grammar": [
+          "interiezione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esprime un cortese assenso o rifiuto per qualcosa che viene offerto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "«Posso offrirti un aperitivo?» «Sì, g.»",
+              "«No, g.»",
+              "«G., sì»",
+              "«G., no»"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per rispondere a un’affermazione ovvia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "«Mi piacerebbe vivere di rendita» «G., anche a me!»"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ringraziamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un grazie di cuore",
+              "ti meriti proprio un bel grazie"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "interiezione",
+      "definition": "Locuzione usata per esprimere riconoscenza o gratitudine verso qualcuno per un favore, un aiuto, un dono o un complimento.",
+      "examples": [
+        "Mi ha aiutato a portare le borse, gli ho detto grazie di cuore.",
+        "Grazie per la splendida serata che ci hai offerto.",
+        "– Ti passo un bicchiere d’acqua. – Grazie!"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "interiezione",
+      "definition": "Locuzione utilizzata per rifiutare cortesemente un'offerta o una proposta.",
+      "examples": [
+        "– Vuoi un altro caffè? – No, grazie, sono già a posto.",
+        "– Posso darti una mano? – Grazie, ma riesco a fare da solo."
+      ],
+      "nota": "Spesso accompagnato da un gesto della mano o un'espressione del viso che rafforzano il rifiuto."
+    },
+    {
+      "pos": "locuzione preposizionale",
+      "definition": "A causa di; per merito di; in virtù di un qualcosa.",
+      "examples": [
+        "Grazie al suo intervento, la situazione si è risolta senza problemi.",
+        "Il progetto è stato un successo grazie all'impegno di tutti.",
+        "Sono qui oggi grazie a un colpo di fortuna."
+      ],
+      "nota": "Ha spesso una connotazione causale positiva, indicando che un risultato favorevole è stato raggiunto per via di un determinato fattore."
+    },
+    {
+      "pos": "sostantivo f. pl.",
+      "definition": "Singole espressioni o dimostrazioni di gratitudine.",
+      "examples": [
+        "Ha ricevuto molte grazie dopo aver donato il suo tempo.",
+        "Le mie più sentite grazie a tutti voi per il sostegno."
+      ],
+      "nota": "Uso più formale o letterario rispetto all'interiezione."
+    },
+    {
+      "pos": "sostantivo f. pl.",
+      "definition": "Dono, beneficio, favore o concessione che viene accordato, spesso in un contesto religioso o di grande valore, come una grazia divina.",
+      "examples": [
+        "Ha chiesto al cielo le grazie per la sua famiglia.",
+        "Le opere di carità permettono di ottenere le grazie del Signore."
+      ],
+      "nota": null
+    }
+  ]
+}

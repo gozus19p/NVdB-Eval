@@ -1,0 +1,169 @@
+{
+  "lemma": "accompagnare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf9f69ad0a50d066242e"
+    },
+    "source": "paraviaXML/1163.xml",
+    "lemma": "accompagnare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Seguire, scortare per tenere compagnia, dare protezione e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare qcn. a casa",
+              "accompagnare la sposa all’altare",
+              "accompagnare gli ospiti alla porta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Seguirne il feretro al funerale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare un defunto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Seguire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare qcn. con lo sguardo",
+              "col pensiero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trattenerla con la mano per non farla sbattere chiudendola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare la porta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mettere insieme, accordare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare una pietanza col vino",
+              "accompagnare lo studio con la riflessione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , seguire con l’accompagnamento di uno strumento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare la cantante al",
+              "con il pianoforte"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "andare insieme a qualcuno o qualcosa, come compagnia",
+      "examples": [
+        "Accompagnò sua figlia a scuola.",
+        "Il musicista accompagna il cantante al pianoforte."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "aiutare o supportare qualcuno in una situazione difficile",
+      "examples": [
+        "L'assistente sociale si occupa di accompagnare le famiglie in difficoltà.",
+        "Il tutor accompagna gli studenti nello studio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "essere concomitante o simultaneo a qualcosa",
+      "examples": [
+        "La musica accompagna il ritmo della danza.",
+        "La crisi economica accompagna la pandemia."
+      ],
+      "nota": null
+    }
+  ]
+}

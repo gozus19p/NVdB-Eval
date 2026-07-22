@@ -1,0 +1,233 @@
+{
+  "lemma": "attraversare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa569ad0a50d0662909"
+    },
+    "source": "paraviaXML/10179.xml",
+    "lemma": "attraversare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Passare da una parte all’altra: percorrere da un capo all’altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attraversare una strada",
+              "un fiume",
+              "una nazione",
+              "attraversare il ponte",
+              "il corteo ha attraversato la città"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Passare da una parte all’altra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guardò a sinistra e a destra prima di attraversare"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Presentarsi alla mente in modo improvviso e fugace",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’idea gli attraversò la mente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trapassare, perforare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la freccia gli attraversò un polmone"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Vivere, trascorrere, passare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sto attraversando un buon momento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sbarrare disponendo qualcosa trasversalmente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attraversare la strada a qcn. con un ostacolo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rendere difficile, ostacolare, impedire, intralciare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attraversare i progetti",
+              "le mire",
+              "i programmi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettere per traverso, disporre trasversalmente a qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attraversare l’albero alla strada"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "marina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Marina , incrociare con la propria rotta quella di un’altra nave, passandole a poca distanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "muoversi attraverso qualcosa, superandone l'ostacolo",
+      "examples": [
+        "Il corridore ha dovuto attraversare la strada per raggiungere il traguardo.",
+        "L'escursionista ha attraversato il fiume su un ponte di fortuna."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "muoversi da un lato all'altro di qualcosa",
+      "examples": [
+        "La nave ha attraversato il canale senza problemi.",
+        "Il corteo funebre ha attraversato la città."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "superare un ostacolo interno o una difficoltà",
+      "examples": [
+        "L'azienda deve attraversare un momento di crisi finanziaria.",
+        "Il paziente ha dovuto attraversare una fase di depressione."
+      ],
+      "nota": "uso figurato"
+    }
+  ]
+}

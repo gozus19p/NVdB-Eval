@@ -1,0 +1,837 @@
+{
+  "lemma": "interno",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064ae40"
+    },
+    "source": "paraviaXML/58554.xml",
+    "lemma": "interno",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che è dentro, che sta dentro qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tasca interna di una giacca",
+              "rivestimento interno",
+              "cucitura interna",
+              "cortile interno",
+              "scale interne",
+              "organi interni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che viene da dentro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "spinta interna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rivolto verso il dentro, verso la parte centrale o meno esposta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lato interno della coscia",
+              "parte interna del piede"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che non dà sulla strada ma guarda verso il cortile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stanza interna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che concerne la vita intima dell’uomo, la sua interiorità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "moto interno di ribellione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Compreso entro i limiti di un territorio geografico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "monti",
+              "fiumi",
+              "laghi interni"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di territorio, privo di sbocco al mare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "regioni interne"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che tocca o collega località di uno stesso paese o di una stessa regione geografica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "trasporti interni",
+              "voli interni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che riguarda la vita e l’organizzazione di uno stato entro i suoi confini politici",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affari interni",
+              "politica interna",
+              "tasso interno di disoccupazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che riguarda i rapporti in seno a un’organizzazione, una società e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coordinamento interno",
+              "contrasti interni a un partito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di servizio o simile , che si svolge esclusivamente dentro un’azienda a beneficio dei suoi dipendenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mensa interna",
+              "rete telefonica interna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente nel linguaggio giornalistico, di incontro sportivo, che si disputa in casa, sul proprio terreno di gioco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partita interna",
+              "vittorie",
+              "sconfitte interne"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quella che sostiene la squadra di casa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tifoseria interna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , di processo chimico, che avviene internamente alla molecola",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "bibliologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Legatoria bibliologia ; intercalato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , ciò che è dentro, la parte che sta dentro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’interno di una scatola",
+              "di un motore",
+              "di una grotta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , la sfera intima dell’uomo, la sua interiorità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’interno dell’animo umano",
+              "soffrire",
+              "gioire nel proprio interno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale",
+          "plurale",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , l’insieme degli ambienti chiusi, delle stanze di un edificio, in contrapposizione alle sue parti esterne",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli interni di una villa",
+              "impianto di illuminazione per interni"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che rappresenta tali ambienti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pittura",
+              "fotografia d’interni"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Teatro cinematografia specialmente al , scenografia che riproduce un ambiente chiuso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i celebri interni viscontiani"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cinematografia specialmente al , ripresa girata in un teatro di posa o comunque in un ambiente chiuso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tessuto o altro materiale che riveste internamente; fodera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "interno in seta",
+              "in pelliccia",
+              "giaccone con interno staccabile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , parte di un territorio lontana dai confini o dalle coste",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’interno dell’Africa",
+              "penetrare",
+              "inoltrarsi nell’interno del paese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Numero d’ordine talvolta usato per identificare ciascun appartamento di un condominio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scala B, interno 34"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’appartamento corrispondente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’è un trasloco all’interno di fronte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Numero telefonico che permette collegamenti esclusivamente all’interno di uno stesso edificio, di una stessa azienda e simile , senza possibilità di passare comunicazioni con l’esterno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il nostro ufficio ha l’interno 387",
+              "scusi, ho sbagliato interno"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’ufficio corrispondente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’è l’interno 15 in linea"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Allievo che frequenta un istituto scolastico in qualità di convittore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Candidato che sostiene un esame nella scuola che ha frequentato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Studente in medicina o medico neolaureato che compie il suo apprendistato in un ospedale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport ; mezzala",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel baseball, ciascun giocatore della squadra schierata in difesa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel bob a quattro, ciascuno dei due membri dell’equipaggio situati tra il pilota e il frenatore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , ministero dell’interno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giornalismo specialmente al , settore dell’informazione relativa agli eventi nazionali, in contrapposizione a quelli esteri",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "II 3,4,6,7,11,12",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "8–10",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che si trova racchiuso o situato nella parte più profonda di un corpo, di un oggetto o di uno spazio, in opposizione a ciò che ne costituisce la superficie o l'area circostante.",
+      "examples": [
+        "La temperatura interna del forno raggiunge i duecento gradi dopo dieci minuti di preriscaldamento.",
+        "Il dolore interno alla gamba richiede un'ecografia per escludere una trombosi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Proprio di un determinato gruppo, organizzazione o ambito sociale, che si svolge, ha validità o produce effetti esclusivamente al suo interno senza relazioni dirette con soggetti esterni.",
+      "examples": [
+        "Il direttivo ha approvato un nuovo codice interno sulla trasparenza dei compensi.",
+        "Le frizioni interne alla coalizione hanno ritardato l'uscita del comunicato stampa."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Spazio, struttura o parte situata al di là del confine estero di un edificio, di un corpo o di un contenitore.",
+      "examples": [
+        "L'interno della basilica è stato restaurato dopo il crollo di una sezione dell'intonaco.",
+        "Una fessura nella parete lasciava filtrare un po' di aria fresca nell'interno del vano scala."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Locale adibito ad abitazione, in genere appartamento, situato all'interno di un condominio o di un complesso residenziale.",
+      "examples": [
+        "L'agenzia immobiliare propone un interno luminoso di ottanta metri quadri con doppi servizi.",
+        "Hanno visitato un interno al quinto piano prima di procedere con la proposta d'acquisto."
+      ],
+      "nota": "Diffuso nel linguaggio tecnico-immobiliare e nella contrattazione privata."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Numero telefonico assegnato a una singola postazione o ufficio all'interno di una rete con centralino.",
+      "examples": [
+        "Per contattare il reparto amministrazione, componga il numero principale e digiti l'interno trecentoquindici.",
+        "Il centralinista mi ha passato l'interno del responsabile della logistica senza intoppi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Studente che sostiene un esame presso l'istituto scolastico o universitario in cui ha frequentato regolarmente le lezioni, anziché presso una sede d'esame esterna.",
+      "examples": [
+        "La maggior parte dei diplomati si iscrive come interno per il colloquio finale dell'anno.",
+        "Gli esami per gli esterni e gli interni si svolgono nella stessa aula ma con calendari separati."
+      ],
+      "nota": "Accezione propria del sistema scolastico e universitario italiano."
+    }
+  ]
+}

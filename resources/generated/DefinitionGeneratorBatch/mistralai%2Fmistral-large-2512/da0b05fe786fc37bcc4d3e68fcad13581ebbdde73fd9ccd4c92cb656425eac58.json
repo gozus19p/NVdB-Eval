@@ -1,0 +1,260 @@
+{
+  "lemma": "registrazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3169ad0a50d065cc00"
+    },
+    "source": "paraviaXML/92288.xml",
+    "lemma": "registrazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il registrare, l’annotare e il loro risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "registrazione di dati",
+              "registrazione delle spese",
+              "degli incassi",
+              "registrazione delle assenze"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , annotazione di atti, dichiarazioni e simile su pubblici registri",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rilevamento di un dato fenomeno per mezzo di appositi strumenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "registrazione istantanea",
+              "continua",
+              "registrazione grafica",
+              "fotografica",
+              "ottica",
+              "magnetica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Operazione con cui si raccolgono e si fissano su supporti magnetici suoni o immagini",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "registrazione dal vivo",
+              "registrazione su nastro",
+              "sala",
+              "studio di registrazione"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il prodotto di tale operazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "possedere una preziosa registrazione della Tosca"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Programma radiofonico o televisivo trasmesso non in diretta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la registrazione della partita sarà trasmessa domani"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , trasferimento di dati da un supporto a un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "tecnica, tecnologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , regolazione, messa a punto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "registrazione dei freni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , arte e tecnica del mettere a punto e combinare fra loro i registri dell’organo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , impressione nel sistema nervoso dell’evento percettivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Azione o risultato del fissare su un supporto sonoro, visivo o digitale suoni, immagini o dati per conservarli e riprodurli successivamente.",
+      "examples": [
+        "La registrazione del concerto è avvenuta in uno studio professionale.",
+        "Ho perso la registrazione della lezione perché la batteria del telefono si è scaricata."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Procedura formale con cui si inseriscono dati o informazioni in un elenco ufficiale o in un archivio.",
+      "examples": [
+        "La registrazione del contratto di affitto va fatta entro 30 giorni.",
+        "Per partecipare al concorso è necessaria la registrazione online sul sito dell'ente."
+      ],
+      "nota": "Spesso usato in contesti amministrativi, burocratici o informatici."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Azione di regolare o tarare uno strumento o un dispositivo affinché funzioni correttamente.",
+      "examples": [
+        "La registrazione dei freni dell'auto è fondamentale per la sicurezza.",
+        "Dopo la riparazione, è necessaria la registrazione del motore per ottimizzare le prestazioni."
+      ],
+      "nota": "Comune in ambiti tecnici e meccanici."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Documento o attestazione che prova l'avvenuta iscrizione o inserimento in un elenco ufficiale.",
+      "examples": [
+        "Ho ricevuto la registrazione della mia impresa alla Camera di Commercio.",
+        "Conserva la registrazione del tuo account per eventuali verifiche."
+      ],
+      "nota": "Può riferirsi anche a ricevute o certificati digitali."
+    }
+  ]
+}

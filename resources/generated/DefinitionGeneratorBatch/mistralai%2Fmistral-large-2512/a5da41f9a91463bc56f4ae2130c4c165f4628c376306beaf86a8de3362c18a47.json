@@ -1,0 +1,142 @@
+{
+  "lemma": "proposito",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2869ad0a50d065c493"
+    },
+    "source": "paraviaXML/87819.xml",
+    "lemma": "proposito",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ferma volontà di compiere un’azione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esporre i propri propositi",
+              "è pieno di buoni propositi",
+              "non riuscì a distoglierlo dal suo proposito di vendetta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ripromettersi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare proposito"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intenzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono arrivato col proposito di telefonargli, poi mi è passato di mente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scopo prefisso, fine che si persegue",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo sforzo è sproporzionato al proposito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Argomento di cui si vuole parlare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vorrei dire qcs. a questo proposito",
+              "non hai diritto di pronunciarti su tale proposito",
+              "«Devo parlarti!»«A che p.?»"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Intenzione o decisione di compiere un'azione, spesso accompagnata da una certa determinazione.",
+      "examples": [
+        "Ha preso il proposito di smettere di fumare entro l'anno.",
+        "I suoi buoni propositi per il nuovo anno includevano più attività fisica e meno stress."
+      ],
+      "nota": "Spesso usato al plurale ('buoni propositi') per indicare obiettivi personali, specialmente all'inizio di un nuovo anno."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Argomento o tema di cui si sta parlando o scrivendo.",
+      "examples": [
+        "A un certo punto della conversazione, ha cambiato proposito e ha iniziato a parlare di lavoro.",
+        "Il libro affronta il proposito della sostenibilità ambientale con grande chiarezza."
+      ],
+      "nota": "In questo senso, è spesso usato in espressioni come 'a proposito' (per introdurre un nuovo argomento) o 'fuori proposito' (per indicare un intervento non pertinente)."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Scopo o finalità di un'azione o di un progetto.",
+      "examples": [
+        "Il proposito di questa riunione è trovare una soluzione al problema.",
+        "Non capisco il proposito di questa modifica al regolamento."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lemma": "telefonare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe769ad0a50d0665eb5"
+    },
+    "source": "paraviaXML/118997.xml",
+    "lemma": "telefonare",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") mettersi in contatto, parlare per mezzo del telefono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "telefonare a qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Comunicare telefonicamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi telefonò la notizia"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo (ausiliare avere)",
+      "definition": "comunicare con qualcuno a distanza utilizzando un apparecchio telefonico",
+      "examples": [
+        "Ho telefonato a mia madre per sapere come stava.",
+        "Devi telefonare al medico per fissare un appuntamento."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "comunicare qualcosa a qualcuno tramite telefono",
+      "examples": [
+        "Mi ha telefonato la notizia della sua promozione.",
+        "Ti telefono un messaggio importante domani mattina."
+      ],
+      "nota": "In questo uso, il verbo regge un complemento oggetto che indica il contenuto della comunicazione, non la persona contattata."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare avere)",
+      "definition": "emettere un segnale acustico per indicare una chiamata in arrivo (detto di un telefono)",
+      "examples": [
+        "Il telefono ha telefonato per tutta la notte, ma non ho risposto.",
+        "Appena sono uscito dalla doccia, ha telefonato il cellulare."
+      ],
+      "nota": "Uso meno comune e spesso sostituito da 'squillare' o 'suonare'."
+    }
+  ]
+}

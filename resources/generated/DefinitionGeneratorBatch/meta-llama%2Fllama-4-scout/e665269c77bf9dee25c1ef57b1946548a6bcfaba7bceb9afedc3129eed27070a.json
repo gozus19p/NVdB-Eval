@@ -1,0 +1,128 @@
+{
+  "lemma": "scatola",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4369ad0a50d065da5e"
+    },
+    "source": "paraviaXML/102876.xml",
+    "lemma": "scatola",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Contenitore di differenti materiali, forme e dimensioni a seconda delle esigenze, solitamente provvisto di coperchio, usato per riporre, conservare o trasportare oggetti va- ri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scatola di cartone",
+              "di latta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In cartone, a forma di parallelepipedo, tale da contenere un paio di scarpe",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scatola da scarpe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "metonimia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per , il suo contenuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è riuscito a mangiare un’intera scatola di gianduiotti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oggetto, congegno a forma di scatola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un carillon formato da una scatola con sopra una bambolina"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "contenitore rigido di varie dimensioni, solitamente in cartone o plastica, usato per riporre o trasportare oggetti",
+      "examples": [
+        "Ho comprato una scatola di scarpe per regalarle a mia sorella.",
+        "La scatola dei giocattoli è troppo piena, bisogna fare una pulizia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "termine usato in anatomia per indicare una struttura che racchiude un organo",
+      "examples": [
+        "La scatola cranica protegge il cervello.",
+        "La scatola toracica è costituita dalle costole e dallo sterno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "in musica, strumento a percussione costituito da una cassa di legno",
+      "examples": [
+        "La scatola è uno strumento musicale molto utilizzato nella musica latina.",
+        "Il percussionista suona la scatola con grande abilità."
+      ],
+      "nota": null
+    }
+  ]
+}

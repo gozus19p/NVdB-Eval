@@ -1,0 +1,168 @@
+{
+  "lemma": "copia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaea569ad0a50d065586c"
+    },
+    "source": "paraviaXML/27505.xml",
+    "lemma": "copia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trascrizione fedele di una scrittura, di un testo originale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Disegno, pittura o scultura che riproduce più o meno fedelmente un originale, talvolta a scopo di contraffazione, o a scopo di esercitazione o di diffusione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una copia di un acquerello di Klee"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Duplicato di un originale ottenuto da una matrice o per riproduzione fotomeccanica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "copie fotostatiche di un testo",
+              "copia eliografica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In fotografia, esemplare ricavato dal negativo tramite la stampa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esemplare a stampa di un libro, una rivista, un giornale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la tiratura di questo quotidiano è di 30.000 copie"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona molto somigliante a un’altra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il bambino è la copia di suo padre"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Riproduzione esatta di un documento, un testo o un'opera d'arte",
+      "examples": [
+        "La copia del contratto è stata inviata via email.",
+        "Il museo ha fatto una copia dell'opera d'arte originale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Persona che imita o copia il comportamento di qualcun altro",
+      "examples": [
+        "Il suo collega è una copia esatta del capo.",
+        "La nuova studentessa è una copia della sua sorella maggiore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Riprodurre o imitare qualcosa",
+      "examples": [
+        "Il software copia i dati sul nuovo hard disk.",
+        "L'attrice copia perfettamente l'accento della sua collega."
+      ],
+      "nota": null
+    }
+  ]
+}

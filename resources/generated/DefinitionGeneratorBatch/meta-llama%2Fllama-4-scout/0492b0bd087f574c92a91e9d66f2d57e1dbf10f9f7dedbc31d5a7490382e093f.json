@@ -1,0 +1,173 @@
+{
+  "lemma": "analisi",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7269ad0a50d0652d4b"
+    },
+    "source": "paraviaXML/5543.xml",
+    "lemma": "analisi",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Forma di indagine che consiste nella scomposizione di un tutto, astratto o concreto, nelle sue parti costitutive e nell’esame sistematico di queste",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esame attento, indagine accurata di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare un’attenta analisi dell’accaduto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scientifico , in varie discipline, complesso di operazioni finalizzate a stabilire natura, qualità e quantità di una data sostanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In medicina, specialmente al , complesso di esami clinici a scopo diagnostico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "analisi cliniche",
+              "del sangue",
+              "delle urine",
+              "gli hanno fatto le analisi e non gli hanno trovato nulla"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , terapia psicoanalitica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "entrare in analisi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica ; analisi matematica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Analisi infinitesimale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Esame dettagliato e approfondito di un argomento o di un testo",
+      "examples": [
+        "L'analisi del mercato ha rivelato nuove opportunità.",
+        "L'analisi del testo è stata condotta con metodo scientifico."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "In psicologia, processo di esame della personalità o del comportamento",
+      "examples": [
+        "L'analisi psicologica del paziente ha aiutato a comprendere il suo comportamento.",
+        "L'analisi del sogno ha rivelato aspetti inconsci della personalità."
+      ],
+      "nota": null
+    }
+  ]
+}

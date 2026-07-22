@@ -1,0 +1,158 @@
+{
+  "lemma": "organizzazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0d69ad0a50d065aef1"
+    },
+    "source": "paraviaXML/76868.xml",
+    "lemma": "organizzazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’organizzare, l’organizzarsi e il loro risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "seguire l’organizzazione di un lavoro",
+              "curare l’organizzazione del festival del cinema",
+              "gli ho affidato l’organizzazione del matrimonio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il modo in cui è organizzato un lavoro, una struttura e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’organizzazione amministrativa",
+              "cambiare l’organizzazione interna di un ufficio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Struttura organizzata per conseguire un fine comune: l’insieme di persone che vi operano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "organizzazione culturale",
+              "organizzazione di giovani scout"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia , disposizione di organi che formano una struttura corporea",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "TS",
+        "field": "medicina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina , processo di infiltrazione trombotica di cellule connettivali con esito in occlusione parziale o quasi completa dei vasi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Atto o processo di strutturare e coordinare elementi o attività in un sistema coerente e funzionale per raggiungere un obiettivo specifico.",
+      "examples": [
+        "L'organizzazione del progetto ha richiesto mesi di pianificazione.",
+        "La sua abilità nell'organizzazione di eventi è riconosciuta da tutti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Gruppo di persone formalmente costituito e strutturato per svolgere determinate funzioni e perseguire scopi comuni o specifici.",
+      "examples": [
+        "È entrato a far parte di un'organizzazione internazionale per la difesa dei diritti umani.",
+        "L'organizzazione ha annunciato nuove politiche per il contenimento dei costi."
+      ],
+      "nota": "Si riferisce sia a entità pubbliche che private, con o senza scopo di lucro."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Maniera in cui qualcosa è strutturato o disposto, l'assetto interno e le relazioni tra le sue parti costitutive.",
+      "examples": [
+        "L'organizzazione del suo ufficio riflette una mente metodica.",
+        "La nuova organizzazione degli spazi ha migliorato la fruibilità dell'edificio."
+      ],
+      "nota": null
+    }
+  ]
+}

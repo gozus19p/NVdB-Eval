@@ -1,0 +1,436 @@
+{
+  "lemma": "famiglia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec269ad0a50d065710b"
+    },
+    "source": "paraviaXML/42185.xml",
+    "lemma": "famiglia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Insieme di persone unite da un rapporto di parentela o affinità; specialmente , il nucleo formato dal padre, dalla madre e dai figli, che costituisce l’istituzione sociale di base della società",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere una famiglia numerosa",
+              "fare una riunione di famiglia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere moglie e figli a carico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tenere famiglia"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "funzione",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione inv. specialmente con riferimento a confezioni industriali di prodotti alimentari o casalinghi, per indicare che rispondono, quantitativamente, ai bisogni di una famiglia media",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "formato famiglia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Casata, stirpe",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere di famiglia nobile",
+              "discendere da una famiglia illustre",
+              "ramo primogenito della famiglia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il seguito di un personaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il personale, la servitù di una casa patrizia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Insieme di persone legate da un generico vincolo comune, anche ideale: l’insieme dei cittadini europei in quanto considerati accomunati da storia e tradizioni comuni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la famiglia europea"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ordine religioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la famiglia benedettina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Gruppo specialmente di lavoro molto affiatato; azienda gestita in modo paternalistico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questa società è una grande famiglia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sentirsi a proprio agio tra determinate persone",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sentirsi in famiglia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "gergale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nel gergo mafioso, raggruppamento immediatamente inferiore alla cosca",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di cose affini",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , insieme degli strumenti con timbro analogo ma diversa tessitura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la famiglia degli archi",
+              "dei legni",
+              "delle percussioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica zoologia biologia , categoria sistematica superiore al genere e inferiore all’ordine",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "petrografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Petrografia , gruppo di rocce con gli stessi componenti essenziali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la famiglia dei graniti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , nella classificazione periodica degli elementi, insieme di elementi compresi in uno stesso gruppo con proprietà affini",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "famiglia radioattiva"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "tipografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipografia , gruppo di caratteri alfabetici in un determinato stile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "famiglia dei caratteri bodoniani",
+              "famiglia dei caratteri a bastone"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , insieme di curve o superfici con proprietà analoghe e caratteristiche comuni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "famiglia delle coniche",
+              "famiglia delle curve rettificabili"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "TS",
+        "field": "filologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filologia , serie di manoscritti che risalgono a uno stesso capostipite comune",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo, femminile",
+      "definition": "Nucleo di persone unite da vincoli di sangue, matrimonio, adozione o affettivi, che convivono o costituiscono un'unità sociale riconosciuta.",
+      "examples": [
+        "Dopo il trasloco, tutta la famiglia ha collaborato per sistemare le scatole.",
+        "Negli ultimi anni il concetto giuridico e sociale di questa istituzione si è ampliato notevolmente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, femminile",
+      "definition": "Categoria della classificazione scientifica degli organismi viventi, collocata gerarchicamente sopra il genere e sotto l'ordine, che raggruppa entità con caratteristiche anatomiche ed evolutive comuni.",
+      "examples": [
+        "Il cane, il lupo e la volpe fanno parte dello stesso raggruppamento di carnivori.",
+        "Gli esperti hanno classificato il nuovo ceppo microbico in un taxon già noto ai ricercatori."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, femminile",
+      "definition": "Insieme di lingue o dialetti che derivano da una protolingua comune e presentano sistematiche corrispondenze fonetiche, morfosintattiche e lessicali.",
+      "examples": [
+        "Lo spagnolo e il francese appartengono al medesimo gruppo di idiomi di origine latina.",
+        "I glottologi ricostruiscono l'evoluzione storica studiando le affinità tra questi gruppi linguistici."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, femminile",
+      "definition": "Insieme di persone, oggetti, istituzioni o fenomeni accomunati da origine, caratteristiche strutturali, funzioni o legami storici e culturali.",
+      "examples": [
+        "Questo modello di automobile appartiene al gruppo di vetture ibride compatte più vendute quest'anno.",
+        "Tutti i programmi applicativi della suite formano un ecosistema software perfettamente integrato."
+      ],
+      "nota": null
+    }
+  ]
+}

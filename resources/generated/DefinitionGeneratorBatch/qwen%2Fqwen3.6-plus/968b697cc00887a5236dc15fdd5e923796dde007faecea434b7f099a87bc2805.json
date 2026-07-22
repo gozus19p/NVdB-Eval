@@ -1,0 +1,159 @@
+{
+  "lemma": "attenzione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7a69ad0a50d0653434"
+    },
+    "source": "paraviaXML/10007.xml",
+    "lemma": "attenzione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intensa applicazione e concentrazione della mente e dei sensi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ascoltare",
+              "guardare",
+              "osservare qcs.",
+              "qcn. con attenzione",
+              "lavorare con attenzione",
+              "mettere attenzione nel fare qcs."
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Formula epistolare, specialmente scritta sotto l’indirizzo della ditta o dell’ente destinatario, cui si fa seguire il nome della persona alla quale va recapitato il pacco, la lettera, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "alla cortese attenzione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , comportamenti, gesti con cui si prevengono desideri o bisogni altrui",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coprire qcn. di attenzioni",
+              "avere molte attenzioni per qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nteriettivo, esclamazione per esortare qualcuno a essere attento o per segnalare un pericolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attenzione prego!",
+              "a., sta arrivando!",
+              "a.! è molto rischioso!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Capacità o atto di concentrare le facoltà mentali su uno stimolo, un compito o un pensiero specifico.",
+      "examples": [
+        "La lettura di un testo tecnico richiede molta attenzione.",
+        "Il rumore della strada mi distrae e non riesco a mantenere l'attenzione necessaria."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Stato di vigilanza o prudenza adottato per prevenire pericoli, errori o inconvenienti.",
+      "examples": [
+        "Presta attenzione ai gradini, sono scivolosi.",
+        "In laboratorio è fondamentale lavorare con la massima attenzione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Gesto, comportamento o considerazione premurosa rivolta a qualcuno per dimostrare rispetto, affetto o gentilezza.",
+      "examples": [
+        "Ti sono grato per tutte le attenzioni ricevute durante la convalescenza.",
+        "Il servizio clienti si distingue per la costante attenzione verso le esigenze degli utenti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Richiamo o segnale urgente, spesso impiegato in forma isolata, per avvertire di un pericolo imminente o sollecitare ascolto immediato.",
+      "examples": [
+        "Attenzione, il pavimento è appena stato lavato!",
+        "Attenzione alle comunicazioni del responsabile prima di lasciare l'edificio."
+      ],
+      "nota": "Funzionante pragmaticamente come interiezione o etichetta fissa negli avvisi pubblici e nelle segnalazioni di sicurezza."
+    }
+  ]
+}

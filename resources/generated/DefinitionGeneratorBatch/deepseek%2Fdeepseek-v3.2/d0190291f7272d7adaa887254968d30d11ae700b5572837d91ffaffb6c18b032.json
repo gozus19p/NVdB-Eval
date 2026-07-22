@@ -1,0 +1,61 @@
+{
+  "lemma": "agosto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6d69ad0a50d06529d8"
+    },
+    "source": "paraviaXML/3390.xml",
+    "lemma": "agosto",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "agosto-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ottavo mese dell’anno, di trentuno giorni nel calendario gregoriano e giuliano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire in, ad agosto",
+              "è stato un agosto piovoso",
+              "accadde nell’agosto del 1960"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Ottavo mese del calendario gregoriano.",
+      "examples": [
+        "Le vacanze scolastiche terminano solitamente alla fine di agosto.",
+        "A agosto le temperature raggiungono spesso i massimi annuali."
+      ],
+      "nota": "Si scrive con la lettera minuscola a meno che non inizi una frase o compaia in contesti formali."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Periodo di inattività o chiusura delle attività, soprattutto lavorative, durante il mese omonimo.",
+      "examples": [
+        "L'azienda rimarrà chiusa per tutto agosto.",
+        "Durante l'agosto, molti negozi riducono l'orario di apertura."
+      ],
+      "nota": "Usato spesso con l'articolo determinativo ('l'agosto'), soprattutto in contesti professionali."
+    }
+  ]
+}

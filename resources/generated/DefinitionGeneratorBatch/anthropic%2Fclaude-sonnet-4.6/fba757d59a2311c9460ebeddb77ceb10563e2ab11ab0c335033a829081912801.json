@@ -1,0 +1,142 @@
+{
+  "lemma": "stipendio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5a69ad0a50d065ee35"
+    },
+    "source": "paraviaXML/115073.xml",
+    "lemma": "stipendio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Retribuzione fissa, per lo più mensile corrisposta a chi presta subordinatamente un lavoro di concetto o, impropriamente, un lavoro manuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo stipendio viene pagato il 27 del mese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’ammontare della retribuzione stessa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con il suo stipendio non arriva alla fine del mese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , in Roma antica, la paga corrisposta alle truppe mercenarie",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , compenso che un signore o un principe concedeva a chi lavorava alle sue dipendenze",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "termine ecclesiastico",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine ecclesiastico , elemosina offerta a una chiesa perché celebri una funzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Compenso fisso e periodico, generalmente mensile, corrisposto da un datore di lavoro a un lavoratore dipendente in cambio della propria attività lavorativa.",
+      "examples": [
+        "A fine mese ho ricevuto lo stipendio direttamente sul conto corrente.",
+        "Con questo stipendio non riesco a coprire tutte le spese.",
+        "Ha negoziato uno stipendio più alto prima di accettare il nuovo incarico."
+      ],
+      "nota": "Si distingue da 'salario', tradizionalmente associato ai lavoratori manuali e spesso calcolato su base oraria o settimanale, mentre 'stipendio' è tipicamente riferito a impiegati e professionisti con retribuzione mensile. Nella lingua comune i due termini tendono però a essere usati come sinonimi."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In senso figurato, qualunque forma di ricompensa o remunerazione, materiale o simbolica, ottenuta in cambio di un impegno o di un comportamento.",
+      "examples": [
+        "La soddisfazione dei propri studenti è lo stipendio più grande per un insegnante.",
+        "Il rispetto della comunità era il suo unico stipendio dopo anni di volontariato."
+      ],
+      "nota": "Uso metaforico, generalmente con intenzione enfatica o retorica."
+    }
+  ]
+}

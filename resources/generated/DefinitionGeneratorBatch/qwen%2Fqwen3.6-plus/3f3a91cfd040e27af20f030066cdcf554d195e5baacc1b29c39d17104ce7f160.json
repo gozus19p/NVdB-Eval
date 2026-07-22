@@ -1,0 +1,166 @@
+{
+  "lemma": "ricordare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafcf69ad0a50d0664bc0"
+    },
+    "source": "paraviaXML/94465.xml",
+    "lemma": "ricordare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conservare, avere presente nella memoria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ricordo che eravamo in pochi quella volta",
+              "ti ricordo bene",
+              "ricordo quel film",
+              "ricordare a memoria un numero telefonico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Richiamare alla memoria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sto cercando di ricordare dove l’ho visto",
+              "ti ricordo che la cena è fissata per le no-ve"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In espressioni di ammonizione o esortazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vi ricordo il dovere dell’onestà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Menzionare, nominare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "conversando abbiamo ricordato i cugini"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Commemorare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il sindaco ha ricordato i caduti per la libertà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Far venire in mente per affinità, somiglianza, associazione di idee",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nei tratti del viso ricordo mia madre"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Avere nella memoria e mantenere viva la conoscenza di eventi, persone o informazioni.",
+      "examples": [
+        "Ricordo chiaramente l'atmosfera di quella sera d'estate.",
+        "Non ricordo più dove ho lasciato le chiavi."
+      ],
+      "nota": "Nell'uso contemporaneo è diffusissima l'alternanza con la costruzione pronominale, che enfatizza il recupero attivo di un'informazione o l'adesione a un impegno personale."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Richiamare esplicitamente l'attenzione di un interlocutore su un dato, una scadenza o una norma, affinché non venga ignorata o trascurata.",
+      "examples": [
+        "Ti ricordo che la scadenza per il pagamento è fissata a venerdì.",
+        "Il responsabile ha ricordato al personale le nuove procedure di sicurezza."
+      ],
+      "nota": null
+    }
+  ]
+}

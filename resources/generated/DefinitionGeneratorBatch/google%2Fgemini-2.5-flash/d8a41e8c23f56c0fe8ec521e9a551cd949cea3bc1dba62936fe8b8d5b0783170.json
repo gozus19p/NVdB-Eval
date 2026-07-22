@@ -1,0 +1,151 @@
+{
+  "lemma": "commissario",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9f69ad0a50d06553da"
+    },
+    "source": "paraviaXML/24759.xml",
+    "lemma": "commissario",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Funzionario addetto all’amministrazione straordinaria di enti, organismi, imprese e simile , con competenze solitamente proprie di organi collegiali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi è incaricato, in via temporanea o permanente, di una determinata funzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Membro di una commissione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commissario di concorso",
+              "d’esami"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nella polizia di stato, chi riveste il primo grado dei funzionari dirigenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel vecchio ordinamento di polizia, il dirigente di un commissariato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Funzionario di polizia, responsabile di un commissariato o di un settore investigativo.",
+      "examples": [
+        "Il commissario ha interrogato il sospettato per ore.",
+        "La squadra investigativa è guidata da un abile commissario."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Persona incaricata di una specifica funzione temporanea o straordinaria, spesso con poteri speciali, in un ambito pubblico o privato.",
+      "examples": [
+        "Il governo ha nominato un commissario per la ricostruzione delle zone colpite dal sisma.",
+        "Un commissario federale è stato designato per gestire l'organizzazione sportiva in crisi."
+      ],
+      "nota": "L'incarico di commissario è spesso legato a situazioni di emergenza, riorganizzazione o gestione provvisoria."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Membro di una commissione, di solito in contesti valutativi o concorsuali.",
+      "examples": [
+        "Uno dei commissari d'esame ha posto domande molto difficili.",
+        "La commissione di gara è composta da tre commissari esperti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Nel calcio, arbitro di gara o delegato di campo che supervisiona lo svolgimento di una partita.",
+      "examples": [
+        "Il commissario di campo ha segnalato un'irregolarità alle panchine.",
+        "La decisione del commissario di gara è stata contestata dai tifosi."
+      ],
+      "nota": null
+    }
+  ]
+}

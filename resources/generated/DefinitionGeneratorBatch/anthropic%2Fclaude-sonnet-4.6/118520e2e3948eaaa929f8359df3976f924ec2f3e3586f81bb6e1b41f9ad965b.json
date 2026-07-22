@@ -1,0 +1,177 @@
+{
+  "lemma": "abbracciare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf9e69ad0a50d066236f"
+    },
+    "source": "paraviaXML/294.xml",
+    "lemma": "abbracciare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stringere tra le braccia in segno di affetto o di amore: circondare con le braccia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbracciare un amico",
+              "la fidanzata",
+              "abbracciare un albero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo",
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Circondare: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mare abbraccia l’isola",
+              "abbracciare con lo sguardo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Contenere, comprendere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un libro che abbraccia molti argomenti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Capire, intendere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbracciare un concetto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accettare, seguire: dedicarsi a una professione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbracciare una fede",
+              "un’opinione",
+              "abbracciare la carriera accademica"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Stringere qualcuno tra le proprie braccia in segno di affetto, saluto o conforto.",
+      "examples": [
+        "Appena lo vide scendere dal treno, corse ad abbracciarlo con le lacrime agli occhi.",
+        "I due amici si abbracciarono calorosamente dopo anni di lontananza."
+      ],
+      "nota": "Frequente anche nella forma riflessiva reciproca 'abbracciarsi'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Cingere o avvolgere fisicamente qualcosa, facendo aderire le proprie braccia o un elemento intorno ad esso.",
+      "examples": [
+        "Il bambino abbracciava il cuscino mentre dormiva.",
+        "La vite abbraccia il tronco dell'albero salendo verso l'alto."
+      ],
+      "nota": "Usato anche in senso esteso per indicare qualcosa che circonda o avvolge un oggetto, non necessariamente con arti."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Adottare o fare propria una causa, un'idea, una religione o una professione, aderendovi con convinzione.",
+      "examples": [
+        "Da giovane abbracciò la fede cristiana e non la abbandonò mai.",
+        "Dopo la laurea decise di abbracciare la carriera diplomatica."
+      ],
+      "nota": "Uso figurato. Implica una scelta consapevole e spesso definitiva."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Comprendere o includere un insieme ampio di elementi, argomenti o aspetti all'interno di qualcosa.",
+      "examples": [
+        "Il suo saggio abbraccia un arco temporale che va dal Medioevo al Rinascimento.",
+        "La ricerca abbraccia discipline molto diverse tra loro, dalla biologia alla sociologia."
+      ],
+      "nota": "Uso figurato, tipico del registro scritto e formale."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Cogliere con lo sguardo o con la mente un insieme esteso, abbarcando una veduta o una panoramica complessiva.",
+      "examples": [
+        "Dalla cima del colle si poteva abbracciare con un solo sguardo tutta la vallata.",
+        "Difficile abbracciare in pochi minuti la complessità dell'intera situazione."
+      ],
+      "nota": "Uso figurato, con il verbo spesso accompagnato da 'con uno sguardo' o 'con la mente'."
+    }
+  ]
+}

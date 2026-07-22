@@ -1,0 +1,128 @@
+{
+  "lemma": "se",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6569ad0a50d06522eb"
+    },
+    "source": "paraviaXML/105281.xml",
+    "lemma": "se",
+    "grammar": [
+      "pron.pers. di terza pers.m. e f.sing. e pl."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Forma che il pronome assume con i pronomi atoni e la particella , in posizione proclitica o enclitica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "si",
+              "lo",
+              "la",
+              "li",
+              "le",
+              "ne",
+              "se l’è visto davanti",
+              "se lo mise in tasca",
+              "non vuole prendersene cura",
+              "prendersela a cuore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Da solo, specialmente in posizione enclitica, si: Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non pò fermarse"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione subordinante condizionale",
+      "definition": "Introduce una proposizione subordinata che esprime una condizione, reale o ipotetica, da cui dipende la realizzazione di quanto espresso nella principale.",
+      "examples": [
+        "Se piove, prendiamo l'ombrello.",
+        "Se avessi saputo prima, sarei venuto anch'io."
+      ],
+      "nota": "Può introdurre periodi ipotetici della realtà (indicativo), della possibilità (congiuntivo imperfetto) o dell'irrealtà (congiuntivo trapassato)."
+    },
+    {
+      "pos": "congiunzione subordinante interrogativa indiretta",
+      "definition": "Introduce una proposizione subordinata che esprime un dubbio o una domanda indiretta.",
+      "examples": [
+        "Non so se verrò alla festa.",
+        "Mi chiedo se abbia capito le istruzioni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "pronome riflessivo di 3ª persona singolare e plurale",
+      "definition": "Si usa come complemento oggetto o di termine per indicare che l'azione espressa dal verbo ricade sul soggetto stesso.",
+      "examples": [
+        "Luca si lava le mani prima di mangiare.",
+        "Si sono pentiti della loro scelta."
+      ],
+      "nota": "Può avere valore riflessivo proprio, apparente o reciproco. Nella forma 'si' è invariabile per genere e numero."
+    },
+    {
+      "pos": "particella pronominale impersonale",
+      "definition": "Si usa per formare la costruzione impersonale di verbi intransitivi o transitivi usati in modo assoluto.",
+      "examples": [
+        "In montagna si respira aria pulita.",
+        "In quel ristorante si mangia bene."
+      ],
+      "nota": "Richiede la concordanza del verbo alla 3ª persona singolare. Non va confusa con il 'si' riflessivo."
+    },
+    {
+      "pos": "particella pronominale passivante",
+      "definition": "Si usa per formare la costruzione passiva con verbi transitivi, indicando che l'azione è subita dal soggetto.",
+      "examples": [
+        "In Italia si parla l'italiano.",
+        "Questo prodotto si vende in farmacia."
+      ],
+      "nota": "Il verbo concorda con il soggetto logico, che segue il verbo. Non va confusa con il 'si' impersonale."
+    },
+    {
+      "pos": "avverbio (in locuzioni)",
+      "definition": "Compare in alcune locuzioni avverbiali o congiuntive per esprimere dubbio, ipotesi o concessione.",
+      "examples": [
+        "Se mai dovessi cambiare idea, fammi sapere.",
+        "Non so se non sia meglio aspettare."
+      ],
+      "nota": "Spesso usato in combinazione con altre particelle come 'mai', 'non', 'solo'."
+    }
+  ]
+}

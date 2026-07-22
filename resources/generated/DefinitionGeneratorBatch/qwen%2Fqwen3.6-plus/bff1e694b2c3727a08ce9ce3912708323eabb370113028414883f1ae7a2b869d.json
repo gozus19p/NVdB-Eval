@@ -1,0 +1,205 @@
+{
+  "lemma": "novità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0969ad0a50d065ab82"
+    },
+    "source": "paraviaXML/74775.xml",
+    "lemma": "novità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere nuovo, originale; l’essersi verificato, manifestato, costituito di recente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la novità di un avvenimento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere, l’apparire strano, insolito, bizzarro: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ella ... guardava lui ... per la novità dell’abito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trasformazione, cambiamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere aperto a tutte le novità"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Innovazione apportata in un determinato settore di attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la novità di un sistema di lavorazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Opera, prodotto di un determinato settore che viene presentato per la prima volta al pubblico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "novità librarie",
+              "discografiche"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Notizia di avvenimenti recenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ascoltare le ultime novità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stranezza, bizzarria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per esprimere stupore e disappunto verso qualcosa di inusitato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che novità è questa?"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "informazione, notizia o fatto di recentissima conoscenza o divulgazione",
+      "examples": [
+        "Hai ricevuto qualche novità riguardo alla pratica che hai depositato?",
+        "Aspettami fuori ufficio quando esci, ti porto le ultime novità."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "oggetto, prodotto o opera creativo di recente messa in commercio o pubblicazione",
+      "examples": [
+        "La fiera del libro presenterà le novità delle principali case editrici.",
+        "In negozio hanno appena esposto le novità per la primavera."
+      ],
+      "nota": "spesso usato al plurale in contesti commerciali, editoriali o della moda"
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "caratteristica di originalità, innovazione o rottura rispetto a quanto è consuetudine o già noto",
+      "examples": [
+        "Il vero valore di questa ricerca sta nella novità del metodo proposto.",
+        "Quella proposta non rappresenta alcuna novità per il settore."
+      ],
+      "nota": "impiega valenza valutativa o comparativa, spesso in contrapposizione concettuale a 'consuetudine' o 'tradizione'"
+    }
+  ]
+}

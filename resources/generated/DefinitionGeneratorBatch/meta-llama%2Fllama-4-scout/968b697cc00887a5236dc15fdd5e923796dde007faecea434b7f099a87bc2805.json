@@ -1,0 +1,141 @@
+{
+  "lemma": "attenzione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7a69ad0a50d0653434"
+    },
+    "source": "paraviaXML/10007.xml",
+    "lemma": "attenzione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intensa applicazione e concentrazione della mente e dei sensi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ascoltare",
+              "guardare",
+              "osservare qcs.",
+              "qcn. con attenzione",
+              "lavorare con attenzione",
+              "mettere attenzione nel fare qcs."
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Formula epistolare, specialmente scritta sotto l’indirizzo della ditta o dell’ente destinatario, cui si fa seguire il nome della persona alla quale va recapitato il pacco, la lettera, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "alla cortese attenzione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , comportamenti, gesti con cui si prevengono desideri o bisogni altrui",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coprire qcn. di attenzioni",
+              "avere molte attenzioni per qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nteriettivo, esclamazione per esortare qualcuno a essere attento o per segnalare un pericolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attenzione prego!",
+              "a., sta arrivando!",
+              "a.! è molto rischioso!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Condizione di chi è attento, concentrato",
+      "examples": [
+        "L'attenzione del pubblico è calata durante il discorso.",
+        "L'attenzione ai dettagli è fondamentale nel lavoro di un designer."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Avviso, comunicazione che richiede considerazione",
+      "examples": [
+        "L'attenzione degli automobilisti è stata richiamata sulla presenza di lavori in corso.",
+        "L'attenzione dei genitori è stata richiamata sull'importanza della vaccinazione."
+      ],
+      "nota": null
+    }
+  ]
+}

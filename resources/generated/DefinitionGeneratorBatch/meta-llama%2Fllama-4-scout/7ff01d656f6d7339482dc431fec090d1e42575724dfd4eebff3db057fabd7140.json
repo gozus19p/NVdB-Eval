@@ -1,0 +1,258 @@
+{
+  "lemma": "vendere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafee69ad0a50d0666498"
+    },
+    "source": "paraviaXML/126457.xml",
+    "lemma": "vendere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cedere ad altri la proprietà di qualcosa in cambio di un corrispettivo in denaro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vendere un terreno",
+              "un gioiello",
+              "«Per quanto l’hai venduto?» «Per un milione»",
+              "si è venduto tutto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare per mestiere il venditore di una particolare merce",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vendere qcs.",
+              "mio cognato vende automobili"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Concludere una vendita: mettere in vendita: col in annunci per indicare che qualcosa viene messo in vendita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono mesi che ci prova, ma non riesce a vendere",
+              "ho deciso di vendere la casa",
+              "si",
+              "si vende"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cedere un atleta a un’altra società contro un corrispettivo in denaro o scambiandolo con altri atleti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vendere un calciatore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Concedere illecitamente per ottenere denaro o benefici",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vendere cariche pubbliche",
+              "vendere il voto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prostituirsi; farebbe qualsiasi cosa pur di ottenere ciò che desidera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vendere il proprio corpo",
+              "venderebbe anche sua madre"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tradire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vendere la patria",
+              "vendere un amico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Raccontare, diffondere, divulgare notizie specialmente false o inverosimili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vendere frottole",
+              "l’hanno venduta come una notizia vera"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non riesci a farmela credere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questa non me la vendi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "commercio",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Commercio , v. senza avere la merce disponibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "finanza",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Finanza , in borsa, v. senza avere i titoli negoziati",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "cedere qualcosa in cambio di denaro",
+      "examples": [
+        "Ho venduto la mia vecchia bicicletta per 100 euro.",
+        "La ditta vende prodotti elettronici online."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "tradire o rivelare un segreto",
+      "examples": [
+        "Non vendere i tuoi amici per un vantaggio personale.",
+        "Ha venduto i segreti dell'azienda ai concorrenti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo impersonale",
+      "definition": "essere messo in vendita",
+      "examples": [
+        "La casa vende a 500.000 euro.",
+        "Si vende un appartamento in centro città."
+      ],
+      "nota": "Uso impersonale, spesso in contesti di annunci di vendita."
+    }
+  ]
+}

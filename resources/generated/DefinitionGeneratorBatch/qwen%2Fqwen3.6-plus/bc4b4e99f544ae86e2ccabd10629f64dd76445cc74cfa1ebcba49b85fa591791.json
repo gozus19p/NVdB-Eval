@@ -1,0 +1,209 @@
+{
+  "lemma": "tu",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6569ad0a50d06522df"
+    },
+    "source": "paraviaXML/123782.xml",
+    "lemma": "tu",
+    "grammar": [
+      "pron.pers. di seconda pers.sing.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "pronome personale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "persona"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di seconda persona sing. indica la persona cui ci si rivolge parlando quando si sia con essa in rapporto di confidenza; si usa solo in funzione di soggetto ( nei casi obliqui è sostituito dalla forma tonica o dalle forme atone ) ed è spesso sottinteso: viene invece espresso quando è coordinato con un altro soggetto: quando si vuole esprimere una contrapposizione: o un paragone: oppure quando possono sorgere dubbi sulla persona del verbo: o quando il verbo è sottinteso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "te",
+              "te",
+              "ti",
+              "sei andato dal dottore?",
+              "tu e tuo figlio",
+              "io non parlo, parla tu",
+              "io ho problemi più seri di quelli che hai tu",
+              "è meglio che tu vada",
+              "chi glielo ha detto? t.?"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Spesso è posposto al verbo per dare enfasi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sai sempre tutto tu",
+              "fallo t., che sei capace"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Si rafforza quando è accompagnato da e simile , o dall’inciso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stesso",
+              "anche",
+              "neanche",
+              "nemmeno",
+              "proprio",
+              "tu stesso non avresti fatto di meglio",
+              "neanche tu avresti avuto il coraggio di dirglielo",
+              "proprio tu dici queste cose?",
+              "per te",
+              "t., per te, moriresti di fame"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Può avere funzione di predicato nominale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "digli che non sei stato tu"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In espressioni colloquiali: per indicare un mutamento nel modo di essere e di comportarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dopo l’incidente non sei più stato tu"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nell’uso antico e letterario, posposto al verbo, può fondersi con questo: Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sovr’essa vedestù la scritta morta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "pronome personale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "persona",
+              "impersonale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di seconda persona sing. con valore impersonale , a cui non si pensa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono cose a cui tu non pensi finché non ti succedono"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La seconda persona, come forma allocutiva, per indicare confidenza, familiarità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rivolgersi a qcn. con il tu"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "pronome personale soggetto",
+      "definition": "Riferimento esplicito e diretto al singolo interlocutore a cui ci si rivolge, solitamente in contesti informali, di familiarità, tra coetanei o verso persone più giovani.",
+      "examples": [
+        "Marco, tu che conosci bene l'argomento, potresti spiegarmi come funziona?",
+        "Non preoccuparti degli altri, tu concentrati solo sul tuo obiettivo."
+      ],
+      "nota": "In italiano il soggetto è spesso sottinteso; l'uso esplicito del pronome serve principalmente a marcare un contrasto, a dare enfasi o a chiarire il destinatario dell'azione."
+    },
+    {
+      "pos": "pronome personale soggetto",
+      "definition": "Impiego con valore generico o impersonale per indicare una persona qualsiasi o un comportamento comune, al fine di rendere il messaggio più immediato e facilitare l'immedesimazione di chi ascolta.",
+      "examples": [
+        "Quando tu arrivi in un ambiente sconosciuto, è naturale sentirsi un po' spaesati all'inizio.",
+        "Se tu non rispetti le regole del gioco, gli altri partecipanti si infastidiscono."
+      ],
+      "nota": "Questo uso è frequente nel linguaggio parlato e nella divulgazione, in quanto crea un tono colloquiale e coinvolgente, simile all'uso generico di 'uno' o 'uno qualsiasi'."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Forma di indirizzo verbale informale e confidenziale, che si contrappone al trattamento più distaccato e rispettoso delle distanze gerarchiche o sociali.",
+      "examples": [
+        "Dopo anni di lavoro intenso, i nuovi colleghi hanno deciso di passare al tu.",
+        "In Italia è comune dare del tu agli amici fin dal primo incontro, a differenza di quanto avviene nei paesi nordici."
+      ],
+      "nota": "Utilizzato quasi esclusivamente all'interno delle locuzioni verbali 'dare il ~', 'passare al ~' o 'chiedere il ~'."
+    }
+  ]
+}

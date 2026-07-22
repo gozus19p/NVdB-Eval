@@ -1,0 +1,130 @@
+{
+  "lemma": "paio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1069ad0a50d065b19a"
+    },
+    "source": "paraviaXML/78261.xml",
+    "lemma": "paio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Due persone, due animali, due cose, considerati insieme e, di solito, con una connotazione che ne indica o ne sottolinea la stretta connessione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un paio di scarpe",
+              "di guanti",
+              "di buoi",
+              "un paio di polli",
+              "un paio di orecchini"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oggetto costituito da due elementi non divisibili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un paio di forbici",
+              "un paio di occhiali",
+              "un paio di pantaloni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Numero generico, ma molto limitato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho visto solo un paio di amici",
+              "ho bevuto solo un paio di bicchieri",
+              "un paio di giorni",
+              "un paio d’ore"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Insieme di due oggetti uguali o complementari che si usano insieme o appartengono alla stessa categoria.",
+      "examples": [
+        "Ho comprato un paio di scarpe nuove per la cerimonia.",
+        "Mi serve un paio di guanti per l'inverno."
+      ],
+      "nota": "Plurale irregolare: 'le paia' (con articolo femminile plurale). Es.: due paia di calze."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Due persone o animali considerati insieme, spesso in relazione tra loro.",
+      "examples": [
+        "Quel paio di amici è inseparabile da anni.",
+        "Abbiamo visto un paio di aquile volare sopra la montagna."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Piccola quantità indeterminata, equivalente approssimativamente a due o pochi più.",
+      "examples": [
+        "Torno in un paio di minuti, aspettami.",
+        "Ho bisogno di un paio di giorni per finire il lavoro."
+      ],
+      "nota": "In questo uso ha valore approssimativo e si avvicina al significato di 'alcuni' o 'pochi'. Molto comune nel parlato."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Nella locuzione 'un altro paio di maniche', cosa completamente diversa, situazione o questione di natura ben distinta rispetto a quella di cui si stava parlando.",
+      "examples": [
+        "Accettare critiche costruttive è una cosa, ma sopportare insulti è un altro paio di maniche.",
+        "Fare un errore per distrazione è comprensibile, ma farlo apposta è un altro paio di maniche."
+      ],
+      "nota": "Uso esclusivamente fraseologico. La locuzione 'un altro paio di maniche' è un'espressione idiomatica fissa."
+    }
+  ]
+}

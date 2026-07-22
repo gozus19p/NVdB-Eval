@@ -1,0 +1,72 @@
+{
+  "lemma": "utilizzare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe969ad0a50d06660fe"
+    },
+    "source": "paraviaXML/125439.xml",
+    "lemma": "utilizzare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "utilizzare-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impiegare utilmente, usare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "utilizzare gli avanzi",
+              "utilizzare i ritagli di tempo",
+              "utilizzare un tecnico",
+              "un professionista",
+              "un esperto"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "impiegare qualcosa per uno scopo pratico o per trarne vantaggio",
+      "examples": [
+        "Ho utilizzato il vecchio tavolo come scrivania.",
+        "Per risparmiare energia, utilizza elettrodomestici di classe A."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "sfruttare una risorsa, un'opportunità o una capacità in modo efficace",
+      "examples": [
+        "L'azienda ha utilizzato al meglio le competenze dei dipendenti.",
+        "Dovresti utilizzare questa occasione per farti conoscere."
+      ],
+      "nota": "Spesso implica un'idea di ottimizzazione o di impiego strategico."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "fare uso di un mezzo, uno strumento o un metodo per raggiungere un obiettivo",
+      "examples": [
+        "Per risolvere il problema, abbiamo utilizzato un software specifico.",
+        "Il medico ha utilizzato una nuova tecnica chirurgica."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "lemma": "fame",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec269ad0a50d0657108"
+    },
+    "source": "paraviaXML/42178.xml",
+    "lemma": "fame",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sensazione che sorge come conseguenza dell’impoverimento di sostanze nutritive nell’organismo e che produce lo stimolo a mangiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere fame",
+              "soffrire la fame",
+              "placare la fame",
+              "levarsi la fame",
+              "non vederci dalla fame",
+              "non reggersi dalla fame"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere una grandissima fame",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "morire di fame",
+              "sentire i morsi della fame"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Desiderio ardente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fame di ricchezze e di onori",
+              "fame di sapere"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "scherzoso",
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esigenza insoddisfatta di rapporti sessuali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mancanza del cibo necessario",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "aver conosciuto la fame"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Indigenza, povertà; portare alla miseria; che non basta a soddisfare neanche le prime necessità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ridurre alla fame",
+              "salario da fame"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fenomeno sociale di denutrizione dei paesi sottosviluppati",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la fame nel mondo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sensazione fisica di bisogno di cibo, dovuta alla mancanza o insufficienza di nutrimento.",
+      "examples": [
+        "Dopo ore di cammino in montagna, la fame si faceva sentire in modo insopportabile.",
+        "I bambini tornarono da scuola con una fame da lupi e si gettarono sul pranzo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Condizione di grave carenza alimentare che colpisce individui o popolazioni intere, spesso associata a povertà o calamità.",
+      "examples": [
+        "Milioni di persone nel mondo soffrono ancora la fame ogni giorno.",
+        "Le organizzazioni umanitarie lavorano per combattere la fame nei paesi in via di sviluppo."
+      ],
+      "nota": "Questo senso ha valore socioeconomico e politico, distinto dalla semplice sensazione fisiologica individuale."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Desiderio intenso e pressante di qualcosa di non materiale; brama o sete metaforica.",
+      "examples": [
+        "Aveva una fame insaziabile di conoscenza che lo portava a studiare fino a notte fonda.",
+        "La fame di giustizia di quel popolo era evidente nelle piazze colme di manifestanti."
+      ],
+      "nota": "Uso figurato; ricorre frequentemente con complementi astratti come 'di potere', 'di gloria', 'di libertà'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Condizione di estrema miseria economica, di indigenza.",
+      "examples": [
+        "Quel lavoro pagava una miseria: era morire di fame.",
+        "Dopo aver perso tutto, la famiglia si ritrovò a fare i conti con la fame."
+      ],
+      "nota": "Spesso usato nelle locuzioni 'morire di fame' e 'da fame' per indicare povertà estrema o scarsa qualità (es. 'uno stipendio da fame')."
+    }
+  ]
+}

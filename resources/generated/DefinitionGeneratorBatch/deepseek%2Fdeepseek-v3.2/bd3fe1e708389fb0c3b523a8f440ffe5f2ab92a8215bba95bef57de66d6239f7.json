@@ -1,0 +1,261 @@
+{
+  "lemma": "distanza",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb469ad0a50d0656569"
+    },
+    "source": "paraviaXML/35521.xml",
+    "lemma": "distanza",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Spazio che intercorre tra due luoghi, due cose, due persone e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la distanza tra Milano e Roma",
+              "siamo a tre km di distanza dal centro abitato",
+              "a che distanza si trova la stazione?",
+              "percorrere una grande distanza",
+              "grandi distanze"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "geometria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geometria : segmento di retta che congiunge due punti; segmento di perpendicolare comune avente gli estremi nelle due rette o nei due piani; segmento di perpendicolare condotto dal punto alla retta o al piano; d. tra i due punti in cui le due rette vengono tagliate dalla perpendicolare comune",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "distanza di due punti",
+              "distanza tra due rette o piani paralleli",
+              "distanza tra un punto e una retta o un piano",
+              "distanza tra due rette sghembe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lontananza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a causa della distanza ci vediamo raramente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Intervallo, spazio di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tra me e mio fratello c’è una distanza di tre anni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Differenza, diversità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’è un’incolmabile distanza tra le opere di questi due scrittori"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nelle gare di corsa, la lunghezza del percorso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coprire la distanza in tempo di record"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel pugilato e in altri sport di lotta, la durata dell’incontro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "combattimento sulla distanza delle dodici riprese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Distante, lontano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvicinati! non stare così a d.!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scuola e universit� , di insegnamento, specialmente universitario, impartito a studenti lontani attraverso trasmissioni televisive o radiofoniche",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Misura dello spazio intermedio tra due punti o luoghi.",
+      "examples": [
+        "La distanza tra Milano e Roma è di circa 600 chilometri.",
+        "Mantieni una distanza di sicurezza dal veicolo che ti precede."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Intervallo temporale tra due eventi.",
+      "examples": [
+        "Con un'ora di distanza, sono arrivate due telefonate importanti.",
+        "A distanza di anni, il ricordo di quella giornata è ancora vivido."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Discrepanza o differenza percepibile in ambito qualitativo, concettuale o relazionale.",
+      "examples": [
+        "C'è una notevole distanza tra le sue promesse e i risultati effettivi.",
+        "La distanza culturale rendeva difficile la comprensione reciproca."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Riserva o freddezza nelle relazioni interpersonali.",
+      "examples": [
+        "Dopo il litigio, ha mantenuto le distanze dal collega.",
+        "Il suo tono formale metteva in evidenza una certa distanza."
+      ],
+      "nota": null
+    }
+  ]
+}

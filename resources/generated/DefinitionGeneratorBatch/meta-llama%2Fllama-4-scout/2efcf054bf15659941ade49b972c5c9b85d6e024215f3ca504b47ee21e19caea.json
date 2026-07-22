@@ -1,0 +1,161 @@
+{
+  "lemma": "calcio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae8c69ad0a50d06543c2"
+    },
+    "source": "paraviaXML/17292.xml",
+    "lemma": "calcio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Colpo dato con il piede",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare un calcio a qcs.",
+              "a qcn.",
+              "prendere a calci qcn.",
+              "qcs.",
+              "tirare calci"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Molto bruscamente, in malo modo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mandare via",
+              "cacciare via qcn. a calci"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non coglierla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare un calcio alla fortuna",
+              "a una buona occasione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Colpo dato da un animale, specialmente un cavallo, un asino e simile , con la zampa posteriore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mulo tira calci"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , gioco disputato da due squadre di undici giocatori su un campo erboso, che consiste nel cercare di mandare il pallone nella rete avversaria colpendolo con i piedi o con la testa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giocare a calcio",
+              "squadra",
+              "campo",
+              "partita",
+              "campionato di calcio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "sport giocato con un pallone rotondo, usando prevalentemente i piedi",
+      "examples": [
+        "Il calcio è uno sport molto popolare in Italia.",
+        "La partita di calcio è stata sospesa a causa della pioggia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "tiro, calcio dato con il piede",
+      "examples": [
+        "La polizia ha dato un calcio alla porta per entrare.",
+        "Il cavallo mi ha dato un calcio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "disciplina scientifica che studia le proprietà chimiche e fisiche del carbonato di calcio",
+      "examples": [
+        "Il calcio è un elemento importante nella formazione delle rocce.",
+        "La calce è ottenuta dalla cottura del carbonato di calcio."
+      ],
+      "nota": "In questo contesto, 'calcio' è un termine tecnico specialistico."
+    }
+  ]
+}

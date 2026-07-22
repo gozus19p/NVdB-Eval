@@ -1,0 +1,137 @@
+{
+  "lemma": "sedia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4869ad0a50d065de85"
+    },
+    "source": "paraviaXML/105452.xml",
+    "lemma": "sedia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mobile su cui si può sedere una sola persona, costituito da un piano orizzontale che poggia su quattro gambe e da una spalliera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sedia di legno",
+              "di ferro",
+              "di vimini",
+              "sedia pieghevole",
+              "sedia girevole",
+              "mi hai dato una sedia sgangherata",
+              "prendere",
+              "porgere una sedia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Seggio su cui siede un personaggio autorevole, trono: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non altrimenti che nella sedia della sua maestà, vi siede, stando d’intorno le femmine sue"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dimora, domicilio, luogo di residenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "tecnica, tecnologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , sostegno fisso di ghisa dei supporti delle trasmissioni meccaniche, che serve per tenerli a una determinata altezza dal suolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Mobile con schienale, progettato per una sola persona, dotato di gambe e spesso di braccioli, utilizzato per sedersi.",
+      "examples": [
+        "Ho comprato una sedia nuova per il soggiorno.",
+        "Durante la conferenza, le sedie erano tutte occupate."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Posizione di autorità o responsabilità all'interno di un'organizzazione, spesso riferita a ruoli direttivi o di governo.",
+      "examples": [
+        "Dopo le dimissioni del presidente, la sedia è rimasta vacante per mesi.",
+        "Ha conquistato la sedia di sindaco alle ultime elezioni."
+      ],
+      "nota": "Uso figurato, spesso impiegato in contesti politici o istituzionali."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Struttura o supporto utilizzato in ambiti specifici, come la sedia a rotelle per la mobilità o la sedia elettrica per l'esecuzione capitale.",
+      "examples": [
+        "Dopo l'incidente, ha dovuto usare la sedia a rotelle per diversi mesi.",
+        "In alcuni stati degli USA, la pena di morte viene eseguita tramite sedia elettrica."
+      ],
+      "nota": "Questo senso include usi tecnici o specializzati, ma comunque diffusi nell'italiano contemporaneo."
+    }
+  ]
+}

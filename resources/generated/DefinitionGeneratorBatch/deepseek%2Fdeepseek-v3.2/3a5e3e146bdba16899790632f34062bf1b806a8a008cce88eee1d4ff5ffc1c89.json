@@ -1,0 +1,160 @@
+{
+  "lemma": "amicizia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7069ad0a50d0652c6b"
+    },
+    "source": "paraviaXML/4909.xml",
+    "lemma": "amicizia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sentimento e legame tra persone basato su reciproco affetto, stima, fiducia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stringere amicizia con qcn.",
+              "allacciare",
+              "rompere un’amicizia",
+              "rapporto di amicizia"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non sincera, dovuta al vantaggio che se ne può ricavare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "amicizia interessata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Situazione caratterizzata da buone relazioni fra stati o paesi, alleanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "trattato di amicizia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eufemistico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Relazione amorosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , persona con cui si hanno rapporti amichevoli",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere molte amicizie",
+              "la cerchia delle amicizie"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Persona influente disposta a fare dei favori anche illeciti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha vinto il concorso grazie alle sue amicizie",
+              "amicizie altolocate"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Relazione affettiva e di reciproca stima tra due o più persone, caratterizzata da confidenza e benevolenza.",
+      "examples": [
+        "La loro amicizia dura da oltre trent'anni.",
+        "Ha stretto una profonda amicizia con i nuovi vicini."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Sentimento di benevolenza e disponizione positiva nei confronti di qualcuno o qualcosa.",
+      "examples": [
+        "Il suo gesto fu un segno di sincera amicizia.",
+        "Nutre un'antica amicizia per quella casa editrice."
+      ],
+      "nota": "In questo senso può essere usato anche per riferirsi a istituzioni o collettività."
+    }
+  ]
+}

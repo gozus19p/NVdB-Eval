@@ -1,0 +1,164 @@
+{
+  "lemma": "insistere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafbf69ad0a50d0663e0e"
+    },
+    "source": "paraviaXML/57844.xml",
+    "lemma": "insistere",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Perseverare ostinatamente in un’azione, un comportamento, una richiesta e simile ; anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "insistere in",
+              "su qcs.",
+              "insistere a dire",
+              "a fare qcs.",
+              "è inutile che insistiate, ormai ho deciso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dilungarsi nella trattazione di un argomento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il conferenziere ha insistito su pochi punti fondamentali"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stare sopra, poggiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sopra la galea | del vinto insisti fiera co ’l poplite"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Carducci)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Burocrazia diritto , di costruzione, innalzarsi, sorgere su un determinato terreno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "campo su cui insiste un edificio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "geometria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geometria , di angolo, avere i lati passanti per gli estremi di un segmento rettilineo o di un arco di curva contenuto nell’angolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Continuare a compiere un'azione o a esprimere una richiesta con fermezza e determinazione, nonostante opposizioni, difficoltà o inviti a desistere.",
+      "examples": [
+        "Dopo aver ricevuto un primo rifiuto, ha insistito fino a ottenere un colloquio con il responsabile.",
+        "Non insistere, te l'ho già detto che non posso aiutarti stasera."
+      ],
+      "nota": "Può assumere connotazione positiva di perseveranza o negativa di ostinazione a seconda del contesto."
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Soffermarsi a lungo o dare particolare rilievo a un argomento, un concetto o un dettaglio nel corso di un discorso o di un'analisi.",
+      "examples": [
+        "Il relatore ha insistito molto sui vantaggi economici del progetto.",
+        "Nel verbale si insiste sulla necessità di garantire la massima trasparenza."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "lemma": "indagine",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaede69ad0a50d065886a"
+    },
+    "source": "paraviaXML/55470.xml",
+    "lemma": "indagine",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ricerca sistematica per conoscere, scoprire qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "indagine demoscopica",
+              "statistica",
+              "storica",
+              "filologica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , investigazione giudiziaria o degli organi di polizia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziare",
+              "concludere un’indagine",
+              "depistare le indagini",
+              "dare un nuovo corso alle indagini"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Ricerca sistematica e approfondita su un argomento o un problema, spesso condotta mediante l'analisi di dati e informazioni.",
+      "examples": [
+        "La polizia ha condotto un'indagine sul furto.",
+        "L'indagine di mercato ha rivelato nuove tendenze."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Esame accurato e dettagliato di un caso o una situazione, al fine di chiarire aspetti o risolvere problemi.",
+      "examples": [
+        "L'indagine interna ha portato alla scoperta di irregolarità.",
+        "L'indagine della commissione ha concluso che non ci sono state violazioni."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "avvenire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa569ad0a50d0662965"
+    },
+    "source": "paraviaXML/11088.xml",
+    "lemma": "avvenire",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "avvenire-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "proposizione",
+          "locuzione congiuntivale",
+          "locuzione congiuntivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accadere, succedere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvenne l’imprevisto",
+              "sono avvenuti fatti terribili",
+              "andrò, avvenga quel che vuole"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "impersonale",
+              "variante",
+              "variante"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impersonale , introduce soggettive: variante ; avvegnaché None variante ; avvegnaché.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avviene di incontrare per caso qcn."
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Verificarsi o accadere come risultato di un'azione o di una circostanza, solitamente in modo inaspettato o senza un controllo diretto.",
+      "examples": [
+        "Capita spesso che questi fatti avvengano di notte.",
+        "Il meeting è avvenuto regolarmente, senza intoppi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Il tempo futuro, considerato sia in senso astratto che in relazione agli eventi che succederanno.",
+      "examples": [
+        "I giovani guardano all'avvenire con speranza e preoccupazione.",
+        "Preoccuparsi troppo dell'avvenire impedisce di vivere il presente."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "lemma": "artistico",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a632"
+    },
+    "source": "paraviaXML/8870.xml",
+    "lemma": "artistico",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che riguarda l’arte o gli artisti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "corrente",
+              "scuola artistica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fatto con abilità e buongusto: esteticamente valido",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavorazione artistica",
+              "composizione artistica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Liceo artistico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frequentare l’artistico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo all'arte, fatto con arte",
+      "examples": [
+        "Il valore artistico di questo quadro è indiscusso.",
+        "La sua visione artistico-poetica della vita è molto personale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Specialista in discipline artistiche",
+      "examples": [
+        "È un artistico che lavora principalmente con la pittura.",
+        "Gli artistici dell'orchestra sono in gran parte giovani talenti."
+      ],
+      "nota": "In alcuni contesti, può riferirsi a un artista, ma più comunemente indica una persona con una formazione artistica."
+    }
+  ]
+}

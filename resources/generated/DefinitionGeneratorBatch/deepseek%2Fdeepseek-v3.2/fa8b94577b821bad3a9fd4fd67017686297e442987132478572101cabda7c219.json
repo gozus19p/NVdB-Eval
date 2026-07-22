@@ -1,0 +1,87 @@
+{
+  "lemma": "bambina",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7e69ad0a50d06537e9"
+    },
+    "source": "paraviaXML/11992.xml",
+    "lemma": "bambina",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere umano femmina tra la nascita e l’inizio della fanciullezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è una bambina molto tranquilla"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Figlia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "come sta la tua b.?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come appellativo affettuoso o ironico riferito a una ragazza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bambina stasera si va a ballare!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Persona umana di sesso femminile in una fase dello sviluppo che va dalla prima infanzia all'inizio dell'adolescenza.",
+      "examples": [
+        "La bambina ha disegnato un bel quadro per la sua maestra.",
+        "Da bambina passava tutte le estati dai nonni in campagna."
+      ],
+      "nota": null
+    }
+  ]
+}

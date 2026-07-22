@@ -1,0 +1,277 @@
+{
+  "lemma": "verso",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6469ad0a50d0652266"
+    },
+    "source": "paraviaXML/127004.xml",
+    "lemma": "verso",
+    "grammar": [
+      "prep."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "complemento",
+          "complemento"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In direzione di, alla volta di, introduce un di moto a luogo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire",
+              "procedere verso Napoli",
+              "incamminarsi verso casa",
+              "guardare verso la finestra",
+              "marciare verso il nemico"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per esprimere vicinanza, prossimità, introduce un di stato in luogo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abita verso piazza Castello"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Poco prima, poco dopo, circa, per indicare la prossimità a un limite di tempo determinato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire verso le dieci",
+              "telefonami verso sera"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per indicare l’approssimarsi di un limite di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ci vedremo verso la fine della settimana",
+              "va",
+              "si avvia verso i sessant’anni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nei confronti, nei riguardi di, introduce il termine cui è rivolto un sentimento, un comportamento e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la lealtà verso gli amici",
+              "comportarsi scorrettamente verso qcn."
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rispetto a, in relazione a",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "figliuol mio, | perché hai tu così verso noi fatto?"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In paragone, in confronto a",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mordere era nulla | verso ’l graffiar"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "burocrazia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Commercio burocrazia , contro, dietro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rilasciare una ricevuta verso pagamento"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Direzione o orientamento di un movimento, di un taglio o di una superficie.",
+      "examples": [
+        "Per evitare danni, segui sempre il verso delle fibre quando lavori il legno.",
+        "Il vento ha cambiato verso improvvisamente, portando aria fresca dal mare."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Superficie posteriore o lato opposto rispetto a quello principale di un foglio, una moneta, un biglietto o un oggetto simile.",
+      "examples": [
+        "Le istruzioni per il montaggio sono stampate sul verso del foglio.",
+        "Il collezionista ha pulito con cura il conio e il verso della medaglia antica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Riga di un componimento poetico, caratterizzata da una determinata lunghezza metrica o sillabica.",
+      "examples": [
+        "La studentessa ha memorizzato ogni singolo rigo della canzone senza saltarne uno.",
+        "Il poeta ha appuntato questi pensieri su un vecchio quaderno scolastico."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Emissione acustica tipica e distintiva di un animale.",
+      "examples": [
+        "Il cane ha riconosciuto il richiamo del padrone anche a distanza.",
+        "Durante la camminata nel bosco abbiamo sentito i versi di diversi uccelli."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Sviluppo o andamento, spesso valutato come favorevole o sfavorevole, di una circostanza o situazione.",
+      "examples": [
+        "Grazie al nuovo trattamento medica, la convalescenza ha preso la direzione giusta.",
+        "Se continuiamo così, la trattativa commerciale prenderà una piega negativa."
+      ],
+      "nota": "Usato prevalentemente in sintagmi fissi come 'prendere il verso giusto/rovescio'."
+    },
+    {
+      "pos": "preposizione",
+      "definition": "Indica un movimento, uno sguardo o un orientamento spaziale indirizzato a un luogo, un punto o una persona.",
+      "examples": [
+        "Gli spettatori guardavano verso il palco in attesa che iniziasse lo spettacolo.",
+        "Ha camminato per qualche chilometro verso la stazione senza fermarsi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "preposizione",
+      "definition": "Esprime prossimità o approssimazione temporale rispetto a un orario, una data o un periodo determinato.",
+      "examples": [
+        "Verso fine ottobre le temperature scendono bruscamente in tutta la pianura.",
+        "La riunione di condominio è fissata verso le diciotto di sera."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "preposizione",
+      "definition": "Segnala un riferimento, un sentimento, un atteggiamento o un giudizio rivolto a una persona o a un argomento.",
+      "examples": [
+        "Dimostra sempre grande delicatezza verso i colleghi in difficoltà.",
+        "Nonostante le apparenze, nutre ancora dubbi verso questa nuova strategia aziendale."
+      ],
+      "nota": "In questo uso si avvicina semanticamente a 'nei confronti di' o 'rispetto a'."
+    }
+  ]
+}

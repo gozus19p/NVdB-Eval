@@ -1,0 +1,112 @@
+{
+  "lemma": "paio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1069ad0a50d065b19a"
+    },
+    "source": "paraviaXML/78261.xml",
+    "lemma": "paio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Due persone, due animali, due cose, considerati insieme e, di solito, con una connotazione che ne indica o ne sottolinea la stretta connessione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un paio di scarpe",
+              "di guanti",
+              "di buoi",
+              "un paio di polli",
+              "un paio di orecchini"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oggetto costituito da due elementi non divisibili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un paio di forbici",
+              "un paio di occhiali",
+              "un paio di pantaloni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Numero generico, ma molto limitato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho visto solo un paio di amici",
+              "ho bevuto solo un paio di bicchieri",
+              "un paio di giorni",
+              "un paio d’ore"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Insieme di due elementi della stessa specie, considerati come unità.",
+      "examples": [
+        "Ho comprato un paio di scarpe nuove per la palestra.",
+        "Mi servirebbe un paio di forbici per tagliare questo cartoncino."
+      ],
+      "nota": "Può riferirsi anche a oggetti che si usano in coppia (es. occhiali, guanti), anche se fisicamente separati. In alcuni contesti, può indicare un numero approssimativo (es. 'un paio di giorni')."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Quantità indeterminata ma piccola di qualcosa, spesso usata per indicare due unità.",
+      "examples": [
+        "Aspettami, arrivo tra un paio di minuti.",
+        "Ho letto solo un paio di pagine del libro, ma mi sembra interessante."
+      ],
+      "nota": "In questa accezione, 'paio' assume un valore approssimativo e può indicare anche più di due elementi, pur mantenendo l'idea di una quantità limitata."
+    }
+  ]
+}

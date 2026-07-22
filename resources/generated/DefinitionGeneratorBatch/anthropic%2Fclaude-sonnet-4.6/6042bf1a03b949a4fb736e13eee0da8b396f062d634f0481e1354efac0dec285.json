@@ -1,0 +1,200 @@
+{
+  "lemma": "imparare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb969ad0a50d0663997"
+    },
+    "source": "paraviaXML/53089.xml",
+    "lemma": "imparare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Acquisire e ritenere nella memoria studiando o esercitandosi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare le tabelline",
+              "la matematica",
+              "una lingua straniera",
+              "imparare a memoria",
+              "a mente"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arrivare a conoscere e a saper praticare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare un mestiere",
+              "imparare a sciare",
+              "imparare a suonare la chitarra"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere voglia di imparare",
+              "un bambino che imparare rapidamente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arrivare a sapere per mezzo dell’esperienza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare a vivere",
+              "imparare a comportarsi",
+              "imparerai cosa vuol dire lavorare"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pagandone le conseguenze; come rimprovero e monito rivolto a chi ha commesso un errore che può comunque servigli di lezione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare qcs. a proprie spese",
+              "ti sta bene, così impari!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "centromeridionale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale centromeridionale , venire a sapere, apprendere",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "centromeridionale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale centromeridionale , insegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Acquisire conoscenze, abilità o comportamenti attraverso lo studio, l'esperienza o l'esercizio ripetuto.",
+      "examples": [
+        "Ha impiegato tre anni per imparare il russo.",
+        "I bambini imparano a leggere e scrivere nei primi anni di scuola.",
+        "Ho imparato a cucinare guardando mia nonna."
+      ],
+      "nota": "Può reggere un sostantivo (imparare una lingua), un infinito introdotto da 'a' (imparare a nuotare) o una proposizione completiva (imparare che...)."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Memorizzare qualcosa in modo da poterlo riprodurre o ricordare con precisione.",
+      "examples": [
+        "Devi imparare questa poesia a memoria entro domani.",
+        "Ha imparato a memoria tutte le capitali del mondo.",
+        "Gli attori impiegano settimane a imparare le battute dello spettacolo."
+      ],
+      "nota": "In questo senso è spesso accompagnato dall'espressione 'a memoria', che ne rafforza la componente mnemonica rispetto a quella cognitiva."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Trarre un insegnamento o una lezione da un'esperienza, positiva o negativa.",
+      "examples": [
+        "Da questa vicenda ho imparato che non bisogna fidarsi di tutti.",
+        "Spero che tu abbia imparato la lezione dopo quello che è successo.",
+        "Ho imparato dai miei errori e ora sono più prudente."
+      ],
+      "nota": "Uso spesso con sfumatura morale o riflessiva; frequente nelle costruzioni 'imparare da qualcosa/qualcuno' e 'imparare la lezione'."
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Acquisire progressivamente competenze o conoscenze, in modo continuativo e non riferito a un oggetto specifico.",
+      "examples": [
+        "Non si finisce mai di imparare.",
+        "In questo lavoro si impara ogni giorno qualcosa di nuovo.",
+        "È importante continuare a imparare lungo tutto l'arco della vita."
+      ],
+      "nota": "Uso assoluto, privo di complemento oggetto esplicito; ricorrente in contesti che sottolineano l'apprendimento come processo continuo."
+    }
+  ]
+}

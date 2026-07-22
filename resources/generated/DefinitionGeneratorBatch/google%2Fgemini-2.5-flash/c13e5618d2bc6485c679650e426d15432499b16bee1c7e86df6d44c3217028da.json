@@ -1,0 +1,221 @@
+{
+  "lemma": "individuo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6b69ad0a50d065280d"
+    },
+    "source": "paraviaXML/55783.xml",
+    "lemma": "individuo",
+    "grammar": [
+      "s.m.",
+      "agg."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Singolo organismo vivente considerato distintamente da ogni altro della stessa specie",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia , ogni organismo animale o vegetale che non può essere suddiviso senza che ne vadano perdute le caratteristiche strutturali e funzionali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La persona considerata nella sua singolarità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "privilegiare gli interessi dell’individuo rispetto a quelli della comunità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "spregiativo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente , persona sconosciuta o che ispira diffidenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un losco individuo",
+              "un individuo sospetto",
+              "non parlo con certi individui"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cosa, concetto e simile , in quanto abbia una propria peculiarità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ogni opera d’arte è un individuo a sé stante"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indiviso o indivisibile: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "santa ed individua Trinità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Particolare, individuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–4",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "5",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Singola unità di un genere o di una specie, considerata come entità distinta e autonoma.",
+      "examples": [
+        "Ogni individuo ha il diritto di esprimere la propria opinione.",
+        "La ricerca ha studiato il comportamento di cento individui appartenenti a diverse fasce d'età."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Persona, genericamente considerata, talvolta con una connotazione negativa o dispregiativa, indicando una persona di scarso valore o di condotta discutibile.",
+      "examples": [
+        "C'era un individuo sospetto che si aggirava intorno alla mia auto.",
+        "Non voglio avere niente a che fare con quell'individuo, è una persona inaffidabile."
+      ],
+      "nota": "L'uso in questo senso può variare da neutro a fortemente negativo a seconda del contesto e dell'intonazione."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Non divisibile o non separabile in parti più piccole; che mantiene la sua unità.",
+      "examples": [
+        "La società è un corpo unitario e individuo, non un insieme di parti sconnesse.",
+        "La materia è composta da particelle elementari indivisibili, ovvero individuali nel loro genere."
+      ],
+      "nota": "Raro nell'uso contemporaneo come aggettivo, spesso sostituito da 'indivisibile'."
+    }
+  ]
+}

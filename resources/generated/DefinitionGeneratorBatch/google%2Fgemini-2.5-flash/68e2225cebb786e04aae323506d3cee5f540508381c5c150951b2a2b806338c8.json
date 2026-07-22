@@ -1,0 +1,261 @@
+{
+  "lemma": "profilo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2769ad0a50d065c3f1"
+    },
+    "source": "paraviaXML/87398.xml",
+    "lemma": "profilo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linea esterna che delimita una figura disegnata, contorno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sagoma, contorno di un elemento paesistico che si staglia e risalta su uno sfondo o in controluce",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il profilo dei monti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Immagine del volto umano quale appare a un osservatore posto di fianco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un profilo regolare",
+              "marcato"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Disegno, ritratto e simile che riproduce tale immagine",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "letteratura",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Letteratura , saggio biografico o critico che presenta, in modo essenziale ma efficace, un autore, un periodo storico o letterario e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un profilo del Manzoni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcosa",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Descrizione sommaria delle caratteristiche o delle qualità di qualcosa o di qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tracciare un profilo della situazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "sartoria",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sartoria , striscia o nastro, di colore o di tessuto contrastante, con cui si rifiniscono particolari dell’abbigliamento specialmente femminile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una giacca di panno con profili in velluto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "geometria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geometria , in un oggetto tridimensionale, sagoma tracciata su un piano di proiezione dalle rette passanti per il centro e tangenti alla superficie dell’oggetto stesso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "geologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geologia ; profilo geologico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "oreficeria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oreficeria ; profilatoio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Linea o contorno che delimita una figura o un oggetto, specialmente con riferimento alla vista laterale di una persona o di un volto.",
+      "examples": [
+        "Il suo profilo elegante risaltava controluce.",
+        "Disegnò il profilo della montagna all'orizzonte."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Descrizione sintetica delle caratteristiche principali di una persona, un prodotto, un servizio o un'entità, spesso allo scopo di presentarla o identificarla.",
+      "examples": [
+        "L'azienda ha pubblicato un profilo dettagliato del nuovo amministratore delegato.",
+        "Compila il tuo profilo online per accedere a tutte le funzionalità del sito."
+      ],
+      "nota": "Nel contesto del web e dei social media, si riferisce all'insieme di dati e informazioni che un utente rende disponibili pubblicamente o privatamente."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Insieme delle caratteristiche dominanti e distintive di un determinato fenomeno, situazione o ambito.",
+      "examples": [
+        "Il profilo socio-economico della regione è in costante evoluzione.",
+        "Il nuovo piano di studi ha un profilo molto orientato alle tecnologie digitali."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "lemma": "mica",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7c69ad0a50d06535d7"
+    },
+    "source": "paraviaXML/69541.xml",
+    "lemma": "mica",
+    "grammar": [
+      "s.f.",
+      "avv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Briciola di pane",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Parte piccolissima, pezzetto di un qualunque materiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Affatto, per nulla, come rafforzativo di una negazione, specialmente posposto al verbo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non sono mica arrabbiato",
+              "non voleva mica ascoltarmi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Usato senza altra negazione, ha valore negativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mica sono matto!",
+              "sono cose vere, mica stupidaggini!"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Poco, non tanto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mica tanto",
+              "«Ti piace il pollo?» «M. tanto»"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In espressioni interrogative o dubitative, per caso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non sarai mica offeso?",
+              "hai mica visto le mie scarpe?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "avverbio (registro colloquiale, usato in frasi negative o come smentita implicita)",
+      "definition": "Particella negativa che rafforza un enunciato negato o introduce una contrapposizione, con valore di 'per niente', 'affatto' o 'non è affatto così'.",
+      "examples": [
+        "Non ho mica voglia di uscire con questo temporale.",
+        "Pensavi che avessi già risolto il problema? Mica affatto, devo ancora fare diversi tentativi."
+      ],
+      "nota": "Nell'italiano contemporaneo compare frequentemente sia in posizione postverbale (spesso in combinazione con 'non') sia in posizione iniziale per negare un'aspettativa o un'affermazione precedente; in contesti ellittici può assumere sfumatura ironica o approvativa (es. 'Mica male!')."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Minerale silicatico caratterizzato da struttura cristallina lamellare e facile sfaldatura, ampiamente sfruttato in edilizia e nell'industria dei materiali isolanti e decorativi.",
+      "examples": [
+        "Le cave della Val d'Ossola estraggono grandi quantità di mica di ottima qualità.",
+        "L'artigiano ha mescolato polvere di mica alla vernice per ottenere un riflesso metallizzato."
+      ],
+      "nota": null
+    }
+  ]
+}

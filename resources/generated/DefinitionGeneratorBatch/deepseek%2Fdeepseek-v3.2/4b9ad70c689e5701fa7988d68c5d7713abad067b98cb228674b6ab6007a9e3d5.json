@@ -1,0 +1,241 @@
+{
+  "lemma": "combattere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa969ad0a50d0662ce3"
+    },
+    "source": "paraviaXML/24559.xml",
+    "lemma": "combattere",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Partecipare a uno scontro armato, a una lotta, a una battaglia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "combattere contro qcn.",
+              "per la patria",
+              "combattere valorosamente",
+              "strenuamente"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "A contatto fisico con l’avversario; con l’oggetto interno, anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "combattere a corpo a corpo",
+              "combattere una battaglia"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, disputare un incontro accanito, un’accesa competizione: con l’oggetto interno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i due pugili combattono ad armi pari",
+              "la squadra combatte per lo scudetto",
+              "combattere una bella partita"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcosa",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Opporsi a qualcosa ; lottare per qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "combattere contro il male",
+              "combattere per la libertà",
+              "per i propri ideali"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente",
+              "scherzoso",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente , essere alle prese con qualcosa di difficile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "combattere con i compiti di matematica",
+              "col traffico"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere alle prese con una persona o un gruppo che creano problemi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "combattere con una scolaresca indisciplinata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Contrastare, cercare di eliminare una situazione politica o sociale considerata negativa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "combattere la dittatura",
+              "la miseria"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Contrastare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "combattere la corruzione",
+              "i pregiudizi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al passivo, tormentare, angustiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere combattuto da un dubbio"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Impegnarsi in uno scontro fisico o armato contro un avversario.",
+      "examples": [
+        "Le truppe dovranno combattere il nemico in campo aperto.",
+        "I due lottatori si sono combattuti con grande determinazione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare avere)",
+      "definition": "Partecipare a una guerra o a un conflitto.",
+      "examples": [
+        "Mio nonno ha combattuto nella seconda guerra mondiale.",
+        "Il paese è pronto a combattere per la propria indipendenza."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Opporsi attivamente e con determinazione a qualcosa di negativo.",
+      "examples": [
+        "Il governo ha promesso di combattere l'evasione fiscale.",
+        "Dobbiamo combattere i pregiudizi con l'informazione."
+      ],
+      "nota": "In questo senso figurato, l'oggetto è tipicamente un fenomeno astratto (es. corruzione, disuguaglianza) considerato avverso."
+    },
+    {
+      "pos": "verbo intransitivo pronominale (combattersi)",
+      "definition": "Sforzarsi di superare un impulso, un desiderio o un sentimento interiore contrastante.",
+      "examples": [
+        "Si combatteva tra il desiderio di parlare e la paura delle conseguenze.",
+        "Mi combatto ogni giorno con la pigrizia per andare in palestra."
+      ],
+      "nota": null
+    }
+  ]
+}

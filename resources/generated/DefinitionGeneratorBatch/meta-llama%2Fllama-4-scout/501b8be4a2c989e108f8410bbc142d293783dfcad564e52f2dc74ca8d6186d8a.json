@@ -1,0 +1,179 @@
+{
+  "lemma": "radio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6c69ad0a50d06528a4"
+    },
+    "source": "paraviaXML/90251.xml",
+    "lemma": "radio",
+    "grammar": [
+      "s.f.inv.",
+      "agg.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "telecomunicazioni"
+            ],
+            "definitions": [
+              {
+                "glossa": "None telecomunicazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "None radiofonia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "None radiofonico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iniziale",
+              "maiuscolo",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anche con iniziale maiuscolo , ente statale od organizzazione privata che provvede a trasmettere radiofonicamente notizie, programmi musicali, culturali, di svago, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavorare alla radio",
+              "la radio italiana",
+              "francese",
+              "i programmi della radio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stazione radiotrasmittente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’antenna della radio domina la collina",
+              "sintonizzarsi su radio Montecarlo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Apparecchio radiofonico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accendere",
+              "spegnere la radio",
+              "comprarsi una radio nuova",
+              "abbassare il volume della radio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "telecomunicazioni",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Telecomunicazioni , apparecchio radiotelegrafico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "impianto di apparecchi per la trasmissione e la ricezione di suoni, in particolare programmi musicali e di informazione, attraverso onde elettromagnetiche",
+      "examples": [
+        "La radio è accesa in sottofondo.",
+        "Ho ascoltato la radio durante il viaggio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "stazione trasmittente di programmi radiofonici",
+      "examples": [
+        "La radio locale trasmette musica dal vivo.",
+        "La mia città ha una radio che manda in onda notizie locali."
+      ],
+      "nota": null
+    }
+  ]
+}

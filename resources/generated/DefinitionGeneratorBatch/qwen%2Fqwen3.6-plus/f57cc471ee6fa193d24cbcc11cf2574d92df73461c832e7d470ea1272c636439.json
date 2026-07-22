@@ -1,0 +1,143 @@
+{
+  "lemma": "conservare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafab69ad0a50d0662dd6"
+    },
+    "source": "paraviaXML/26292.xml",
+    "lemma": "conservare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Tenere qualcosa in modo che non si sciupi, vada perduto e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "conservare i maglioni nel guardaroba",
+              "conservare le ricevute dei pagamenti"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di alimenti, trattare in modo che non si deteriorino",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Non far venir meno, mantenere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "conservare la pace nel mondo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere ancora, non aver perduto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "conservare la tranquillità",
+              "conservare il sangue freddo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Proteggere, difendere; preservare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Mantenere in buono stato o custodire in un luogo o su un supporto sicuro oggetti, sostanze, dati o documenti, impedendone il deterioramento, la decomposizione o lo smarrimento.",
+      "examples": [
+        "Per conservare i pomodori raccolti ad agosto, li immergono nell'olio extra vergine dopo averli sterilizzati.",
+        "La nuova normativa richiede alle imprese di conservare le comunicazioni elettroniche per almeno dieci anni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Mantenere inalterato, vivo o attivo un sentimento, una caratteristica personale, un principio o un'abitudine nel tempo.",
+      "examples": [
+        "Nonostante le divergenze politiche, è riuscito a conservare un rapporto di stima con il suo collega.",
+        "Durante l'esposizione stampa, il portavoce ha saputo conservare la calma pur rispondendo a domande molto insidiose."
+      ],
+      "nota": "Regge prevalentemente complementi di tipo astratto, relazionale o psicofisico."
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Permanere in buone condizioni fisiche, mentali o qualitative nonostante il trascorrere del tempo, l'uso ripetuto o agenti esterni.",
+      "examples": [
+        "Si è conservata straordinariamente bene, tanto da continuare a correre maratoni a sessant'anni.",
+        "Questa finitura esterna si conserva lucida e resistente anche dopo anni di esposizione alla salsedine."
+      ],
+      "nota": null
+    }
+  ]
+}

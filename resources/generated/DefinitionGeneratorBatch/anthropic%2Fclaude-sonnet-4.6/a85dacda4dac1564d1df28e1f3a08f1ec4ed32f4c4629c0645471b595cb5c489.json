@@ -1,0 +1,216 @@
+{
+  "lemma": "distinguere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb269ad0a50d06633dd"
+    },
+    "source": "paraviaXML/35588.xml",
+    "lemma": "distinguere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Riconoscere una cosa come diversa da un’altra avvalendosi dell’intelletto o dei sensi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "distinguere il bene dal male",
+              "il vero dal falso",
+              "distinguere il giallo dall’arancione"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rilevare differenze, precisare, specialmente in una discussione, in un ragionamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bisogna distinguere a seconda dei casi",
+              "un momento, distinguiamo bene"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Riconoscere con precisione in base alle caratteristiche proprie, individuare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "distinguere una stella",
+              "la voce di qcn. tra le altre",
+              "i daltonici non distinguono il rosso e il giallo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dividere, ripartire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "distinguere un secolo in periodi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Considerare singolarmente: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cominciò a distinguer le parti di lei"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Contrassegnare, rendere riconoscibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "distinguere qcs. con una sigla",
+              "distinguere con numeri le accezioni di una voce"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Caratterizzare, rendere diverso: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la parola distingue gli esseri umani da altri viventi",
+              "la sua statura lo distingue tra tutti gli altri",
+              "la sua maleducazione lo distingue sempre!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Percepire o riconoscere qualcosa separandolo visivamente o sensorialmente da ciò che lo circonda.",
+      "examples": [
+        "Nella nebbia riuscivo a malapena a distinguere i contorni degli alberi.",
+        "Con questo rumore di fondo non riesco a distinguere le singole parole."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Cogliere la differenza tra due o più cose, persone o concetti, riconoscendone le caratteristiche specifiche che li separano.",
+      "examples": [
+        "È importante saper distinguere i fatti dalle opinioni.",
+        "A quell'età i bambini faticano a distinguere il bene dal male.",
+        "Gli esperti riescono a distinguere un vino pregiato da una qualità inferiore."
+      ],
+      "nota": "È il senso più frequente e corrisponde al concetto di 'differenziare' o 'discriminare' tra entità. Spesso costruito con la struttura 'distinguere X da Y'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Costituire il tratto o la caratteristica che differenzia una persona o una cosa dalle altre, rendendola riconoscibile o peculiare.",
+      "examples": [
+        "Ciò che distingue questo prodotto dalla concorrenza è la qualità dei materiali.",
+        "La creatività è la dote che lo distingue dagli altri colleghi."
+      ],
+      "nota": "In questo senso il soggetto grammaticale è la caratteristica distintiva, non chi osserva."
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Emergere rispetto agli altri per qualità, meriti o comportamenti particolarmente notevoli.",
+      "examples": [
+        "Si è distinta fin da subito per la sua capacità di mediazione.",
+        "Il giovane atleta si è distinto in gara ottenendo un risultato straordinario."
+      ],
+      "nota": "Uso spesso connotato positivamente, equivalente a 'eccellere', 'mettersi in evidenza'."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "lemma": "vestito",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8369ad0a50d0660e3a"
+    },
+    "source": "paraviaXML/127158.xml",
+    "lemma": "vestito",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indumento completo o insieme di indumenti che si indossa sopra la biancheria e sotto il soprabito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vestito di lana",
+              "di cotone",
+              "un vestito da sera",
+              "da cocktail",
+              "da cerimonia",
+              "da lavoro",
+              "vestito buono",
+              "da festa",
+              "comprare",
+              "cucire un vestito"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Abito di varia foggia, costituito da un solo pezzo, che ricopre la maggior parte del corpo; completo di giacca e pantaloni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vestito da donna",
+              "vestito da uomo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vestiario",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Indumento, generalmente elegante, composto da giacca e pantaloni per uomo o da un unico pezzo che copre busto e gambe per donna, indossato per occasioni formali o speciali.",
+      "examples": [
+        "Per la cerimonia ha indossato un bellissimo vestito da sera.",
+        "Il mio vestito preferito è quello blu che mi ha regalato mia nonna."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "L'insieme degli abiti indossati da una persona in un determinato momento.",
+      "examples": [
+        "Ha cambiato vestito dopo la doccia.",
+        "Il suo vestito da lavoro è molto pratico e confortevole."
+      ],
+      "nota": "In questo senso è quasi un sinonimo di 'abito', ma può riferirsi anche all'abbigliamento complessivo."
+    },
+    {
+      "pos": "participio passato di 'vestire'",
+      "definition": "Che indossa abiti; coperto da indumenti.",
+      "examples": [
+        "Un bambino vestito di tutto punto per la festa.",
+        "Trovò il manichino già vestito con i nuovi arrivi della stagione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito a persona, che indossa abiti di un certo tipo o con un certo stile.",
+      "examples": [
+        "Era vestito con eleganza, come sempre.",
+        "Preferisce uno stile molto casual, vestito sempre in jeans e maglietta."
+      ],
+      "nota": "Spesso usato in combinazione con avverbi di modo."
+    }
+  ]
+}

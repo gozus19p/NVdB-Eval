@@ -1,0 +1,138 @@
+{
+  "lemma": "avventura",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7c69ad0a50d0653648"
+    },
+    "source": "paraviaXML/11108.xml",
+    "lemma": "avventura",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avvenimento straordinario o ricco di rischi imprevedibili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è stata un’avventura a lieto fine",
+              "ha vissuto molte avventure",
+              "non ho spirito d’avventura"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esperienza dall’esito incerto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affronterò l’avventura del concorso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Breve relazione amorosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere un’avventura con qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fortuna, buona sorte: Ariosto)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "più che senno, ebbe avventura"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Evento o serie di eventi inaspettati, eccitanti e spesso rischiosi, che comportano una componente di novità e imprevedibilità.",
+      "examples": [
+        "Il viaggio in moto attraverso la Patagonia è stata un'avventura indimenticabile.",
+        "I ragazzi si erano persi nel bosco e avevano vissuto un'avventura che avrebbero raccontato per anni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Relazione sentimentale o sessuale breve e occasionale, priva di impegno.",
+      "examples": [
+        "Tra loro non c'è stato niente di serio, solo un'avventura estiva.",
+        "Non cercava una storia stabile, ma una piccola avventura senza conseguenze."
+      ],
+      "nota": "Spesso accompagnato da aggettivi come 'estiva', 'fugace', 'di una notte', che ne sottolineano la brevità e il carattere informale."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Impresa o iniziativa rischiosa e incerta nel suo esito, intrapresa senza garanzie di successo.",
+      "examples": [
+        "Aprire un ristorante in questo momento è un'avventura finanziaria molto rischiosa.",
+        "La sua carriera politica è stata fin dall'inizio un'avventura piena di ostacoli."
+      ],
+      "nota": "In questo senso ha spesso una connotazione valutativa negativa o almeno di incertezza, a differenza del senso 1 che è prevalentemente positivo."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Genere narrativo o ludico incentrato su storie ricche di azione, pericoli e colpi di scena, come romanzi, film o videogiochi.",
+      "examples": [
+        "Da bambino divorava romanzi d'avventura come 'L'isola del tesoro'.",
+        "Preferisco i giochi di avventura a quelli di strategia."
+      ],
+      "nota": "Usato spesso in sintagmi come 'romanzo d'avventura', 'film d'avventura', 'gioco d'avventura'."
+    }
+  ]
+}

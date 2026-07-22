@@ -1,0 +1,67 @@
+{
+  "lemma": "luglio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef069ad0a50d0659755"
+    },
+    "source": "paraviaXML/64859.xml",
+    "lemma": "luglio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "luglio-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Settimo mese dell’anno, di trentuno giorni nel calendario gregoriano e giuliano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire in luglio",
+              "un luglio molto caldo | farsi bello al sole di luglio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Vantarsi di qualcosa di cui non si ha alcun merito; far apparire raro o prezioso qualcosa di insignificante e che c’è in abbondanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vendere il sole di luglio"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "settimo mese dell'anno nel calendario gregoriano, composto da 31 giorni e situato tra giugno e agosto",
+      "examples": [
+        "Quest'anno andremo al mare a luglio per due settimane.",
+        "Il festival si terrà dal 15 al 20 luglio in piazza principale."
+      ],
+      "nota": "Spesso associato a periodi di vacanza estiva, caldo intenso e attività all'aperto. In ambito meteorologico, può essere usato per indicare condizioni climatiche tipiche del periodo (es. 'un luglio afoso')."
+    }
+  ]
+}

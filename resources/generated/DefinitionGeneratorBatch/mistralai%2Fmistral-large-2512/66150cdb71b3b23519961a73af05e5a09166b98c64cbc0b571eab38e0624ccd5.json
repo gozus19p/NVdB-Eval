@@ -1,0 +1,141 @@
+{
+  "lemma": "droga",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb769ad0a50d06567a5"
+    },
+    "source": "paraviaXML/36843.xml",
+    "lemma": "droga",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , sostanza vegetale secca ( cannella, vaniglia, pepe, eccetera ) usata per dare aroma alle vivande",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "farmacia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Farmacia , prodotto o sostanza di origine naturale contenente uno o più principi attivi con azione terapeutica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Denominazione generica di sostanze naturali o di sintesi con proprietà stupefacenti, eccitanti o allucinogene",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare uso di droga",
+              "spaccio",
+              "detenzione",
+              "traffico di droga"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Abitudine o vizio di cui non si può fare a meno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le sigarette sono la mia droga",
+              "la televisione è la droga di mio figlio"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sostanza stupefacente o psicotropa che altera lo stato psicofisico di chi la assume, spesso causando dipendenza.",
+      "examples": [
+        "Il consumo di droga è un problema sociale diffuso.",
+        "La polizia ha sequestrato un carico di droga nascosto in un container."
+      ],
+      "nota": "Il termine può riferirsi sia a sostanze illegali (es. cocaina, eroina) sia a sostanze legali ma soggette a restrizioni (es. cannabis in alcuni contesti)."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sostanza naturale o sintetica utilizzata per aromatizzare cibi o bevande, come spezie o erbe.",
+      "examples": [
+        "Per questa ricetta servono droghe come cannella e noce moscata.",
+        "Il mercato delle droghe aromatiche è in crescita."
+      ],
+      "nota": "Uso meno comune nel linguaggio quotidiano, più frequente in ambito culinario o storico. In questo senso, il plurale è spesso preferito."
+    },
+    {
+      "pos": "sostantivo f. (plurale)",
+      "definition": "Insieme di spezie, erbe aromatiche o sostanze utilizzate per la preparazione di cibi, bevande o medicinali.",
+      "examples": [
+        "Il negozio vende un'ampia varietà di droghe per infusi.",
+        "Le droghe usate in farmacia devono essere di alta qualità."
+      ],
+      "nota": "In questo senso, il termine è spesso usato al plurale e può includere anche sostanze non commestibili usate in profumeria o erboristeria."
+    }
+  ]
+}

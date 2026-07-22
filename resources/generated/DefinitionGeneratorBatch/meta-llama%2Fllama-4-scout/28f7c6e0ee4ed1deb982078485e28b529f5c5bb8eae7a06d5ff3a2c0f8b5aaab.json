@@ -1,0 +1,138 @@
+{
+  "lemma": "decisione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeac69ad0a50d0655e84"
+    },
+    "source": "paraviaXML/30560.xml",
+    "lemma": "decisione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il decidere scegliendo fra varie possibilità, risoluzione, deliberazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prendere",
+              "maturare una decisione",
+              "rimettersi alle decisioni di qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , sentenza che risolve una controversia, una causa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prontezza, sicurezza nell’agire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "agire con decisione",
+              "in quella circostanza ha dimostrato molta decisione",
+              "rispondere con decisione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , separazione, divisione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che è diviso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Atto di scegliere tra diverse possibilità",
+      "examples": [
+        "La commissione ha preso una decisione importante.",
+        "La sua decisione di dimettersi è stata sorprendente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Criterio o principio che guida una scelta",
+      "examples": [
+        "La decisione di investire in tecnologia è stata fondamentale per l'azienda.",
+        "La sua decisione di studiare all'estero è stata influenzata dalla famiglia."
+      ],
+      "nota": null
+    }
+  ]
+}

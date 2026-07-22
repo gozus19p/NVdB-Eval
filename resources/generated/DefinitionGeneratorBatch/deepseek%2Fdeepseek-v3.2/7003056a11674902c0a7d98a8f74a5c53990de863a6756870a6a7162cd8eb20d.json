@@ -1,0 +1,105 @@
+{
+  "lemma": "organismo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0d69ad0a50d065aeec"
+    },
+    "source": "paraviaXML/76854.xml",
+    "lemma": "organismo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere vivente, animale o vegetale, dotato di organi e apparati con specifiche funzioni finalizzate all’autonomia vitale dell’individuo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il corpo umano considerato rispetto alla sua costituzione e stato di salute",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un organismo sano",
+              "invecchiamento dell’organismo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Struttura formata da elementi fra loro coordinati che operano per un fine comune",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un organismo politico",
+              "l’organismo amministrativo e finanziario di un’azienda"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Entità vivente di natura vegetale, animale o altra, caratterizzata da una struttura complessa e capace di funzioni vitali autonome.",
+      "examples": [
+        "La cura deve essere personalizzata per ogni singolo organismo.",
+        "L'intero organismo reagisce quando viene attaccato un agente patogeno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Struttura complessa e organizzata di persone, regole o enti, che opera per uno scopo specifico.",
+      "examples": [
+        "L'Unione Europea è un organismo politico ed economico molto articolato.",
+        "L'organismo di vigilanza ha emesso una nuova direttiva."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "lemma": "realizzare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafcc69ad0a50d06648fb"
+    },
+    "source": "paraviaXML/91817.xml",
+    "lemma": "realizzare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tradurre in realtà, attuare; portare a compimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "realizzare un piano",
+              "un esperimento",
+              "è riuscito a realizzare pienamente le sue idee"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esaudire, avverare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha realizzato tutti i miei desideri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esprimere a pieno, rendere in forma artistica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "realizzare poeticamente i propri stati d’animo",
+              "un modello perfettamente realizzato"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Eseguire concretamente, produrre un’opera artistica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha realizzato questo dipinto dopo anni di lavoro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ricavare, ottenere un guadagno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dalla vendita ha realizzato molto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "TS",
+        "field": "economia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia , nel linguaggio commerciale, convertire in denaro liquido",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "realizzare un credito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport ; segnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rendersi conto, comprendere: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha realizzato tardi di aver sbagliato",
+              "non riesco proprio a realizzare"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Portare a compimento un'idea, un progetto o un'iniziativa dandogli forma concreta; creare, produrre o eseguire.",
+      "examples": [
+        "Lo studio legale ha realizzato la fusione tra le due multinazionali in tempi record.",
+        "Regista pluripremiato per realizzare opere che mescolano generi diversi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Comprendere pienamente o prendere coscienza di un fatto, di una situazione o di una verità, spesso con un effetto di chiarezza improvvisa.",
+      "examples": [
+        "Solo dopo aver rivisto le immagini ha realizzato di aver dimenticato il passaporto.",
+        "Nessuno tra gli spettatori ha realizzato subito che l'attore era svenuto sul palco."
+      ],
+      "nota": "Accezione ormai stabilmente lessicalizzata in italiano contemporaneo, diffusasi anche per contatto con l'inglese 'to realize'; si distingue da 'rendersi conto' per un'accentuazione sul processo cognitivo di presa di coscienza."
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Raggiungere una condizione di piena soddisfazione personale o professionale, esprimendo compiutamente le proprie potenzialità e aspirazioni.",
+      "examples": [
+        "Dopo anni di gavetta, finalmente si è realizzato come insegnante di musica.",
+        "Molte giovani faticano a realizzarsi in un contesto economico così instabile."
+      ],
+      "nota": "Costruzione tipicamente accompagnata da complementi di ambito (personale, professionale, artistico) o da locuzioni che specificano la sfera di vita in cui avviene il compimento."
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "lemma": "prodotto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae4d69ad0a50d0650ef3"
+    },
+    "source": "paraviaXML/87273.xml",
+    "lemma": "prodotto",
+    "grammar": [
+      "p.pass.",
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio passato",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Produrre, prodursi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che costituisce il risultato di un processo naturale o di un’operazione umana ( industriale o artigianale) specialmente in quanto genere di consumo e di mercato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i prodotti della terra",
+              "prodotti alimentari",
+              "artigianali"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che non hanno ancora subito un processo di lavorazione; sottoposti a un parziale processo di lavorazione; che hanno subito l’intero processo di lavorazione e sono pronti a essere immessi sul mercato; nome generico di sostanze cosmetiche per la cura del viso e del corpo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prodotti grezzi",
+              "prodotti semilavorati",
+              "prodotti finiti",
+              "prodotti di bellezza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che costituisce il risultato di un processo biologico, fisico, chimico, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prodotti di sintesi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "In senso generico, risultato, conseguenza, effetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tutto ciò è il prodotto di anni di lavoro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "economia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia , il risultato del processo di produzione, cioè il bene o il servizio risultante dalla trasformazione di altri beni o servizi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "tessile",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia tessile ; resa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "comune",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , il risultato dell’operazione di moltiplicazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non , l’operazione stessa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "logica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica logica ; congiunzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "elettronica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Elettronica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "None AND",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2–6",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Oggetto o articolo ottenuto mediante un processo di fabbricazione o trasformazione e destinato alla vendita.",
+      "examples": [
+        "L'azienda lancerà un nuovo prodotto sul mercato la prossima settimana.",
+        "Prima di acquistare, leggiamo sempre le recensioni di un prodotto online."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Risultato di una specifica attività intellettuale, artistica o creativa.",
+      "examples": [
+        "Questo romanzo è il prodotto di anni di riflessione e ricerca.",
+        "La nuova canzone è un prodotto della collaborazione tra due famosi musicisti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Risultato ottenuto dalla moltiplicazione di due o più numeri.",
+      "examples": [
+        "Il prodotto di 7 per 8 è 56.",
+        "Per risolvere l'esercizio, devi calcolare il prodotto dei tre fattori."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito a persona, che è stato allevato o cresciuto in un certo ambiente o con una determinata educazione.",
+      "examples": [
+        "È un giovane prodotto da una famiglia molto tradizionale.",
+        "Si definiva un prodotto della strada, perché aveva imparato tutto da solo."
+      ],
+      "nota": "Usato prevalentemente in costruzioni passive (es. 'essere prodotto da')."
+    }
+  ]
+}

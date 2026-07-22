@@ -1,0 +1,233 @@
+{
+  "lemma": "aiuto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaee269ad0a50d0658b64"
+    },
+    "source": "paraviaXML/3587.xml",
+    "lemma": "aiuto",
+    "grammar": [
+      "s.m.",
+      "inter."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Intervento a favore di qualcuno o di qualcosa in difficoltà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "chiedere, dare",
+              "portare aiuto a qcn.",
+              "correre",
+              "venire in aiuto di qcn.",
+              "essere d’aiuto",
+              "di grande",
+              "di poco aiuto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mezzo o persona che serve ad aiutare qualcuno o qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quella medicina è un valido aiuto",
+              "servire d’aiuto a qcn.",
+              "a qcs."
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sostegno economico concreto, finanziamento: anche , spinta, favore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con un piccolo aiuto potrei comprare la casa",
+              "è riuscito a vincere il concorso con qualche aiuto"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , truppe ausiliarie",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona che ne assiste un’altra nel lavoro; specialmente , medico che assiste il primario negli ospedali; anche in funzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "aiuto cuoco",
+              "aiuto chirurgo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nell’ippica, mossa del cavaliere per alleggerire il cavallo mentre salta un ostacolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia ; adiutorio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "interiezione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Invocazione di chi è in pericolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a., sto cadendo!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1–5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Insieme di interventi o atti volti a fornire supporto, assistenza o soccorso a chi si trova in difficoltà o a facilitare lo svolgimento di un compito.",
+      "examples": [
+        "Durante l'alluvione i volontari si sono mobilitati per prestare aiuto alle famiglie bloccate.",
+        "Per completare la traduzione in tempi brevi ha richiesto l'assistenza di un collega."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona, ente, strumento o risorsa che offre sostegno concreto o agevola il compimento di un'attività.",
+      "examples": [
+        "Suo zio è stato un punto di riferimento indispensabile durante la gestione della crisi aziendale.",
+        "Questo manuale pratico costituisce un valido supporto per chi si avvicina al giardinaggio."
+      ],
+      "nota": "Nell'uso tecnologico contemporaneo, il vocabolo designa frequentemente la sezione o la funzione di un programma, dispositivo o sito web dedicata a istruzioni e guide per l'utente."
+    }
+  ]
+}

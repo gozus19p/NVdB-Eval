@@ -1,0 +1,461 @@
+{
+  "lemma": "perché",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0a69ad0a50d064d2e3"
+    },
+    "source": "paraviaXML/81306.xml",
+    "lemma": "perché",
+    "grammar": [
+      "avv.",
+      "cong.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio",
+          "locuzione pragmatica"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In proposizioni interrogative dirette o indirette, per quale motivo o per quale scopo: con verbo all’inf. preceduto da ; seguito da con valore enfatico: anche ellitticamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "perché ridete?",
+              "mi chiedo perché tu l’abbia fatto",
+              "perché rinunciare?",
+              "perché non dirmelo prima?",
+              "e",
+              "o",
+              "ma",
+              "e perché hai aspettato così tanto? ma perché proprio io?",
+              "mai",
+              "vorrei sapere perché mai sei così in ritardo",
+              "«Non vengo» «P.?»",
+              "spiegami perché",
+              "non so perché"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Come invito a fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non",
+              "perché non vieni con noi?"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "In , per esprimere la disponibilità a fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "perché no?",
+              "«Esci stasera?» «P. no?»"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In proposizioni causali che seguono la principale, poiché",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono stanco perché ho lavorato fino a tardi",
+              "lo dico perché ti voglio bene",
+              "prendi l’ombrello perché potrebbe piovere"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Come risposta poco garbata, quando si voglia evitare una spiegazione o troncare una discussione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "perché sì",
+              "perché no",
+              "perché due non fa tre"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In proposizioni causali premesse alla principale, spesso correlato a o , per enunciare una causa già nota",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "perciò",
+              "così"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per la qual cosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "come più e più verso noi venne | l’uccel divino, più chiaro appariva, | per che l’occhio da presso nol sostenne"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "articolo determinativo"
+            ],
+            "definitions": [
+              {
+                "glossa": "( Dante) anche preceduto da articolo determinativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "pronome relativo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per cui",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo è il motivo perché sono venuto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In proposizioni finali, con verbi al congiuntivo, affinché",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "perché fiorisca, questa pianta ha bisogno di molto calore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In proposizioni consecutive, con verbi al congiuntivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il libro è troppo banale perché ti possa piacere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oncessivo, benché",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "perché ne’ vostri visi guati | non riconosco alcun"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ichiarativo, che",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che val perché ti racconciasse il freno | Iustiniano se la sella è vota?"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Potetico, se",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "e voi non gravi | perch’io un poco a ragionar m’inveschi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Causa, scopo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "spiegami il perché del tuo comportamento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Domanda, dubbio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i mille perché dei bambini"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una proposizione subordinata causale, indicando la ragione o la motivazione di quanto affermato nella proposizione principale.",
+      "examples": [
+        "Non sono venuto alla festa perché stavo male.",
+        "Le ho comprato un regalo perché era il suo compleanno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una proposizione subordinata finale, indicando lo scopo o l'obiettivo di un'azione.",
+      "examples": [
+        "Ti spiego tutto perché tu possa capire meglio.",
+        "Ha studiato molto perché superasse l'esame con un buon voto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "avverbio interrogativo",
+      "definition": "Usato per formulare una domanda riguardante la causa o la ragione di qualcosa.",
+      "examples": [
+        "Perché non mi hai risposto al telefono?",
+        "Perché sei così triste oggi?"
+      ],
+      "nota": "Può essere usato in domande dirette o indirette."
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Il motivo, la ragione intrinseca o la causa di un fatto, spesso in contesti che richiedono una spiegazione profonda.",
+      "examples": [
+        "Non capisco il perché di tanto accanimento.",
+        "Dimmi il perché della tua decisione."
+      ],
+      "nota": "Spesso preceduto dall'articolo determinativo 'il'."
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "lemma": "giallo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064acf0"
+    },
+    "source": "paraviaXML/48456.xml",
+    "lemma": "giallo",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di colore, simile a quello del limone o dell’oro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "maglietta",
+              "vernice gialla",
+              "fiore giallo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Appassite, secche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "foglie gialle"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di colorito, malsano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "aveva il viso giallo come un limone",
+              "è diventato giallo per la paura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di romanzo, racconto o film, di argomento poliziesco, con finale a sorpresa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "libro",
+              "film",
+              "telefilm giallo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche ; indica anche il genere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho letto un giallo emozionante",
+              "sono andato al cinema a vedere un giallo",
+              "un pizzico di giallo non guasta mai in un film"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Caso giudiziario di difficile soluzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il giallo dell’estate è finalmente risolto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vicenda non chiara, avvenimento misterioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è proprio un giallo come sia sparita la mia collana"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il colore del limone o dell’oro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un maglione di un bel giallo",
+              "quest’anno va di moda il giallo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Un sostantivo che indica una cosa o un animale di tale colore che individua la tonalità: anche seguito da un aggettivo o da un altro colore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giallo limone",
+              "giallo oro",
+              "giallo canarino",
+              "giallo zafferano",
+              "giallo carico",
+              "vivace",
+              "intenso",
+              "allegro",
+              "tenue",
+              "delicato",
+              "giallo arancio",
+              "giallo verde"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , colore primario compreso nell’iride tra l’aranciato e il verde",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Parte gialla di qualcosa , il tuorlo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il giallo dell’uovo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "esempio",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sostanza colorante gialla, per esempio tempera, olio, vernice e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "per fare il verde è necessario aggiungere del giallo al blu"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , sostanza chimica di colore giallo, pigmento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giallo di cadmio",
+              "giallo di cobalto",
+              "giallo cromo",
+              "giallo zolfo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nei semafori, luce gialla che avverte gli autoveicoli o i pedoni che sta per scattare il rosso o, se lampeggiante, segnala gli incroci o gli attraversamenti pedonali; anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "semaforo giallo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "generalmente",
+              "spregiativo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al generalmente con valore , appartenente alle popolazioni dell’Estremo Oriente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "razza gialla"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "politica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia politica , chi nei primi decenni del Novecento aderiva, in Romagna, alle leghe repubblicane anticomuniste",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–3,7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3b–6,8",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo a uno dei colori primari dello spettro visibile, situato tra il verde e l'arancione.",
+      "examples": [
+        "Il sole tramontava tingendo il cielo di un colore giallo intenso.",
+        "Ho comprato una maglietta gialla perché mi porta fortuna."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che si riferisce a un genere narrativo o cinematografico incentrato sulla risoluzione di un mistero o di un delitto.",
+      "examples": [
+        "È un'appassionata di romanzi gialli e ne legge almeno uno al mese.",
+        "In televisione stanno trasmettendo un film giallo molto avvincente."
+      ],
+      "nota": "Il termine deriva dal colore delle copertine di una collana popolare di narrativa poliziesca."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che denota allarme, cautela o un pericolo potenziale, spesso in contesti informativi o di segnaletica.",
+      "examples": [
+        "Il Ministero ha diramato un'allerta gialla per il maltempo in arrivo.",
+        "La spia gialla sul cruscotto indica un malfunzionamento del motore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che si riferisce a prodotti o contenuti a sfondo erotico o pornografico.",
+      "examples": [
+        "Quel giornale pubblicava spesso racconti gialli nella sua rubrica.",
+        "Negli anni '70 alcuni film furono etichettati come 'cinema giallo'."
+      ],
+      "nota": "Uso colloquiale e in parte storico, oggi meno frequente."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Il colore corrispondente all'aggettivo omonimo.",
+      "examples": [
+        "Il giallo è il suo colore preferito.",
+        "L'artista ha utilizzato un giallo molto acceso per il quadro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Opera narrativa o film appartenente al genere poliziesco.",
+      "examples": [
+        "Ho appena finito di leggere un giallo della Christie.",
+        "Stasera in prima serata va in onda un giallo ambientato a Venezia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Fatto misterioso e inspiegabile, spesso di natura delittuosa, che suscita curiosità e interrogativi.",
+      "examples": [
+        "La scomparsa dell'oggetto prezioso è ancora un giallo per la polizia.",
+        "I giornali hanno montato un vero giallo sulla vicenda finanziaria."
+      ],
+      "nota": null
+    }
+  ]
+}

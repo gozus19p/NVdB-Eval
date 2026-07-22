@@ -1,0 +1,158 @@
+{
+  "lemma": "turno",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6f69ad0a50d065ff26"
+    },
+    "source": "paraviaXML/124116.xml",
+    "lemma": "turno",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciascuno dei periodi di tempo, specialmente di otto ore, in cui viene suddivisa l’attività lavorativa, ovunque sia necessario il pieno utilizzo delle macchine o la copertura notturna per esigenze di servizio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavoro al turno di notte",
+              "è stato un turno molto faticoso"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il gruppo, la squadra che lavora in quel particolare periodo di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il primo turno ha lasciato il posto al secondo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Momento in cui spetta a qualcuno compiere una determinata attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stasera è il mio turno di lavare i piatti",
+              "aspetta il tuo turno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avvicendamento di persone che si alternano nello svolgere un determinato lavoro o servizio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "organizzare i turni di guardia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "estensivo",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, in un torneo, ciascuna delle fasi eliminatorie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "uscire al primo turno"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giornata di un campionato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere squalificato per due turni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Periodo di tempo durante il quale qualcuno svolge un compito o una funzione, spesso alternandosi con altri",
+      "examples": [
+        "Il turno di lavoro di mio padre è alle 18:00.",
+        "Il turno di guardia è stato assegnato a due squadre."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Occasione o volta in cui qualcosa accade o viene fatto",
+      "examples": [
+        "È il mio turno di fare la spesa.",
+        "Tocca a te, è il tuo turno di parlare."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lemma": "organismo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0d69ad0a50d065aeec"
+    },
+    "source": "paraviaXML/76854.xml",
+    "lemma": "organismo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere vivente, animale o vegetale, dotato di organi e apparati con specifiche funzioni finalizzate all’autonomia vitale dell’individuo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il corpo umano considerato rispetto alla sua costituzione e stato di salute",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un organismo sano",
+              "invecchiamento dell’organismo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Struttura formata da elementi fra loro coordinati che operano per un fine comune",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un organismo politico",
+              "l’organismo amministrativo e finanziario di un’azienda"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "essere vivente considerato nella sua unità strutturale e funzionale, costituito da una o più cellule coordinate; per estensione, il corpo di un animale o di una persona nella sua complessità fisiologica e reattiva",
+      "examples": [
+        "L'esperimento ha studiato il modo in cui l'organismo reagisce agli sbalzi termici.",
+        "Dopo l'infezione, il suo organismo ha impiegato diverse settimane per ristabilirsi completamente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "struttura formale e coordinata di persone, enti o risorse, istituita per svolgere una specifica attività di gestione, controllo, rappresentanza o servizio",
+      "examples": [
+        "L'organismo di certificazione ha approvato le nuove pratiche aziendali.",
+        "Diversi organismi internazionali hanno firmato l'accordo per la tutela ambientale."
+      ],
+      "nota": null
+    }
+  ]
+}

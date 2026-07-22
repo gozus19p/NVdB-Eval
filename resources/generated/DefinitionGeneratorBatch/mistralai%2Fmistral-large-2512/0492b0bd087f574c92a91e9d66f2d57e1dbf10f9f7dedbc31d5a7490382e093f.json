@@ -1,0 +1,200 @@
+{
+  "lemma": "analisi",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7269ad0a50d0652d4b"
+    },
+    "source": "paraviaXML/5543.xml",
+    "lemma": "analisi",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Forma di indagine che consiste nella scomposizione di un tutto, astratto o concreto, nelle sue parti costitutive e nell’esame sistematico di queste",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esame attento, indagine accurata di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare un’attenta analisi dell’accaduto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scientifico , in varie discipline, complesso di operazioni finalizzate a stabilire natura, qualità e quantità di una data sostanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In medicina, specialmente al , complesso di esami clinici a scopo diagnostico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "analisi cliniche",
+              "del sangue",
+              "delle urine",
+              "gli hanno fatto le analisi e non gli hanno trovato nulla"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , terapia psicoanalitica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "entrare in analisi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica ; analisi matematica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Analisi infinitesimale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Esame dettagliato e sistematico di un oggetto, un fenomeno o un problema, volto a comprenderne la struttura, le componenti o le relazioni interne.",
+      "examples": [
+        "L'analisi del sangue ha rivelato un livello di colesterolo troppo alto.",
+        "Prima di prendere una decisione, è necessaria un'attenta analisi dei pro e dei contro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Branca della matematica che studia i concetti di limite, funzione, derivata e integrale.",
+      "examples": [
+        "Quest'anno ho seguito un corso di analisi matematica all'università.",
+        "Per risolvere questo problema, devi applicare i principi dell'analisi."
+      ],
+      "nota": "In questo senso, il termine è spesso usato in contesti accademici o tecnici."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Esame critico di un testo letterario, filosofico o scientifico per comprenderne il significato, la struttura o le implicazioni.",
+      "examples": [
+        "Durante la lezione, abbiamo fatto un'analisi approfondita della Divina Commedia.",
+        "L'analisi del discorso politico ha messo in luce diverse contraddizioni."
+      ],
+      "nota": "Può riferirsi anche all'analisi linguistica o stilistica di un testo."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Processo terapeutico in psicologia, in particolare nella psicoanalisi, volto a esplorare l'inconscio del paziente.",
+      "examples": [
+        "Dopo anni di analisi, è riuscito a superare i suoi traumi infantili.",
+        "Freud ha sviluppato tecniche innovative per l'analisi dei sogni."
+      ],
+      "nota": "In questo contesto, il termine è spesso associato alla psicoanalisi freudiana o ad approcci simili."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Scomposizione di una sostanza nei suoi elementi costitutivi per determinarne la composizione chimica.",
+      "examples": [
+        "L'analisi chimica ha confermato la presenza di tracce di veleno nel campione.",
+        "Per la ricerca, è stata effettuata un'analisi spettroscopica dei materiali."
+      ],
+      "nota": "Comune in ambiti scientifici come la chimica, la biologia o la medicina."
+    }
+  ]
+}

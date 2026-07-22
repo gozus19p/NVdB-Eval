@@ -1,0 +1,258 @@
+{
+  "lemma": "appoggiare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa369ad0a50d0662792"
+    },
+    "source": "paraviaXML/7541.xml",
+    "lemma": "appoggiare",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Posare sopra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "appoggiare sul tavolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Addossare a un sostegno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "appoggiare la scala al muro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fondare su argomentazioni, su basi concettuali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "appoggiare le proprie affermazioni su prove"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sostenere, favorire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "appoggiare un partito",
+              "la candidatura di qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Affidare, specialmente un incarico, un’incombenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rifilare, appioppare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "appoggiare uno schiaffo a qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "banca",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Banca , dare commissione di eseguire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "appoggiare un bonifico",
+              "un pagamento all’agenzia 7"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Poggiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la statua appoggia su un piedistallo di marmo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1–4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "porre qualcosa contro qualcosa d'altro per sostenerlo",
+      "examples": [
+        "Appoggiare la scala contro il muro",
+        "Appoggiare la testa sul cuscino"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "sostenere, aiutare qualcuno o qualcosa",
+      "examples": [
+        "Appoggiare un amico in difficoltà",
+        "Appoggiare una proposta"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "appoggiarsi a qualcosa o qualcuno per non cadere",
+      "examples": [
+        "Appoggiarsi al parapetto per non cadere",
+        "Appoggiarsi a un amico per conforto"
+      ],
+      "nota": null
+    }
+  ]
+}

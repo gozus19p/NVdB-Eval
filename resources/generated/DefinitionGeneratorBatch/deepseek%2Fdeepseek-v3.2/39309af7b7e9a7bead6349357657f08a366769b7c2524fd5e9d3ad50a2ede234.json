@@ -1,0 +1,538 @@
+{
+  "lemma": "colore",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9f69ad0a50d0655336"
+    },
+    "source": "paraviaXML/24408.xml",
+    "lemma": "colore",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Caratteristica delle superfici per cui esse riflettono in vario modo la luce, inducendo determinate sensazioni nell’occhio umano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il colore bianco",
+              "rosso",
+              "un fiore di colore giallo",
+              "colore vivo",
+              "brillante",
+              "colore chiaro",
+              "scuro"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , qualità dei corpi dipendente dalla frequenza delle radiazioni elettromagnetiche emesse nella porzione dello spettro comunemente detta visibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Tonalità diversa dal bianco e dal nero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dipingere una parete bianca per darle un colore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sostanza variamente trattata o addizionata con leganti, usata per colorare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colore a tempera",
+              "all’anilina",
+              "ad olio",
+              "a colla",
+              "una scatola di colori",
+              "mescolare i colori"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stingersi, sbiadirsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "perdere il colore"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Uso artistico di tali sostanze",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i maestri del colore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Colorito della pelle umana, specialmente del volto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere un bel colore",
+              "dopo lo svenimento riprese il colore normale",
+              "il sole mi ha dato un po’ di colore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Apparenza, aspetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli avvenimenti raccontati hanno il colore della leggenda"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Verosimiglianza, credibilità: renderli credibili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare colore ad un imbroglio",
+              "ad una bugia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , elemento colorato di una bandiera o di uno stemma che rappresenta uno stato, o un partito, o una squadra sportiva eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i colori nazionali",
+              "fare onore ai propri colori",
+              "difendere i propri colori"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Squadra sportiva preferita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colore del cuore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Orientamento politico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il colore politico di un’associazione",
+              "di un giornale",
+              "è uno che cambia facilmente colore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vivacità, brio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "particolari che danno colore a un racconto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Monotono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un libro senza colore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Aspetto, caratteristica pittoresca che contraddistingue un ambiente, una città e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il colore locale",
+              "le gondole fanno parte del colore di Venezia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8a",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, in determinati giochi di carte, specialmente nel bridge, ciascuno dei quattro semi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8b",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, nel poker, combinazione di cinque carte dello stesso seme",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "fonetica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , in acustica, timbro di un suono",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fonetica , qualità o timbro di una vocale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , numero quantico che si associa ai quark per caratterizzarne le interazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "fotografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cinematografia fotografia , tecnica fotografica e cinematografica in cui le immagini riproducono i colori della realtà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’avvento del colore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Utilizzando le sostanze o le tecniche che permettono di riprodurre i colori, specialmente quelli della realtà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "disegnare a colori",
+              "filmare a colore"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Percependo i colori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vedere a colore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di fotografia, film: che riproduce i colori della realtà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "preferisco le foto in bianco e nero a quelle a colori"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Proprietà percettiva della luce, determinata dalla lunghezza d'onda, che permette di distinguere oggetti visivamente.",
+      "examples": [
+        "Il colore del cielo al tramonto è spesso arancione e rosa.",
+        "Ha scelto un colore vivace per dipingere la stanza."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Pigmento, sostanza utilizzata per tingere o dipingere.",
+      "examples": [
+        "Serve ancora del colore bianco per finire il lavoro.",
+        "Questi colori ad olio sono di ottima qualità."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Aspetto caratteristico o tono di qualcosa, spesso in senso figurato.",
+      "examples": [
+        "La sua descrizione ha dato molto colore alla vicenda.",
+        "Il dibattito politico ha acquisito un colore nuovo dopo quell'intervento."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Appartenenza etnica o caratteristica fisica legata alla pigmentazione della pelle, usata principalmente in contesti sociologici o demografici.",
+      "examples": [
+        "La discriminazione basata sul colore della pelle è un grave problema sociale.",
+        "Una società multicolore è più ricca e dinamica."
+      ],
+      "nota": "Uso spesso in locuzioni come 'persona di colore'."
+    }
+  ]
+}

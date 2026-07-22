@@ -1,0 +1,187 @@
+{
+  "lemma": "cultura",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeaa69ad0a50d0655d01"
+    },
+    "source": "paraviaXML/29686.xml",
+    "lemma": "cultura",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Complesso delle conoscenze intellettuali e delle nozioni che contribuisce alla formazione della personalità; educazione, istruzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "farsi",
+              "formarsi una cultura",
+              "avere una buona cultura",
+              "una persona di grande",
+              "media",
+              "scarsa cultura"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Gli ambienti intellettuali; colta; l’insieme delle conoscenze",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mondo della cultura",
+              "una persona di cultura",
+              "cultura letteraria",
+              "musicale",
+              "storica",
+              "la cultura umanistica e la cultura scientifica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pratiche e conoscenze collettive di una società o di un gruppo sociale; civiltà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la cultura rinascimentale",
+              "la cultura occidentale",
+              "la cultura contadina",
+              "la cultura borghese",
+              "culture preistoriche",
+              "culture scritte e culture orali"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Coltura, coltivazione del terreno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cura del corpo e della persona",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Culto religioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme delle conoscenze, dei valori, delle tradizioni, delle credenze e delle pratiche sociali condivise da un gruppo umano in un determinato contesto storico e geografico.",
+      "examples": [
+        "La cultura giapponese attribuisce grande importanza al rispetto per gli anziani.",
+        "Il museo ospita una mostra dedicata alle culture precolombiane dell'America Latina."
+      ],
+      "nota": "In questo senso si usa spesso al plurale ('culture') per indicare la varietà e la differenza tra gruppi umani distinti."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Patrimonio di conoscenze acquisite da un individuo attraverso lo studio, l'istruzione e l'esperienza intellettuale.",
+      "examples": [
+        "È una persona di grande cultura: conosce la letteratura, la storia e la filosofia.",
+        "La scuola dovrebbe trasmettere ai ragazzi non solo nozioni, ma vera cultura."
+      ],
+      "nota": "In questo senso si riferisce alla formazione individuale e può avere connotazione valutativa positiva."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme di orientamenti intellettuali, idee e tendenze che caratterizzano un ambiente, un'epoca o un settore specifico.",
+      "examples": [
+        "Nel dopoguerra si sviluppò in Italia una vivace cultura politica di sinistra.",
+        "La cultura aziendale di quella società valorizza molto il lavoro di squadra."
+      ],
+      "nota": "Frequente nelle collocazioni 'cultura politica', 'cultura aziendale', 'cultura digitale'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In ambito scientifico e biologico, tecnica di coltivazione artificiale di microrganismi, cellule o tessuti in un substrato adatto.",
+      "examples": [
+        "Il laboratorio ha effettuato una coltura batterica per identificare l'agente patogeno.",
+        "Le cellule staminali vengono mantenute in cultura in condizioni sterili."
+      ],
+      "nota": "In questo senso tecnico-scientifico è spesso intercambiabile con il sinonimo 'coltura', che è la forma preferita in biologia e medicina."
+    }
+  ]
+}

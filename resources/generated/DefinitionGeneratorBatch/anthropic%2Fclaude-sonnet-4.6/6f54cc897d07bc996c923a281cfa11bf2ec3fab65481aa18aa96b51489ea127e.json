@@ -1,0 +1,193 @@
+{
+  "lemma": "nonna",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0869ad0a50d065aaf6"
+    },
+    "source": "paraviaXML/74478.xml",
+    "lemma": "nonna",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Madre di uno dei genitori, considerata rispetto ai loro figli",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Mario ha solo una nonna",
+              "Lucio ha ancora tutte e due le nonne"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La madre della madre; la madre del padre; può precedere il nome proprio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nonna materna",
+              "nonna paterna",
+              "nonna Carla"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esclamazione di incredulità verso affermazioni esagerate e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mia nonna",
+              "mia nonna in carriola"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Donna anziana, specialmente come vocativo affettuoso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "toscano"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale toscano , airone cinerino",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "toscano"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale toscano , saltimpalo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "settentrionale",
+              "gergale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale settentrionale , soldato di leva più anziano che sta per congedarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Madre del padre o della madre di una persona; genitore di secondo grado in linea ascendente.",
+      "examples": [
+        "La nonna paterna di Marco abita in campagna e prepara sempre il ragù il domenica.",
+        "Mia nonna mi ha insegnato a fare la maglia quando ero bambina."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Donna anziana, indipendentemente dai legami di parentela; usato in senso affettuoso o familiare per riferirsi a una vecchia signora.",
+      "examples": [
+        "Aiuta quella nonna ad attraversare la strada, non vedi che fa fatica?",
+        "Al mercato c'era una nonna che vendeva erbe aromatiche del suo orto."
+      ],
+      "nota": "Quest'uso, diffuso nel parlato colloquiale, può risultare paternalistico o condiscendente se usato fuori da un contesto affettuoso."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In senso figurato e scherzoso, persona o cosa considerata antiquata, superata o lenta rispetto agli standard attuali.",
+      "examples": [
+        "Con questo computer nonna ci vuole un'eternità per aprire un file.",
+        "Quella macchina è una vera nonna: fa fatica ad arrivare a cento all'ora."
+      ],
+      "nota": "Uso prevalentemente informale e ironico, spesso riferito a oggetti tecnologici obsoleti o a persone che si comportano in modo antiquato."
+    }
+  ]
+}

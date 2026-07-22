@@ -1,0 +1,155 @@
+{
+  "lemma": "scatola",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4369ad0a50d065da5e"
+    },
+    "source": "paraviaXML/102876.xml",
+    "lemma": "scatola",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Contenitore di differenti materiali, forme e dimensioni a seconda delle esigenze, solitamente provvisto di coperchio, usato per riporre, conservare o trasportare oggetti va- ri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scatola di cartone",
+              "di latta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In cartone, a forma di parallelepipedo, tale da contenere un paio di scarpe",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scatola da scarpe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "metonimia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per , il suo contenuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è riuscito a mangiare un’intera scatola di gianduiotti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oggetto, congegno a forma di scatola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un carillon formato da una scatola con sopra una bambolina"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Contenitore rigido, generalmente di cartone, plastica o metallo, con coperchio, usato per riporre o trasportare oggetti.",
+      "examples": [
+        "Ho comprato una scatola di cioccolatini per il compleanno di Marco.",
+        "Riponi i documenti nella scatola sullo scaffale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Quantità di prodotto contenuta in un tale recipiente, spesso usata come unità di misura.",
+      "examples": [
+        "Ho finito l'ultima scatola di cereali, devo comprarne un'altra.",
+        "Per la torta servono due scatole di pomodori pelati."
+      ],
+      "nota": "Spesso usato in riferimento a prodotti alimentari o di consumo confezionati."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Involucro metallico che racchiude il motore o altre parti meccaniche di un veicolo.",
+      "examples": [
+        "Il meccanico ha aperto la scatola del cambio per controllare il guasto.",
+        "La scatola dello sterzo è da revisionare."
+      ],
+      "nota": "Uso tecnico diffuso in ambito automobilistico e meccanico."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Struttura o dispositivo che racchiude e protegge componenti elettronici o meccanici.",
+      "examples": [
+        "La scatola nera dell'aereo registra tutti i dati di volo.",
+        "Ho sostituito la scatola del fusibili perché era danneggiata."
+      ],
+      "nota": "Può riferirsi anche a dispositivi con funzioni specifiche, come la 'scatola nera'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Nel linguaggio colloquiale, la testa umana, specialmente in espressioni figurate.",
+      "examples": [
+        "Dopo quella botta, mi gira ancora la scatola.",
+        "Non ci capisco più niente, ho la scatola piena di pensieri."
+      ],
+      "nota": "Uso figurato e informale, spesso con connotazione negativa o scherzosa."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Nel linguaggio teatrale e cinematografico, il palcoscenico o lo spazio scenico.",
+      "examples": [
+        "L'attore è entrato in scena dalla scatola destra.",
+        "La scenografia rappresenta una scatola chiusa con un'unica apertura."
+      ],
+      "nota": "Uso tecnico specifico del linguaggio dello spettacolo."
+    }
+  ]
+}

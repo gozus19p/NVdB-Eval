@@ -1,0 +1,122 @@
+{
+  "lemma": "albergo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6e69ad0a50d0652a68"
+    },
+    "source": "paraviaXML/3695.xml",
+    "lemma": "albergo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Edificio con più stanze, attrezzato per dare a pagamento alloggio, vitto e altri servizi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dormire, pernottare in albergo",
+              "albergo di lusso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ospitalità, ricovero, alloggio per la notte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "chiedere",
+              "dare albergo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sede, ricettacolo: Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "da sì lieta vita son fatto albergo d’infinita doglia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "generalmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dimora abituale, casa d’abitazione; più generalmente , residenza, alloggio ( anche di animali) Tasso)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "alberghi bramo solitari e fidi"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Struttura ricettiva a pagamento che offre alloggio per brevi o lunghi periodi, generalmente dotata di servizi come ristorazione, pulizia e aree comuni.",
+      "examples": [
+        "Abbiamo prenotato un bell'albergo con vista sul mare per le nostre vacanze estive.",
+        "L'albergo più lussuoso della città si trova nel centro storico e offre suite esclusive."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Antico nome di un luogo che offriva ospitalità, rifugio o ristoro, spesso gestito da ordini religiosi o con finalità caritatevoli.",
+      "examples": [
+        "In passato, molti pellegrini trovavano riposo nell'albergo gestito dal monastero.",
+        "Il vecchio albergo dei poveri è stato trasformato in un centro di accoglienza per senzatetto."
+      ],
+      "nota": "Questo senso è meno comune nell'uso corrente ed evoca un contesto storico o letterario."
+    }
+  ]
+}

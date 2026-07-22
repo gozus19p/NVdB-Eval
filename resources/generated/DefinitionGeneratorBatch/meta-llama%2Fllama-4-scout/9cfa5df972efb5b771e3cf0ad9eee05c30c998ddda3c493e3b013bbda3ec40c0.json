@@ -1,0 +1,616 @@
+{
+  "lemma": "caldo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a680"
+    },
+    "source": "paraviaXML/17387.xml",
+    "lemma": "caldo",
+    "grammar": [
+      "agg.",
+      "s.m.",
+      "avv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è a temperatura alta o più alta rispetto a quella ambientale o corporea; che dà una sensazione di calore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "acqua calda",
+              "letto",
+              "ferro caldo",
+              "il motore è ancora caldo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento al corpo umano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere la fronte calda per la febbre"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento al clima, alla temperatura dell’aria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le ore più calde del giorno",
+              "agosto è il mese più caldo dell’anno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di un indumento, che ripara bene dal freddo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un maglione molto caldo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che si entusiasma o si appassiona facilmente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "carattere",
+              "temperamento caldo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di un sentimento, un’azione e simile , intenso, vivo, pieno di passione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un caldo affetto",
+              "parole calde",
+              "una calda immaginazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Affettuoso, caloroso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una calda accoglienza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , sensuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è una donna calda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di animali, in calore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di vivanda, appena tolta dal fuoco o dal forno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "minestra calda",
+              "mangia finché è caldo",
+              "pane caldo",
+              "cornetti caldi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di notizia relativa a fatto appena accaduto, molto recente",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di tinta, che appartiene alla gamma del rosso e del giallo o che li ha come componenti prevalenti, anche con riferimento alla sensazione soggettiva suscitata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un marrone caldo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di odore, forte, intenso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di suono e specialmente della voce, basso, profondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di una regione o di un periodo, caratterizzato da lotte, tensioni sociali, politiche, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il medio–oriente è una zona calda",
+              "autunno caldo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Usati per comunicazioni importanti o sovraccarichi di chiamate",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "telefono caldo",
+              "linea calda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , di un corpo, che emana radiazioni, radioattivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Temperatura alta; sensazione soggettiva di calore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "patire il caldo",
+              "che c.!",
+              "scoppiare dal",
+              "per il caldo",
+              "sentire",
+              "avere caldo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Periodo dell’anno con le temperature più elevate",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è arrivato il caldo"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "I primi giorni della primavera o dell’estate",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i primi caldi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fervore, ardore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il caldo della passione",
+              "di una discussione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Caldamente, con passione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Subito",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale",
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Immediatamente, senza riflettere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "agire a caldo",
+              "dire qcs. a caldo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Immediato, impulsivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una risposta a caldo",
+              "commento a caldo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [
+          "locuzione aggettivale",
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia meccanica metallurgia , che avviene ad alta temperatura o utilizzando calore, fuoco eccetera ; anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fucinatura",
+              "calettatura",
+              "stampaggio a caldo",
+              "modellare",
+              "lavorare a caldo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1–7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "8,9",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha una temperatura superiore a quella normale o media, specialmente in riferimento al clima o a un ambiente",
+      "examples": [
+        "Fa caldo oggi, non voglio uscire.",
+        "La stanza è troppo calda, devo aprire la finestra."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Calore, temperatura alta",
+      "examples": [
+        "Il caldo non mi fa bene, devo bere molta acqua.",
+        "Questo caldo mi sta soffocando."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Pièce montée, dolce a base di pan di spagna, crema e frutta",
+      "examples": [
+        "Il caldo è il dolce preferito di mia nonna.",
+        "Oggi il pasticciere ha preparato un caldo speciale."
+      ],
+      "nota": null
+    }
+  ]
+}

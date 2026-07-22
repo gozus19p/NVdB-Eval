@@ -1,0 +1,142 @@
+{
+  "lemma": "sofferenza",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5069ad0a50d065e5ae"
+    },
+    "source": "paraviaXML/109933.xml",
+    "lemma": "sofferenza",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il soffrire per dolori fisici o angosce morali e spirituali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vivere nella sofferenza",
+              "la sua sofferenza è insanabile"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , dolore, patimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "morire fra le più atroci sofferenze",
+              "una vita piena di sofferenze"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sopportazione, pazienza: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parendo tempo a Gualtieri di fare l’ultima pruova della sofferenza di costei"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Banca , ritardo nell’estinzione di un debito bancario",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , credito bancario in sofferenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Stato fisico o psichico di grave malessere o dolore, derivante da cause interne o esterne e connotato da penosità.",
+      "examples": [
+        "Il paziente ha espresso una forte sofferenza a causa della malattia.",
+        "La perdita del lavoro gli ha causato una grande sofferenza emotiva."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Situazione di difficoltà, disagio o deprivazione economica che incide negativamente sulla qualità della vita di individui o gruppi.",
+      "examples": [
+        "Molte famiglie vivono in condizioni di sofferenza economica a causa dell'inflazione.",
+        "Il paese sta attraversando un periodo di profonda sofferenza sociale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Condizione difficile o anomala in cui si trova un elemento non umano, indicante un malfunzionamento o uno stato precario.",
+      "examples": [
+        "La macchina mostrò segni di sofferenza prima di fermarsi del tutto.",
+        "Il titolo azionario è in sofferenza sul mercato, perdendo diversi punti."
+      ],
+      "nota": "Sovente usato in contesti economici o tecnici per descrivere problemi o anomalie."
+    }
+  ]
+}

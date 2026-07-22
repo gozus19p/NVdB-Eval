@@ -1,0 +1,185 @@
+{
+  "lemma": "collegare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa969ad0a50d0662cbc"
+    },
+    "source": "paraviaXML/24185.xml",
+    "lemma": "collegare",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Unire, congiungere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "collegare due cavi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Allacciare un impianto, un apparecchio e simile a un sistema centrale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "collegare un telefono",
+              "collegare il computer a un modem"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettere in comunicazione, specialmente mediante strade, mezzi di trasporto eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il nuovo tram collega direttamente la cintura al centro città",
+              "l’autostrada collega i due capoluoghi",
+              "un traghetto collega l’isola al continente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Connettere, coordinare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "collegare le frasi all’interno di un discorso"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mettere in relazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "collegare due fatti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere connesso; concordare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’introduzione del tema non collega con lo svolgimento"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Unire due o più entità per consentire il passaggio di qualcosa, come informazioni, persone o risorse.",
+      "examples": [
+        "L'ingegnere deve collegare il nuovo server alla rete aziendale.",
+        "Il ponte collega le due sponde del fiume."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Stabilire un contatto, una comunicazione o una relazione tra persone, idee o eventi.",
+      "examples": [
+        "La segretaria collegherà i due direttori per una conferenza telefonica.",
+        "Lo storico cerca di collegare i diversi avvenimenti per comprendere il periodo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Individuare una relazione logica o associativa tra elementi.",
+      "examples": [
+        "Il poliziotto fu il primo a collegare le due testimonianze apparentemente sconnesse.",
+        "Riesci a collegare questo simbolo al suo significato originale?"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Connettere un apparecchio a una fonte di alimentazione o a un'altra periferica.",
+      "examples": [
+        "Prima di accenderlo, ricordati di collegare il monitor al computer.",
+        "Non riesco a collegare la stampante via Bluetooth."
+      ],
+      "nota": "Senso spesso usato in contesti tecnologici e informatici."
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Entrare in contatto con una rete di telecomunicazioni, tipicamente internet.",
+      "examples": [
+        "Mi sto collegando alla rete Wi-Fi dell'hotel.",
+        "Per partecipare alla riunione, devi collegarti alla piattaforma."
+      ],
+      "nota": "Il riflessivo 'collegarsi a' è l'uso più comune in questo senso contemporaneo."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "lemma": "conservare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafab69ad0a50d0662dd6"
+    },
+    "source": "paraviaXML/26292.xml",
+    "lemma": "conservare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Tenere qualcosa in modo che non si sciupi, vada perduto e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "conservare i maglioni nel guardaroba",
+              "conservare le ricevute dei pagamenti"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di alimenti, trattare in modo che non si deteriorino",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Non far venir meno, mantenere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "conservare la pace nel mondo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere ancora, non aver perduto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "conservare la tranquillità",
+              "conservare il sangue freddo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Proteggere, difendere; preservare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "Mantenere qualcosa in uno stato o condizione, specialmente per un lungo periodo di tempo, senza che subisca danni o alterazioni",
+      "examples": [
+        "Il museo ha l'obbligo di conservare le opere d'arte in buone condizioni.",
+        "Per conservare la bellezza della pelle, è importante utilizzare creme idratanti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Tenere qualcosa o qualcuno al sicuro da danni, perdite o deterioramenti",
+      "examples": [
+        "L'archivio serve a conservare i documenti storici per le generazioni future.",
+        "La madre ha fatto di tutto per conservare la salute del figlio."
+      ],
+      "nota": null
+    }
+  ]
+}

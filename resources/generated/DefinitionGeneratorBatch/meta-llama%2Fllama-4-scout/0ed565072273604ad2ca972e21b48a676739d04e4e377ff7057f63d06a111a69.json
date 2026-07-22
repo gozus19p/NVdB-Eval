@@ -1,0 +1,235 @@
+{
+  "lemma": "ufficio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf7069ad0a50d065ff9b"
+    },
+    "source": "paraviaXML/124402.xml",
+    "lemma": "ufficio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dovere morale, compito derivante da determinati rapporti, posizioni, cariche o incarichi: non spetta a me",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è ufficio dei genitori educare i figli",
+              "è ufficio dei giudici essere imparziali",
+              "non è mio ufficio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Servizio, favore; intervento, raccomandazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "interporre i propri uffici a favore di qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Incarico, incombenza; carica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "conferire",
+              "accettare un ufficio",
+              "l’ufficio di direttore",
+              "di ministro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "La funzione relativa a tale incarico, incombenza, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sospendere qcn. dall’ufficio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di funzioni aziendali omogenee, raggruppate in un unico settore; l’insieme degli impiegati preposti a tali funzioni, con funzione di aggettivogeno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ufficio passaporti",
+              "ufficio vendite",
+              "ufficio reclami"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il locale o l’insieme dei locali in cui gli impiegati lavorano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’ufficio apre al pubblico alle ore nove",
+              "arrivare tardi in ufficio",
+              "arredamento per ufficio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Singola stanza in cui un funzionario, un dirigente, un impiegato svolge la sua attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il direttore ti attende nel suo ufficio",
+              "l’ufficio del capo",
+              "dell’amministratore delegato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "TS",
+        "field": "liturgia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Liturgia , nella liturgia cattolica, preghiera, funzione, cerimonia religiosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "TS",
+        "field": "liturgia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Liturgia ; ufficio divino",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Stanza o locale destinato a lavoro amministrativo",
+      "examples": [
+        "L'ufficio del direttore si trova al piano superiore.",
+        "Devo andare in ufficio per sbrigare delle pratiche."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Insieme di persone che lavorano in un ente, azienda o organizzazione",
+      "examples": [
+        "Tutto l'ufficio è stato coinvolto nella riorganizzazione.",
+        "L'ufficio del personale si occupa delle risorse umane."
+      ],
+      "nota": null
+    }
+  ]
+}

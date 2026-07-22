@@ -1,0 +1,100 @@
+{
+  "lemma": "comunista",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0869ad0a50d064bfae"
+    },
+    "source": "paraviaXML/25291.xml",
+    "lemma": "comunista",
+    "grammar": [
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo al comunismo, ai comunisti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "movimento",
+              "paese comunista",
+              "idee comuniste",
+              "principi comunisti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi crede, aderisce alla teoria del comunismo o chi fa parte di un partito che vi si ispira",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un militante",
+              "un simpatizzante comunista"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo, m./f.",
+      "definition": "Sostenitore o membro di un partito politico che si basa sui principi del comunismo.",
+      "examples": [
+        "Molti operai di quella fabbrica erano convinti comunisti.",
+        "La nonna racconta spesso di quando suo padre, un comunista della prima ora, partecipava alle iniziative del partito."
+      ],
+      "nota": "Può essere usato sia come maschile che come femminile (un comunista/una comunista)."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che si fonda sui principi del comunismo o che è proprio del comunismo.",
+      "examples": [
+        "Il partito mantenne una rigida ideologia comunista per decenni.",
+        "Hanno visitato i paesi che un tempo facevano parte del blocco comunista."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo, sostantivo m./f. (uso figurato, informale)",
+      "definition": "Di persona o comportamento che rivendica o promuove valori collettivi, solidali e spesso di contestazione all'ordine economico e sociale dominante.",
+      "examples": [
+        "Ogni volta che propongo di condividere i guadagni tra tutti, mio fratello mi chiama 'comunista'.",
+        "Con quelle idee sull'abolizione della proprietà privata, sembri un comunista degli anni '70."
+      ],
+      "nota": "Utilizzato soprattutto in tono scherzoso o polemico, al di fuori del contesto strettamente politico-partitico."
+    }
+  ]
+}

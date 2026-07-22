@@ -1,0 +1,202 @@
+{
+  "lemma": "presidente",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf9469ad0a50d0661b92"
+    },
+    "source": "paraviaXML/86589.xml",
+    "lemma": "presidente",
+    "grammar": [
+      "s.m. e f.",
+      "agg."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona che, nominata per elezione o con investitura dall’alto, dirige, sovrintende e coordina le attività di un organo, un ente, un’istituzione e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il presidente della società",
+              "di una banca",
+              "del club"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "antonomasia",
+              "iniziale",
+              "maiuscolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per , anche con iniziale maiuscolo , presidente della Repubblica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il messaggio annuale del presidente alla nazione"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento a chi presiede uno dei due rami del parlamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "presidente della camera",
+              "del senato"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento al magistrato che presiede un ufficio giudiziario collegiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "presidente della corte d’appello",
+              "della cassazione",
+              "presidente di tribunale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , governatore di una provincia o di uno stato sottoposto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nello Stato Pontificio, governatore della Romagna o delle Marche",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che sovrintende, che dirige: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è adivenuto ... d’essere stato con alcuna parola spaventato da’ diavoli presidenti a’ cerchi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona che dirige e rappresenta un'assemblea, un'organizzazione, un ente o un'istituzione, solitamente eletta o nominata per tale ruolo.",
+      "examples": [
+        "Il presidente dell'associazione ha aperto la riunione con un discorso introduttivo.",
+        "La presidente della commissione ha annunciato i risultati della votazione."
+      ],
+      "nota": "Il termine può essere usato al maschile o al femminile a seconda del genere della persona che ricopre la carica. In contesti formali, si usa spesso l'articolo maschile anche per donne (es. 'il presidente' per una donna), ma l'uso del femminile è sempre più diffuso."
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Capo di Stato di una repubblica, eletto direttamente o indirettamente dai cittadini o da un organo rappresentativo.",
+      "examples": [
+        "Il presidente della Repubblica ha tenuto un messaggio alla nazione in occasione delle festività.",
+        "La presidente del consiglio si è incontrata con il presidente francese per discutere di politica europea."
+      ],
+      "nota": "In Italia, il 'Presidente della Repubblica' è il capo dello Stato, mentre il 'presidente del Consiglio' è il capo del governo. In altri paesi, le funzioni possono variare."
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona che presiede una seduta, una riunione o un dibattito, garantendone il corretto svolgimento.",
+      "examples": [
+        "Il presidente del convegno ha dato la parola al primo relatore.",
+        "La presidente della giuria ha letto il verdetto finale."
+      ],
+      "nota": null
+    }
+  ]
+}

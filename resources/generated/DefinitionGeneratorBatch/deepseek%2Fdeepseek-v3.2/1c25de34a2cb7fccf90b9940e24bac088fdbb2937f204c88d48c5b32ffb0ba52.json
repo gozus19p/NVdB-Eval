@@ -1,0 +1,175 @@
+{
+  "lemma": "velocità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8169ad0a50d0660ce1"
+    },
+    "source": "paraviaXML/126409.xml",
+    "lemma": "velocità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Caratteristica di persone, animali, oggetti che si muovono in modo veloce; il fare qualcosa o il compiere un tragitto più velocemente della norma",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la velocità di un’automobile",
+              "aumentare",
+              "diminuire velocità",
+              "battere qcn. in velocità"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Molto velocemente; accelerare; decelerare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a grande velocità",
+              "prendere velocità",
+              "perdere velocità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rapidità, sveltezza, prontezza nel fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "velocità nel finire un lavoro",
+              "velocità di azione",
+              "di pensiero",
+              "di riflessi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "fisica"
+            ],
+            "definitions": [
+              {
+                "glossa": "None fisica , rapporto fra lo spazio percorso e il tempo impiegato a percorrerlo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "viaggiare alla velocità media di 100 km l’ora"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , grandezza che misura la distanza percorsa nell’unità di tempo ( simb. None v)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Negli autoveicoli, marcia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mettere la prima",
+              "la terza velocità",
+              "un’auto a cinque velocità"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Rapidità con cui un corpo si muove nello spazio, espressa in termini di spazio percorso per unità di tempo.",
+      "examples": [
+        "L'aereo stava aumentando la velocità durante la fase di decollo.",
+        "Il limite di velocità in autostrada è di 130 chilometri orari."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Rapidità, celerità nell'esecuzione di un'azione o di un processo.",
+      "examples": [
+        "Il suo operatore chirurgico è noto per la precisione e la velocità di intervento.",
+        "La velocità con cui ha imparato il software mi ha impressionato."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Rapporto di trasmissione o posizione del cambio di velocità in un veicolo.",
+      "examples": [
+        "In salita, devi scalare marcia e mettere una velocità più bassa.",
+        "Il motore fatica in prima velocità su questo terreno sabbioso."
+      ],
+      "nota": "Uso specifico nell'ambito della meccanica e dei veicoli."
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "lemma": "bravo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064ae31"
+    },
+    "source": "paraviaXML/15705.xml",
+    "lemma": "bravo",
+    "grammar": [
+      "agg.",
+      "s.m.",
+      "inter."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Coraggioso, ardito: Carducci)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli epici canti del tuo popol bravo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di animale: non addomesticato, feroce",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di luogo: selvaggio, aspro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Abile, capace nella propria attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un bravo scolaro",
+              "un bravo chirurgo",
+              "essere bravo a scuola",
+              "a cucinare",
+              "in chimica"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "familiare",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per indicare qualcosa difficile da fare o da capire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "chi ci riesce è b.!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "interiezione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esclamazione usata per esprimere approvazione, applauso e simile specialmente durante spettacoli",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "b., bis!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "interiezione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "specialmente",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per esortare qualcuno specialmente un bambino, a fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "da bravo",
+              "su, da b., mangia la pappa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente in espressioni di biasimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bravo furbo",
+              "bravo sciocco",
+              "bravo merlo!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Buono, tranquillo: onesto, di buon cuore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è proprio un bravo bambino",
+              "è un bravo ragazzo",
+              "una brava persona",
+              "brava gente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "scherzoso"
+            ],
+            "definitions": [
+              {
+                "glossa": "Formule di cortesia usate un tempo per rivolgersi a sconosciuti; oggi specialmente in usi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "brava donna",
+              "bravo giovane",
+              "brav’uomo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "In usi pleonastici, come rafforzativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha fatto la sua brava relazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia specialmente nel Seicento: soldato mercenario al servizio di un signore da cui riceveva garanzia d’impunità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i bravi di don Rodrigo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1–4",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "5",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che dimostra abilità, competenza o capacità in un determinato ambito.",
+      "examples": [
+        "È un cuoco molto bravo, i suoi piatti sono sempre deliziosi.",
+        "Mio figlio è bravo a scuola, prende sempre voti alti."
+      ],
+      "nota": "Può riferirsi a persone, animali o, per estensione, a oggetti o strumenti che funzionano particolarmente bene. Spesso usato in contesti informali."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che si comporta in modo corretto, educato o rispettoso delle regole.",
+      "examples": [
+        "I bambini sono stati bravi durante tutta la cerimonia.",
+        "Se sei bravo, ti porto al parco domani."
+      ],
+      "nota": "Frequente nell'uso con i bambini, ma applicabile anche ad adulti in contesti di comportamento sociale."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha coraggio o determinazione, spesso in situazioni difficili o pericolose.",
+      "examples": [
+        "È stato molto bravo a difendere le sue idee durante la riunione.",
+        "I pompieri sono stati bravi a domare l'incendio in poco tempo."
+      ],
+      "nota": "In questo senso, può sovrapporsi parzialmente al concetto di 'coraggioso', ma con una sfumatura di abilità o efficacia nell'agire."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona abile o esperta in un determinato mestiere o attività, spesso usato in ambito artistico o artigianale.",
+      "examples": [
+        "Quel liutaio è un vero bravo, i suoi strumenti sono ricercatissimi.",
+        "Nella bottega lavorano solo bravi del settore."
+      ],
+      "nota": "Uso meno comune rispetto all'aggettivo, spesso connotato positivamente in contesti professionali o artigianali."
+    },
+    {
+      "pos": "interiezione",
+      "definition": "Esclamazione usata per esprimere approvazione, ammirazione o incitamento.",
+      "examples": [
+        "Bravo! Hai risolto il problema in modo brillante.",
+        "Bravo, continua così, stai facendo un ottimo lavoro."
+      ],
+      "nota": "Spesso usato in contesti performativi (teatro, concerti, competizioni) o per lodare qualcuno. Al plurale diventa 'bravi' o 'brave' a seconda del genere del referente."
+    }
+  ]
+}

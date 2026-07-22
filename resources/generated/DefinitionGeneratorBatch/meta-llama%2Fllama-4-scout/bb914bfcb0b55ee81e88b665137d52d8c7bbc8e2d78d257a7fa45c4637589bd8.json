@@ -1,0 +1,164 @@
+{
+  "lemma": "mondiale",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064b0b2"
+    },
+    "source": "paraviaXML/71168.xml",
+    "lemma": "mondiale",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo al mondo; che riguarda, interessa tutto il mondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commercio mondiale",
+              "esposizione mondiale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conosciuto in tutto il mondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un attore di fama mondiale",
+              "un evento di importanza mondiale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Eccezionale, meraviglioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere un’idea mondiale",
+              "sei un ballerino mondiale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "sostantivo maschile",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, specialmente al ; campionato mondiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "che riguarda o interessa tutto il mondo",
+      "examples": [
+        "La pandemia di COVID-19 è stata un evento mondiale.",
+        "La musica è un linguaggio mondiale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "tutto il mondo, l'insieme di tutti gli esseri umani e delle nazioni",
+      "examples": [
+        "Il mondiale è pieno di culture diverse.",
+        "La globalizzazione ha connesso il mondiale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "grande evento sportivo che coinvolge squadre o atleti di varie nazioni",
+      "examples": [
+        "Il Campionato mondiale di calcio è uno degli eventi sportivi più seguiti al mondo.",
+        "Ha vinto la medaglia d'oro nel campionato mondiale di nuoto."
+      ],
+      "nota": null
+    }
+  ]
+}

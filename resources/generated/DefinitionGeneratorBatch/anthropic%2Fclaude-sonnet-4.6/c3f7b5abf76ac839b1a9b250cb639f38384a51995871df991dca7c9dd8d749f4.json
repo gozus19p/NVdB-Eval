@@ -1,0 +1,227 @@
+{
+  "lemma": "cucina",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeaa69ad0a50d0655cc3"
+    },
+    "source": "paraviaXML/29589.xml",
+    "lemma": "cucina",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stanza in cui si preparano e si cuociono i cibi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mangiare in cucina",
+              "un appartamento di due stanze, bagno e cucina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’arte del preparare e far cuocere i cibi: di ricette; il modo particolare e caratteristico di preparare le vivande",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "corso di cucina",
+              "libro di cucina",
+              "la cucina francese",
+              "la cucina regionale italiana"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "I cibi squisiti, i pasti cucinati con cura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "amare la buona cucina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cibo cucinato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "odore di cucina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Apparecchio a fornelli per cucinare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cucina elettrica",
+              "a gas"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Complesso dei mobili che arredano tale stanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comprare la cucina nuova"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "gergale",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giornalismo , lavoro redazionale; redazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "alimentazione",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alimentazione , nei caseifici, locale in cui si prepara il formaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Locale di un'abitazione o di un esercizio pubblico destinato alla preparazione e alla cottura dei cibi.",
+      "examples": [
+        "La cucina è piccola ma ben organizzata, con i fornelli vicino alla finestra.",
+        "Il ristorante ha una cucina a vista dove i clienti possono osservare gli chef al lavoro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Mobile o insieme di mobili attrezzati, solitamente dotato di piano cottura e forno, usato per cucinare.",
+      "examples": [
+        "Hanno comprato una cucina nuova in acciaio inox per il loro appartamento.",
+        "La cucina a gas è ancora preferita da molti professionisti della ristorazione."
+      ],
+      "nota": "In questo senso si riferisce all'elettrodomestico o all'arredo, non al locale."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "L'arte, la tecnica e le pratiche di preparazione dei cibi proprie di una cultura, di una tradizione o di un singolo cuoco.",
+      "examples": [
+        "La cucina mediterranea è rinomata in tutto il mondo per l'uso dell'olio d'oliva e delle verdure fresche.",
+        "Questo chef propone una cucina creativa che fonde sapori italiani e giapponesi."
+      ],
+      "nota": "In questo senso può riferirsi a una tradizione gastronomica nazionale o regionale (cucina toscana, cucina francese) oppure allo stile culinario di un individuo."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "L'attività concreta di preparare e cuocere i cibi.",
+      "examples": [
+        "Dopo una lunga giornata di lavoro, non ho voglia di dedicarmi alla cucina.",
+        "Si è appassionata alla cucina frequentando un corso professionale."
+      ],
+      "nota": "In questo senso è spesso usato senza articolo o con l'articolo determinativo in contesti generici: 'fare cucina', 'amare la cucina'."
+    }
+  ]
+}

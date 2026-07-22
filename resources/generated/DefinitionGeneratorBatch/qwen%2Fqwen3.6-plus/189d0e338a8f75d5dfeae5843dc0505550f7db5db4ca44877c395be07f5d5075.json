@@ -1,0 +1,152 @@
+{
+  "lemma": "ma",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae2369ad0a50d064eba0"
+    },
+    "source": "paraviaXML/65169.xml",
+    "lemma": "ma",
+    "grammar": [
+      "cong.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vversativo, contrappone due elementi di una proposizione che hanno la stessa funzione sintattica o due proposizioni della stessa specie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli ho telefonato, ma non l’ho trovato",
+              "è intelligente ma svogliato",
+              "la salsa era buona, ma un po’ salata",
+              "è stato molto male, ma poi si è ripreso",
+              "pensavo di riuscire, ma non ce l’ho fatta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "familiare",
+              "intensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non è bella, ma bellissima",
+              "sono stanco, ma proprio stanco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Posto all’inizio di un periodo indica il passaggio da un argomento a un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ma torniamo al problema principale",
+              "ma riprendiamo il racconto dall’inizio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nfatico o in espressioni interrogative o esclamative",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ma certo!",
+              "ma tu ci credi?",
+              "ma non scherzare!",
+              "ma che bella notizia!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dubbio, incertezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dopo tanti ma e se, si decisero",
+              "con lui ci sono sempre dei ma",
+              "non c’è ma che tenga!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione avversativa",
+      "definition": "Introduce una proposizione o un sintagma che esprime opposizione, limite o correzione rispetto a quanto affermato in precedenza.",
+      "examples": [
+        "Avrei voluto accompagnarti in aeroporto, ma ho perso il treno.",
+        "Il progetto è ambizioso ma realisticamente realizzabile."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "particella esclamativa/enfatica",
+      "definition": "Anteposto a un'interrogativa o a un'esclamativa, conferisce tono di sorpresa, indignazione, impazienza o enfasi, senza svolgere funzione di coordinazione logica.",
+      "examples": [
+        "Ma come fai a non renderti conto della situazione?",
+        "Ma guarda un po', è arrivato senza preavviso."
+      ],
+      "nota": "Nell'uso contemporaneo è spesso analizzato come marcatore discorsivo o intensificatore pragmatico, indipendente dalla reggenza sintattica."
+    }
+  ]
+}

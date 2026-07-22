@@ -1,0 +1,86 @@
+{
+  "lemma": "telefonare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe769ad0a50d0665eb5"
+    },
+    "source": "paraviaXML/118997.xml",
+    "lemma": "telefonare",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") mettersi in contatto, parlare per mezzo del telefono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "telefonare a qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Comunicare telefonicamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi telefonò la notizia"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo / transitivo",
+      "definition": "Mettersi in comunicazione con qualcuno tramite telefono, effettuando una chiamata.",
+      "examples": [
+        "Ti telefono appena arrivo a casa.",
+        "Ha telefonato a sua madre per darle la buona notizia.",
+        "Perché non mi hai telefonato prima di venire?"
+      ],
+      "nota": "Si costruisce con la preposizione 'a' quando regge un complemento di persona (telefonare a qualcuno). In contesti colloquiali è frequente anche l'uso transitivo diretto: 'ti telefono stasera'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Comunicare qualcosa a qualcuno per mezzo del telefono.",
+      "examples": [
+        "Gli ha telefonato la notizia dell'incidente.",
+        "Mi hanno telefonato che la riunione è stata annullata."
+      ],
+      "nota": "Uso meno comune rispetto al senso principale; in questo caso il verbo reggere sia la persona che il contenuto della comunicazione."
+    }
+  ]
+}

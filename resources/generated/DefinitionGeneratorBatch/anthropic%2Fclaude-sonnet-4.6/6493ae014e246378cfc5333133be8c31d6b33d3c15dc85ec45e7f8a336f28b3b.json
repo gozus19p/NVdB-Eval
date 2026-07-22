@@ -1,0 +1,239 @@
+{
+  "lemma": "accordo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6769ad0a50d06524b3"
+    },
+    "source": "paraviaXML/1261.xml",
+    "lemma": "accordo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Comunanza, conformità di sentimenti, idee e simile ; intesa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tra di noi c’è un buon accordo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rapporto armonico tra elementi di un insieme",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accordo tra le parti di un’opera"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accostamento intonato di colori",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Patto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "raggiungere",
+              "stringere un accordo con qcn.",
+              "su qcs.",
+              "violare un accordo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto internazionale , trattato, convenzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accordo bilaterale"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , incontro di volontà tra parti per perfezionare contratti e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accordo politico",
+              "sindacale",
+              "monetario"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , associazione armonica di suoni diversi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "grammatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Grammatica , concordanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’accordo del soggetto col predicato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "telecomunicazioni",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Telecomunicazioni ; sintonia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Allineamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Intesa raggiunta tra due o più parti dopo trattativa o negoziazione, che stabilisce impegni reciproci.",
+      "examples": [
+        "Le due aziende hanno firmato un accordo commerciale della durata di tre anni.",
+        "Il governo ha raggiunto un accordo con i sindacati per evitare lo sciopero."
+      ],
+      "nota": "In ambito giuridico e diplomatico può assumere valore vincolante; si distingue dal contratto per il carattere spesso meno formalizzato."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Stato di convergenza di opinioni, volontà o sentimenti tra persone o gruppi.",
+      "examples": [
+        "Siamo tutti d'accordo sulla necessità di cambiare strategia.",
+        "Tra i due fratelli non c'è mai stato un vero accordo su come gestire l'eredità."
+      ],
+      "nota": "Ricorre frequentemente nella locuzione 'd'accordo', usata anche come risposta affermativa nel parlato ('– Ci vediamo alle otto. – D'accordo.')."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In musica, combinazione simultanea di due o più note suonate o cantate insieme, che produce un effetto armonico.",
+      "examples": [
+        "Il pianista aprì il brano con un accordo di do maggiore.",
+        "Imparare i tre accordi di base è sufficiente per accompagnare molte canzoni con la chitarra."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Nella grammatica, fenomeno per cui forme dipendenti (articoli, aggettivi, participi, verbi) si adattano a una forma di riferimento in genere, numero o persona.",
+      "examples": [
+        "L'accordo tra soggetto e verbo è una regola fondamentale della sintassi italiana.",
+        "Gli studenti spesso sbagliano l'accordo del participio passato nei tempi composti."
+      ],
+      "nota": "Termine tecnico della linguistica; sinonimo di 'concordanza'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Armonia o coerenza estetica tra elementi visivi, cromatici o stilistici.",
+      "examples": [
+        "L'arredatrice ha creato un perfetto accordo di colori tra pareti e tessuti.",
+        "C'è un bell'accordo tra l'architettura moderna dell'edificio e il paesaggio circostante."
+      ],
+      "nota": "Uso figurato esteso dal senso musicale; indica consonanza percettiva in contesti non sonori."
+    }
+  ]
+}

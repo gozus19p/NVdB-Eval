@@ -1,0 +1,228 @@
+{
+  "lemma": "comparire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafaa69ad0a50d0662d0b"
+    },
+    "source": "paraviaXML/24887.xml",
+    "lemma": "comparire",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Presentarsi, mostrarsi all’improvviso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comparve sulla porta uno sconosciuto",
+              "me lo sono visto comparire davanti",
+              "comparire in sogno",
+              "il sole comparve da dietro le nuvole"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mettersi in vista, farsi conoscere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fanno qualsiasi cosa pur di comparire",
+              "finanzia l’attività ma non vuol comparire"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di scritto, essere pubblicato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è recentemente comparsa una riedizione del testo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere presente in un’opera d’arte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vi compaiono soluzioni stilistiche originali",
+              "compare nuovamente nell’ultima scena"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere compreso, figurare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non compare nell’elenco degli iscritti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far bella mostra, far figura",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , presentarsi all’autorità giudiziaria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comparire come imputato",
+              "come teste"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "complemento predicativo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con del soggetto, sembrare, essere giudicato: Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i poveri ci vuol poco a farli comparir birboni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Diventare visibile, mostrarsi o giungere in un determinato luogo, spesso in modo improvviso o inatteso.",
+      "examples": [
+        "Dopo aver atteso per ore, il pacco è finalmente comparso sulla scrivania.",
+        "All'improvviso è comparso dal nulla senza fare il minimo rumore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Essere presente, pubblicato o riportato in un elenco, un testo, un documento o un'opera.",
+      "examples": [
+        "Il tuo nome non compare nell'elenco dei partecipanti alla conferenza.",
+        "Questa variante lessicale compare raramente nella letteratura contemporanea."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Presentarsi di persona davanti a un'autorità giudiziaria o amministrativa per rispondere a una convocazione o adempiere a un obbligo legale.",
+      "examples": [
+        "Il testimone è stato citato a comparire in tribunale entro la fine del mese.",
+        "Per la pratica di successione, gli eredi devono comparire personalmente in notaio."
+      ],
+      "nota": "Nell'ambito giuridico e amministrativo si costruisce tipicamente con le preposizioni «davanti a» o «presso» seguite dall'ente competente."
+    }
+  ]
+}

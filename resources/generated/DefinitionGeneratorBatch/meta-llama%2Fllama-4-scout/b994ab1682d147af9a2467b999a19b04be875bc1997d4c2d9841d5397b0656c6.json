@@ -1,0 +1,238 @@
+{
+  "lemma": "violento",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0769ad0a50d064bb4f"
+    },
+    "source": "paraviaXML/127810.xml",
+    "lemma": "violento",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi ricorre alla forza per imporre la propria volontà a danno di altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un uomo prepotente e violento",
+              "è un violento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo a persona violenta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "carattere violento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che si fonda sulla violenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "metodi, modi violenti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è detto o fatto con violenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "discorso violento",
+              "azioni violente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di evento o fenomeno, che si verifica con forza, intensità, impeto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un temporale, un incendio violento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di sentimento, di stato d’animo, travolgente, impetuoso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una passione violenta",
+              "uno scoppio d’ira molto violento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Forte, intenso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "febbre violenta, sforzo violento"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di colore, vivace, molto intenso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una tonalità di giallo violenta"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di suono, molto forte",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "caratterizzato da una forte intensità o brutalità",
+      "examples": [
+        "un dibattito violento",
+        "un gesto violento"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "persona che commette atti di violenza",
+      "examples": [
+        "la polizia ha catturato un violento ricercato",
+        "i violenti devono essere puniti"
+      ],
+      "nota": null
+    }
+  ]
+}

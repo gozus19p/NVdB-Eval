@@ -1,0 +1,140 @@
+{
+  "lemma": "adulto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0369ad0a50d064a4f9"
+    },
+    "source": "paraviaXML/2273.xml",
+    "lemma": "adulto",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi ha raggiunto il completo sviluppo fisico e psichico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "persona adulta",
+              "il mondo, le responsabilità degli adulti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di piante o animali, completamente sviluppato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Tipico di una persona matura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comportamento adulto",
+              "scelta adulta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Perfezionato, progredito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stile adulto",
+              "società adulta"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo; sostantivo maschile e femminile",
+      "definition": "Che ha raggiunto il completo sviluppo fisico e organico, collocandosi nella fase della vita compresa tra la fine dell'adolescenza e l'inizio della senilità; persona o essere vivente che si trova in tale condizione biologica.",
+      "examples": [
+        "La tariffa intera del teatro è riservata agli adulti, mentre per i minori di quattordici anni è previsto un biglietto ridotto.",
+        "Il manuale veterinario distingue chiaramente i protocolli vaccinali per i cuccioli da quelli indicati per gli esemplari adulti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che manifesta pieno equilibrio psicologico, maturità di giudizio e senso di responsabilità nel gestire le situazioni e le relazioni interpersonali.",
+      "examples": [
+        "Hanno affrontato la delicata trattativa con un approccio molto adulto, evitando polemiche sterili e concentrandosi sui dati concreti.",
+        "Il dibattito in aula ha perso quel tono costruttivo e riflessivo che ci si aspettava da rappresentanti con una visione adulta delle istituzioni."
+      ],
+      "nota": "Utilizzato prevalentemente in ambito psicologico, etico o relazionale per contrapporre un comportamento ragionevole e consapevole a manifestazioni considerate infantili, impulsive o irresponsabili."
+    }
+  ]
+}

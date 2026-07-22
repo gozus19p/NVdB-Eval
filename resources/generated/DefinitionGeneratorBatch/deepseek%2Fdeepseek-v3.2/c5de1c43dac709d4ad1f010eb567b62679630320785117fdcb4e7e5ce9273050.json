@@ -1,0 +1,158 @@
+{
+  "lemma": "risultato",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae4d69ad0a50d0650f5e"
+    },
+    "source": "paraviaXML/98247.xml",
+    "lemma": "risultato",
+    "grammar": [
+      "p.pass.",
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio passato",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Risultare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che risulta come conclusione o come esito finale di un processo, di un’attività o simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attendere i risultati delle indagini",
+              "delle elezioni"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Profitto, livello di preparazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’impegno è migliorato ma il risultato è ancora scarso"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Punteggio parziale o finale di un incontro sportivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ascoltare i risultati delle partite alla radio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il numero o la formula ottenuti al termine dello svolgimento di un calcolo, di un’operazione matematica, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il risultato della divisione",
+              "dell’equazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2,3",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Conseguenza tangibile o misurabile di un'azione, un processo, un esperimento o un evento competitivo.",
+      "examples": [
+        "Il risultato delle elezioni ha sorpreso tutti gli analisti.",
+        "Gli atleti sono in attesa dei risultati dei test antidoping."
+      ],
+      "nota": "Spesso correlato a una prestazione valutabile (sport, esami, votazioni)."
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Esito, dato numerico o informazione che emerge dalla risoluzione di un calcolo, da un'indagine o da un'elaborazione.",
+      "examples": [
+        "Il risultato della divisione è 7,5.",
+        "Dall'analisi dei questionari è emerso un risultato chiaro."
+      ],
+      "nota": "Comune in ambito matematico, statistico o di ricerca."
+    }
+  ]
+}

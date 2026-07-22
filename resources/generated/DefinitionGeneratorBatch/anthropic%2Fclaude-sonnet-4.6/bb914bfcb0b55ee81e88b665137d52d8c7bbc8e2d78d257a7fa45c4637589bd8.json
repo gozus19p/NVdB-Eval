@@ -1,0 +1,164 @@
+{
+  "lemma": "mondiale",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064b0b2"
+    },
+    "source": "paraviaXML/71168.xml",
+    "lemma": "mondiale",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo al mondo; che riguarda, interessa tutto il mondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commercio mondiale",
+              "esposizione mondiale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conosciuto in tutto il mondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un attore di fama mondiale",
+              "un evento di importanza mondiale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Eccezionale, meraviglioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere un’idea mondiale",
+              "sei un ballerino mondiale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "sostantivo maschile",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, specialmente al ; campionato mondiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che riguarda o interessa l'intero pianeta e tutti i popoli che lo abitano; di portata globale.",
+      "examples": [
+        "La crisi economica mondiale ha colpito tutti i paesi industrializzati.",
+        "Il riscaldamento globale è una delle sfide mondiali più urgenti del nostro tempo."
+      ],
+      "nota": "Si distingue da 'internazionale', che indica relazioni tra più nazioni specifiche, mentre 'mondiale' implica un'estensione a tutto il globo."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo a una competizione o manifestazione che coinvolge partecipanti da tutto il mondo, usato spesso in contesti sportivi.",
+      "examples": [
+        "Ha stabilito un record mondiale nei 100 metri piani.",
+        "La federazione assegnerà il titolo mondiale al vincitore del torneo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Competizione sportiva a livello globale che riunisce rappresentanti di numerose nazioni, in particolare il Campionato del Mondo di calcio.",
+      "examples": [
+        "L'Italia ha vinto il mondiale di calcio nel 2006.",
+        "Tutti i tifosi sono in attesa del prossimo mondiale di nuoto."
+      ],
+      "nota": "Usato spesso al plurale ('i mondiali') per riferirsi all'evento nella sua totalità o a edizioni specifiche. Con l'iniziale maiuscola e senza specificazione dello sport indica tipicamente il Campionato del Mondo di calcio."
+    }
+  ]
+}

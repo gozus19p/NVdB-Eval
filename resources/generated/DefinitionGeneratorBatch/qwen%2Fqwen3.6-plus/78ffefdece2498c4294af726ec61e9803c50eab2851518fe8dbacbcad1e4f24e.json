@@ -1,0 +1,117 @@
+{
+  "lemma": "innamorarsi",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafbe69ad0a50d0663d9e"
+    },
+    "source": "paraviaXML/57296.xml",
+    "lemma": "innamorarsi",
+    "grammar": [
+      "v.pronom.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Iniziare a nutrire un sentimento di amore per qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "innamorarsi di una compagna di scuola"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "reciproco"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anche reciproco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "si sono innamorati e dopo pochi mesi si sono sposati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Appassionarsi di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "innamorarsi della pittura fiamminga",
+              "della musica di Mozart"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Entusiasmarsi e provare un intenso desiderio di possedere qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "innamorarsi di un vestito"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo pronominale",
+      "definition": "Provare un sentimento di forte attrazione e affetto romantico verso un'altra persona, con il desiderio di instaurare un legame affettivo stabile.",
+      "examples": [
+        "Dopo mesi di frequentazione si sono accorti di essere reciprocamente attratti e di voler costruire una vita insieme.",
+        "Non è facile aprire il cuore a un nuovo legame sentimentale dopo aver subito una delusione così profonda."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo pronominale",
+      "definition": "Sviluppare un interesse profondo, una passione vivace o una grande ammirazione verso un'attività, un luogo, un oggetto o un ambito culturale.",
+      "examples": [
+        "Durante il viaggio in Giappone ho sviluppato un attaccamento così forte alla tranquillità dei suoi templi da volerci tornare ogni anno.",
+        "Bastò un pomeriggio passato a sfogliare quei volumi per appassionarsi irrimediabilmente alla storia del Rinascimento italiano."
+      ],
+      "nota": null
+    }
+  ]
+}

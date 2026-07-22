@@ -1,0 +1,145 @@
+{
+  "lemma": "frase",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaecb69ad0a50d06578a6"
+    },
+    "source": "paraviaXML/45894.xml",
+    "lemma": "frase",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Espressione linguistica dotata di senso compiuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frase interrogativa",
+              "frase esclamativa",
+              "imperativa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , sequenza di lessemi o, secondo un’altra terminologia, di morfi, specialmente sintatticamente connessi, prevista dal sistema linguistico e tale da poter essere realizzata dando luogo a un enunciato di senso compiuto e da risultare relativamente indipendente da altre eventuali sequenze di uno stesso testo o di uno scambio dialogico; nella grammatica generativa, unione di un sintagma nominale e di un sintagma verbale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Espressione, locuzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una frase gentile",
+              "senza senso",
+              "di circostanza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , parte del discorso musicale costituita dall’ordinato raggruppamento di più nuclei melodici e avente senso più o meno compiuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , successione finita di simboli che rappresenta un’istruzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sequenza di parole sintatticamente organizzata che esprime un pensiero compiuto o un'unità di senso autonoma nel discorso.",
+      "examples": [
+        "Non riusciva a completare una frase senza interrompersi.",
+        "Il professore ha scritto una frase complessa alla lavagna e ha chiesto agli studenti di analizzarla."
+      ],
+      "nota": "In linguistica si distingue tra frase semplice (con un solo predicato) e frase complessa o periodo (con più proposizioni). Nell'uso comune il termine è spesso intercambiabile con 'periodo' o 'proposizione'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Espressione convenzionale, motto o locuzione fissa appartenente al repertorio idiomatico di una lingua o di un parlante.",
+      "examples": [
+        "«Chi dorme non piglia pesci» è una di quelle frasi fatte che si sentono continuamente.",
+        "Ha risposto con una di quelle frasi di circostanza che non dicono nulla."
+      ],
+      "nota": "In questa accezione ricorre spesso nell'espressione 'frase fatta', con connotazione negativa di banalità o stereotipia."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In musica, unità melodica autonoma e coerente, costituita da un gruppo di battute che forma un'idea musicale riconoscibile.",
+      "examples": [
+        "Il violinista ha eseguito la frase iniziale con grande espressività.",
+        "La sonata si apre con una frase melodica di otto battute che ritorna nel finale."
+      ],
+      "nota": "Termine tecnico della teoria musicale; corrisponde al concetto linguistico di unità di senso applicato alla struttura melodica."
+    }
+  ]
+}

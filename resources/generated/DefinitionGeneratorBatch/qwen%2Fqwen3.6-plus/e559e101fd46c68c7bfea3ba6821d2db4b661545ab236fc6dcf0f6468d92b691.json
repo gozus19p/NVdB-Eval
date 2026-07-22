@@ -1,0 +1,295 @@
+{
+  "lemma": "religione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3169ad0a50d065cc4d"
+    },
+    "source": "paraviaXML/92492.xml",
+    "lemma": "religione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Insieme di credenze, pratiche, atti di culto e simile , che esprimono il riconoscimento da parte degli esseri umani di un principio superiore, specialmente della divinità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "religione monoteista",
+              "politeista",
+              "panteistica",
+              "animista"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La r.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "praticare"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Religiosità, devozione: fonda r. timore della divinità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un uomo di pro-",
+              "una persona senza religione"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "scherzoso",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per esprimere che non c’è più rispetto per nulla, specialmente per le tradizioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non c’è più r.!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "diritto canonico",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto canonico , società riconosciuta dalla chiesa i cui membri pronunciano voti pubblici di umiltà, povertà, obbedienza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "religione di voti solenni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Comunità religiosa; convento, monastero: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i due fratelli ... se n’andarono a una religione di frati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’insieme dei dogmi, dei precetti, dei riti propri di una religione storicamente e teologicamente determinata; confessione religiosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "insegnare",
+              "predicare",
+              "osservare",
+              "abbracciare",
+              "lasciare una religione",
+              "religione cattolica",
+              "ebraica",
+              "buddista",
+              "musulmana"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "singolare",
+              "antonomasia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , per , quella cattolica: avendo ricevuto i sacramenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "morire con i conforti della religione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nell’ordinamento scolastico italiano, materia relativa all’insegnamento della religione cattolica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "professore",
+              "ora di religione",
+              "insegnare religione in una scuola media"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cura, rispetto, devozione per qualcuno o qualcosa ritenuto sacro; culto, mito, venerazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "religione della famiglia",
+              "della patria",
+              "del lavoro",
+              "del dovere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sentimento di sacralità, di santità ispirato da un luogo; fascino, suggestione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "or la chieggio alla terra, almen l’antica | religione del bel loco io senta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Foscolo)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sistema organizzato di credenze, pratiche rituali e norme morali fondato sul riconoscimento di una realtà soprannaturale o divina, condiviso da una comunità di fedeli.",
+      "examples": [
+        "La Costituzione garantisce a ciascuno la libertà di praticare la propria religione.",
+        "In Italia convivono pacificamente seguaci di diverse religioni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sentimento interiore di devozione, rispetto sacrale o adesione spirituale verso il divino, indipendente dall'adesione a organizzazioni o dogmi specifici.",
+      "examples": [
+        "Non frequenta più i luoghi di culto, ma conserva un profondo senso della religione personale.",
+        "Per molti la religione è prima di tutto un rapporto privato con la trascendenza."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività, principio o valore laico verso cui si nutre un'assoluta dedizione, rispetto incrollabile o attaccamento reverenziale.",
+      "examples": [
+        "Per lui il ciclismo non è un semplice hobby, è una vera religione.",
+        "Nell'artigianato tradizionale la precisione è trattata come una religione."
+      ],
+      "nota": null
+    }
+  ]
+}

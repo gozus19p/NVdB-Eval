@@ -1,0 +1,195 @@
+{
+  "lemma": "romano",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0669ad0a50d064b57b"
+    },
+    "source": "paraviaXML/99114.xml",
+    "lemma": "romano",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di Roma, con riferimento all’antichità classica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "storia romana",
+              "centurioni romani",
+              "strade romane",
+              "acquedotti romani"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante dell’antica Roma o cittadino del suo Impero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dell’odierna Roma",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la periferia romana"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante di Roma moderna",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo alla città di Roma in quanto sede del papato e centro del cattolicesimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Chiesa apostolica romana"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "tipografia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipografia ; tondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo o appartenente alla città di Roma, alla sua storia, alla sua cultura o alle sue istituzioni.",
+      "examples": [
+        "Il centro storico romano è un patrimonio dell'umanità.",
+        "La cucina romana prevede spesso piatti semplici e sostanziosi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Persona originaria o residente nella città di Roma.",
+      "examples": [
+        "Un vero romano conosce tutti i segreti della sua città.",
+        "Il sindaco in carica è un romano doc."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo o appartenente all'antica civiltà di Roma, al suo impero o alla sua cultura.",
+      "examples": [
+        "L'Impero romano si estendeva su tre continenti.",
+        "Il diritto romano è alla base di molti sistemi giuridici moderni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Cittadino o appartenente all'antica civiltà di Roma.",
+      "examples": [
+        "Un romano dell'epoca repubblicana avrebbe difficoltà a riconoscere la città imperiale.",
+        "I romani costruirono strade e acquedotti in tutto il loro impero."
+      ],
+      "nota": null
+    }
+  ]
+}

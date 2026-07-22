@@ -1,0 +1,180 @@
+{
+  "lemma": "visitare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafee69ad0a50d0666500"
+    },
+    "source": "paraviaXML/128013.xml",
+    "lemma": "visitare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Recarsi in visita presso qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visitare un amico",
+              "un conoscente",
+              "visitare qcn. per chiedergli un favore"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Due delle sette opere di misericordia corporali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visitare gli infermi",
+              "visitare i carcerati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sottoporre a visita medica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "devi farti visitare da uno specialista"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare visite mediche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il dottore visita solo al mattino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Recarsi in un certo luogo per osservare ciò che vi si trova o vi si svolge, per motivi di svago, di studio, di lavoro, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visitare una mostra",
+              "una cattedrale",
+              "un centro sportivo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ispezionare, esaminare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il capitano ha visitato le camerate"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "recarsi presso una persona o un luogo per motivi di cortesia, interesse, controllo o assistenza",
+      "examples": [
+        "Ho visitato mia nonna all'ospedale ieri pomeriggio.",
+        "Durante il viaggio in Giappone, abbiamo visitato diversi templi buddisti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "esaminare un paziente o una parte del corpo per diagnosticare malattie o condizioni mediche",
+      "examples": [
+        "Il medico ha visitato il paziente e ha prescritto una terapia.",
+        "L'ortopedico mi ha visitato la spalla e ha detto che non è nulla di grave."
+      ],
+      "nota": "Usato prevalentemente in ambito medico-sanitario."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "ispezionare un luogo o un edificio per verificarne lo stato o la conformità a norme",
+      "examples": [
+        "I vigili del fuoco hanno visitato l'edificio per controllare la sicurezza delle uscite di emergenza.",
+        "La commissione ha visitato la scuola per valutare la qualità dell'insegnamento."
+      ],
+      "nota": "Spesso utilizzato in contesti ufficiali o istituzionali."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "colpire o affliggere qualcuno, spesso in contesti religiosi o letterari",
+      "examples": [
+        "La sventura visitò quella famiglia per molti anni.",
+        "La carestia visitò il paese dopo anni di siccità."
+      ],
+      "nota": "Uso prevalentemente letterario o di registro elevato, spesso con connotazione negativa."
+    }
+  ]
+}

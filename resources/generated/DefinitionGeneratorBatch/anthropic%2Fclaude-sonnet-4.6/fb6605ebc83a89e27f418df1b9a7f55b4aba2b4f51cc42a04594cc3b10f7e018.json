@@ -1,0 +1,106 @@
+{
+  "lemma": "istante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaee669ad0a50d0658f0b"
+    },
+    "source": "paraviaXML/60839.xml",
+    "lemma": "istante",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Frazione minima di tempo, attimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il lampo durò un istante",
+              "sono arrivato un istante dopo la partenza del treno"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Breve lasso di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "aspetta solo un istante",
+              "sarò pronta in un istante",
+              "concedersi un istante di riposo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica specialmente seguito da ulteriori specificazioni, particolare valore della variabile di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Frazione di tempo brevissima, priva di durata apprezzabile; momento puntuale nel flusso temporale.",
+      "examples": [
+        "Aspetta un istante, arrivo subito.",
+        "In quell'istante capì che tutto era cambiato."
+      ],
+      "nota": "Spesso usato in espressioni avverbiali come 'in un istante' (= in brevissimo tempo) e 'all'istante' (= immediatamente, subito)."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Punto preciso nel tempo a cui si fa riferimento; momento specifico identificato nel corso degli eventi.",
+      "examples": [
+        "Ricordo ogni istante di quella giornata con grande nitidezza.",
+        "Visse quell'istante come se fosse l'ultimo della sua vita."
+      ],
+      "nota": "In questo senso l'istante non è meramente breve, ma è individuato e carico di significato; si avvicina semanticamente a 'momento'."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che preme, che insiste con urgenza nel richiedere qualcosa; incalzante.",
+      "examples": [
+        "Le sue preghiere istanti non lasciavano spazio al rifiuto.",
+        "Ricevette una richiesta istante di chiarimenti da parte del tribunale."
+      ],
+      "nota": "Uso aggettivale di registro formale o letterario, derivato dal participio presente del latino 'instare'. Poco frequente nell'italiano parlato contemporaneo, più comune in contesti giuridici o letterari."
+    }
+  ]
+}

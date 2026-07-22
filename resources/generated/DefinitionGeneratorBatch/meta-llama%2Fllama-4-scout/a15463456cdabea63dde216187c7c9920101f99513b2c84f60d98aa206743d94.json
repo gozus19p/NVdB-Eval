@@ -1,0 +1,161 @@
+{
+  "lemma": "risorsa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3869ad0a50d065d1a5"
+    },
+    "source": "paraviaXML/97952.xml",
+    "lemma": "risorsa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mezzo, espediente con cui è possibile provvedere a un bisogno, a una necessità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "risorse abbondanti",
+              "scarse",
+              "risorse materiali",
+              "economiche",
+              "disporre di molte risorse"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dote, morale o intellettuale, o abilità a cui una persona può fare ricorso nell’affrontare le situazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "risorse dell’ingegno",
+              "della fantasia",
+              "dell’esperienza"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha grandi capacità e spirito d’iniziativa o è molto abile nel trarsi d’impaccio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "persona di grandi risorse",
+              "piena di risorse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme dei mezzi e delle disponibilità produttive, che costituiscono fonte di ricchezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il turismo è la principale risorsa della regione",
+              "questo podere è una grande risorsa",
+              "risorse alimentari",
+              "energetiche",
+              "petrolifere",
+              "un paese dalle enormi risorse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia specialmente al , in un ambiente naturale, disponibilità di energia biologica che, assunta dalle singole specie sotto forma di cibo, soddisfa le loro esigenze alimentari",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , ciascuno degli elementi che costituiscono un sistema, come per esempio l’unità centrale, le memorie, le periferiche, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Bene o mezzo disponibile per essere utilizzato in caso di necessità",
+      "examples": [
+        "La risorsa più importante è il tempo.",
+        "L'azienda sta cercando di ottimizzare le risorse disponibili."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Persona o ente che fornisce aiuto o supporto",
+      "examples": [
+        "La risorsa umana è fondamentale per il successo dell'azienda.",
+        "La ONG è stata una risorsa importante per la comunità locale."
+      ],
+      "nota": null
+    }
+  ]
+}

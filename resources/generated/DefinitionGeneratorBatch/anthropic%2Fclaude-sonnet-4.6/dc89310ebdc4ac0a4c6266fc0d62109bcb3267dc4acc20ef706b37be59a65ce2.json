@@ -1,0 +1,232 @@
+{
+  "lemma": "promettere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc969ad0a50d066468d"
+    },
+    "source": "paraviaXML/87609.xml",
+    "lemma": "promettere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Assicurare l’assolvimento di un impegno preso, di una promessa fatta: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "promettere una ricompensa",
+              "gli ho promesso un gelato",
+              "ti prometto che verrò",
+              "non puoi tirarti indietro, hai promesso!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Manifestare l’intenzione di compiere qualcosa di sgradito ad altri, specialmente minacciando una punizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo è il ceffone che ti avevo promesso!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Assumere un impegno nei confronti di una divinità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "promettere davanti a Dio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Contrarre un obbligo in forma solenne, anche mediante giuramento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "promise davanti ai testimoni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Far prevedere determinati sviluppi, sia positivi che negativi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "oggi il tempo promette sereno",
+              "la stagione promette un raccolto abbondante",
+              "la situazione non promette nulla di buono"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Far presagire di essere particolarmente dotati in un lavoro, in un’attività, in uno sport e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo ragazzo promette bene",
+              "promette di diventare una grande ballerina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Assicurare, render certo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Impegnarsi formalmente o verbalmente nei confronti di qualcuno a fare, dare o non fare qualcosa in futuro.",
+      "examples": [
+        "Ti prometto che sarò puntuale alla riunione.",
+        "Ha promesso ai figli una vacanza al mare per l'estate."
+      ],
+      "nota": "Regge una subordinata completiva introdotta da 'che' o un infinito con 'di': 'promettere che...' / 'promettere di fare qcs.'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Annunciare o assicurare il verificarsi di qualcosa, con valore previsionale o di garanzia.",
+      "examples": [
+        "Le previsioni promettono pioggia per tutto il fine settimana.",
+        "Il medico gli ha promesso un miglioramento rapido con la nuova terapia."
+      ],
+      "nota": "In questo senso il soggetto può essere non animato (es. cielo, situazione, previsioni)."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Mostrare chiari segni di future qualità o successi, fare ben sperare per il futuro.",
+      "examples": [
+        "Questo giovane scrittore promette molto: il suo primo romanzo è già notevolissimo.",
+        "La stagione promette bene per i produttori di vino."
+      ],
+      "nota": "Spesso usato in forma assoluta o con avverbi come 'molto', 'bene', 'male'. In senso ironico 'promette bene' può indicare una situazione che si preannuncia problematica."
+    },
+    {
+      "pos": "verbo riflessivo (promettersi)",
+      "definition": "Impegnarsi con se stessi a fare qualcosa, prefiggersi.",
+      "examples": [
+        "Si è promessa di smettere di fumare entro la fine dell'anno.",
+        "Mi sono promesso che non avrei più perso tempo in discussioni inutili."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo reciproco (promettersi)",
+      "definition": "Scambiarsi reciprocamente un impegno o una promessa, in particolare di fedeltà o matrimonio.",
+      "examples": [
+        "Si sono promessi amore eterno davanti a tutti gli invitati.",
+        "I due fidanzati si sono promessi in sposa durante una cena romantica."
+      ],
+      "nota": "L'espressione 'promettersi in sposa' è formula tipica del registro formale o letterario, ma ancora in uso."
+    }
+  ]
+}

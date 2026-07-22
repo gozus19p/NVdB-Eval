@@ -1,0 +1,90 @@
+{
+  "lemma": "edicola",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb869ad0a50d06568cc"
+    },
+    "source": "paraviaXML/37528.xml",
+    "lemma": "edicola",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Architettura , piccola costruzione contenente un’immagine sacra, una statua e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’edicola con molti ex voto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chiosco, specialmente per la vendita dei giornali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Piccolo chiosco o struttura commerciale fissa o semifissa posta su strada, adibita alla vendita di giornali, riviste, libri tascabili e altri articoli di consumo.",
+      "examples": [
+        "Ogni mattina mi fermo all'edicola sotto casa a comprare il giornale.",
+        "Le edicole stanno soffrendo la concorrenza delle notizie online."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Piccola struttura architettonica a forma di tempietto o tabernacolo, spesso collocata in luoghi pubblici o su edifici religiosi, destinata a contenere un'immagine sacra o una statua.",
+      "examples": [
+        "All'angolo del vicolo era murata un'edicola con una Madonna e un lumino acceso.",
+        "Il restauro della chiesa ha riguardato anche le edicole votive sulla facciata."
+      ],
+      "nota": "È il senso originario e storico del termine, ancora vivo nell'uso corrente in ambito artistico, architettonico e religioso."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In editoria, formula di distribuzione e vendita di un prodotto editoriale (libro, fumetto, DVD, ecc.) attraverso la rete delle rivendite di giornali, in contrapposizione alla distribuzione in libreria.",
+      "examples": [
+        "Il volume è uscito in edicola allegato a un quotidiano nazionale.",
+        "Molte collane di romanzi popolari vengono vendute esclusivamente in edicola."
+      ],
+      "nota": "Usato spesso in espressioni come 'uscire in edicola', 'vendita in edicola', riferite al canale distributivo e non al luogo fisico."
+    }
+  ]
+}

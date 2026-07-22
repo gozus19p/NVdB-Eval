@@ -1,0 +1,103 @@
+{
+  "lemma": "ansia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7369ad0a50d0652ea2"
+    },
+    "source": "paraviaXML/6333.xml",
+    "lemma": "ansia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Stato di agitazione dovuto a timore, incertezza o attesa di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stare in ansia per qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Desiderio, brama",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ansia di gloria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "qualcosa",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , reazione emotiva, causata da conflitti inconsci, sensazioni di incertezza, timore, oppressione, eccetera di fronte a qualcuno o qualcosa percepito come pericolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Stato di agitazione, inquietudine o apprensione prolungata, spesso slegato da una minaccia reale o immediata e accompagnato da tensione psicofisica.",
+      "examples": [
+        "Dopo mesi di incertezza lavorativa, ha iniziato a provare un'ansia costante che le rendeva difficile concentrarsi.",
+        "Il medico gli ha consigliato tecniche di respirazione per gestire la tensione prima degli esami."
+      ],
+      "nota": "In ambito clinico indica un quadro sintomatico che può richiedere intervento specialistico; nel linguaggio comune è sinonimo di forte preoccupazione."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Desiderio intenso e impaziente di ottenere qualcosa, di compiere un'azione o di assistere a un evento atteso.",
+      "examples": [
+        "La squadra è scesa in campo con l'ansia di conquistare il trofeo dopo vent'anni.",
+        "Leggeva ogni pagina divorata dall'impazienza di scoprire come sarebbe andata a finire la storia."
+      ],
+      "nota": null
+    }
+  ]
+}

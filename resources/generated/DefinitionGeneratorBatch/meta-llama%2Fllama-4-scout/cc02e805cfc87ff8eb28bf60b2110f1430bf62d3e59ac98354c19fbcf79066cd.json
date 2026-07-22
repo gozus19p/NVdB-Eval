@@ -1,0 +1,103 @@
+{
+  "lemma": "ansia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7369ad0a50d0652ea2"
+    },
+    "source": "paraviaXML/6333.xml",
+    "lemma": "ansia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Stato di agitazione dovuto a timore, incertezza o attesa di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stare in ansia per qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Desiderio, brama",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ansia di gloria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "qualcosa",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , reazione emotiva, causata da conflitti inconsci, sensazioni di incertezza, timore, oppressione, eccetera di fronte a qualcuno o qualcosa percepito come pericolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "stato di inquietudine, apprensione o timore per qualcosa",
+      "examples": [
+        "L'ansia per il futuro l'ha portata a cambiare lavoro.",
+        "Ha manifestato ansia durante la prima seduta dallo psicologo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "disagio psichico intenso e prolungato, spesso senza un motivo apparente",
+      "examples": [
+        "L'ansia generalizzata le rende difficile uscire di casa.",
+        "L'ansia è un disturbo che può essere curato con la psicoterapia."
+      ],
+      "nota": "Spesso associato a disturbi psichiatrici come il disturbo d'ansia generalizzato."
+    }
+  ]
+}

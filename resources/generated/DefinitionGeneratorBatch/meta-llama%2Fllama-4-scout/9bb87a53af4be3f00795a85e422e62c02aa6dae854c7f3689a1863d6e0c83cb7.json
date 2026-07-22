@@ -1,0 +1,172 @@
+{
+  "lemma": "genitore",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaed069ad0a50d0657ca6"
+    },
+    "source": "paraviaXML/47912.xml",
+    "lemma": "genitore",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il padre o la madre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i minori devono avere l’autorizzazione di un genitore",
+              "firma del genitore"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , il padre e la madre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "amare i propri genitori",
+              "vivere con i propri genitori"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Colui che genera o ha generato: Dante) anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "era stato genitore di tanta meraviglia quanta si vedea ch’era questa nobilissima Beatrice",
+              "del tridente enosigeo tremava | la genitrice Terra"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Foscolo)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [
+              "singolare",
+              "antonomasia",
+              "iniziale",
+              "maiuscolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , per , con iniziale maiuscolo , Dio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "da questa polve al trono | del Genitor salì"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , programma o parte di un programma che ne attiva un altro, detto figlio, e sospende il proprio funzionamento fino a che il secondo non si è concluso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "persona che ha generato un figlio",
+      "examples": [
+        "Il genitore ha accompagnato il figlio a scuola.",
+        "La perdita di un genitore è un evento traumatico."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "persona che ha generato un figlio",
+      "examples": [
+        "La genitore ha preparato la cena per tutta la famiglia.",
+        "La figura della genitore è importante nell'educazione dei figli."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "persona che esercita la potestà genitoriale su un minore",
+      "examples": [
+        "Il genitore affidatario si occupa della cura del minore.",
+        "La genitore affidataria ha preso decisioni importanti per il figlio."
+      ],
+      "nota": "In questo senso, il termine può riferirsi sia a un uomo che a una donna, senza distinzione di genere biologico."
+    }
+  ]
+}

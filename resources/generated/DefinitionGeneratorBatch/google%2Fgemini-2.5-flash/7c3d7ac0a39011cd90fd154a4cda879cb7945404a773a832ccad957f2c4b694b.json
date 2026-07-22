@@ -1,0 +1,220 @@
+{
+  "lemma": "attore",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7a69ad0a50d0653460"
+    },
+    "source": "paraviaXML/10137.xml",
+    "lemma": "attore",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Interprete di rappresentazioni teatrali, cinematografiche, televisive e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attore comico",
+              "drammatico",
+              "attore di prosa",
+              "della televisione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Persona che finge abilmente sentimenti diversi da quelli che prova",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non ti far commuovere",
+              "è un vero attore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi prende parte attiva alle vicende della vita reale che lo coinvolgono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "siamo stati attori di un evento storico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "semiologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Semiologia , nell’analisi strutturale di un testo narrativo: chi in un racconto riveste concretamente il ruolo astratto dell’attante",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "funzione",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , chi prende l’iniziativa di un processo; anche in funzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la parte attrice"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "sociologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sociologia , l’individuo in quanto soggetto dell’azione sociale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Amministratore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2,5",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3,4",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile/femminile",
+      "definition": "Persona che interpreta un ruolo in una rappresentazione teatrale, cinematografica o televisiva, impersonando personaggi e recitando dialoghi.",
+      "examples": [
+        "L'attore ha ricevuto un premio Oscar per la sua toccante interpretazione.",
+        "La giovane attrice si sta preparando per il suo debutto sul palco."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile/femminile",
+      "definition": "Chi, in una determinata situazione o vicenda, svolge un ruolo significativo e influente, contribuendo attivamente al suo sviluppo.",
+      "examples": [
+        "Gli attori principali della crisi economica si riuniranno domani per trovare una soluzione.",
+        "Il presidente è stato un attore chiave nelle trattative di pace."
+      ],
+      "nota": "Questo senso estende il significato della recitazione a contesti più ampi, indicando chi ha un ruolo determinante."
+    },
+    {
+      "pos": "sostantivo maschile/femminile",
+      "definition": "Nell'ambito del diritto, la parte che promuove un'azione legale o una causa in tribunale.",
+      "examples": [
+        "L'attore ha presentato una denuncia per diffamazione contro il suo vicino.",
+        "Gli avvocati dell'attore hanno chiesto il risarcimento dei danni subiti."
+      ],
+      "nota": null
+    }
+  ]
+}

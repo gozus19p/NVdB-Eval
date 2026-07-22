@@ -1,0 +1,178 @@
+{
+  "lemma": "imparare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb969ad0a50d0663997"
+    },
+    "source": "paraviaXML/53089.xml",
+    "lemma": "imparare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Acquisire e ritenere nella memoria studiando o esercitandosi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare le tabelline",
+              "la matematica",
+              "una lingua straniera",
+              "imparare a memoria",
+              "a mente"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arrivare a conoscere e a saper praticare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare un mestiere",
+              "imparare a sciare",
+              "imparare a suonare la chitarra"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere voglia di imparare",
+              "un bambino che imparare rapidamente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arrivare a sapere per mezzo dell’esperienza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare a vivere",
+              "imparare a comportarsi",
+              "imparerai cosa vuol dire lavorare"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pagandone le conseguenze; come rimprovero e monito rivolto a chi ha commesso un errore che può comunque servigli di lezione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare qcs. a proprie spese",
+              "ti sta bene, così impari!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "centromeridionale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale centromeridionale , venire a sapere, apprendere",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "centromeridionale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale centromeridionale , insegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo e intransitivo (ausiliare avere)",
+      "definition": "Acquisire conoscenze, nozioni o competenze pratiche attraverso lo studio, l'esercizio, l'insegnamento o l'esperienza diretta.",
+      "examples": [
+        "Dopo tre mesi di lezioni private, finalmente ho imparato le basi del pianoforte.",
+        "Gli studenti imparano nuove lingue con maggiore efficacia quando sono esposti a contesti comunicativi reali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare avere)",
+      "definition": "Trarre insegnamento, maturare consapevolezza o comprendere una lezione morale da eventi vissuti, in particolare da errori o situazioni complesse.",
+      "examples": [
+        "Dagli errori commuti in quel progetto ho imparato che è fondamentale verificare sempre i requisiti prima di iniziare.",
+        "Viaggiando da sola per la prima volta, ha imparato a gestire l'imprevisto con maggiore calma."
+      ],
+      "nota": "Spesso regge complementi introdotti da 'da' o si colloca in contesti che enfatizzano una crescita personale o un'evoluzione del carattere."
+    }
+  ]
+}

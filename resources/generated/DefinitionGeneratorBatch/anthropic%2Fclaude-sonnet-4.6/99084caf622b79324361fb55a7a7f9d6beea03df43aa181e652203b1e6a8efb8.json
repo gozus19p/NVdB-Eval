@@ -1,0 +1,206 @@
+{
+  "lemma": "affrontare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa069ad0a50d0662557"
+    },
+    "source": "paraviaXML/2845.xml",
+    "lemma": "affrontare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettersi o andare di fronte a qualcuno specialmente con atteggiamento deciso o ostile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affrontare il nemico",
+              "ho deciso di affrontare Mario e chiarire tutto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Iniziare a trattare, a svolgere, intraprendere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affrontare un argomento difficile",
+              "affrontare un nuovo lavoro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sostenere qualcosa di difficile o impegnativo: fronteggiare qualcosa di negativo o di controproducente: andare consapevolmente incontro a",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affrontare una discussione",
+              "affrontare un problema",
+              "affrontare le critiche",
+              "il ridicolo",
+              "affrontare un rischio",
+              "un pericolo",
+              "affrontare le conseguenze delle proprie azioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "TS",
+        "field": "tecnica, tecnologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , far combaciare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affrontare due assi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "TS",
+        "field": "chirurgia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chirurgia , mettere a contatto i due bordi di una ferita",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Confrontare, paragonare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Mettersi di fronte a una situazione difficile, pericolosa o scomoda, accettandola e cercando di gestirla con determinazione.",
+      "examples": [
+        "Dobbiamo affrontare il problema prima che diventi ingestibile.",
+        "Ha affrontato la malattia con grande coraggio e serenità."
+      ],
+      "nota": "È il senso più frequente nell'italiano contemporaneo; implica un atteggiamento attivo e volontario da parte del soggetto."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Entrare in confronto diretto, fisico o verbale, con una persona, per uno scontro, un litigio o un chiarimento.",
+      "examples": [
+        "Finalmente l'ha affrontato faccia a faccia e gli ha detto tutto quello che pensava.",
+        "I due rivali si sono affrontati nel cortile della scuola."
+      ],
+      "nota": "In questo senso può avere sfumatura conflittuale; da distinguere dall'uso riflessivo 'affrontarsi', che indica uno scontro reciproco."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Iniziare a trattare o esaminare un argomento, un tema o una questione.",
+      "examples": [
+        "Il docente ha affrontato il tema della crisi climatica nella lezione di oggi.",
+        "Nel libro vengono affrontate questioni etiche molto complesse."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Sostenere e pagare il costo economico di qualcosa.",
+      "examples": [
+        "Non riusciamo ad affrontare le spese di una ristrutturazione così imponente.",
+        "L'azienda non può affrontare ulteriori perdite senza rischiare il fallimento."
+      ],
+      "nota": "Usato prevalentemente in contesti economici e finanziari; equivale a 'sostenere' o 'far fronte a' in senso finanziario."
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Scontrarsi o confrontarsi reciprocamente, detto di persone, squadre o gruppi in competizione o conflitto.",
+      "examples": [
+        "Le due squadre si affronteranno domani sera in una partita decisiva.",
+        "I candidati si sono affrontati in un dibattito televisivo molto acceso."
+      ],
+      "nota": "La forma riflessiva reciproca 'affrontarsi' è comune in ambito sportivo e politico."
+    }
+  ]
+}

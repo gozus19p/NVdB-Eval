@@ -1,0 +1,138 @@
+{
+  "lemma": "avventura",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7c69ad0a50d0653648"
+    },
+    "source": "paraviaXML/11108.xml",
+    "lemma": "avventura",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avvenimento straordinario o ricco di rischi imprevedibili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è stata un’avventura a lieto fine",
+              "ha vissuto molte avventure",
+              "non ho spirito d’avventura"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esperienza dall’esito incerto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affronterò l’avventura del concorso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Breve relazione amorosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere un’avventura con qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fortuna, buona sorte: Ariosto)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "più che senno, ebbe avventura"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Esperienza insolita, eccitante e a volte rischiosa, che può portare a scoperte o a situazioni inaspettate.",
+      "examples": [
+        "Partirono per un'avventura nel cuore della giungla, senza sapere cosa li aspettasse.",
+        "Il viaggio in solitaria si rivelò un'incredibile avventura personale e formativa."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Relazione sentimentale o sessuale di breve durata, spesso clandestina e priva di impegni seri.",
+      "examples": [
+        "Tra loro c'è stata solo una breve avventura estiva, destinata a finire con le vacanze.",
+        "Non cercava una relazione stabile, ma solo un'avventura passeggera."
+      ],
+      "nota": "Spesso con connotazione più o meno negativa, a seconda del contesto."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Serie di eventi o peripezie che costituiscono la trama di un'opera letteraria, cinematografica o videoludica volta a suscitare emozioni e curiosità.",
+      "examples": [
+        "Il nuovo film di fantascienza narra un'avventura spaziale ricca di colpi di scena.",
+        "I bambini adorano le storie di avventura con draghi e cavalieri."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Impresa rischiosa o incerta, dal cui esito dipendono conseguenze importanti.",
+      "examples": [
+        "Avviare una startup in questo settore è una vera avventura economica.",
+        "Si lanciò in quell'avventura imprenditoriale con coraggio e determinazione."
+      ],
+      "nota": null
+    }
+  ]
+}

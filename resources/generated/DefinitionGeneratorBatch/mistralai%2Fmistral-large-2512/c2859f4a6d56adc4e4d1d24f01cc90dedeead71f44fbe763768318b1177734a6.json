@@ -1,0 +1,51 @@
+{
+  "lemma": "febbraio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec469ad0a50d0657240"
+    },
+    "source": "paraviaXML/42764.xml",
+    "lemma": "febbraio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "febbraio-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Secondo mese dell’anno nel calendario gregoriano e giuliano, di giorni negli anni normali, di negli anni bisestili: febbraro, None ferraio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi trasferirò in febbraio",
+              "è stato un febbraio molto caldo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Secondo mese dell'anno nel calendario gregoriano, composto da 28 o 29 giorni.",
+      "examples": [
+        "Quest'anno febbraio ha 29 giorni perché è bisestile.",
+        "A febbraio le giornate iniziano ad allungarsi, ma fa ancora molto freddo."
+      ],
+      "nota": "Può essere usato in espressioni idiomatiche come 'febbraio corto e amaro' per indicare un periodo breve ma difficile."
+    }
+  ]
+}

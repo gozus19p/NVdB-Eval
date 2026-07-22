@@ -1,0 +1,160 @@
+{
+  "lemma": "divenire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafd769ad0a50d0665258"
+    },
+    "source": "paraviaXML/35915.xml",
+    "lemma": "divenire",
+    "grammar": [
+      "v.intr.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Passare, specialmente progressivamente, da una condizione a un’altra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "divenire adulto",
+              "divenire responsabile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Giungere, pervenire: Dante) anche ( Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "noi divenimmo intanto a piè del monte",
+              "essendo così Federigo divenuto allo stremo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Derivare, dipendere: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il qual pianto la donna prima credette che da dolore... divenisse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avvenire, accadere",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "singolare",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , solo singolare , flusso incessante di mutamenti inteso come carattere intrinseco alla realtà, perenne fluire di tutte le cose",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Passare da uno stato, una condizione o una qualità a un'altra, trasformandosi nel tempo.",
+      "examples": [
+        "Con gli anni è divenuto un esperto riconosciuto nel suo settore.",
+        "La piccola città di provincia è divenuta una metropoli moderna."
+      ],
+      "nota": "Sinonimo formale di 'diventare'. Preferito in contesti scritti, letterari o elevati rispetto alla variante colloquiale 'diventare'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Il processo continuo di trasformazione e cambiamento della realtà, contrapposto all'essere statico e immutabile; concetto filosofico che indica il fluire incessante delle cose.",
+      "examples": [
+        "Eraclito vedeva nel divenire il principio fondamentale dell'universo.",
+        "La filosofia hegeliana interpreta la storia come un divenire dialettico verso la libertà."
+      ],
+      "nota": "Usato prevalentemente nel lessico filosofico. Si contrappone tradizionalmente al concetto di 'essere' come realtà fissa e permanente."
+    }
+  ]
+}

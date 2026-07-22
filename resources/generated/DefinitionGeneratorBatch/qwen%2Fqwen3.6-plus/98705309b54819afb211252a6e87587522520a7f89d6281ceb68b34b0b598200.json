@@ -1,0 +1,211 @@
+{
+  "lemma": "qualcuno",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6569ad0a50d06522c7"
+    },
+    "source": "paraviaXML/89421.xml",
+    "lemma": "qualcuno",
+    "grammar": [
+      "pron.indef.m.",
+      "agg.indef.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "pronome indefinito"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , indica una persona o un gruppo ristretto di persone di identità imprecisata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’è qualcuno alla porta",
+              "al telefono",
+              "mi ha cercato q.?",
+              "qualcuno dice di sì, altri dicono di no"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Entrando in un’abitazione, in una stanza e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’è q.?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "pronome indefinito"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , seguito da un complemento partitivo esplicito o implicito, per indicare in modo indeterminato una persona o una cosa o un numero non grande di persone o cose",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "qualcuno degli invitati è già arrivato",
+              "chiama qualcuna delle tue amiche",
+              "ho delle caramelle, ne vuoi qualcuna?"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Una delle sue solite marachelle, stranezze e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ne avrà combinata qualcuna delle sue"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sempre nella forma tronca al maschile e nella forma apostrofata al femminile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "altro",
+              "altra",
+              "qualcun altro vuole intervenire?",
+              "se Anna non accetta chiederò a qualcun’altra"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [
+          "aggettivo indefinito"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Qualche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "se pietà ancor serba | l’arco tuo saldo e qualcuna saetta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , una persona importante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "diventare qualcuno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "pronome indefinito",
+      "definition": "Indica una persona o un gruppo di persone non specificate, la cui identità è sconosciuta, indeterminata o non rilevante ai fini del discorso.",
+      "examples": [
+        "C'è qualcuno che mi ha chiamato ieri sera, ma il numero non risulta salvato.",
+        "Tra i partecipanti, qualcuno ha sollevato questioni che richiedono un approfondimento tecnico."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "pronome indefinito",
+      "definition": "In senso valutativo, indica un individuo di notevole rilievo, prestigio, influenza economica o notorietà pubblica.",
+      "examples": [
+        "Molti giovani crescono con l'ansia di doversi affermare per dimostrare di essere diventati qualcuno.",
+        "Da quando ha assunto quel ruolo dirigenziale, cammina e parla come se fosse finalmente qualcuno."
+      ],
+      "nota": "Frequente nelle locuzioni 'essere qualcuno' e 'credersi qualcuno', spesso con sfumatura critica o ironica verso la presunzione o l'ambizione sociale."
+    }
+  ]
+}

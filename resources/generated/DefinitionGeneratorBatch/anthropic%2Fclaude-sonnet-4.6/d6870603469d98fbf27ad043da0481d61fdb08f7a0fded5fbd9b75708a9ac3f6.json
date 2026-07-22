@@ -1,0 +1,1204 @@
+{
+  "lemma": "portare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc869ad0a50d066459a"
+    },
+    "source": "paraviaXML/85236.xml",
+    "lemma": "portare",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Reggere un oggetto, un peso e simile spostandolo o trasportandolo in un determinato luogo o direzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare un libro in biblioteca",
+              "portare la sedia nell’altra stanza"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento alle modalità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare lo zaino in spalla",
+              "il fucile ad armacollo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Trasportare un oggetto, un insieme di oggetti in un determinato posto, specialmente con riferimento a un mezzo di trasporto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quel camion porta un carico infiammabile"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Consegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il postino ha portato una raccomandata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prendere con sé durante uno spostamento, un viaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare con sé pochi bagagli",
+              "lo stretto indispensabile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trasportare una merce in un determinato paese allo scopo di commerciarla: esportare denaro, valuta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i mercanti veneziani portavano spezie e seta dall’oriente",
+              "portare denaro nelle banche svizzere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Recare in dono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cosa ti ha portato Babbo Natale?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far pervenire, convogliare: far arrivare un servizio pubblico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le condutture dell’acquedotto portano l’acqua in ogni casa",
+              "portare il metano",
+              "la rete fognaria in un quartiere periferico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trascinare con sé",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il fiume porta i detriti al mare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Trasportare una persona, specialmente un bambino, un ammalato, un ferito, tenendoli in braccio o sulle spalle",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trasportare una persona servendosi di un veicolo o altro mezzo di trasporto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi ha portata a casa in moto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Condurre con sé, accompagnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare i bambini a scuola",
+              "posso portare mia cugina alla festa?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "locuzione pragmatica"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In esprime sorpresa e piacere per una visita o un incontro inaspettato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "qual buon vento ti",
+              "vi porta?"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Imprecazione di dispetto rivolta contro qualcuno che dà fastidio o che è d’intralcio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che il diavolo ti porti!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5c",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Guidare un veicolo, governare una nave, pilotare un aereo, manovrare un mezzo meccanico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "per portare questa moto ci vuole la patente"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nel ballo a coppie, guidare il compagno nei passi e nelle mosse",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sostenere, appoggiare, favorire, spalleggiare una persona, caldeggiarne la candidatura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare un candidato",
+              "i suoi insegnanti lo portano anche troppo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sostenere su di sé, reggere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il pilastro centrale porta il peso dell’intera volta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere una determinata capacità di carico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quel camion porta 70 q"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , mostrare su di sé determinati segni, tracce, impronte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare sul corpo le cicatrici delle ferite",
+              "sul volto i segni della stanchezza",
+              "della malattia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere la barba o i capelli acconciati in un determinato modo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare la barba",
+              "i baffi",
+              "portare i capelli corti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8c",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Atteggiare, tenere una parte del corpo abitualmente in una determinata posizione: protendere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare le spalle curve",
+              "la testa bassa",
+              "il busto eretto",
+              "portare le braccia in alto",
+              "portare avanti la gamba destra"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indossare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare la giacca",
+              "porta bene il vestito da sera"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mi vanno bene i vestiti di tale taglia, le scarpe di tale misura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "porto la taglia 42",
+              "le scarpe 38"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere indosso abitualmente, specialmente per correggere difetti fisici",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare gli occhiali",
+              "il busto ortopedico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere un determinato nome, cognome, soprannome; essere dotato di un titolo o distinto da una qualifica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare un titolo onorifico",
+              "un nome illustre",
+              "porta il cognome della madre",
+              "un soprannome infamante"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , presentare, riportare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il testo non porta il luogo d’edizione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Comunicare, riferire, trasmettere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare i saluti",
+              "una risposta da parte di qcn.",
+              "portare buone, cattive notizie"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Addurre argomentazioni, presentare prove o esempi a sostegno delle proprie tesi o affermazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare ragioni per spiegare l’origine di una cosa",
+              "portare una testimonianza a difesa di qcn.",
+              "portare una scusa",
+              "una giustificazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Reggere il vino, le bevande alcoliche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare bene",
+              "male il vino",
+              "gli alcolici"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Provare un sentimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare odio",
+              "rancore a qcn.",
+              "nei confronti di qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Causare, cagionare, produrre una determinata situazione, anche modificandone una preesistente, specialmente arrecando un danno o un giovamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la tua ostinazione ti ha portato solo guai",
+              "le guerre portano lutti e rovine"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Influenzare in senso sfavorevole o favorevole l’andamento di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare sfortuna",
+              "male, iella",
+              "bene",
+              "fortuna"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Far pervenire, ridurre a una determinata condizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare qcn. alla rovina",
+              "alla disperazione"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Suscitare uno stato d’animo, una sensazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il suo arrivo ha portato allegria"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Apportare, generare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’inverno porta freddo e intemperie",
+              "la vecchiaia porta disagi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arrecare o lasciar presagire determinate condizioni atmosferiche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il vento porta il sereno",
+              "nuvole che portano pioggia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di pianta, regione geografica, condizione climatica: produrre un determinato frutto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’inverno ci porta le arance"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indurre, spingere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tutto ci porta a pensare che si tratti di uno scherzo",
+              "la passione l’ha portata a un gesto inconsulto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nelle operazioni aritmetiche, fare il riporto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "6 più 6 fa 12, scrivo 2 e porto 1"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, nel gioco del poker, tenere in mano determinate carte, anche non immediatamente utili, senza scartarle",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tollerare, sopportare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare le conseguenze dei propri atti",
+              "portare un sopruso",
+              "una prepotenza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Unito a sostantivi forma costrutti verbali: soffrire; mantenerla; credere; scontarla; sperare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare dolore",
+              "portare fede",
+              "portare opinione",
+              "portare la pena di qcs.",
+              "portare speranza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di mezzo o veicolo, condurre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il tram n°15 porta alla stazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Permettere di raggiungere un determinato luogo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tutte le strade portano a Roma",
+              "questa via porta direttamente alla piazza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "linguaggio militare",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguaggio militare , di pezzo d’artiglieria, avere una determinata portata",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "marina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Marina , delle vele, prendere bene il vento; manovrarle in modo che prendano bene il vento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "far portare le vele"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esigere, richiedere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bisogna agire come porta il dovere",
+              "vestirsi come porta la moda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Importare, giovare: Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "o frate, l’andar su che porta?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "matematica"
+            ],
+            "definitions": [
+              {
+                "glossa": "Matematica , in relazione a un’operazione applicata a un dato ente o a una data espressione, operare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Sostenere e spostare fisicamente qualcosa o qualcuno da un luogo a un altro.",
+      "examples": [
+        "Puoi portare queste buste in cucina, per favore?",
+        "Il corriere ha portato il pacco direttamente a casa mia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Accompagnare una persona o condurre un animale verso un luogo determinato.",
+      "examples": [
+        "Ogni mattina porto i bambini a scuola con la macchina.",
+        "Ha portato il cane dal veterinario per la visita annuale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Indossare un capo di abbigliamento, un accessorio o un ornamento.",
+      "examples": [
+        "D'estate porta sempre sandali e occhiali da sole.",
+        "Non porta mai la fede al dito, dice che le dà fastidio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Avere su di sé un elemento fisico caratteristico, come una capigliatura, una barba o un segno corporeo.",
+      "examples": [
+        "Da quando porta la barba lo trovo molto più maturo.",
+        "Ha sempre portato i capelli lunghi fin da bambina."
+      ],
+      "nota": "Si distingue dal senso 'indossare' perché riguarda caratteristiche del corpo, non indumenti o oggetti rimovibili."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Trasmettere o recare un messaggio, una notizia, un saluto o un sentimento a qualcuno.",
+      "examples": [
+        "Ti porta i saluti tua sorella che ho incontrato ieri.",
+        "Chi porta buone notizie è sempre il benvenuto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Causare o produrre un determinato effetto, risultato o conseguenza.",
+      "examples": [
+        "Quella decisione ha portato gravi problemi all'azienda.",
+        "Il nuovo accordo commerciale ha portato benefici a entrambi i paesi."
+      ],
+      "nota": "In questo senso è spesso seguito da un sostantivo astratto come 'conseguenze', 'risultati', 'benefici', 'danni'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Spingere o indurre qualcuno verso uno stato d'animo, una decisione o un comportamento.",
+      "examples": [
+        "Lo stress lo ha portato a commettere errori che non avrebbe mai fatto.",
+        "Quelle esperienze l'hanno portata a riconsiderare le sue priorità."
+      ],
+      "nota": "Costruzione frequente: portare qualcuno a + infinito."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Dirigere verso un luogo o una meta, riferito a strade, percorsi o itinerari.",
+      "examples": [
+        "Questa strada porta direttamente al centro storico.",
+        "Tutti i sentieri di questa zona portano al rifugio di montagna."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Presentare argomenti, esempi o prove a sostegno di una tesi o posizione.",
+      "examples": [
+        "L'avvocato ha portato testimonianze decisive durante il processo.",
+        "Nel suo intervento ha portato esempi concreti per sostenere la sua teoria."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Reggere o sopportare un peso fisico o metaforico.",
+      "examples": [
+        "Porta sulle spalle tutta la responsabilità della famiglia.",
+        "Non riesce a portare il peso della colpa per quanto accaduto."
+      ],
+      "nota": "In senso figurato implica un carico emotivo, morale o sociale difficile da sostenere."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Dimostrare o manifestare un'età, uno stato fisico o un aspetto esteriore.",
+      "examples": [
+        "Ha cinquant'anni ma non li porta affatto.",
+        "Porta bene i suoi anni: è ancora in ottima forma."
+      ],
+      "nota": "Uso idiomatico frequente con oggetti come 'gli anni', 'l'età'."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "lemma": "violenza",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8569ad0a50d0660fab"
+    },
+    "source": "paraviaXML/127811.xml",
+    "lemma": "violenza",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere violento; tendenza a usare la forza fisica per imporre ad altri la propria volontà",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Carattere violento di un’espressione, una parola, un gesto e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impressionante intensità con cui si manifesta un fenomeno naturale o atmosferico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’incendio infuria con violenza",
+              "la violenza della piena",
+              "del terremoto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Azione violenta, aggressiva esercitata su qualcuno con mezzi fisici",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "strappare qcs. a un altro con la violenza"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Coercizione esercitata su qualcuno influendo sulla psiche o la volontà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "violenza morale"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persuadere qualcuno con modi gentili ma convincenti a fare o a non fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare dolce violenza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Violenza carnale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Atto, comportamento o pressione che causa danno fisico o psicologico a una persona, un gruppo o una cosa, spesso con l'uso della forza o dell'intimidazione.",
+      "examples": [
+        "La violenza domestica è un reato grave e inaccettabile.",
+        "Il documentario denunciava la violenza perpetrata contro le comunità indigene."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Intensità eccessiva e distruttiva di un fenomeno naturale o di un'azione incontrollata.",
+      "examples": [
+        "La violenza della tempesta ha causato ingenti danni alle colture.",
+        "Ha reagito con violenza incontrollabile alla provocazione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Forza o costrizione morale o fisica esercitata per obbligare qualcuno a fare qualcosa contro la propria volontà.",
+      "examples": [
+        "L'interrogatorio è avvenuto sotto violenza psicologica.",
+        "La violenza dell'invasore costrinse il popolo alla sottomissione."
+      ],
+      "nota": null
+    }
+  ]
+}

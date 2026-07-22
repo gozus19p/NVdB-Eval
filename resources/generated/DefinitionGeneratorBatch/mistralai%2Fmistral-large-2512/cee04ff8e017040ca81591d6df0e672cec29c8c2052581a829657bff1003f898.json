@@ -1,0 +1,237 @@
+{
+  "lemma": "comparire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafaa69ad0a50d0662d0b"
+    },
+    "source": "paraviaXML/24887.xml",
+    "lemma": "comparire",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Presentarsi, mostrarsi all’improvviso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comparve sulla porta uno sconosciuto",
+              "me lo sono visto comparire davanti",
+              "comparire in sogno",
+              "il sole comparve da dietro le nuvole"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mettersi in vista, farsi conoscere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fanno qualsiasi cosa pur di comparire",
+              "finanzia l’attività ma non vuol comparire"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di scritto, essere pubblicato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è recentemente comparsa una riedizione del testo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere presente in un’opera d’arte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vi compaiono soluzioni stilistiche originali",
+              "compare nuovamente nell’ultima scena"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere compreso, figurare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non compare nell’elenco degli iscritti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far bella mostra, far figura",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , presentarsi all’autorità giudiziaria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comparire come imputato",
+              "come teste"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "complemento predicativo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con del soggetto, sembrare, essere giudicato: Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i poveri ci vuol poco a farli comparir birboni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Diventare visibile o percepibile in modo improvviso o inaspettato.",
+      "examples": [
+        "All'improvviso, un cervo comparve tra gli alberi.",
+        "Il suo nome è comparso nella lista dei vincitori."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Presentarsi in un luogo, spesso in risposta a una convocazione o per un obbligo.",
+      "examples": [
+        "Dovrai comparire in tribunale il mese prossimo.",
+        "È comparso davanti al direttore per giustificarsi."
+      ],
+      "nota": "Spesso usato in contesti formali o legali."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Essere pubblicato o reso pubblico, specialmente in un testo scritto o in un elenco.",
+      "examples": [
+        "Il suo articolo è comparso sulla prima pagina del giornale.",
+        "Il mio nome non compare nell'elenco dei partecipanti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Apparire in modo fugace o temporaneo, spesso con una connotazione di sorpresa o mistero.",
+      "examples": [
+        "Un sorriso comparve sul suo volto per un istante.",
+        "Un'ombra comparve e subito scomparve dietro l'angolo."
+      ],
+      "nota": "Può implicare un'apparizione breve o non del tutto chiara."
+    }
+  ]
+}

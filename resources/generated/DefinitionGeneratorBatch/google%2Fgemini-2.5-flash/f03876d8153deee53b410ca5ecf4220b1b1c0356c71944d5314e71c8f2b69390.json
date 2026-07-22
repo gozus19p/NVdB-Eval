@@ -1,0 +1,138 @@
+{
+  "lemma": "coltello",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9f69ad0a50d065535a"
+    },
+    "source": "paraviaXML/24480.xml",
+    "lemma": "coltello",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arnese formato da una lama affilata inserita in un manico, usato come utensile per tagliare o anche come arma",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coltello da cucina",
+              "da tavola",
+              "da pesce",
+              "da frutta",
+              "da innesto",
+              "tagliare",
+              "affettare",
+              "incidere qcs. col coltello",
+              "ferire",
+              "uccidere qcn. col coltello",
+              "usare forchetta e coltello"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per difendersi o aggredire qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mettere mano al coltello"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [
+              "simile",
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Durante una rissa e simile , arrivare a prendersi a coltellate; un grande dolore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "venire al coltello",
+              "un coltello nel cuore"
+            ]
+          },
+          {
+            "number": 7,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Molto denso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nebbia",
+              "fumo che si taglia col coltello",
+              "una tensione che si taglia col coltello"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nello sci alpinismo ; None lama",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Strumento dotato di una lama affilata e un manico, utilizzato per tagliare diversi materiali o alimenti.",
+      "examples": [
+        "Ha usato un coltello da cucina per affettare il pane fresco.",
+        "Il coltello era così affilato che si è tagliato un dito senza accorgersene."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "In senso figurato, minaccia o condizione di grave pericolo imminente.",
+      "examples": [
+        "Vivevano con il coltello alla gola per via dei debiti accumulati.",
+        "La trattativa era un coltello a doppio taglio, poteva risolversi in modo positivo o negativo."
+      ],
+      "nota": "Spesso usato in espressioni idiomatiche come 'coltello alla gola' o 'coltello a doppio taglio'."
+    }
+  ]
+}

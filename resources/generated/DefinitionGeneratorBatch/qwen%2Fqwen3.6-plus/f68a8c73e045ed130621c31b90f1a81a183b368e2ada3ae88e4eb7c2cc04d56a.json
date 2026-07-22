@@ -1,0 +1,167 @@
+{
+  "lemma": "turno",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6f69ad0a50d065ff26"
+    },
+    "source": "paraviaXML/124116.xml",
+    "lemma": "turno",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciascuno dei periodi di tempo, specialmente di otto ore, in cui viene suddivisa l’attività lavorativa, ovunque sia necessario il pieno utilizzo delle macchine o la copertura notturna per esigenze di servizio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavoro al turno di notte",
+              "è stato un turno molto faticoso"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il gruppo, la squadra che lavora in quel particolare periodo di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il primo turno ha lasciato il posto al secondo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Momento in cui spetta a qualcuno compiere una determinata attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stasera è il mio turno di lavare i piatti",
+              "aspetta il tuo turno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avvicendamento di persone che si alternano nello svolgere un determinato lavoro o servizio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "organizzare i turni di guardia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "estensivo",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, in un torneo, ciascuna delle fasi eliminatorie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "uscire al primo turno"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giornata di un campionato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere squalificato per due turni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo, m.",
+      "definition": "Successione prestabilita di persone che devono intervenire, accedere a un servizio o svolgere un compito uno alla volta, rispettando l'ordine di arrivo o una rotazione concordata.",
+      "examples": [
+        "Ogni studente deve attendere il proprio turno prima di esporre la tesina davanti alla commissione.",
+        "In sala d'attesa, è fondamentale rispettare l'ordine di chiamata e non saltare il turno di chi è arrivato prima."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, m.",
+      "definition": "Fascia oraria dedicata all'esercizio di un'attività lavorativa o di servizio, gestita con il ricambio del personale per garantire la continuità operativa nell'arco delle ventiquattro ore.",
+      "examples": [
+        "Il medico ha appena concluso il turno mattutino e lascia il reparto al collega del pomeriggio.",
+        "Molti operai preferiscono il turno serale per poter accompagnare i figli a scuola la mattina."
+      ],
+      "nota": "Frequente in contesti industriali, sanitari e di pubblica utilità; spesso accompagnato da aggettivi temporali come notturno, diurno o festivo."
+    },
+    {
+      "pos": "sostantivo, m.",
+      "definition": "Singola giornata di gara, fase o incontro inserito nella programmazione strutturata di un torneo o di un campionato sportivo.",
+      "examples": [
+        "La squadra ha superato agevolmente il primo turno eliminatorio della coppa nazionale.",
+        "Il calendario della massima serie prevede un impegno infrasettimanale prima della pausa natalizia."
+      ],
+      "nota": null
+    }
+  ]
+}

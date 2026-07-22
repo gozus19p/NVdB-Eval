@@ -1,0 +1,170 @@
+{
+  "lemma": "ma",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae2369ad0a50d064eba0"
+    },
+    "source": "paraviaXML/65169.xml",
+    "lemma": "ma",
+    "grammar": [
+      "cong.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vversativo, contrappone due elementi di una proposizione che hanno la stessa funzione sintattica o due proposizioni della stessa specie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli ho telefonato, ma non l’ho trovato",
+              "è intelligente ma svogliato",
+              "la salsa era buona, ma un po’ salata",
+              "è stato molto male, ma poi si è ripreso",
+              "pensavo di riuscire, ma non ce l’ho fatta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "familiare",
+              "intensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non è bella, ma bellissima",
+              "sono stanco, ma proprio stanco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Posto all’inizio di un periodo indica il passaggio da un argomento a un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ma torniamo al problema principale",
+              "ma riprendiamo il racconto dall’inizio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nfatico o in espressioni interrogative o esclamative",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ma certo!",
+              "ma tu ci credi?",
+              "ma non scherzare!",
+              "ma che bella notizia!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dubbio, incertezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dopo tanti ma e se, si decisero",
+              "con lui ci sono sempre dei ma",
+              "non c’è ma che tenga!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione coordinante avversativa",
+      "definition": "Introduce una proposizione che esprime un contrasto, una limitazione o una correzione rispetto a quanto affermato nella proposizione precedente.",
+      "examples": [
+        "Volevo uscire, ma pioveva troppo.",
+        "È un bravo studente, ma a volte è distratto."
+      ],
+      "nota": "Può introdurre anche un'obiezione o un'attenuazione. In alcuni casi, soprattutto nel parlato, può assumere valore enfatico o esortativo (es. 'Ma dai!')."
+    },
+    {
+      "pos": "congiunzione coordinante con valore limitativo",
+      "definition": "Introduce una precisazione o una restrizione rispetto a quanto detto in precedenza, spesso con sfumatura concessiva.",
+      "examples": [
+        "È un bel film, ma un po' troppo lungo.",
+        "Mi piace molto, ma non posso permettermelo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m. invariabile",
+      "definition": "Nome della dodicesima lettera dell'alfabeto italiano, corrispondente alla consonante nasale bilabiale.",
+      "examples": [
+        "La parola 'mamma' inizia con la ma.",
+        "Scrivi una maiuscola dopo il punto."
+      ],
+      "nota": "In contesti tecnici o didattici, può indicare anche il suono corrispondente alla lettera."
+    },
+    {
+      "pos": "interiezione",
+      "definition": "Esprime stupore, incredulità, disappunto o per introdurre una domanda retorica o un'esclamazione.",
+      "examples": [
+        "Ma che cosa stai dicendo?",
+        "Ma guarda un po' chi si vede!"
+      ],
+      "nota": "Spesso usato nel parlato per enfatizzare una reazione emotiva o per richiamare l'attenzione."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "se",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6569ad0a50d06522eb"
+    },
+    "source": "paraviaXML/105281.xml",
+    "lemma": "se",
+    "grammar": [
+      "pron.pers. di terza pers.m. e f.sing. e pl."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Forma che il pronome assume con i pronomi atoni e la particella , in posizione proclitica o enclitica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "si",
+              "lo",
+              "la",
+              "li",
+              "le",
+              "ne",
+              "se l’è visto davanti",
+              "se lo mise in tasca",
+              "non vuole prendersene cura",
+              "prendersela a cuore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Da solo, specialmente in posizione enclitica, si: Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non pò fermarse"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione condizionale",
+      "definition": "Introduce una protasi, ovvero una proposizione che esprime la condizione necessaria affinché si verifichi quanto enunciato nella principale.",
+      "examples": [
+        "Se piove, rimango a casa.",
+        "Ti aiuto se mi spieghi cosa fare."
+      ],
+      "nota": "La proposizione principale può essere esplicita o sottintesa."
+    },
+    {
+      "pos": "congiunzione interrogativa indiretta",
+      "definition": "Introduce una proposizione interrogativa indiretta, esprimendo un dubbio o un'alternativa.",
+      "examples": [
+        "Mi chiedo se arriverà in tempo.",
+        "Non so se preferisca il tè o il caffè."
+      ],
+      "nota": "Equivalente a \"se... o se...\" per interrogative disgiuntive."
+    }
+  ]
+}

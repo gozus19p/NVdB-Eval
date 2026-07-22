@@ -1,0 +1,156 @@
+{
+  "lemma": "circa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6469ad0a50d0652242"
+    },
+    "source": "paraviaXML/22865.xml",
+    "lemma": "circa",
+    "grammar": [
+      "prep.",
+      "avv.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativamente a, intorno a, a proposito di",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non so nulla di nuovo circa quell’affare",
+              "circa al prezzo ci accorderemo dopo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come complemento di luogo, intorno a: Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "volgìensi circa noi le due ghirlande"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "circa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente preposto a numeri, quasi, pressappoco, su per giù: anche posposto al numero: abbr. c. circa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è alto circa un metro e ottanta",
+              "sono circa le due",
+              "il viaggio dura circa tre ore",
+              "bevo circa un litro di latte al giorno",
+              "resterò due settimane circa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simbolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Simbolo ~",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "finanza",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Finanza , tariffa di mediazione che il cliente corrisponde all’agente di cambio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "avverbio",
+      "definition": "Indica una quantità, misura o valore approssimati, senza pretesa di precisione esatta.",
+      "examples": [
+        "Il viaggio dura circa tre ore.",
+        "Alla festa c'erano circa duecento persone.",
+        "Costa circa cinquanta euro."
+      ],
+      "nota": "Può precedere o seguire il numero o la quantità a cui si riferisce, anche se la posizione preverbale è più comune. Sinonimo di 'all'incirca', 'pressappoco', 'più o meno'."
+    },
+    {
+      "pos": "preposizione",
+      "definition": "Riguardo a, in merito a; introduce l'argomento o il tema di cui si tratta.",
+      "examples": [
+        "Circa la tua proposta, dobbiamo ancora discuterne in riunione.",
+        "Non ho ricevuto alcuna comunicazione circa le modifiche al contratto.",
+        "Rimangono molti dubbi circa l'effettiva fattibilità del progetto."
+      ],
+      "nota": "Uso prevalentemente formale o burocratico-amministrativo. In contesti informali è preferito 'riguardo a', 'in merito a' o 'su'."
+    }
+  ]
+}

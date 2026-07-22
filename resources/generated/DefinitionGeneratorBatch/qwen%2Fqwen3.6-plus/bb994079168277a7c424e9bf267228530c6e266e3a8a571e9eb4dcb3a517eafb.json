@@ -1,0 +1,220 @@
+{
+  "lemma": "operazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0c69ad0a50d065ae46"
+    },
+    "source": "paraviaXML/76451.xml",
+    "lemma": "operazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’operare e il suo risultato, azione, procedimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "infilare un ago non è un’operazione facilissima"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di atti volti a un fine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’abile operazione di marketing",
+              "operazione finanziaria",
+              "economica",
+              "commerciale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "medicina"
+            ],
+            "definitions": [
+              {
+                "glossa": "Medicina ; intervento chirurgico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "linguaggio militare",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguaggio militare , insieme di attività e avvenimenti militari sia in tempo bellico che in tempo di pace",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operazione navale",
+              "aerea",
+              "operazione difensiva",
+              "offensiva"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Serie di azioni o iniziative coordinate di vasta portata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operazione mare pulito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , processo che da uno o più enti noti permette di ottenerne un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Operazione aritmetica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo, f.",
+      "definition": "Intervento chirurgico o procedura terapeutica invasiva eseguita sul corpo umano per curare patologie o modificare strutture anatomiche.",
+      "examples": [
+        "L'équipe chirurgica ha programmato l'operazione al ginocchio per martedì mattina.",
+        "Dopo anni di dolore, il paziente si è finalmente sottoposto all'operazione per sostituire la valvola cardiaca."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, f.",
+      "definition": "Procedura di calcolo o elaborazione dati che trasforma uno o più valori di partenza secondo regole formali prestabilite.",
+      "examples": [
+        "La moltiplicazione è un'operazione fondamentale insegnata fin dalle scuole elementari.",
+        "Il nuovo processore esegue ogni operazione aritmetica in frazioni di nanosecondo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, f.",
+      "definition": "Transazione commerciale o finanziaria finalizzata allo scambio di beni, servizi o capitali, spesso di rilevante entità economica.",
+      "examples": [
+        "La banca ha autorizzato l'operazione di bonifico dopo i controlli di routine.",
+        "L'acquisto della concorrente rappresenta l'operazione di mercato più rilevante del decennio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, f.",
+      "definition": "Missione pianificata e coordinata condotta da forze armate o di sicurezza per raggiungere obiettivi tattici o di ordine pubblico.",
+      "examples": [
+        "La polizia ha lanciato l'operazione all'alba per smantellare la rete di traffico illecito.",
+        "I reparti speciali hanno coordinato l'operazione di liberazione degli ostaggi in territorio straniero."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, f.",
+      "definition": "Insieme organizzato di azioni o procedure tecniche svolte in sequenza per compiere una mansione o risolvere un compito pratico concreto.",
+      "examples": [
+        "La sostituzione delle guarnizioni è un'operazione che richiede attrezzi specifici e molta pazienza.",
+        "Ogni controllo di qualità prima della spedizione è un'operazione standardizzata dal manuale aziendale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, f.",
+      "definition": "Campagna o iniziativa pubblica concepita con calcolo strategico, solitamente per influenzare l'opinione pubblica, promuovere un'immagine o ottenere consenso.",
+      "examples": [
+        "Gli esperti di relazioni pubbliche hanno definito quel video un'operazione di marketing ben orchestrata.",
+        "L'annuncio improvviso del ministro è stato interpretato dai media come un'operazione di facciata."
+      ],
+      "nota": null
+    }
+  ]
+}

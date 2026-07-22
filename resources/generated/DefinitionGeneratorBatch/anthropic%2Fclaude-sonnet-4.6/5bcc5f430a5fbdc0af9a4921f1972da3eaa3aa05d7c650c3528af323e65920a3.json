@@ -1,0 +1,124 @@
+{
+  "lemma": "rivelare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafd769ad0a50d06651b9"
+    },
+    "source": "paraviaXML/98679.xml",
+    "lemma": "rivelare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Svelare, rendere noto ciò che è segreto, poco conosciuto, misterioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rivelare un segreto",
+              "rivelare una confidenza",
+              "non ha voluto rivelare le sue intenzioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Palesare, mostrare con evidenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questa risposta rivela la tua malafede",
+              "i suoi occhi rivelano gioia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rendere percepibile, per mezzo di particolari congegni o procedimenti, un fenomeno non direttamente osservabile con i sensi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’apparecchio rivela la presenza di radiazioni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rendere noto qualcosa che era segreto, nascosto o ignorato; divulgare un'informazione riservata.",
+      "examples": [
+        "Il giornalista ha rivelato i dettagli dello scandalo al grande pubblico.",
+        "Alla fine ha rivelato il nome del suo informatore alla polizia."
+      ],
+      "nota": "È il senso di base e più frequente; si contrappone a 'nascondere' e 'tacere'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Manifestare o mostrare qualcosa di non immediatamente visibile, come una qualità, un carattere o un aspetto di qualcuno o qualcosa.",
+      "examples": [
+        "Il suo comportamento in quella situazione ha rivelato una grande forza d'animo.",
+        "L'analisi dei dati rivela una tendenza preoccupante nella spesa pubblica."
+      ],
+      "nota": "In questo uso il soggetto è spesso una cosa, un fatto o un'azione che funge da segnale rivelatore di qualcosa di più profondo."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "In ambito religioso, comunicare una verità divina o soprannaturale all'umanità attraverso un intermediario o in modo diretto.",
+      "examples": [
+        "Secondo la tradizione, Dio rivelò la Legge a Mosè sul monte Sinai.",
+        "I profeti erano ritenuti in grado di rivelare la volontà divina al popolo."
+      ],
+      "nota": "Accezione tipica del linguaggio teologico; da questo uso deriva il sostantivo 'rivelazione' nel senso di 'rivelazione divina'."
+    },
+    {
+      "pos": "verbo riflessivo (rivelarsi)",
+      "definition": "Mostrarsi per quello che si è realmente; manifestare la propria vera natura o identità.",
+      "examples": [
+        "Col tempo, quell'investimento si è rivelato un errore costoso.",
+        "Si è rivelata una persona completamente diversa da come la immaginavo."
+      ],
+      "nota": "Nella forma riflessiva il verbo è spesso seguito da un aggettivo o un sostantivo predicativo e indica il disvelarsi progressivo di una qualità o condizione."
+    }
+  ]
+}

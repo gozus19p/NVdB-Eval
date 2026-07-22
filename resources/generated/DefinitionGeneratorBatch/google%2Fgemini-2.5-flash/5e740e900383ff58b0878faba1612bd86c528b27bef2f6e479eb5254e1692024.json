@@ -1,0 +1,248 @@
+{
+  "lemma": "commettere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa969ad0a50d0662cf5"
+    },
+    "source": "paraviaXML/24724.xml",
+    "lemma": "commettere",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare, compiere un’azione deprecabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commettere un errore",
+              "commettere un furto",
+              "un reato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far combaciare, congiungere, incastrare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commettere le tessere di un mosaico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Affidare, consegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ai presenti diletti | la breve età commetti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Leopardi)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Commissionare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commettere un abito in sartoria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ordinare, imporre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ecco io commetto | che non s’offenda il popol tuo cristiano"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Tasso)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Raccomandare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Immettere, introdurre, diffondere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commettere male",
+              "commettere zizzania"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Combaciare perfettamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Compiere un'azione, specialmente negativa, illecita o dannosa.",
+      "examples": [
+        "Temeva di commettere un errore irreparabile durante l'operazione.",
+        "Il criminale ha commesso un grave furto nel centro commerciale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Affidare un compito o un incarico a qualcuno; dare in gestione o in custodia.",
+      "examples": [
+        "Ho commesso l'organizzazione dell'evento al mio assistente più fidato.",
+        "Gli fu commessa la responsabilità di proteggere la famiglia reale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Impegnarsi o dedicarsi con serietà a un'azione, un'attività o un progetto, specialmente se di lunga durata o di notevole impegno.",
+      "examples": [
+        "Si è commesso allo studio della medicina con grande dedizione.",
+        "Non voleva commettersi in un progetto senza avere tutte le informazioni necessarie."
+      ],
+      "nota": "Spesso usato nella forma pronominale 'commettersi a qualcosa' o 'commettersi di fare qualcosa'."
+    }
+  ]
+}

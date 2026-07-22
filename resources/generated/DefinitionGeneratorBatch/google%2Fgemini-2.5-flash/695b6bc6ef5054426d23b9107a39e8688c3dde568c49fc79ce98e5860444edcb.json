@@ -1,0 +1,681 @@
+{
+  "lemma": "gruppo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaed769ad0a50d065823c"
+    },
+    "source": "paraviaXML/50591.xml",
+    "lemma": "gruppo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di più cose o persone riunite assieme o poste l’una accanto all’altra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un gruppo di piante",
+              "di case",
+              "un gruppo di bambini",
+              "di turisti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di persone caratterizzate da ideali e interessi comuni o da un comune obiettivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "far parte di un gruppo",
+              "gruppo giovanile",
+              "religioso",
+              "sportivo",
+              "politico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di persone che collaborano in un’attività organizzata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gruppo di ricerca",
+              "di studio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Complesso musicale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un gruppo rock",
+              "un gruppo vocale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1e",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nel ciclismo e nella corsa, l’insieme dei corridori che procedono in formazione compatta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "seguire il gruppo",
+              "uscire",
+              "staccarsi dal gruppo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1f",
+        "usage": "TS",
+        "field": "linguaggio militare",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguaggio militare , nell’artiglieria e nella cavalleria, formazione costituita da due o più batterie o squadroni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In marina, formazione costituita da unità similari destinate a un’azione comune",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gruppo sommergibili",
+              "dragamine"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In aeronautica, unità di più squadriglie sottostanti a un unico comando",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1g",
+        "usage": "TS",
+        "field": "economia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia , insieme di più imprese che producono lo stesso prodotto o prodotti fra loro complementari, soggette a una sola unità direttiva allo scopo di rafforzare l’efficienza produttiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il gruppo FIAT"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arte, rappresentazione artistica, specialmente scultorea, di cose o persone",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un gruppo marmoreo",
+              "il gruppo del Laocoonte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "geografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geografia , gruppo montuoso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il gruppo del Monte Bianco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "tecnica, tecnologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , insieme coordinato di dispositivi che costituiscono un’unità funzionale: funziona da aggettivogeno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gruppo erogatore",
+              "gruppo lavello",
+              "gruppo cottura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "filologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filologia ; famiglia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nel pattinaggio artistico, figura alla cui formazione concorrono più di due pattinatori",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica ; gruppetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica zoologia biologia , nella tassonomia, insieme, non sempre con specifico valore tassonomico, di categorie coordinate o correlate tra loro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gruppo di generi",
+              "serpente del gruppo degli Aglifi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9a",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , nel sistema periodico di Mendeleev, insieme di elementi che manifestano proprietà chimiche simili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gruppo dei gas nobili",
+              "gruppo del carbonio",
+              "dei metalli alcalini"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9b",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , raggruppamento atomico in grado di caratterizzare il comportamento chimico del composto di appartenenza qualunque sia la rimanente parte della molecola a cui resta collegato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gruppo aldeidico",
+              "gruppo amminico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9c",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , in chimica organica, raggruppamento di atomi individuabile all’interno di una molecola e talvolta trasferibile da una molecola all’altra come radicale libero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gruppo metilico",
+              "gruppo etilico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "mineralogia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mineralogia , insieme di specie mineralogiche con analoga composizione chimica o caratteristiche fisiche o fisico–chimiche comuni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , struttura algebrica composta da un insieme di elementi su cui è definita un’operazione binaria associativa, rispetto alla quale esistono l’elemento neutro e, per ogni elemento, il suo inverso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia ; gruppo sanguigno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13a",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , nella linguistica storica, raggruppamento di lingue, specialmente affini, all’interno di una più ampia famiglia linguistica, come nell’insieme delle lingue indoeuropee il gruppo indoario",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "esempio"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nella linguistica descrittiva, specialmente nella grammatica sistemica, unità di rango intermedio tra la proposizione e la parola ( ad esempio nella proposizione è il gruppo nominale, è il gruppo verbale)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il cavallo corre sul prato",
+              "il cavallo",
+              "corre sul prato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Categoria professionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sacchetto, involto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Groppo, nodo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "finanza",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia finanza , g. di azionisti che possiede una quota del pacchetto azionario sufficiente a garantire il controllo di una società per azioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "diritto internazionale",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto internazionale , g. ristretto di stati demandati dall’ONU a svolgere una funzione di mediazione fra le parti coinvolte in un conflitto armato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Insieme di persone, animali o cose che si trovano vicini, sono associati in qualche modo o condividono una caratteristica comune.",
+      "examples": [
+        "Un gruppo di amici si è riunito per cena.",
+        "Abbiamo visto un gruppo di uccelli migratori nel cielo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Organizzazione o associazione di individui uniti da un obiettivo o interesse comune, spesso con una struttura interna.",
+      "examples": [
+        "Il nostro gruppo di lavoro ha concluso il progetto con successo.",
+        "È entrato a far parte di un gruppo musicale emergente."
+      ],
+      "nota": "Può riferirsi a formazioni sociali più o meno strutturate, da associazioni informali a vere e proprie imprese."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Insieme di elementi omogenei o correlati, spesso usati per classificare o organizzare informazioni in ambito scientifico, accademico o didattico.",
+      "examples": [
+        "Gli studenti sono stati divisi in gruppi per l'esercizio in laboratorio.",
+        "Questa tabella mostra i dati suddivisi per gruppo demografico."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "In ambito professionale o aziendale, insieme di aziende, società o enti economici legati tra loro da rapporti finanziari o di controllo.",
+      "examples": [
+        "Il gruppo FIAT ha annunciato nuove assunzioni.",
+        "Il gruppo editoriale ha acquisito una nuova rivista."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "In matematica, struttura algebrica che consiste in un insieme non vuoto e un'operazione binaria che soddisfa determinate proprietà (associatività, esistenza dell'elemento neutro e dell'inverso).",
+      "examples": [
+        "Lo studio dei gruppi è fondamentale nell'algebra astratta.",
+        "Il gruppo delle simmetrie di un quadrato è un esempio classico."
+      ],
+      "nota": "Uso specifico nel linguaggio specialistico della matematica."
+    }
+  ]
+}

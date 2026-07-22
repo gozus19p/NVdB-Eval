@@ -1,0 +1,245 @@
+{
+  "lemma": "cucina",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeaa69ad0a50d0655cc3"
+    },
+    "source": "paraviaXML/29589.xml",
+    "lemma": "cucina",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stanza in cui si preparano e si cuociono i cibi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mangiare in cucina",
+              "un appartamento di due stanze, bagno e cucina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’arte del preparare e far cuocere i cibi: di ricette; il modo particolare e caratteristico di preparare le vivande",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "corso di cucina",
+              "libro di cucina",
+              "la cucina francese",
+              "la cucina regionale italiana"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "I cibi squisiti, i pasti cucinati con cura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "amare la buona cucina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cibo cucinato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "odore di cucina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Apparecchio a fornelli per cucinare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cucina elettrica",
+              "a gas"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Complesso dei mobili che arredano tale stanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comprare la cucina nuova"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "gergale",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giornalismo , lavoro redazionale; redazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "alimentazione",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alimentazione , nei caseifici, locale in cui si prepara il formaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "locale della casa o di un esercizio pubblico adibito alla preparazione dei cibi",
+      "examples": [
+        "La cucina è stata appena ristrutturata con mobili moderni.",
+        "Nel ristorante, la cucina è separata dalla sala da pranzo per motivi igienici."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "insieme degli elettrodomestici e dei mobili utilizzati per preparare e conservare i cibi",
+      "examples": [
+        "Ho comprato una cucina nuova con piano cottura a induzione.",
+        "La cucina in legno massello si abbina perfettamente al salotto."
+      ],
+      "nota": "Spesso usato per indicare l'arredamento specifico del locale adibito alla preparazione dei cibi."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "arte e tecnica di preparare i cibi",
+      "examples": [
+        "Mia nonna è famosa per la sua cucina tradizionale.",
+        "Ho seguito un corso di cucina per imparare a fare la pasta fresca."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "insieme delle pietanze tipiche di una regione, di un paese o di una cultura",
+      "examples": [
+        "La cucina giapponese è apprezzata in tutto il mondo per la sua raffinatezza.",
+        "Durante il viaggio, ho scoperto i sapori della cucina messicana."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "preparare un cibo mediante cottura o altri procedimenti",
+      "examples": [
+        "Stasera cucino le lasagne per tutta la famiglia.",
+        "Non so cucinare il pesce, preferisco ordinare al ristorante."
+      ],
+      "nota": "Il participio passato 'cucinato' può essere usato come aggettivo (es. 'pasta cucinata')."
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "essere in fase di preparazione mediante cottura",
+      "examples": [
+        "Lascia cucinare la carne a fuoco lento per almeno un'ora.",
+        "Il risotto sta cucinando, non toccarlo!"
+      ],
+      "nota": "Usato spesso in forma impersonale o con soggetto inanimato."
+    }
+  ]
+}

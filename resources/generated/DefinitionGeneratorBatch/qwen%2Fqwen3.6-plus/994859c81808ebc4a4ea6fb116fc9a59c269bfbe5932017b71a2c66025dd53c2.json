@@ -1,0 +1,93 @@
+{
+  "lemma": "indagine",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaede69ad0a50d065886a"
+    },
+    "source": "paraviaXML/55470.xml",
+    "lemma": "indagine",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ricerca sistematica per conoscere, scoprire qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "indagine demoscopica",
+              "statistica",
+              "storica",
+              "filologica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , investigazione giudiziaria o degli organi di polizia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziare",
+              "concludere un’indagine",
+              "depistare le indagini",
+              "dare un nuovo corso alle indagini"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività di ricerca e studio condotta in modo sistematico per raccogliere e analizzare dati, informazioni o opinioni su un determinato argomento o fenomeno.",
+      "examples": [
+        "L'istituto nazionale di statistica ha recentemente diffuso i risultati dell'indagine sulla forza lavoro.",
+        "L'università coordina un'indagine internazionale per monitorare le abitudini alimentari degli adolescenti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme di accertamenti e operazioni condotti da autorità giudiziarie o di polizia per ricostruire eventi illeciti, raccogliere prove e individuare i responsabili.",
+      "examples": [
+        "I carabinieri hanno eseguito i fermi dopo aver concluso le indagini preliminari sul traffico di sostanze stupefacenti.",
+        "La magistratura ha aperto un'indagine per verificare se i fondi pubblici siano stati impiegati correttamente."
+      ],
+      "nota": null
+    }
+  ]
+}

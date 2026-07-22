@@ -1,0 +1,104 @@
+{
+  "lemma": "sorriso",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5369ad0a50d065e7a9"
+    },
+    "source": "paraviaXML/111189.xml",
+    "lemma": "sorriso",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lieve contrazione dei muscoli delle labbra atteggiate a un riso appena accennato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un sorriso dolce",
+              "ironico",
+              "forzato",
+              "fare un sorriso",
+              "avere un bel sorriso"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere un carattere allegro; avere un atteggiamento affabile e cordiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere sempre il sorriso sulle labbra",
+              "avere un sorriso per tutti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Apparenza piacevole, specialmente del paesaggio, di elementi naturali, di una situazione, che trasmette letizia e serenità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il sorriso della primavera",
+              "della giovinezza",
+              "della natura"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo, maschile",
+      "definition": "Espressione del volto ottenuta stendendo le labbra in modo tale da mostrare parzialmente i denti, per indicare tipicamente uno stato d'animo positivo come gioia, soddisfazione, benevolenza o cortesia.",
+      "examples": [
+        "Il suo dolce sorriso riusciva a rassicurare chiunque.",
+        "Mi accolse con un sorriso caloroso e mi fece subito sentire a mio agio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, maschile",
+      "definition": "Atteggiamento o manifestazione di gentilezza, approvazione, favore o benevolenza non necessariamente espressa fisicamente.",
+      "examples": [
+        "La fortuna finalmente gli ha rivolto un sorriso.",
+        "Il progetto è partito sotto i sorrisi dell'intera comunità."
+      ],
+      "nota": "Senso figurato, spesso utilizzato in espressioni come 'il sorriso della fortuna', per indicare un momento favorevole."
+    }
+  ]
+}

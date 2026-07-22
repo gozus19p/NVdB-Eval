@@ -1,0 +1,63 @@
+{
+  "lemma": "utilizzare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe969ad0a50d06660fe"
+    },
+    "source": "paraviaXML/125439.xml",
+    "lemma": "utilizzare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "utilizzare-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impiegare utilmente, usare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "utilizzare gli avanzi",
+              "utilizzare i ritagli di tempo",
+              "utilizzare un tecnico",
+              "un professionista",
+              "un esperto"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Servirsi di qualcosa o di qualcuno per uno scopo specifico, ricavarne un'utilità o un beneficio.",
+      "examples": [
+        "Dobbiamo utilizzare al meglio le risorse a nostra disposizione.",
+        "Ha utilizzato la sua influenza per ottenere un vantaggio personale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Impiegare un oggetto, uno strumento o un metodo per svolgere una particolare funzione o azione.",
+      "examples": [
+        "Per montare il mobile devi utilizzare la chiave inglese fornita nella confezione.",
+        "Il cuoco ha utilizzato ingredienti freschi per preparare il piatto."
+      ],
+      "nota": null
+    }
+  ]
+}

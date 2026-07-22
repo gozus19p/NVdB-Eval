@@ -1,0 +1,164 @@
+{
+  "lemma": "bosco",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae8769ad0a50d0653f10"
+    },
+    "source": "paraviaXML/15273.xml",
+    "lemma": "bosco",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "generalmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Terreno coperto di alberi, generalmente di alto fusto, arbusti e altre piante selvatiche; l’insieme di tali alberi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bosco di abeti, di querce",
+              "perdersi in un bosco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Groviglio di cose fitte, intricate",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Legna, legname",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "zootecnia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Zootecnia , in bachicoltura, il mucchio di fastelli in cui i bachi fanno il bozzolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "termine generico di ornitologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine generico di ornitologia ; moriglione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "agricoltura, agraria, agronomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Agricoltura, agraria, agronomia , vitigno che produce uva bianca diffuso in Liguria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Ampia estensione di terreno ricoperta prevalentemente da alberi ad alto fusto e vegetazione spontanea, spesso non coltivata.",
+      "examples": [
+        "Abbiamo fatto una passeggiata nel bosco dietro casa.",
+        "Il bosco di querce è stato colpito da un incendio la scorsa estate."
+      ],
+      "nota": "Può indicare sia aree naturali che zone gestite per la produzione di legname. In contesti geografici o amministrativi, può essere sinonimo di 'foresta', sebbene quest'ultima suggerisca spesso una maggiore estensione e densità."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Insieme fitto e disordinato di oggetti o elementi che ricordano la densità di una foresta.",
+      "examples": [
+        "Un bosco di antenne spuntava dai tetti del quartiere.",
+        "Dopo l'esplosione, un bosco di schegge si conficcò nel muro."
+      ],
+      "nota": "Uso figurato, spesso iperbolico, per descrivere una grande quantità di elementi verticali o sporgenti."
+    }
+  ]
+}

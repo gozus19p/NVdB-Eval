@@ -1,0 +1,268 @@
+{
+  "lemma": "papa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1269ad0a50d065b360"
+    },
+    "source": "paraviaXML/79014.xml",
+    "lemma": "papa",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "nome proprio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iniziale",
+              "maiuscolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anche con iniziale maiuscolo , il vescovo di Roma e capo della Chiesa cattolica, ritenuto dai fedeli vicario di Cristo in terra e successore di san Pietro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "eleggere il papa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Roma; premesso a un non è mai preceduto da articolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la città dei papi",
+              "papa Giovanni XXIII"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare una vita comoda, agiata, tranquilla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stare",
+              "vivere come un papa",
+              "da p., fare una vita da papi"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "estensivo",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Andare in un luogo e non visitare le cose più importanti; tralasciare la cosa più importante, non portare a termine qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "andare a Roma e non vedere il papa"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per indicare che nessuno è insostituibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "morto un papa se ne fa un altro"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [
+              "riferimento",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con riferimento a schiaffi e simile che, una volta dati, non si possono togliere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "neanche il papa glielo può levare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "scherzoso",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Massima autorità all’interno di un gruppo, di un partito, di una corrente e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "religione"
+            ],
+            "definitions": [
+              {
+                "glossa": "Religione ; papasso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "meridionale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale meridionale , in alcune zone dell’Italia meridionale di area linguistica greca, appellativo del sacerdote",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, nei tarocchi, uno degli arcani maggiori",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il cardinale a capo della Sacra congregazione di Propaganda fide",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il Gran Maestro della massoneria.",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Capo supremo della Chiesa cattolica romana, considerato il successore di San Pietro.",
+      "examples": [
+        "Il nuovo papa sarà eletto dal conclave dei cardinali.",
+        "Il papa ha pronunciato un discorso dalla finestra del palazzo apostolico."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Titolo onorifico usato per rivolgersi ad autorità religiose in alcune chiese orientali.",
+      "examples": [
+        "In quella comunità copta, il papa di Alessandria è una figura venerata.",
+        "Lo storico documentò i decreti del papa della Chiesa armena."
+      ],
+      "nota": "Questo uso è limitato a contesti storici o relativi a specifiche tradizioni cristiane non cattoliche."
+    }
+  ]
+}

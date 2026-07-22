@@ -1,0 +1,234 @@
+{
+  "lemma": "lei",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6569ad0a50d06522e8"
+    },
+    "source": "paraviaXML/62949.xml",
+    "lemma": "lei",
+    "grammar": [
+      "pron.pers. di terza pers.f.sing.",
+      "s.m.inv.",
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "pronome personale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "persona"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di terza persona f. sing.",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Riferito a persona e, in usi , anche ad animale o a cosa, si usa in funzione di complemento oggetto o di complemento di termine quando si voglia dare a tali complementi particolare rilievo, in luogo delle forme clitiche , oppure in funzione di complemento indiretto preceduto da preposizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la",
+              "le",
+              "senti lei",
+              "guarda lei",
+              "hanno scelto lei",
+              "parla a lei",
+              "a lei non dire nulla",
+              "devo telefonare a lei",
+              "con lei non si può parlare",
+              "è corso da lei",
+              "l’ho saputo da lei",
+              "custodiscilo per lei",
+              "l’ho fatto per lei"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel linguaggio burocratico, usato in luogo dell’aggettivo possessivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il di lei",
+              "la di lei",
+              "il di lei padre",
+              "la di lei madre",
+              "i di lei figli"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Si usa in funzione di soggetto in luogo di o quando si voglia dare particolare rilievo al pronome: quando vi sia opposizione tra soggetti: nelle esclamazioni, in espressioni ellittiche o enfatiche: quando sia preceduto da ; come predicato dopo i verbi ; quando segue un verbo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ella",
+              "essa",
+              "lei non ha dato risposta",
+              "lei è così bella!",
+              "io sono andato, lei no",
+              "beata l.!",
+              "contenta l.!",
+              "tanto",
+              "quanto",
+              "come",
+              "più",
+              "anche",
+              "neppure",
+              "nemmeno",
+              "neanche lei voleva andare",
+              "anche lei è appassionata di fotografia",
+              "sei buona quanto lei",
+              "parere",
+              "sembrare",
+              "diventare",
+              "se io fossi lei",
+              "non sembra più lei",
+              "lo dice lei",
+              "deciderà lei"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come forma allocutiva di cortesia, si usa, in funzione di soggetto o di complemento oggetto, nel rivolgere il discorso a persona di sesso maschile o femminile con cui non si sia in confidenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "verrò da lei quando mi sarà possibile",
+              "lei è stato troppo buono!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La terza persona come forma allocutiva di cortesia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "usare il lei"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Donna amata, fidanzata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ti presento la mia lei"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "pronome personale femminile di terza persona singolare",
+      "definition": "Riferisce a una persona di sesso femminile o a un ente grammaticale femminile già noto nel discorso, ricoprendo la funzione di soggetto o di complemento.",
+      "examples": [
+        "Marco ha rinunciato all'incarico, mentre lei ha accettato senza esitazione.",
+        "Con lei è sempre difficile trovare un compromesso, ma rispetto la sua onestà."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "pronome personale di cortesia",
+      "definition": "Utilizzato per rivolgersi direttamente a un interlocutore o a un'interlocutrice con tono formale e rispettoso, in sostituzione della forma confidenziale di seconda persona singolare.",
+      "examples": [
+        "Scusi, lei ha già compilato il modulo di iscrizione?",
+        "Le chiedo di accomodarsi in sala d'attesa; lei sarà ricevuto a breve."
+      ],
+      "nota": "La concordanza del verbo e degli eventuali predicati o aggettivi rispetta il genere e il numero del destinatario reale, indipendentemente dalla forma invariata del pronome (es. 'lei è stanco' rivolto a un uomo, 'lei è stanca' rivolta a una donna)."
+    }
+  ]
+}

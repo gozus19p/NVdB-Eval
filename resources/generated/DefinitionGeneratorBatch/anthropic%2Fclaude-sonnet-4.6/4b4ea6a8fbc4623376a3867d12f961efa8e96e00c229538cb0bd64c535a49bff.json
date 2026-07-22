@@ -1,0 +1,124 @@
+{
+  "lemma": "coinvolgere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa969ad0a50d0662cad"
+    },
+    "source": "paraviaXML/23996.xml",
+    "lemma": "coinvolgere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Implicare, trascinare in una situazione che comporta rischi o gravi responsabilità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coinvolgere qcn. in un’impresa",
+              "in un’avventura",
+              "è coinvolto nello scandalo delle tangenti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indurre a una partecipazione attiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coinvolgere qcn. nei preparativi della festa",
+              "è in grado di coinvolgere tutti nel gioco",
+              "coinvolgere in una discussione politica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rendere emotivamente partecipe: interessare suscitando emozioni: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la sua gioia mi coinvolge",
+              "la vicenda del film mi ha coinvolto",
+              "la musica la coinvolge",
+              "lasciarsi coinvolgere",
+              "è un romanzo che coinvolge"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Includere qualcuno in un'attività, una situazione o un evento, rendendolo partecipe o corresponsabile.",
+      "examples": [
+        "Il progetto ha coinvolto decine di volontari provenienti da tutta la regione.",
+        "Hanno deciso di coinvolgere i genitori nella gestione delle attività scolastiche."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Implicare o trascinare qualcuno in una situazione negativa, spesso senza che lo abbia cercato.",
+      "examples": [
+        "Non voleva coinvolgere il suo migliore amico in quella brutta faccenda.",
+        "Lo scandalo ha coinvolto anche funzionari che sembravano estranei ai fatti."
+      ],
+      "nota": "In questo senso ha spesso una connotazione negativa, indicando un'implicazione non desiderata o una corresponsabilità in vicende giudiziarie, scandali o situazioni di rischio."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Suscitare partecipazione emotiva intensa, catturare l'interesse o i sentimenti di qualcuno.",
+      "examples": [
+        "Quel film riesce a coinvolgere lo spettatore fin dalle prime scene.",
+        "La sua storia personale ha coinvolto profondamente il pubblico presente in sala."
+      ],
+      "nota": "In questo senso è spesso usato anche nella forma riflessiva 'coinvolgersi', per indicare l'atto di lasciarsi prendere emotivamente da qualcosa o qualcuno."
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Lasciarsi prendere emotivamente da una relazione, una situazione o un'attività, investendovi energia personale e affettiva.",
+      "examples": [
+        "Si è coinvolto troppo in quella relazione e ora fa fatica a distaccarsi.",
+        "Preferisce non coinvolgersi emotivamente per evitare di soffrire."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "lemma": "villa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8469ad0a50d0660f43"
+    },
+    "source": "paraviaXML/127629.xml",
+    "lemma": "villa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Casa signorile, modernamente di dimensioni non eccessive, circondata da un giardino o da un parco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "villa bifamiliare",
+              "unifamiliare",
+              "un quartiere residenziale ricco di ville",
+              "possiede una villa in Costa Smeralda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dimora, spesso di notevole pregio architettonico, situata in una tenuta agricola in cui i padroni trascorrevano i periodi di vacanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le ville medicee sulla collina fiorentina"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Podere: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli comandò che alla villa s’andasse e quivi co’ suoi lavoratori si dimorasse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Borgo, villaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "odi spesso un tonar di ferree canne, | che rimbomba lontan di villa in villa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Leopardi)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Città",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "e rividi la mia villa diserta | da Carlo di Valese"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Carducci)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Dimora di campagna o di villeggiatura, spesso di grandi dimensioni e con giardino",
+      "examples": [
+        "La famiglia ha affittato una villa al mare per le vacanze.",
+        "La villa è circondata da un giardino lussureggiante."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Edificio residenziale di lusso, spesso con più piani e aree comuni",
+      "examples": [
+        "La villa residenziale è situata in una zona esclusiva della città.",
+        "Le ville di lusso in questa zona sono molto richieste."
+      ],
+      "nota": null
+    }
+  ]
+}

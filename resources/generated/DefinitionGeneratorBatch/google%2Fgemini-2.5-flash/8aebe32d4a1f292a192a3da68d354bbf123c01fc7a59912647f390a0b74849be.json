@@ -1,0 +1,220 @@
+{
+  "lemma": "considerare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafab69ad0a50d0662dd8"
+    },
+    "source": "paraviaXML/26316.xml",
+    "lemma": "considerare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Prendere in considerazione, esaminare attentamente e completamente, specialmente a scopo conoscitivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "considerare un problema",
+              "considerare la faccenda da un altro punto di vista"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Osservare attentamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "considera questo quadro, e dimmi cosa ne pensi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tenere presente, tenere in considerazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "considera che è una buona occasione",
+              "considera le tue precarie condizioni di salute",
+              "bisogna considerare che il viaggio sarà lungo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stimare, ritenere, giudicare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ti considero un amico",
+              "lo considerano un buon chitarrista"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Apprezzare, tenere in grande considerazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quest’uomo è considerato da tutti",
+              "il signor Neri è molto considerato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ponderare, riflettere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "considera di più e cerca di essere meno impulsivo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "burocrazia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Burocrazia , contemplare, prevedere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il codice considera questo caso"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Esaminare attentamente qualcosa o qualcuno per giungere a una conclusione o per prendere una decisione.",
+      "examples": [
+        "Dobbiamo considerare tutti i pro e i contro prima di agire.",
+        "Ha considerato a lungo la proposta prima di accettare."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Ritenere o giudicare qualcuno o qualcosa in un determinato modo.",
+      "examples": [
+        "Lo considero un amico leale e sincero.",
+        "Molti considerano quel libro un capolavoro della letteratura moderna."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Tenere conto di un elemento o di una circostanza, includendolo nella propria valutazione o pianificazione.",
+      "examples": [
+        "È importante considerare le esigenze di tutti i partecipanti al progetto.",
+        "Nel budget dobbiamo considerare anche le spese impreviste."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Valutare la propria persona o il proprio operato.",
+      "examples": [
+        "Dovrebbe considerarsi fortunato per l'opportunità ricevuta.",
+        "Dopo l'errore, si è considerato responsabile dell'accaduto."
+      ],
+      "nota": null
+    }
+  ]
+}

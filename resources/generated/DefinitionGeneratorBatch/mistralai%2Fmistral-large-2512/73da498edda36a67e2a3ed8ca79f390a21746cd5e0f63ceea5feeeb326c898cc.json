@@ -1,0 +1,552 @@
+{
+  "lemma": "brutto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a67e"
+    },
+    "source": "paraviaXML/16210.xml",
+    "lemma": "brutto",
+    "grammar": [
+      "agg.",
+      "s.m.",
+      "avv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esteticamente sgradevole: di qualcuno , bruttissimo; non hai un aspetto sano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un brutto naso",
+              "una brutta ragazza",
+              "un brutto quadro",
+              "brutto come il peccato",
+              "come il demonio",
+              "come la fame",
+              "hai una brutta faccia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente negli insulti, usato come rafforzativo di o ; nell’uso infantile: antipatico, cattivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "brutto animale",
+              "brutto cretino",
+              "vattene b.!",
+              "esci, brutta!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Moralmente negativo, cattivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "brutta abitudine",
+              "brutta fama"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insufficiente; scontroso, sgarbato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "brutto voto",
+              "brutto carattere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sconcio, immorale, quelle parolacce",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non dire quelle brutte parole"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Spiacevole, doloroso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "brutta esperienza",
+              "brutta notizia",
+              "ricevere",
+              "subire un brutto colpo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Figuraccia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "brutta figura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2d",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Infausto, sfavorevole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "brutto segno",
+              "brutto momento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2e",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Grave, pericoloso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "brutto incidente",
+              "brutta ferita"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2f",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Difficile da risolvere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "brutto affare",
+              "brutta storia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Piovoso, nuvoloso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "oggi c’è brutto tempo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di mare: mosso, agitato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sporco, sudicio: Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ma tu chi se’, che sì se’ fatto b.?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di peso, lordo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , ciò che è esteticamente sgradevole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il brutto nell’arte"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Aspetto negativo, preoccupante di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il brutto della faccenda"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere come difetto, come lato negativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere di brutto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Persona brutta",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , cattivo tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "oggi si mette al brutto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esprimendo malanimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guardare brutto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1–6,8",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che manca di bellezza o armonia estetica, sgradevole alla vista.",
+      "examples": [
+        "Quel quadro è davvero brutto, non mi piace per niente.",
+        "Ha comprato un vestito brutto, con colori troppo accesi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Di cattiva qualità o scadente in termini di funzionalità o risultato.",
+      "examples": [
+        "Ho fatto un brutto lavoro e devo rifarlo.",
+        "È stato un brutto film, noioso e poco originale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che suscita disagio, paura o preoccupazione per la sua gravità o pericolosità.",
+      "examples": [
+        "Si è trovato in una brutta situazione economica.",
+        "Hanno avuto un brutto incidente stradale."
+      ],
+      "nota": "Spesso usato in contesti che implicano rischio, pericolo o conseguenze negative."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che si comporta in modo moralmente riprovevole o sleale.",
+      "examples": [
+        "È stato un brutto gesto tradire la sua fiducia.",
+        "Non mi aspettavo un comportamento così brutto da parte sua."
+      ],
+      "nota": "Usato per descrivere azioni o atteggiamenti negativi dal punto di vista etico."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che indica condizioni atmosferiche avverse o spiacevoli.",
+      "examples": [
+        "Domani è prevista una brutta giornata di pioggia.",
+        "Con questo brutto tempo non ho voglia di uscire."
+      ],
+      "nota": "Comune in espressioni relative al meteo."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Ciò che è sgradevole o negativo, spesso in contrapposizione a ciò che è bello o positivo.",
+      "examples": [
+        "Nel film c'è una lotta tra il bello e il brutto.",
+        "Non bisogna fermarsi alle apparenze, il brutto può nascondere qualcosa di buono."
+      ],
+      "nota": "Usato in contesti filosofici, artistici o metaforici per indicare il lato negativo o sgradevole della realtà."
+    },
+    {
+      "pos": "avverbio",
+      "definition": "In modo sgradevole o spiacevole, spesso usato in espressioni idiomatiche.",
+      "examples": [
+        "Mi ha trattato proprio brutto, senza alcun rispetto.",
+        "Ha combinato tutto brutto, rovinando la festa."
+      ],
+      "nota": "Forma colloquiale e informale, spesso usata in frasi esclamative o per enfatizzare una valutazione negativa."
+    }
+  ]
+}

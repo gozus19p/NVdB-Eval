@@ -1,0 +1,520 @@
+{
+  "lemma": "serie",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4a69ad0a50d065e058"
+    },
+    "source": "paraviaXML/106446.xml",
+    "lemma": "serie",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Successione ordinata di cose, persone, fatti o argomenti, che siano in relazione tra loro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una serie di dati",
+              "di numeri",
+              "una serie di buone notizie",
+              "di colpi di fortuna",
+              "di disgrazie",
+              "la serie degli imperatori romani",
+              "dei papi"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con un inizio e una fine, che ha un inizio ma non una fine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "serie chiusa",
+              "serie aperta"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Gamma, arco, ventaglio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una serie di possibilità",
+              "di ipotesi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme dei biglietti di banca o di una lotteria o di assegni circolari che appartengono a un medesimo gruppo del quale portano il contrassegno, di solito premesso alla numerazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "TS",
+        "field": "filatelia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filatelia , l’insieme di tutti i francobolli di diverso valore nominale che appartengono alla stessa emissione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "usage": "TS",
+        "field": "tipografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipografia , insieme dei caratteri distinti in base alla pendenza ( tondi e corsivi) al tono ( chiari, neretti) alla larghezza ( stretti, normali, larghi) e alla forma alfabetica ( maiuscoli, maiuscoletti, minuscoli)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il complesso dei fascicoli di una rivista contraddistinti da numeri progressivi; quella che, dopo un periodo di interruzione, si ricomincia a pubblicare contrassegnandola con una nuova segnatura dei fascicoli",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nuova serie"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme degli episodi di un programma televisivo o radiofonico, che ruotano attorno ad alcuni personaggi fissi, protagonisti degli intrecci narratici, che si concludono in ogni singolo episodio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una nuova serie di telefilm",
+              "di cartoni animati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, ciascuna delle categorie in cui singoli atleti o squadre sono suddivisi in base al loro valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un giocatore di serie A",
+              "campionato di serie A",
+              "B",
+              "C"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "statistica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Statistica , successione di dati rappresentati in una tabella nella quale vengono messi in relazione valori relativi alla grandezza e alla frequenza di determinati fenomeni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , somma di infiniti addendi in una particolare successione ( simb. None",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica None",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Industria None specialmente None",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9a",
+        "usage": "TS",
+        "field": "geologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geologia None",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9b",
+        "usage": "TS",
+        "field": "petrografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Petrografia None",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica None",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "serie dell’acetilene"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11a",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia None",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11b",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia None",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "comune",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica None None",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "TS",
+        "field": "linguaggio militare",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Marina linguaggio militare None",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "None",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di prodotto, realizzato industrialmente secondo il procedimento di lavorazione in serie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vettura di serie"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di accessorio o equipaggiamento, per il quale non è necessario pagare un sovrapprezzo perché fa parte del modello prodotto in serie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "chiusura centralizzata di serie"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Successione di elementi, fatti o eventi che si presentano in sequenza o sono accomunati da uno stesso criterio.",
+      "examples": [
+        "Una serie di coincidenze ha portato i due vecchi amici a ritrovarsi nello stesso locale.",
+        "La ricerca ha evidenziato una serie di anomalie nei dati raccolti durante il primo mese."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Classe o livello di classificazione assegnato in base alla qualità, alle prestazioni o al rango, spesso in contrapposizione a versioni speciali o superiori.",
+      "examples": [
+        "Il modello base include solo le funzioni di serie, mentre gli accessori avanzati sono a pagamento.",
+        "La squadra femminile ha conquistato la vittoria del campionato e la promozione nella seconda serie nazionale."
+      ],
+      "nota": "In ambito commerciale e manifatturiero indica specificamente la versione base o standard di un prodotto, contrapposta alle edizioni personalizzate o di lusso."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Opera televisiva o cinematografica strutturata in più puntate collegate da una narrazione continuativa o dalla presenza di personaggi fissi.",
+      "examples": [
+        "La recente serie narrativa disponibile in streaming ha battuto tutti i record di visualizzazioni.",
+        "Gli autori hanno impiegato oltre un anno per sviluppare le trame della nuova stagione della serie."
+      ],
+      "nota": null
+    }
+  ]
+}

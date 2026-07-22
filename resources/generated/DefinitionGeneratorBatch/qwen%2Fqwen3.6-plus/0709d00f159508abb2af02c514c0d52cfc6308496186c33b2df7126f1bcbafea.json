@@ -1,0 +1,147 @@
+{
+  "lemma": "denunciare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafae69ad0a50d066301b"
+    },
+    "source": "paraviaXML/31523.xml",
+    "lemma": "denunciare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dichiarare, portare a conoscenza dell’autorità competente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbiamo denunciato il furto alla polizia",
+              "entro fine mese occorre denunciare i propri redditi all’ufficio delle imposte",
+              "denunciare all’anagrafe la nascita del figlio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "diritto"
+            ],
+            "definitions": [
+              {
+                "glossa": "None diritto , accusare di un reato presso un organo di polizia o della magistratura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "m’insulti?, ti denuncio alla polizia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mostrare, palesare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo stato di questo ospedale denuncia l’incuria dell’amministrazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "diritto internazionale",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto internazionale , disdire, rifiutare un accordo o un trattato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Portare a conoscenza delle autorità giudiziarie o di polizia la commissione di un reato o il coinvolgimento di una persona in un illecito, attraverso un atto formale.",
+      "examples": [
+        "Dopo l'aggressione, il ferito si è rivolto alle forze dell'ordine per riferire l'accaduto.",
+        "Il testimone ha comunicato i dettagli dell'incidente alla procura per avviare le indagini."
+      ],
+      "nota": "Attiva una procedura ufficiale di accertamento o investigazione e si distingue formalmente dalla semplice segnalazione informale."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Comunicare ufficialmente a un ente o a un'istituzione dati, eventi o variazioni di stato per adempiere a specifici obblighi normativi, amministrativi o fiscali.",
+      "examples": [
+        "Ogni lavoratore autonomo deve comunicare il proprio reddito annuale all'amministrazione finanziaria.",
+        "Il proprietario è tenuto a registrare tempestivamente la variazione catastale dell'immobile all'ufficio competente."
+      ],
+      "nota": "Non presuppone la presenza di un illecito, ma riguarda esclusivamente adempimenti burocratici obbligatori."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Esporre pubblicamente comportamenti scorretti, ingiustizie o situazioni criticabili, generalmente attraverso i media o iniziative collettive, con intento di condanna o sensibilizzazione.",
+      "examples": [
+        "L'associazione per i diritti civili ha reso noti i casi di discriminazione per sollecitare un intervento legislativo.",
+        "Il quotidiano ha diffuso un'inchiesta approfondita per evidenziare le irregolarità negli appalti pubblici."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rivelare in modo evidente ma indiretto una condizione fisica, uno stato d'animo o una caratteristica nascosta, manifestandosi attraverso segni, sintomi o comportamenti osservabili.",
+      "examples": [
+        "Il pallore e le occhiaie evidenziavano una stanchezza fisica ormai cronica.",
+        "La voce incrinata e le mani tremanti facevano trasparire una profonda agitazione nonostante le parole di calma."
+      ],
+      "nota": "Uso prevalentemente figurato o inferenziale, dove il soggetto dell'azione non è una persona ma un segno, un sintomo o un elemento materiale."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "lemma": "iniziare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafbe69ad0a50d0663d92"
+    },
+    "source": "paraviaXML/57257.xml",
+    "lemma": "iniziare",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo",
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dare inizio, incominciare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziare un libro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intraprendere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziare il pranzo con un antipasto",
+              "iniziare una nuova attività",
+              "iniziare il liceo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche , il difficile è solo all’inizio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tutto sta a iniziare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ammettere alla pratica di culti e riti misterici o in sette, associazioni segrete e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziare qcn. ai misteri orfici",
+              "iniziare alla massoneria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avviare a una nuova attività, arte o disciplina",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziare agli studi filosofici"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") avere inizio, principio, cominciare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il film inizia alle 22",
+              "l’autunno è appena iniziato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": ") cominciare a fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziare a suonare",
+              "a parlare"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come critica o commento negativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziamo bene",
+              "male"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2,4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Dare inizio a un'azione, un'attività o un processo.",
+      "examples": [
+        "Decise di iniziare il progetto la settimana successiva.",
+        "Il direttore ha iniziato la riunione con un breve discorso."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare avere)",
+      "definition": "Avere inizio, cominciare a svolgersi.",
+      "examples": [
+        "Lo spettacolo inizia alle nove in punto.",
+        "L'inverno è iniziato con una forte nevicata."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare avere)",
+      "definition": "Fare i primi passi in un campo di attività, una professione o un'attività di apprendimento.",
+      "examples": [
+        "Ha iniziato come apprendista in una piccola officina.",
+        "Vorrei iniziare con la chitarra, ma non so da che parte cominciare."
+      ],
+      "nota": "Usato spesso seguito da 'come' o 'con' per specificare il ruolo o l'attività."
+    }
+  ]
+}

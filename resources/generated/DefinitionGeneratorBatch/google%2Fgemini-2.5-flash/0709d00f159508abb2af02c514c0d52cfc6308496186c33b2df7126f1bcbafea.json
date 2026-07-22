@@ -1,0 +1,147 @@
+{
+  "lemma": "denunciare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafae69ad0a50d066301b"
+    },
+    "source": "paraviaXML/31523.xml",
+    "lemma": "denunciare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dichiarare, portare a conoscenza dell’autorità competente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbiamo denunciato il furto alla polizia",
+              "entro fine mese occorre denunciare i propri redditi all’ufficio delle imposte",
+              "denunciare all’anagrafe la nascita del figlio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "diritto"
+            ],
+            "definitions": [
+              {
+                "glossa": "None diritto , accusare di un reato presso un organo di polizia o della magistratura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "m’insulti?, ti denuncio alla polizia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mostrare, palesare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo stato di questo ospedale denuncia l’incuria dell’amministrazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "diritto internazionale",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto internazionale , disdire, rifiutare un accordo o un trattato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Segnalare formalmente alle autorità un illecito, un reato o una trasgressione, affinché vengano presi provvedimenti.",
+      "examples": [
+        "Un vicino ha denunciato i rumori molesti della festa.",
+        "Ha deciso di denunciare l'aggressione subita alla polizia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rivelare o rendere pubblica una situazione negativa, un problema, un abuso o un'ingiustizia, spesso con l'intento di sollevare consapevolezza o provocare un cambiamento.",
+      "examples": [
+        "Il giornalista ha denunciato lo scandalo in prima pagina.",
+        "Associazioni umanitarie denunciano le violazioni dei diritti umani in molte parti del mondo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Mettere in evidenza o segnalare apertamente una caratteristica, una presenza o un elemento, rendendolo palese.",
+      "examples": [
+        "La sua espressione denunciava evidente stanchezza.",
+        "Il colore della vernice denunciava la presenza di un restauro recente."
+      ],
+      "nota": "Questo senso è spesso utilizzato per indicare qualcosa che si manifesta o si rivela da sé, senza un atto volontario di segnalazione."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Interrompere formalmente un accordo, un contratto o una convenzione, comunicando la propria intenzione di recedere.",
+      "examples": [
+        "L'azienda ha deciso di denunciare il contratto di fornitura con un mese di preavviso.",
+        "Il governo ha denunciato il patto internazionale dopo anni di adesione."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "lemma": "passato",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae4d69ad0a50d0650ebd"
+    },
+    "source": "paraviaXML/79973.xml",
+    "lemma": "passato",
+    "grammar": [
+      "p.pass.",
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio passato",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Passare, passarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anteriore rispetto al momento attuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i giorni passati",
+              "le epoche passate"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che si riferisce, che appartiene al tempo trascorso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli avvenimenti passati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Appena trascorso, immediatamente anteriore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mese",
+              "l’anno passato",
+              "l’estate passata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che non è più attuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "idea",
+              "abitudine",
+              "usanza",
+              "tradizione",
+              "moda passata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha vissuto in epoche precedenti a quella contemporanea",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la generazione passata"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "letteratura"
+            ],
+            "definitions": [
+              {
+                "glossa": "Letteratura , al , antenati, avi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che ha svolto determinati ruoli, che ha ricoperto determinate cariche prima di un’altra persona",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il direttore passato",
+              "le passate amministrazioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che ha perso la propria freschezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bellezza passata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di alimento, che non è più fresco, che inizia a guastarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo formaggio è un po’ passato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Morto: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "traevano delle lor case li corpi de’ già passati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il tempo trascorso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i pensatori del passato",
+              "rimpiangere il passato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’insieme delle vicende che hanno caratterizzato un periodo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un passato felice",
+              "tragico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "grammatica",
+        "grammar": [
+          "sostantivo maschile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Grammatica tempo del verbo, usato in italiano nell’indicativo, nel congiuntivo, nel condizionale, nell’infinito, nel participio e nel gerundio, per indicare che un’azione è già avvenuta in precedenza; anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tempo passato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "gastronomia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Gastronomia , minestra costituita da verdura, patate o legumi lessi, schiacciati o frullati: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un passato di piselli",
+              "un passato di verdura",
+              "minestrone passato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1–7",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "8–11",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che appartiene a un periodo o momento temporale già concluso; non attuale, precedente o recente.",
+      "examples": [
+        "Rispetto alla domenica scorsa, il clima è cambiato notevolmente rispetto alla settimana passata.",
+        "Il proprietario precedente ha restaurato la facciata, mentre quello nuovo si concentra sull'interno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "L'insieme del tempo già trascorso, degli avvenimenti verificatisi in precedenza e dei ricordi o delle esperienze individuali e collettive a essi legati.",
+      "examples": [
+        "Non è possibile modificare ciò che è accaduto, ma possiamo trarre insegnamento dal nostro vissuto precedente.",
+        "Dopo anni di incomprensioni, ha finalmente trovato la forza di fare pace con le proprie vicende personali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Categoria grammaticale che identifica un tempo verbale collocato in un'epoca anteriore rispetto al momento dell'enunciazione o a un riferimento contestuale.",
+      "examples": [
+        "Nella coniugazione italiana il tempo composto si forma unendo l'ausiliare al participio.",
+        "Il docente ha corretto gli esercizi segnalando un uso improprio del prossimo al posto del remoto."
+      ],
+      "nota": "Nell'uso grammaticale corrente si tende a specificare la forma esatta (es. prossimo, remoto, trapassato) per evitare ambiguità sintattiche."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Preparazione culinaria di consistenza liquida o cremosa, ottenuta frullando o setacciando legumi, verdure o frutta cotti.",
+      "examples": [
+        "Per cena ho preparato una vellutata simile a quella di nonna, servendo un passato di porri e patate.",
+        "Il dietista consiglia di alternare brodi leggeri a preparazioni setacciate durante la convalescenza."
+      ],
+      "nota": null
+    }
+  ]
+}

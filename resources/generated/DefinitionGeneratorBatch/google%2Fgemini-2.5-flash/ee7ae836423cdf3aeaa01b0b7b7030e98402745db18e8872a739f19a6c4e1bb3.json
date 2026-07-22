@@ -1,0 +1,178 @@
+{
+  "lemma": "nascondere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc469ad0a50d06642a2"
+    },
+    "source": "paraviaXML/72968.xml",
+    "lemma": "nascondere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sottrarre un oggetto alla vista o alle ricerche di qualcuno , riponendolo in un posto adatto allo scopo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nascondere i gioielli",
+              "nascondere lettere compromettenti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tenere nascosta una persona in modo che altri non la veda o non la trovi, sistemandola in un luogo sicuro, riparato o segreto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nascondere un ricercato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sottrarre alla vista interponendosi fra ciò che si osserva e l’osservatore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo muro nasconde la montagna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dissimulare pensieri, sentimenti, stati d’animo e simile che non si vogliono far conoscere ad altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nascondere l’emozione",
+              "non vi nascondo i miei dubbi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere o non avere la coscienza pulita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non avere nulla da nascondere",
+              "avere qcs. da nascondere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impedire di far conoscere, insabbiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nascondere le prove",
+              "uno scandalo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Sottrarre alla vista o alla conoscenza qualcosa o qualcuno, rendendolo invisibile o irrintracciabile.",
+      "examples": [
+        "Ho dovuto nascondere tutti i regali prima che i bambini tornassero a casa.",
+        "Non cercare di nascondere la verità, prima o poi verrà a galla."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo pronominale",
+      "definition": "Rifugiarsi o celarsi in un luogo per non essere visti o trovati.",
+      "examples": [
+        "Il bambino si è nascosto dietro il divano durante il gioco.",
+        "Preferiva nascondersi tra la folla per evitare di essere riconosciuto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Omettere di mostrare o rivelare un sentimento, un'intenzione o una parte della propria personalità.",
+      "examples": [
+        "Cercava di nascondere la sua tristezza con un sorriso forzato.",
+        "Non è facile nascondere la propria rabbia in determinate situazioni."
+      ],
+      "nota": "Questo senso si riferisce all'occultamento di stati emotivi o tratti caratteriali."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Coprire o celare qualcosa in modo che non sia visibile, spesso con riferimento a una parte del corpo o a un oggetto ingombrante.",
+      "examples": [
+        "La lunga sciarpa le nascondeva quasi completamente il viso.",
+        "I grandi alberi nascondevano la visuale del lago dalla strada."
+      ],
+      "nota": null
+    }
+  ]
+}

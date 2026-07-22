@@ -1,0 +1,225 @@
+{
+  "lemma": "colpire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa969ad0a50d0662cdb"
+    },
+    "source": "paraviaXML/24453.xml",
+    "lemma": "colpire",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Percuotere, battere dando colpi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colpire qcn.",
+              "qcs. con un pugno",
+              "con un bastone",
+              "colpire qcn. alla mascella, in fronte",
+              "sulla testa",
+              "colpire in pieno",
+              "di striscio",
+              "colpire un pallone di testa"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Centrare con un proiettile, un tiro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colpire un bersaglio",
+              "colpire dove capita",
+              "un pugile che colpisce duro"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con armi da fuoco e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’aereo è stato colpito da un missile",
+              "sparare in aria per non colpire nessuno"
+            ]
+          },
+          {
+            "number": 7,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sbattere involontariamente, picchiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cadendo, ha colpito con la testa il pavimento |"
+            ]
+          },
+          {
+            "number": 8,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Raggiungere; comprendere, cogliere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colpire la verità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impressionare, meravigliare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere colpito da tanta bellezza"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stupire profondamente; anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colpire la fantasia",
+              "l’immaginazione",
+              "un film che colpisce",
+              "qcn. che colpisce per la sua calma"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Danneggiare materialmente qualcosa ; abbattersi su qualcosa ; ferire moralmente, offendere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’inflazione colpisce i redditi più bassi",
+              "un terremoto",
+              "un’epidemia ha colpito la zona",
+              "colpire qcn. negli affetti",
+              "in qcs. di caro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di una tassa: di una legge e simile , recare danno agli interessi di qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imposta che colpisce i redditi più bassi",
+              "leggi che colpiscono il contrabbando",
+              "qcn. colpito da ordine di cattura"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Vibrare un urto su qualcuno o qualcosa con una parte del corpo o un oggetto.",
+      "examples": [
+        "Il bambino ha colpito la palla con la mazza.",
+        "Il lottatore ha colpito l'avversario sul mento."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Causare danni, perdite o sofferenze a qualcuno o a qualcosa.",
+      "examples": [
+        "La siccità ha colpito duramente i raccolti.",
+        "La notizia della sua morte mi ha colpito profondamente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Attirare in modo positivo e forte l'attenzione o l'interesse di qualcuno.",
+      "examples": [
+        "La sua interpretazione ha colpito la giuria.",
+        "È stato il suo sguardo a colpirmi subito."
+      ],
+      "nota": "In questo senso, implica spesso un effetto positivo o memorabile."
+    }
+  ]
+}

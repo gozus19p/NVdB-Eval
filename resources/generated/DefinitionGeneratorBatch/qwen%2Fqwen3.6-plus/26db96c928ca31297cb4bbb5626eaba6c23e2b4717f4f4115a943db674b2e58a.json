@@ -1,0 +1,160 @@
+{
+  "lemma": "ragazza",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2e69ad0a50d065c983"
+    },
+    "source": "paraviaXML/90634.xml",
+    "lemma": "ragazza",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Persona di sesso femminile nell’età compresa tra la pubertà e l’età adulta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una ragazza di 20 anni"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "R. ricca di pregi, di doti; r. molto bella e vistosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una perla di ragazza",
+              "una ragazza d’oro",
+              "un pezzo",
+              "tocco di ragazza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Donna nubile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "firmare con il cognome da ragazza"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "R. in età adatta per il matrimonio; anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ragazza da marito",
+              "rimanere ragazza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Giovane donna con la quale si ha un rapporto sentimentale, non necessariamente impegnativo; fidanzata",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Giovane donna che svolge le funzioni di aiutante in casa o di lavorante in un esercizio, un negozio o simile ; commessa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cercasi ragazza come aiuto in negozio"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Femmina umana nell'età compresa tra l'infanzia e la piena maturità, o donna ancora giovane.",
+      "examples": [
+        "Le ragazze della scuola hanno organizzato una festa di fine anno.",
+        "Era una ragazza sveglia e curiosa, sempre pronta a imparare qualcosa di nuovo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Compagna sentimentale con cui si intrattiene una relazione amorosa stabile, non unita in matrimonio.",
+      "examples": [
+        "Stasera esco a cena con la mia ragazza.",
+        "Mi ha presentato la sua nuova ragazza alla festa di Marco."
+      ],
+      "nota": null
+    }
+  ]
+}

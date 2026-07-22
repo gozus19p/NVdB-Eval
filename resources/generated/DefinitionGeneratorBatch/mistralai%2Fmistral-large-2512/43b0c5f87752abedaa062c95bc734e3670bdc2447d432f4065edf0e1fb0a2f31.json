@@ -1,0 +1,781 @@
+{
+  "lemma": "tutto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0a69ad0a50d064cec7"
+    },
+    "source": "paraviaXML/124170.xml",
+    "lemma": "tutto",
+    "grammar": [
+      "agg.indef.",
+      "pron.indef.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo indefinito"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Riferito a un sostantivo o a un pronome singolare, indica un’intera quantità o estensione di spazio o di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tutta la terra",
+              "ho mangiato tutto il gelato",
+              "percorreremo tutto il tragitto",
+              "ho ballato tutta la sera",
+              "la neve ha coperto tutta la regione"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Riferito a stato d’animo, situazione e simile , ne indica l’interezza, la completezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho tutta la sua fiducia",
+              "metterci tutta la buona volontà",
+              "ha fatto tutto quello che poteva"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’intera opera di tali autori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "studiare",
+              "conoscere tutto Kant",
+              "tutto Petrarca"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In funzione predicativa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la questione è tutta qui"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rafforzato da o",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quanto",
+              "intero",
+              "ho dormito tutta quanta la notte",
+              "ho letto il libro tutto intero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Compreso, incluso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a",
+              "devo leggere fino a tutto il quarto capitolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1e",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Malgrado, nonostante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con",
+              "con tutta la mia buona volontà non ce l’ho fatta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Riferito a un sostantivo plurale o collettivo, indica la totalità delle persone o delle cose prese in considerazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tutti gli allievi",
+              "tutta la classe",
+              "considerare tutte le vie possibili di soluzione",
+              "ho già finito tutto il denaro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Seguito o preceduto da un pronome personale plurale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "noi tutti verremo",
+              "tutti voi siete invitati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In funzione predicativa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i bambini sono tutti a scuola"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rafforzato da o",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quanto",
+              "intero",
+              "la protesta si allargò a tutta quanta la comunità",
+              "la classe tutta intera è stata sospesa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2d",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nonostante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con",
+              "con tutti i problemi che ha è sempre allegro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2e",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lla congiunzione e da un numerale cardinale, indica un determinato numero di persone o di cose considerate nel loro complesso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "e",
+              "ho mangiato tutti e tre i dolci",
+              "ho conosciuto tutti e due i fratelli"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In costrutti ellittici: tutte le astuzie, le trovate possibili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "inventarle",
+              "pensarle",
+              "studiarle tutte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Riferito a un sostantivo plurale, ogni, qualunque",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stanotte mi sono svegliata a tutte le ore",
+              "mi telefona tutte le settimane"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Seguito da un aggettivo, ha valore rafforzativo: anche seguito da un avverbio o da un sostantivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ero tutta sola",
+              "aveva la camicia tutta macchiata",
+              "tutt’intorno c’è un giardino",
+              "è tutto il contrario di quello che pensavo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Gli somiglia moltissimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è tutto suo padre"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che ha il naso, la bocca, le gambe, eccetera , sproporzionati rispetto al resto del viso o del corpo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tutto naso",
+              "bocca",
+              "gambe"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Completamente dedito alla casa, alla famiglia, al lavoro, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tutto casa e famiglia",
+              "tutto casa e ufficio"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In tutta la persona",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tremo",
+              "rabbrividisco tutto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esclusivamente, soltanto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è tutto merito suo",
+              "è tutta colpa di Giovanni",
+              "è tutta un’invenzione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "pronome indefinito"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ndeterminato, ogni cosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quello lì sa tutto",
+              "i ladri gli hanno rubato tutto",
+              "il tempo cancella tutto",
+              "pensa tu a tutto",
+              "sei tutto per me"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per indicare che i posti disponibili in un teatro, uno stadio e simile , sono stati tutti venduti, non sono più disponibili; senza alcuna spesa aggiuntiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tutto esaurito",
+              "tutto compreso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione pragmatica"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In , non c’è altro da aggiungere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ecco tutto",
+              "questo è tutto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "C’è dell’altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "e non è tutto"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per esprimere delusione o insoddisfazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tutto qui?"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per indicare la necessità di una scelta drastica, senza mediazioni o compromessi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "o tutto o niente"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’importante, l’essenziale è che",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tutto sta a",
+              "che",
+              "tutto sta a decidere",
+              "tutto sta che non ci siano problemi"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "A prescindere dal resto, dalle altre cose",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a parte tutto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , con valore indeterminato, tutte le persone",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’ho detto a tutti",
+              "non tutti sono d’accordo",
+              "tutti verranno alla festa",
+              "fermi tutti",
+              "tutti per uno, uno per tutti",
+              "contento tu, contenti tutti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , l’intero, il totale, l’insieme",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "spedirò il tutto tra due giorni",
+              "ti riferirò il tutto a tempo debito",
+              "la parte per il tutto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’elemento essenziale, la condizione fondamentale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il tutto è farsi valere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "maiuscolo",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia specialmente con iniziale maiuscolo , la totalità dell’essere",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "I,II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo indefinito",
+      "definition": "Indica la totalità degli elementi di un insieme, senza eccezioni.",
+      "examples": [
+        "Ho letto tutti i libri della biblioteca.",
+        "Tutti gli studenti hanno superato l'esame."
+      ],
+      "nota": "Può essere seguito da articoli, dimostrativi o possessivi (es. 'tutti i giorni', 'tutti questi problemi')."
+    },
+    {
+      "pos": "aggettivo indefinito",
+      "definition": "Indica completezza o interezza di un singolo elemento.",
+      "examples": [
+        "Ho mangiato tutta la pizza.",
+        "Ha passato tutta la giornata al parco."
+      ],
+      "nota": "In questo uso si accorda in genere e numero con il sostantivo a cui si riferisce (es. 'tutto il tempo', 'tutta la notte')."
+    },
+    {
+      "pos": "pronome indefinito",
+      "definition": "Si riferisce alla totalità di persone, animali o cose precedentemente menzionate o sottintese.",
+      "examples": [
+        "Ho invitato molti amici, ma non tutti sono venuti.",
+        "Questi sono i documenti: controllali tutti."
+      ],
+      "nota": "Può essere usato in forma neutra ('tutto') per riferirsi a una situazione o a un insieme di cose non specificate (es. 'Tutto è pronto')."
+    },
+    {
+      "pos": "pronome indefinito (neutro)",
+      "definition": "Indica l'insieme completo di fatti, situazioni o circostanze.",
+      "examples": [
+        "Non preoccuparti, andrà tutto bene.",
+        "Dopo l'incidente, ha perso tutto."
+      ],
+      "nota": "Spesso usato in espressioni idiomatiche come 'tutto sommato', 'tutto considerato'."
+    },
+    {
+      "pos": "avverbio",
+      "definition": "Indica completezza o intensità di un'azione o di una qualità.",
+      "examples": [
+        "Il bambino era tutto sporco di fango.",
+        "Si è impegnato tutto per vincere la gara."
+      ],
+      "nota": "In questo uso è invariabile e spesso rafforza aggettivi o participi (es. 'tutto contento', 'tutta bagnata')."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "L'insieme delle cose o delle persone considerate nella loro totalità.",
+      "examples": [
+        "Il tutto è maggiore della somma delle parti.",
+        "Ha venduto il tutto a un prezzo vantaggioso."
+      ],
+      "nota": "Usato soprattutto in contesti filosofici, matematici o commerciali."
+    }
+  ]
+}

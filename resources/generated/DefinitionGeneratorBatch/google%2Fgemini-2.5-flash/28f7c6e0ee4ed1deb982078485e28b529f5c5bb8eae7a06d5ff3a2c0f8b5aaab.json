@@ -1,0 +1,147 @@
+{
+  "lemma": "decisione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeac69ad0a50d0655e84"
+    },
+    "source": "paraviaXML/30560.xml",
+    "lemma": "decisione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il decidere scegliendo fra varie possibilità, risoluzione, deliberazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prendere",
+              "maturare una decisione",
+              "rimettersi alle decisioni di qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , sentenza che risolve una controversia, una causa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prontezza, sicurezza nell’agire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "agire con decisione",
+              "in quella circostanza ha dimostrato molta decisione",
+              "rispondere con decisione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , separazione, divisione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che è diviso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Atto di scegliere tra più opzioni o soluzioni per risolvere un problema o raggiungere un obiettivo, spesso dopo un'attenta considerazione; il risultato di tale atto.",
+      "examples": [
+        "Prendere una decisione importante richiede tempo e ponderazione.",
+        "La decisione finale spetta al consiglio di amministrazione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Fermo intento o risolutezza nell'agire, caratterizzato dalla mancanza di esitazione o dubbio.",
+      "examples": [
+        "Ha mostrato grande decisione nel portare a termine il progetto.",
+        "La sua decisione lo ha portato a superare ogni ostacolo."
+      ],
+      "nota": "Questo senso enfatizza l'aspetto della risolutezza e della fermezza d'intenti, piuttosto che il processo di scelta."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sentenza o provvedimento emesso da un'autorità giudiziaria o amministrativa.",
+      "examples": [
+        "Attendiamo la decisione del giudice sull'appello.",
+        "La decisione della commissione ha avuto un impatto significativo."
+      ],
+      "nota": "Uso specifico in ambito legale o burocratico."
+    }
+  ]
+}

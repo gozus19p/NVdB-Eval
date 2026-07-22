@@ -1,0 +1,302 @@
+{
+  "lemma": "tecnico",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0769ad0a50d064b8c8"
+    },
+    "source": "paraviaXML/118806.xml",
+    "lemma": "tecnico",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che concerne la parte pratica e strumentale di un’arte, di una disciplina",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nozioni tecniche"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Proprio di una scienza, di un’attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "strumenti tecnici",
+              "termine tecnico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sport, di abbigliamento e attrezzatura sportiva, studiato per soddisfare esigenze specifiche e realizzato specialmente con materiali a tecnologia avanzata",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi ha particolari nozioni pratiche di un’arte, una scienza, una disciplina",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "personale tecnico",
+              "consultare un tecnico della materia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi mette in pratica i progetti eseguiti da altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lavoratore che svolge un’attività manuale per la quale possiede particolari nozioni pratiche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un tecnico di computer"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport ; commissario tecnico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport ; fallo tecnico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "cinematografia",
+              "televisione"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cinematografia televisione , addetto alla registrazione del suono di una colonna sonora",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In una sala di registrazione, chi si occupa di manovrare le apparecchiature",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "teatro",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Teatro , chi si occupa di riprodurre e coordinare i rumori e le musiche di scena",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "relativo a una tecnica, a un metodo o a una procedura specifica di un'attività pratica o scientifica",
+      "examples": [
+        "Il manuale fornisce una spiegazione dettagliata delle procedure tecniche per la riparazione.",
+        "Durante il corso verranno affrontati gli aspetti tecnici della programmazione informatica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "che richiede competenze specialistiche o conoscenze approfondite in un determinato campo",
+      "examples": [
+        "Per risolvere il problema serve un intervento tecnico da parte di un esperto.",
+        "La complessità tecnica del progetto richiede un team di ingegneri qualificati."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "che riguarda gli aspetti pratici o operativi di un'attività, in contrapposizione a quelli teorici o concettuali",
+      "examples": [
+        "Il direttore ha chiesto un report tecnico sulle prestazioni della macchina.",
+        "La fase tecnica del progetto è stata completata con successo."
+      ],
+      "nota": "Spesso usato in contrapposizione a 'teorico' o 'strategico'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "persona specializzata in una determinata tecnica o disciplina, con competenze pratiche o scientifiche",
+      "examples": [
+        "Hanno chiamato un tecnico per riparare il guasto all'impianto elettrico.",
+        "Il tecnico informatico ha risolto il problema in pochi minuti."
+      ],
+      "nota": "Può riferirsi a professionisti in ambiti come l'informatica, l'ingegneria, la meccanica, ecc."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "allenatore o preparatore specializzato in una disciplina sportiva",
+      "examples": [
+        "Il tecnico della squadra ha deciso di cambiare formazione per la prossima partita.",
+        "Dopo la sconfitta, il tecnico ha annunciato le sue dimissioni."
+      ],
+      "nota": "Usato soprattutto nel linguaggio sportivo, in particolare per il calcio."
+    }
+  ]
+}

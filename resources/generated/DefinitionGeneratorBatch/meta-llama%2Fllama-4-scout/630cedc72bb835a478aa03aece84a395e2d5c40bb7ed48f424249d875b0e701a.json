@@ -1,0 +1,110 @@
+{
+  "lemma": "se",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6569ad0a50d06522eb"
+    },
+    "source": "paraviaXML/105281.xml",
+    "lemma": "se",
+    "grammar": [
+      "pron.pers. di terza pers.m. e f.sing. e pl."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Forma che il pronome assume con i pronomi atoni e la particella , in posizione proclitica o enclitica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "si",
+              "lo",
+              "la",
+              "li",
+              "le",
+              "ne",
+              "se l’è visto davanti",
+              "se lo mise in tasca",
+              "non vuole prendersene cura",
+              "prendersela a cuore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Da solo, specialmente in posizione enclitica, si: Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non pò fermarse"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una proposizione condizionale, esprimendo una condizione o un'ipotesi",
+      "examples": [
+        "Vieni con me se hai finito il lavoro",
+        "Ti aiuterò se ne hai bisogno"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una proposizione temporale, indicando il momento in cui avviene qualcosa",
+      "examples": [
+        "Se arriva tardi, non lo aspetto più",
+        "Andremo al cinema se finisce presto"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una proposizione dubitativa o interrogativa",
+      "examples": [
+        "Dimmi se sei stanco",
+        "Non so se verrò domani"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una proposizione comparativa",
+      "examples": [
+        "È più grande di te, se non sbaglio",
+        "Fa più freddo di se pensassi"
+      ],
+      "nota": null
+    }
+  ]
+}

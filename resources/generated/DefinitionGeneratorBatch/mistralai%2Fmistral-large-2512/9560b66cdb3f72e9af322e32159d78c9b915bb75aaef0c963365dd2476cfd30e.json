@@ -1,0 +1,130 @@
+{
+  "lemma": "traduzione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6a69ad0a50d065fad3"
+    },
+    "source": "paraviaXML/121722.xml",
+    "lemma": "traduzione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "traduzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il tradurre un testo orale o scritto da una lingua in un’altra; il testo tradotto ( abbr. traduzione )",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "eseguire una traduzione dal tedesco",
+              "in inglese",
+              "una recente traduzione di Shakespeare",
+              "una buona",
+              "cattiva traduzione",
+              "traduzione fedele",
+              "libera"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Versione scolastica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli alunni dovranno fare una traduzione dal greco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "burocrazia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Burocrazia , trasporto di un detenuto da un carcere a un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia , sintesi della serie di amminoacidi che costituiscono un polipeptide, che avviene nei ribosomi per azione dell’RNA messaggero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Trasposizione di un testo da una lingua a un'altra, mantenendo il più possibile il significato e lo stile originale.",
+      "examples": [
+        "Ho letto la traduzione italiana del romanzo di Murakami.",
+        "La traduzione di questo manuale tecnico richiede competenze specifiche."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Versione di un testo in un'altra lingua, risultante dall'operazione di tradurre.",
+      "examples": [
+        "Questa traduzione del poema è molto fedele all'originale.",
+        "Ho trovato una traduzione in spagnolo del libro che cercavo."
+      ],
+      "nota": "Può riferirsi sia al processo che al prodotto finale, a seconda del contesto."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Adattamento di un'opera o di un concetto in un contesto diverso da quello originario, spesso con modifiche per renderlo comprensibile o accettabile.",
+      "examples": [
+        "Il film è una traduzione cinematografica del romanzo di successo.",
+        "La traduzione di un'idea innovativa in un prodotto commerciale richiede tempo."
+      ],
+      "nota": "Uso esteso e figurato, non limitato alle lingue."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "lemma": "colpa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9f69ad0a50d0655341"
+    },
+    "source": "paraviaXML/24435.xml",
+    "lemma": "colpa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Azione contraria alla morale o alle leggi e la responsabilità che ne deriva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commettere una colpa",
+              "macchiarsi di una grave colpa",
+              "espiare una colpa",
+              "sentirsi in colpa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "teologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Teologia , azione od omissione contraria a una norma religiosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colpa grave",
+              "tenue",
+              "cadere in colpa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , forma di imprudenza, negligenza, imperizia o inosservanza di norme giuridiche, senza alcuna intenzionalità dolosa e non per caso fortuito, da cui deriva un danno ad altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colpa civile",
+              "contrattuale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Responsabilità di effetti negativi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere la colpa dell’incidente",
+              "che colpa ne ho io? se non hai studiato, non è colpa dell’insegnante",
+              "dare a qcn. la colpa di qcs.",
+              "gettare la colpa su qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Errore di lingua, di stile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Atto o omissione riprovevole commesso in violazione di una regola morale, sociale o legale, spesso con l'intenzione di causare un danno o con negligenza.",
+      "examples": [
+        "La sua colpa è stata quella di non aver rispettato l'accordo.",
+        "Non è giusto addossare la colpa di un errore a chi non ha responsabilità dirette."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Stato di coscienza doloroso o rammarico per aver fatto qualcosa di sbagliato o per aver causato un danno, reale o immaginato.",
+      "examples": [
+        "Dopo l'incidente, fu tormentato da un profondo senso di colpa.",
+        "Ha vissuto a lungo con la colpa di non aver aiutato il suo amico in difficoltà."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Responsabilità di qualcosa di negativo o spiacevole che è accaduto.",
+      "examples": [
+        "Di chi è la colpa se il progetto non è stato completato in tempo?",
+        "Non voglio attribuire la colpa a nessuno, ma dobbiamo capire cosa è successo."
+      ],
+      "nota": null
+    }
+  ]
+}

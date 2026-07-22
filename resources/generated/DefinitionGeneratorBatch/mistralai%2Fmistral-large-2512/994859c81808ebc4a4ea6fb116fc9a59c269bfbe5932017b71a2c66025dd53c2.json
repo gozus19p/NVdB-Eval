@@ -1,0 +1,102 @@
+{
+  "lemma": "indagine",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaede69ad0a50d065886a"
+    },
+    "source": "paraviaXML/55470.xml",
+    "lemma": "indagine",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ricerca sistematica per conoscere, scoprire qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "indagine demoscopica",
+              "statistica",
+              "storica",
+              "filologica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , investigazione giudiziaria o degli organi di polizia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziare",
+              "concludere un’indagine",
+              "depistare le indagini",
+              "dare un nuovo corso alle indagini"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività sistematica volta a raccogliere informazioni o dati su un determinato argomento, fenomeno o evento, spesso con metodi scientifici o investigativi.",
+      "examples": [
+        "La polizia ha avviato un'indagine per chiarire le circostanze del furto.",
+        "Gli scienziati stanno conducendo un'indagine sul cambiamento climatico."
+      ],
+      "nota": "Può riferirsi a contesti giuridici, scientifici, giornalistici o di ricerca in generale. Spesso usato in combinazione con aggettivi che ne specificano l'ambito (es. 'indagine conoscitiva', 'indagine statistica')."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Esame approfondito e dettagliato di una questione o di un problema, finalizzato a comprenderne le cause o le dinamiche.",
+      "examples": [
+        "Il governo ha promesso un'indagine sulle cause del disastro ambientale.",
+        "Prima di prendere una decisione, è necessaria un'indagine approfondita sui pro e i contro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Nel linguaggio giornalistico, articolo o servizio che analizza in modo approfondito un tema di attualità o interesse pubblico.",
+      "examples": [
+        "Il quotidiano ha pubblicato un'indagine sulle condizioni dei lavoratori precari.",
+        "L'indagine della giornalista ha svelato casi di corruzione nella pubblica amministrazione."
+      ],
+      "nota": "In questo senso, spesso usato come sinonimo di 'inchiesta' o 'reportage'."
+    }
+  ]
+}

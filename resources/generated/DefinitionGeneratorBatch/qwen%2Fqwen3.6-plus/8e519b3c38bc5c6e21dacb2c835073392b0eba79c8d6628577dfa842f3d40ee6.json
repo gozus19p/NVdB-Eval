@@ -1,0 +1,552 @@
+{
+  "lemma": "zero",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0a69ad0a50d064cf19"
+    },
+    "source": "paraviaXML/129429.xml",
+    "lemma": "zero",
+    "grammar": [
+      "agg.num.card.inv.",
+      "s.m.",
+      "simb."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "aggettivo numerale cardinale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indica una quantità numerica nulla ( nella numerazione araba rappresentato con 0)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "zero gradi di temperatura",
+              "concorso a posti zero",
+              "interessi a tasso zero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione inv. posposto al nome cui si riferisce, qualifica il punto iniziale di una serie, di un progresso: indica lo stato iniziale di una grandezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire",
+              "cominciare dalla fase zero",
+              "livello zero di sviluppo",
+              "istante",
+              "tempo zero",
+              "quota",
+              "pressione",
+              "velocità zero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quella del ghiaccio fondente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "temperatura zero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale",
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Indica mancanza completa di qualcosa specialmente di una dote, di una qualità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "volontà",
+              "intelligenza zero",
+              "spirito di adattamento zero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "esempio",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , indica che un elemento linguistico è morfologicamente assente ( per esempio ) o semanticamente non distintivo ( per esempio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "desinenza",
+              "suffisso zero",
+              "tratto zero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indica che un elemento della frase non è manifesto nel discorso ma è facilmente ricostruibile dal contesto ( per esempio , nell’enunciato , il verbo è l’elemento zero della seconda parte)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lui va a piedi, io in macchina",
+              "andare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Numero cardinale che precede ogni numero intero positivo nella serie dei numeri naturali; indica la mancanza di ogni unità e corrisponde a un insieme vuoto di elementi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "due più zero fa due",
+              "quattro meno quattro dà zero",
+              "moltiplicando dieci per zero si ottiene zero",
+              "un numero compreso tra zero e dieci"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Posto a destra di un numero lo moltiplica per dieci, posto a sinistra e seguito da una virgola ne indica la frazione decimale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Assenza di quantità; grandezza o valore nullo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "misurare zero",
+              "essere pari a zero",
+              "approssimarsi a zero",
+              "limite che tende a zero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Punto iniziale di una serie, di un progresso: stato iniziale di una grandezza, riferimento da cui si parte per misurarla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’addestramento partirà da zero",
+              "l’auto passa in pochi secondi da zero a 100 km orari",
+              "le ore del giorno si contano da zero a ventiquattro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente , valore di temperatura convenzionalmente nullo, che funge da separazione tra i valori positivi e quelli negativi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "oggi la temperatura è scesa a zero",
+              "ci sono dieci gradi sopra",
+              "sotto lo zero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Posizione dell’indice di uno strumento di misura quando è a riposo o segna una quantità nulla: azzerarlo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’indicatore del carburante è a zero",
+              "portare",
+              "ridurre a zero uno strumento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Minimo voto scolastico, equivalente a un’insufficienza assoluta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "zero in condotta",
+              "meritare",
+              "prendersi uno zero in matematica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Punteggio nullo di un incontro sportivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vincere per tre reti a zero",
+              "la partita è finita zero a zero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "In giudizi di valore, niente, nulla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la sua opinione vale zero",
+              "le tue chiacchiere contano meno di zero",
+              "non capisci uno zero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona che non vale o non conta nulla, nullità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sul lavoro è stimato, ma in casa non è che uno zero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9a",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica ; punto di annullamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9b",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , in logica matematica, rappresenta il valore di verità , in contrapposizione a",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "falso",
+              "uno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica elettronica , uno dei due possibili stati, insieme all’uno, di un circuito, di un dispositivo, eccetera che abbia natura binaria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "TS",
+        "field": "medicina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simbolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Simbolo biologia medicina , uno dei quattro gruppi sanguigni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Cifra e valore aritmetico che denota una quantità inesistente o l'unità vuota nel sistema di numerazione.",
+      "examples": [
+        "Il conto alla rovescia è terminato ed è stato segnato lo zero.",
+        "Senza il concetto dello zero, la matematica moderna non esisterebbe."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Punto di riferimento iniziale o grado minimo in una scala di misurazione, come per la temperatura o i voti scolastici.",
+      "examples": [
+        "Ieri sera il termometro ha segnato cinque gradi sotto zero.",
+        "All'interrogazione ha preso zero perché non aveva studiato nulla."
+      ],
+      "nota": "Nel contesto scolastico può indicare la valutazione minima o l'assenza di risposta valida."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Individuo o oggetto giudicato del tutto inutile, privo di capacità o privo di importanza sociale.",
+      "examples": [
+        "Dopo quel fallimento si è sentito un totale zero e ha lasciato il gruppo.",
+        "Quella vecchia strategia è ormai uno zero nel mercato attuale."
+      ],
+      "nota": "Uso figurato con forte connotazione spregiativa."
+    },
+    {
+      "pos": "aggettivo invariabile",
+      "definition": "Che segnala l'annullamento di una grandezza, l'assenza di un fenomeno o la totale mancanza di una determinata condizione.",
+      "examples": [
+        "La nuova politica aziendale punta all'impatto ambientale zero.",
+        "Le autorità hanno applicato una tolleranza zero verso le infrazioni stradali."
+      ],
+      "nota": "Frequente in contesti tecnici, commerciali e istituzionali come elemento di composti nominali."
+    },
+    {
+      "pos": "avverbio",
+      "definition": "In misura assolutamente nulla, per nulla, in nessun modo.",
+      "examples": [
+        "La sua giustificazione mi convince zero.",
+        "Non ho voglia di uscire, sinceramente mi diverte zero."
+      ],
+      "nota": "Uso tipico del registro colloquiale contemporaneo per rafforzare una negazione o esprimere totale disinteresse."
+    }
+  ]
+}

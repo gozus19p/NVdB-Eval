@@ -1,0 +1,79 @@
+{
+  "lemma": "marzo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef669ad0a50d0659c8a"
+    },
+    "source": "paraviaXML/67384.xml",
+    "lemma": "marzo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "marzo-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Terzo mese dell’anno, di trentuno giorni nel calendario gregoriano e giuliano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partirò in",
+              "a marzo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Perché caratterizzato da tempo variabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "marzo pazzerello",
+              "pazzo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere un carattere volubile, bizzarro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esser nato di marzo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Terzo mese dell'anno nel calendario gregoriano, composto di trentuno giorni, che segna convenzionalmente l'inizio della primavera nell'emisfero boreale.",
+      "examples": [
+        "La primavera astronomica inizia il 20 o il 21 marzo.",
+        "Ci sposiamo a marzo, quando le giornate cominciano ad allungarsi.",
+        "Il mese di marzo è spesso caratterizzato da un clima instabile e variabile."
+      ],
+      "nota": "Il nome deriva dal latino Martius (mensis), riferito al dio Marte. Nella tradizione popolare italiana è associato all'espressione 'marzo pazzerello', che allude alla sua tipica instabilità meteorologica."
+    }
+  ]
+}

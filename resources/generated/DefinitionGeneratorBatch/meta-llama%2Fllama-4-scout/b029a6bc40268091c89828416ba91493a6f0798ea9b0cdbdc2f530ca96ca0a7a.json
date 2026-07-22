@@ -1,0 +1,177 @@
+{
+  "lemma": "proseguire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc969ad0a50d06646ba"
+    },
+    "source": "paraviaXML/87918.xml",
+    "lemma": "proseguire",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Continuare senza interruzione l’azione o l’attività intrapresa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "proseguire il viaggio",
+              "l’attività intrapresa |"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Portare avanti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "proseguire un discorso",
+              "un ragionamento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo",
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": ") di qualcuno , andare avanti, procedere nell’azione intrapresa: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "proseguire nel cammino",
+              "negli studi",
+              "nella lettura",
+              "a causa dei fischi del pubblico l’oratore non riuscì a proseguire"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Continuare in un discorso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "«D’altronde siamo nuovi del posto!» proseguì l’amico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "O ) di qualcosa , non cessare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la protesta è proseguita per tutto il giorno",
+              "l’inseguimento dei banditi è proseguito fino al confine"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di mezzo di trasporto, continuare il tragitto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "da qui il treno prosegue per Napoli"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "continuare a fare qualcosa",
+      "examples": [
+        "Il team ha proseguito il progetto con grande entusiasmo.",
+        "La polizia ha proseguito le indagini per trovare il colpevole."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "continuare in un percorso o in un'azione",
+      "examples": [
+        "La strada prosegue sulla collina.",
+        "Il concerto è proseguito con grande successo."
+      ],
+      "nota": null
+    }
+  ]
+}

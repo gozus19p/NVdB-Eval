@@ -1,0 +1,186 @@
+{
+  "lemma": "uccidere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe969ad0a50d06660b7"
+    },
+    "source": "paraviaXML/124317.xml",
+    "lemma": "uccidere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Privare della vita, far morire, specialmente con mezzi o modi violenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "uccidere con un colpo di pistola",
+              "con il veleno",
+              "uccidere a sangue freddo",
+              "uccidere in combattimento",
+              "uccidere un serpente velenoso",
+              "un ragno",
+              "il gatto ha ucciso il topo"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anche , mi causi un dolore vivissimo; mi rovina",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con questa notizia mi uccidi!",
+              "se non mi concede una dilazione mi uccide!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Far perire, distruggere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il gelo ha ucciso le piante"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Condurre, specialmente lentamente, alla morte; anche ; anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quella vita lo ucciderà",
+              "la droga uccide",
+              "l’attesa",
+              "la noia mi uccide"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Opprimere, soffocare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la dittatura uccide la libertà"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "porre fine alla vita di un essere vivente in modo violento o intenzionale",
+      "examples": [
+        "Il cacciatore ha ucciso un cervo durante la battuta.",
+        "La polizia ha arrestato l'uomo che ha ucciso la vittima con un coltello."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "causare la morte di qualcuno in modo accidentale o indiretto",
+      "examples": [
+        "L'incidente stradale ha ucciso tre persone.",
+        "La siccità prolungata ha ucciso molte piante nel giardino."
+      ],
+      "nota": "In questo senso, l'azione può essere involontaria o non direttamente attribuibile a un agente umano."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "distruggere o annientare qualcosa in modo definitivo, spesso in senso figurato",
+      "examples": [
+        "Quella delusione ha ucciso ogni sua speranza.",
+        "Il nuovo regolamento ha ucciso la creatività del team."
+      ],
+      "nota": "Uso figurato, spesso riferito a sentimenti, idee o attività."
+    },
+    {
+      "pos": "verbo intransitivo pronominale (uccidersi)",
+      "definition": "togliere la vita a sé stessi",
+      "examples": [
+        "Dopo anni di depressione, purtroppo si è ucciso.",
+        "Non avrebbe mai pensato che un giorno avrebbe preso in considerazione di uccidersi."
+      ],
+      "nota": "Sinonimo di 'suicidarsi', ma con connotazione più cruda e diretta."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "provocare un dolore fisico o morale molto intenso",
+      "examples": [
+        "Questo mal di testa mi sta uccidendo.",
+        "La sua indifferenza mi uccide ogni giorno di più."
+      ],
+      "nota": "Uso iperbolico, spesso riferito a sofferenza fisica o emotiva."
+    }
+  ]
+}

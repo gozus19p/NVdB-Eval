@@ -1,0 +1,171 @@
+{
+  "lemma": "visitare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafee69ad0a50d0666500"
+    },
+    "source": "paraviaXML/128013.xml",
+    "lemma": "visitare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Recarsi in visita presso qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visitare un amico",
+              "un conoscente",
+              "visitare qcn. per chiedergli un favore"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Due delle sette opere di misericordia corporali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visitare gli infermi",
+              "visitare i carcerati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sottoporre a visita medica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "devi farti visitare da uno specialista"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare visite mediche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il dottore visita solo al mattino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Recarsi in un certo luogo per osservare ciò che vi si trova o vi si svolge, per motivi di svago, di studio, di lavoro, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visitare una mostra",
+              "una cattedrale",
+              "un centro sportivo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ispezionare, esaminare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il capitano ha visitato le camerate"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Recarsi in un luogo specifico per conoscerlo o osservarlo, spesso con intento turistico, culturale o di svago.",
+      "examples": [
+        "Domani visiteremo il museo di arte moderna.",
+        "Durante le vacanze vorrei visitare le Cinque Terre."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Andare a trovare una persona, in modo formale o informale, presso la sua abitazione o altro luogo.",
+      "examples": [
+        "Stasera andiamo a visitare i nonni.",
+        "Il medico è venuto a visitare il paziente a domicilio."
+      ],
+      "nota": "Nel contesto professionale (es. medico) implica spesso un controllo o una consulenza."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Accedere a un sito web o a una pagina su internet.",
+      "examples": [
+        "Ogni giorno visito quel portale di notizie.",
+        "Il nostro nuovo sito è stato visitato da migliaia di utenti."
+      ],
+      "nota": "Uso proprio dell'ambito informatico e del web."
+    }
+  ]
+}

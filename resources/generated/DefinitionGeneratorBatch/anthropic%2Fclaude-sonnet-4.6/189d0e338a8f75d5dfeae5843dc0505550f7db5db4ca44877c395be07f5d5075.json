@@ -1,0 +1,180 @@
+{
+  "lemma": "ma",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae2369ad0a50d064eba0"
+    },
+    "source": "paraviaXML/65169.xml",
+    "lemma": "ma",
+    "grammar": [
+      "cong.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vversativo, contrappone due elementi di una proposizione che hanno la stessa funzione sintattica o due proposizioni della stessa specie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli ho telefonato, ma non l’ho trovato",
+              "è intelligente ma svogliato",
+              "la salsa era buona, ma un po’ salata",
+              "è stato molto male, ma poi si è ripreso",
+              "pensavo di riuscire, ma non ce l’ho fatta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "familiare",
+              "intensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non è bella, ma bellissima",
+              "sono stanco, ma proprio stanco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Posto all’inizio di un periodo indica il passaggio da un argomento a un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ma torniamo al problema principale",
+              "ma riprendiamo il racconto dall’inizio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nfatico o in espressioni interrogative o esclamative",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ma certo!",
+              "ma tu ci credi?",
+              "ma non scherzare!",
+              "ma che bella notizia!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dubbio, incertezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dopo tanti ma e se, si decisero",
+              "con lui ci sono sempre dei ma",
+              "non c’è ma che tenga!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione coordinativa avversativa",
+      "definition": "Introduce un elemento che si contrappone, corregge o limita quanto affermato in precedenza.",
+      "examples": [
+        "Volevo venire alla festa, ma ho avuto un imprevisto.",
+        "È un ragazzo intelligente, ma pigro."
+      ],
+      "nota": "È la congiunzione avversativa più comune in italiano; si distingue da 'però' e 'tuttavia' per la posizione obbligatoriamente iniziale nella proposizione che introduce."
+    },
+    {
+      "pos": "congiunzione coordinativa avversativa (restrittiva)",
+      "definition": "Introduce una precisazione o correzione che rettifica parzialmente quanto detto prima, con valore di 'però', 'anzi'.",
+      "examples": [
+        "Non è un problema grave, ma neanche da trascurare.",
+        "Non l'ho detto per farti del male, ma per aiutarti."
+      ],
+      "nota": "In questo uso il valore non è di pura opposizione ma di precisazione o ridefinizione del contenuto precedente."
+    },
+    {
+      "pos": "congiunzione con valore rafforzativo-esclamativo",
+      "definition": "Usato in frasi esclamative o interrogative per esprimere sorpresa, incredulità, indignazione o enfasi.",
+      "examples": [
+        "Ma sei diventato matto?",
+        "Ma guarda un po' che combinazione!",
+        "Ma dai, non ci credo!"
+      ],
+      "nota": "In questo uso non ha valore connettivo tra proposizioni; si trova tipicamente in apertura di frase e appartiene al registro parlato."
+    },
+    {
+      "pos": "congiunzione con valore di obiezione o esitazione",
+      "definition": "Introduce un'obiezione, una riserva o un'esitazione rispetto a quanto appena detto o proposto.",
+      "examples": [
+        "Potremmo andare al cinema stasera. — Ma… non so se ho voglia.",
+        "Ti chiedo solo un favore. — Ma non è che sia così semplice."
+      ],
+      "nota": "In questo uso è spesso accompagnato da pausa o da altri segnali di esitazione; frequente nel parlato."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Obiezione, riserva, condizione limitante opposta a qualcosa.",
+      "examples": [
+        "Ci sono troppi 'ma' in questa proposta per poterla accettare.",
+        "Non voglio sentire scuse né ma: devi farlo e basta."
+      ],
+      "nota": "Usato prevalentemente al plurale e in contesti colloquiali; invariabile nella forma."
+    }
+  ]
+}

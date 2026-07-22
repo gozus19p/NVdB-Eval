@@ -1,0 +1,115 @@
+{
+  "lemma": "coinvolgere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa969ad0a50d0662cad"
+    },
+    "source": "paraviaXML/23996.xml",
+    "lemma": "coinvolgere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Implicare, trascinare in una situazione che comporta rischi o gravi responsabilità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coinvolgere qcn. in un’impresa",
+              "in un’avventura",
+              "è coinvolto nello scandalo delle tangenti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indurre a una partecipazione attiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coinvolgere qcn. nei preparativi della festa",
+              "è in grado di coinvolgere tutti nel gioco",
+              "coinvolgere in una discussione politica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rendere emotivamente partecipe: interessare suscitando emozioni: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la sua gioia mi coinvolge",
+              "la vicenda del film mi ha coinvolto",
+              "la musica la coinvolge",
+              "lasciarsi coinvolgere",
+              "è un romanzo che coinvolge"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "Fare partecipare qualcuno o qualcosa a un'azione, un'attività o un evento",
+      "examples": [
+        "La manifestazione ha coinvolto tutta la città.",
+        "Il progetto coinvolge molti esperti del settore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Implicare, comportare come conseguenza",
+      "examples": [
+        "La sua decisione ha coinvolto anche gli amici.",
+        "Il problema coinvolge questioni economiche e sociali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Attirare, interessare fortemente",
+      "examples": [
+        "Il film ha coinvolto il pubblico con la sua trama emozionante.",
+        "La musica la coinvolge profondamente."
+      ],
+      "nota": null
+    }
+  ]
+}

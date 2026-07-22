@@ -1,0 +1,636 @@
+{
+  "lemma": "santo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0669ad0a50d064b619"
+    },
+    "source": "paraviaXML/100880.xml",
+    "lemma": "santo",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è degno di venerazione religiosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la santa Pasqua",
+              "la santa Eucaristia",
+              "luoghi santi"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha attinenza con la divinità, sacro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "santo altare",
+              "tempio santo"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quelle della Chiesa, del vangelo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sante verità"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è appartenuto a un santo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una santa reliquia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che, chi è santo; specialmente , che, chi è stato canonizzato dalla Chiesa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "culto dei santi",
+              "i santi martiri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "iniziale",
+              "maiuscolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente con iniziale maiuscolo , unito a un nome proprio, può indicare il giorno in cui se ne celebra la festa, la chiesa che gli è intitolata, o la sua effige o raffigurazione: abbr. s. S.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "san Giovanni non è lavorativo",
+              "visitare San Pietro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "antonomasia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per : a Padova, la basilica di Sant’Antonio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il santo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per indicare una via, una piazza, un quartiere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "San Frediano",
+              "San Marco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è dotato di santità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un santo profeta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Unito spiritualmente a Dio perché vive nella sua grazia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le anime sante del paradiso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Onomastico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "oggi è il mio santo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il patrono di una città, il giorno in cui lo si festeggia: la festa stessa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fiera",
+              "festa del santo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ispirato da profonda fede, esemplare per virtù cristiana",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una vita santa",
+              "santi propositi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Morire in grazia di Dio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare una morte santa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che, chi è giusto, onesto, virtuoso; che, chi ha un animo buono, si distingue per altruismo e tolleranza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una santa donna",
+              "tuo marito è un santo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Condivisibile, indubitabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parole sante"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Utile, valido: efficace",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un santo consiglio",
+              "un rimedio santo contro il mal di testa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Leonastico e rafforzativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho lavorato tutto il santo giorno",
+              "fatemi il santo piacere di stare zitti!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Universalmente rispettato, che non si può violare o trasgredire di cui si sottolinea il significato morale e il valore etico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un santo giuramento",
+              "la santa memoria dei defunti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "liturgia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Liturgia ; sanctus",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chiesa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "regionale",
+              "toscano"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale toscano : di donna che dopo il parto ritorna in chiesa per la prima volta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "andare",
+              "entrare",
+              "rientrare in santo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "gergale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nel linguaggio militare, parola d’ordine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare",
+              "passare il santo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Estate di san Martino",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trasloco",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "numismatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Numismatica , moneta d’oro della Repubblica di Lucca, coniata intorno al 1340, su cui era raffigurato san Martino, patrono della città",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "6–8",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che è venerato per la sua pietà o per aver subito il martirio, riconosciuto come tale da una religione, specialmente quella cristiana.",
+      "examples": [
+        "San Francesco è il patrono d'Italia.",
+        "La vita dei santi è spesso fonte di ispirazione per i fedeli."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Considerato sacro o inviolabile, degno di profondo rispetto e venerazione.",
+      "examples": [
+        "Mantenere la parola data è un impegno santo.",
+        "Per molte culture, la famiglia è un'istituzione santa e intoccabile."
+      ],
+      "nota": "Riferito a concetti astratti o istituzioni."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Persona estremamente buona, generosa o ingenua.",
+      "examples": [
+        "Mia nonna è una santa, ha sempre una buona parola per tutti."
+      ],
+      "nota": "Spesso usato in senso figurato o iperbolico, anche in tono ironico."
+    },
+    {
+      "pos": "sostantivo (m./f.)",
+      "definition": "Individuo che, per la sua vita di eccezionale virtù, è venerato come tale in una religione, specialmente nel cristianesimo, e funge da intercessore presso la divinità.",
+      "examples": [
+        "Invocare i santi in preghiera è una pratica comune.",
+        "Ogni paese ha il suo santo patrono, celebrato con feste dedicate."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Immagine, statua o raffigurazione di un soggetto venerato.",
+      "examples": [
+        "C'è un piccolo santo nella nicchia del muro.",
+        "Teneva sempre con sé un santino come portafortuna."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Espressione usata in esclamazioni per indicare fastidio, meraviglia o disapprovazione.",
+      "examples": [
+        "Santo cielo, che guaio abbiamo combinato!",
+        "Che santo diavolo, mi hai spaventato a morte!"
+      ],
+      "nota": "Usato in esclamazioni fisse come 'santo cielo', 'santo subito'."
+    }
+  ]
+}

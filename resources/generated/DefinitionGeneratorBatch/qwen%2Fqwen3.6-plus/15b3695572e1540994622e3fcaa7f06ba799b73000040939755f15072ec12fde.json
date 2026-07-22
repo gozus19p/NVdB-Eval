@@ -1,0 +1,164 @@
+{
+  "lemma": "possibilità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2369ad0a50d065c0e8"
+    },
+    "source": "paraviaXML/85453.xml",
+    "lemma": "possibilità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’essere possibile; eventualità, ipotesi che qualcosa accada o si verifichi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esiste la possibilità che le nostre speranze si avverino",
+              "c’è la possibilità che piova",
+              "le possibilità di riuscita sono molto ridotte"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere attuabile, fattibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la possibilità di realizzare un progetto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Capacità, potere, occasione di fare qcs",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non ho avuto la possibilità di aiutarlo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , forze, mezzi materiali o morali di cui si dispone",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un allievo che non sfrutta appieno le sue possibilità",
+              "le mie possibilità economiche sono limitate",
+              "una spesa che va oltre le mie possibilità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "filosofia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , nella filosofia kantiana, una delle tre categorie della modalità",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Capacità o condizione intrinseca che consente a una persona, un oggetto o un sistema di compiere un'azione o di funzionare in un determinato modo.",
+      "examples": [
+        "I nuovi aggiornamenti del software ampliano notevolmente le possibilità di personalizzazione dell'interfaccia.",
+        "Questo motore ha scarse possibilità di trainare un carico così pesante."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Circostanza o condizione favorevole che si presenta per realizzare un obiettivo o per far accadere qualcosa.",
+      "examples": [
+        "L'azienda mi ha offerto la possibilità di un trasferimento all'estero.",
+        "Con questo bel tempo c'è la possibilità di organizzare una gita in montagna."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Grado di probabilità che un determinato evento si verifichi o che un'affermazione risulti vera.",
+      "examples": [
+        "Le possibilità di vittoria della nostra squadra sono ormai molto ridotte.",
+        "Esiste la possibilità che il volo venga ritardato per il maltempo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Disponibilità di risorse materiali, soprattutto economiche, che permettono di sostenere spese o mantenere un certo tenore di vita.",
+      "examples": [
+        "Purtroppo le nostre possibilità economiche non ci consentono di comprare casa in centro.",
+        "Viene da una famiglia di modeste possibilità ma ha sempre investito molto nella propria formazione."
+      ],
+      "nota": null
+    }
+  ]
+}

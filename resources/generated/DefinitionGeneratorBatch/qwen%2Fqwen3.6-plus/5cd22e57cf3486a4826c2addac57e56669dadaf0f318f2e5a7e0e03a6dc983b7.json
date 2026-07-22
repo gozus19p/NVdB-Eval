@@ -1,0 +1,130 @@
+{
+  "lemma": "ricerca",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3469ad0a50d065ce2f"
+    },
+    "source": "paraviaXML/94070.xml",
+    "lemma": "ricerca",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il ricercare e il suo risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la ricerca di un documento perso",
+              "di un lavoro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Attività intellettuale che mira a informarsi su un argomento o a estendere e ad approfondire la conoscenza in modo sistematico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ricerca filologica",
+              "storica",
+              "linguistica",
+              "laboratorio di ricerca"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il risultato di tale indagine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicare",
+              "presentare una ricerca sul nucleare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’insieme delle indagini scientifiche prodotte in un dato periodo, disciplina o paese",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Azione o attività volta a rintracciare, recuperare o ottenere qualcosa o qualcuno che non si possiede o non è immediatamente disponibile.",
+      "examples": [
+        "Dopo il licenziamento ha dedicato sei mesi alla ricerca di un nuovo impiego.",
+        "I vigili del fuoco hanno organizzato una capillare ricerca degli escursionisti dispersi durante il maltempo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività di indagine sistematica, metodologica e rigorosa finalizzata all'acquisizione di nuove conoscenze, alla verifica di ipotesi o alla risoluzione di problematiche complesse.",
+      "examples": [
+        "Il centro universitario ha ottenuto un finanziamento europeo per la ricerca sulle cellule staminali.",
+        "Gran parte del tempo del suo dottorato è stato assorbito dalla ricerca in archivi storici."
+      ],
+      "nota": "prevalente in contesti accademici, istituzionali e scientifico-tecnologici"
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Operazione di interrogazione di un archivio digitale, di un motore di navigazione o di un sistema informativo per estrarre, selezionare o visualizzare dati e documenti specifici in base a parametri definiti.",
+      "examples": [
+        "Inserendo le virgolette esatte si ottiene una risposta più pertinente rispetto alla semplice digitazione di parole chiave.",
+        "L'applicazione consente di salvare le impostazioni della ricerca per riutilizzarle automaticamente in una sessione successiva."
+      ],
+      "nota": "accezione ormai standard nel lessico comune grazie alla diffusione di internet e di banche dati elettroniche"
+    }
+  ]
+}

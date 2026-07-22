@@ -1,0 +1,211 @@
+{
+  "lemma": "consigliare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafab69ad0a50d0662dda"
+    },
+    "source": "paraviaXML/26326.xml",
+    "lemma": "consigliare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Aiutare qualcuno con suggerimenti, consigli e simile ; anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consigliami su cosa fare",
+              "non ho bisogno che tu mi consigli",
+              "consigliare bene",
+              "male"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Non essere precipitoso nel fare qualcosa , nel prendere delle decisioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non ti far consigliare dalla fretta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Incitare, indurre, esortare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consigliare alla pazienza",
+              "consigliare a fare qcs."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Indicare come buono, utile e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consigliare la calma",
+              "la prudenza"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche con tono minaccioso o autoritario",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consigliale di partire al più presto",
+              "ti consiglio di non scherzare su questo argomento",
+              "ti consiglio di smetterla"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Suggerire, dettare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "seguire ciò che consiglia il sentimento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Raccomandare, suggerire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consigliami un buon ristorante"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Convincere, persuadere",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Suggerire a qualcuno un'azione, una scelta o un comportamento ritenuti opportuni o vantaggiosi.",
+      "examples": [
+        "Il medico mi ha consigliato di ridurre lo stress e dormire di più.",
+        "Ti consiglio vivamente di leggere quel libro prima dell'esame."
+      ],
+      "nota": "Può reggere un complemento oggetto di persona ('consigliare qualcuno') o una proposizione infinitiva/completiva ('consigliare di fare qualcosa')."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Raccomandare un prodotto, un luogo, una persona o un'opera come degni di attenzione o preferenza.",
+      "examples": [
+        "Il sommelier ci ha consigliato un ottimo vino della regione.",
+        "Puoi consigliarmi un buon ristorante in centro?"
+      ],
+      "nota": "In questo senso il complemento oggetto è tipicamente una cosa o un luogo, non una persona."
+    },
+    {
+      "pos": "verbo riflessivo (consigliarsi)",
+      "definition": "Chiedere il parere o il suggerimento di qualcuno prima di prendere una decisione.",
+      "examples": [
+        "Prima di firmare il contratto, si è consigliata con il suo avvocato.",
+        "In caso di dubbio, consigliati con chi ha già affrontato questa situazione."
+      ],
+      "nota": "Si costruisce con la preposizione 'con' seguita dalla persona interpellata."
+    }
+  ]
+}

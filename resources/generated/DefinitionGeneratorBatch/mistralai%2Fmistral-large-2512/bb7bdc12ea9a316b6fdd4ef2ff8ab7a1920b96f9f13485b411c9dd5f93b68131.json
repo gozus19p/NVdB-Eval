@@ -1,0 +1,239 @@
+{
+  "lemma": "bordo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae8669ad0a50d0653eba"
+    },
+    "source": "paraviaXML/15144.xml",
+    "lemma": "bordo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fianco di un’imbarcazione, specialmente la parte del fianco che emerge dall’acqua",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lo spazio interno praticabile di un’imbarcazione o di altro mezzo di trasporto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "personale di bordo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Salirvi sopra; entrarvi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "salire a bordo di una nave",
+              "salire a bordo di un’automobile",
+              "di un aeroplano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Orlo, margine, estremità di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il bordo della vasca",
+              "del campo",
+              "ai bordi della strada"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Guarnizione usata per orlare un capo di biancheria, di vestiario e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una coperta col bordo ricamato",
+              "fare un bordo all’uncinetto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "geometria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geometria , il contorno d’una superficie piana o curva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il bordo di un rettangolo",
+              "di un emisfero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "astronomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Astronomia , la parte estrema del contorno di un astro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "marina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Marina , nella navigazione di bolina delle barche a vela, ogni tratto percorso con il vento da uno stesso lato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Linea o zona estrema che delimita una superficie o un oggetto.",
+      "examples": [
+        "Il bordo del tavolo è scheggiato.",
+        "Si è seduto sul bordo della piscina con i piedi nell'acqua."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Parte laterale di un'imbarcazione o di un veicolo.",
+      "examples": [
+        "Il marinaio si è sporto dal bordo della nave per guardare il mare.",
+        "Non sporgerti troppo dal bordo della macchina mentre guido."
+      ],
+      "nota": "In contesti nautici, può indicare anche l'intera imbarcazione (es. 'salire a bordo')."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Margine decorativo o funzionale di un indumento o di un tessuto.",
+      "examples": [
+        "La camicia ha un bordo di pizzo molto elegante.",
+        "Ho cucito un bordo blu alla tovaglia per renderla più carina."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Limite estremo di un'area o di una zona.",
+      "examples": [
+        "Abbiamo piantato dei fiori lungo il bordo del giardino.",
+        "Il bambino ha disegnato un cerchio e ha colorato solo il bordo."
+      ],
+      "nota": "Può essere usato in senso figurato per indicare il confine tra due situazioni (es. 'sul bordo della crisi')."
+    },
+    {
+      "pos": "avverbio (locuzione avverbiale: 'a bordo')",
+      "definition": "All'interno di un mezzo di trasporto, specialmente un veicolo o un'imbarcazione.",
+      "examples": [
+        "Tutti i passeggeri sono saliti a bordo dell'aereo.",
+        "Abbiamo caricato le valigie a bordo della macchina prima di partire."
+      ],
+      "nota": "La locuzione è invariabile e si usa prevalentemente in contesti di viaggio o trasporto."
+    }
+  ]
+}

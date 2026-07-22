@@ -1,0 +1,111 @@
+{
+  "lemma": "divertire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb369ad0a50d0663433"
+    },
+    "source": "paraviaXML/35946.xml",
+    "lemma": "divertire",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ricreare lo spirito distraendolo da affanni e preoccupazioni, procurando allegria e buon umore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è un film che diverte bambini e adulti",
+              "le sue battute divertono tutti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Distogliere, allontanare, volgere altrove: Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "voleva sempre più divertire la disputa dai due primi contendenti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "linguaggio militare",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguaggio militare , attirare le forze nemiche in un settore diverso da quello in cui si intende effettivamente attaccare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Procurare piacere, svago o allegria a qualcuno, rendendolo lieto o facendolo ridere.",
+      "examples": [
+        "Lo spettacolo ha divertito molto il pubblico.",
+        "Quel comico riesce sempre a divertire chiunque con le sue battute."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo (divertirsi)",
+      "definition": "Trascorrere il tempo in modo piacevole e spensierato, provando gioia o soddisfazione in un'attività.",
+      "examples": [
+        "I bambini si sono divertiti moltissimo al parco giochi.",
+        "Ci siamo divertiti tantissimo alla festa di ieri sera."
+      ],
+      "nota": "È la forma più frequente del verbo nell'italiano contemporaneo. L'espressione 'divertirsi da matti' intensifica il grado di piacere provato."
+    },
+    {
+      "pos": "verbo transitivo (uso figurato, letterario/formale)",
+      "definition": "Distogliere l'attenzione o le energie di qualcuno da un'occupazione o da uno scopo principale, deviandole altrove.",
+      "examples": [
+        "Le continue interruzioni lo divertivano dai suoi studi.",
+        "Non lasciarti divertire dagli ostacoli secondari: concentrati sull'obiettivo."
+      ],
+      "nota": "Questo senso, derivante dal latino 'divertere' (volgere altrove), è oggi raro e confinato a registri formali o letterari. Non va confuso con il senso principale di 'procurare svago'."
+    }
+  ]
+}

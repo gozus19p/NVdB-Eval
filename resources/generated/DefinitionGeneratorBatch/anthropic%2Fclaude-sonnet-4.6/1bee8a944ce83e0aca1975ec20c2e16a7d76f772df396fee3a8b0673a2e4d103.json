@@ -1,0 +1,159 @@
+{
+  "lemma": "dunque",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae2369ad0a50d064eb9d"
+    },
+    "source": "paraviaXML/37033.xml",
+    "lemma": "dunque",
+    "grammar": [
+      "cong.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Onclusivo, perciò, pertanto, quindi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho perso la scommessa, dunque pagherò"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per concludere, riprendere o iniziare un discorso: che .",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dicevate dunque"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nelle interrogazioni e nelle esclamazioni, per esortare, invitare, sollecitare a parlare, a rispondere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "d., parla!",
+              "perché dunque non decidi?",
+              "d.! andiamo?",
+              "e d.?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , conclusione, punto critico, risolutivo di una questione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giungere al dunque",
+              "passare",
+              "trovarsi al dunque"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione conclusiva",
+      "definition": "Introduce una conclusione logica derivata da quanto detto in precedenza; equivale a 'perciò', 'quindi', 'pertanto'.",
+      "examples": [
+        "Hai studiato poco, dunque non ti stupire del risultato.",
+        "Piove a dirotto; dunque faremo meglio a restare in casa."
+      ],
+      "nota": "È intercambiabile con 'quindi' e 'perciò' nella maggior parte dei contesti, ma tende a conferire un tono più formale o enfatico al ragionamento."
+    },
+    {
+      "pos": "avverbio",
+      "definition": "Usato per riprendere o ripristinare il filo di un discorso interrotto o per segnalare una ripresa narrativa; equivale a 'allora', 'ebbene'.",
+      "examples": [
+        "Dicevo dunque che la situazione era molto complicata.",
+        "Dunque, dove eravamo rimasti prima della pausa?"
+      ],
+      "nota": "In questo uso ha funzione coesiva e non propriamente inferenziale; frequente nel parlato e nel racconto orale."
+    },
+    {
+      "pos": "avverbio esclamativo",
+      "definition": "Esprime impazienza, sorpresa o sollecitazione nei confronti dell'interlocutore; equivale a 'allora!', 'su!'.",
+      "examples": [
+        "Dunque! Ti decidi a rispondermi o no?",
+        "Dunque, smettila di perdere tempo e vieni!"
+      ],
+      "nota": "In questo uso ha valore pragmatico-esclamativo e compare tipicamente in posizione iniziale di turno, spesso accompagnato da tono di voce risoluto o irritato."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Nella locuzione 'venire al dunque', il momento decisivo o il punto cruciale di una questione.",
+      "examples": [
+        "Dopo tanti giri di parole, è finalmente venuto al dunque.",
+        "Quando si tratta di venire al dunque, lui trova sempre una scusa per rimandare."
+      ],
+      "nota": "Usato quasi esclusivamente nella locuzione fissa 'venire al dunque' o 'arrivare al dunque'; non compare liberamente come sostantivo autonomo."
+    }
+  ]
+}

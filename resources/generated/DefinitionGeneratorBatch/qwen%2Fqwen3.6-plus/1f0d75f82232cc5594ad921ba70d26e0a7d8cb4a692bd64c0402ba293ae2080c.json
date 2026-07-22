@@ -1,0 +1,90 @@
+{
+  "lemma": "insegnante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6269ad0a50d06520ec"
+    },
+    "source": "paraviaXML/57710.xml",
+    "lemma": "insegnante",
+    "grammar": [
+      "p.pres.",
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio presente",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi insegna, specialmente per professione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "insegnante di lettere",
+              "insegnante di nuoto",
+              "di liceo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (m. e f. com.)",
+      "definition": "Persona che esercita professionalmente la trasmissione di conoscenze, competenze e principi educativi a studenti o corsisti all'interno di scuole o altri enti formativi.",
+      "examples": [
+        "L'insegnante di storia ha dedicato la lezione agli eventi della Rivoluzione francese.",
+        "Molti genitori si sono rivolti al dirigente scolastico per chiedere un nuovo insegnante di sostegno."
+      ],
+      "nota": "Il termine è di genere comune e si usa indifferentemente per referenti maschili e femminili. Nell'uso quotidiano è spesso specificato come 'maestro/a' per la scuola primaria e 'professore/ssa' per le secondarie, ma rimane la denominazione giuridica e amministrativa onnicomprensiva per la categoria."
+    },
+    {
+      "pos": "aggettivo (invariabile)",
+      "definition": "Che svolge o è destinato a svolgere attività di trasmissione di saperi e di formazione in ambito scolastico o istituzionale.",
+      "examples": [
+        "Il contratto nazionale disciplina le mansioni e i diritti del personale insegnante.",
+        "La recente riforma ha introdotto nuove procedure per il reclutamento del corpo insegnante nelle scuole pubbliche."
+      ],
+      "nota": "Utilizzato prevalentemente in registri tecnico-amministrativi e in sintagmi fissi istituzionali."
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "lemma": "visita",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8569ad0a50d066101b"
+    },
+    "source": "paraviaXML/128008.xml",
+    "lemma": "visita",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il recarsi presso qualcuno e intrattenersi in sua compagnia per amicizia, cortesia, dovere, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare visita a un amico",
+              "a un malato",
+              "andare in visita dai parenti",
+              "ricevere",
+              "restituire una visita"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "metonimia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per , la persona che visita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’è una visita per te"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Visita medica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visita specialistica",
+              "visita ambulatoriale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il recarsi in un luogo o in una località a scopo culturale, per turismo, come atto di culto, per ispezionare, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la visita di un museo",
+              "di una città",
+              "di una chiesa",
+              "di una scuola"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Incontro tra un professionista sanitario e un paziente per valutarne lo stato di salute o per fornire cure mediche.",
+      "examples": [
+        "Ho prenotato una visita dal cardiologo per la prossima settimana.",
+        "Il medico ha effettuato una visita accurata e ha prescritto degli esami del sangue."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Breve soggiorno in un luogo, spesso con lo scopo di incontrare qualcuno o di vedere qualcosa di particolare.",
+      "examples": [
+        "Durante le vacanze abbiamo fatto una visita al museo archeologico della città.",
+        "La visita dei parenti dall'estero è stata molto piacevole."
+      ],
+      "nota": "Può riferirsi anche a incontri formali o istituzionali, come la visita di un capo di stato."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Ispezione o controllo effettuato da un'autorità o da un esperto per verificare lo stato di qualcosa.",
+      "examples": [
+        "La visita fiscale ha confermato che l'edificio è a norma di sicurezza.",
+        "Durante la visita doganale, hanno controllato tutti i bagagli."
+      ],
+      "nota": null
+    }
+  ]
+}

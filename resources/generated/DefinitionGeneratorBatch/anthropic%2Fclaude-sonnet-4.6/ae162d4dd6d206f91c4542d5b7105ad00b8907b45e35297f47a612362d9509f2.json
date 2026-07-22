@@ -1,0 +1,163 @@
+{
+  "lemma": "colpa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9f69ad0a50d0655341"
+    },
+    "source": "paraviaXML/24435.xml",
+    "lemma": "colpa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Azione contraria alla morale o alle leggi e la responsabilità che ne deriva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commettere una colpa",
+              "macchiarsi di una grave colpa",
+              "espiare una colpa",
+              "sentirsi in colpa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "teologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Teologia , azione od omissione contraria a una norma religiosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colpa grave",
+              "tenue",
+              "cadere in colpa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , forma di imprudenza, negligenza, imperizia o inosservanza di norme giuridiche, senza alcuna intenzionalità dolosa e non per caso fortuito, da cui deriva un danno ad altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colpa civile",
+              "contrattuale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Responsabilità di effetti negativi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere la colpa dell’incidente",
+              "che colpa ne ho io? se non hai studiato, non è colpa dell’insegnante",
+              "dare a qcn. la colpa di qcs.",
+              "gettare la colpa su qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Errore di lingua, di stile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Responsabilità morale o giuridica di un atto dannoso, sbagliato o riprovevole commesso intenzionalmente o per negligenza.",
+      "examples": [
+        "La colpa dell'incidente ricade interamente sull'automobilista che non rispettava il codice della strada.",
+        "Non riesco a togliermi di dosso il senso di colpa per non essere andato a trovarlo prima che morisse."
+      ],
+      "nota": "Si distingue da 'dolo' (intenzione deliberata) e 'negligenza' in contesti giuridici, ma nell'uso comune i confini sono sfumati. L'espressione 'senso di colpa' indica il turbamento emotivo derivante dalla percezione di aver sbagliato."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Causa o origine di un evento negativo, attribuita a una persona o a una circostanza.",
+      "examples": [
+        "È colpa del maltempo se la partita è stata rinviata.",
+        "Non è colpa mia se le cose sono andate così: avevo avvertito tutti per tempo."
+      ],
+      "nota": "In questa accezione il termine introduce un nesso causale e compare spesso nella struttura 'è colpa di qualcuno/qualcosa'. Più vicino a una valutazione di causalità che di responsabilità morale piena."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Atto o comportamento specifico che viene giudicato sbagliato o riprovevole.",
+      "examples": [
+        "Ha ammesso le sue colpe davanti a tutta la famiglia.",
+        "Pagherà per le colpe commesse negli anni in cui era al potere."
+      ],
+      "nota": "In questo senso il lemma è spesso usato al plurale per indicare una serie di azioni censurabili concrete, piuttosto che la responsabilità in astratto."
+    }
+  ]
+}

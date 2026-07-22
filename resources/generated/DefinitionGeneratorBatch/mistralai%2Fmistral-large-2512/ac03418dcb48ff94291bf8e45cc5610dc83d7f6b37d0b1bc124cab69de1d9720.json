@@ -1,0 +1,688 @@
+{
+  "lemma": "doppio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a686"
+    },
+    "source": "paraviaXML/36506.xml",
+    "lemma": "doppio",
+    "grammar": [
+      "agg.",
+      "s.m.",
+      "avv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è due volte tanto, che è due volte la quantità o la grandezza data o ritenuta normale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "paga doppia",
+              "distanza doppia",
+              "un doppio whisky"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che è costituito da due parti uguali, specialmente sovrapposte, che spesso servono allo stesso scopo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fucile a canne doppie",
+              "torta a doppio strato"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pezzi del domino che hanno lo stesso numero da entrambe le parti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "doppio sei",
+              "doppio due"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nello zodiaco, segno che presenta una dualità come la Bilancia, i Pesci, i Gemelli",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "segno doppio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Duplice",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "certificato in doppia copia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che si fa, che avviene due volte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "hai fatto un doppio errore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Falso, ipocrita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è un uomo doppio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , elemento di una classe che dev’essere considerato due volte",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , di segno grafico, ripetuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di suono, specialmente di consonante, che ha durata maggiore di una semplice",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "esempio",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica , di fiore, nel quale gli stami assumono l’aspetto di un petalo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di infiorescenza delle Composite in cui i fiori tubulosi sono trasformati in ligulati, come ad esempio nel crisantemo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quantità due volte maggiore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guadagni il doppio di me",
+              "dieci è il doppio di cinque"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Molte volte, mille volte di più",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a due",
+              "a cento",
+              "a mille doppi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9a",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nel tennis e nel ping–pong: incontro disputato fra quattro giocatori divisi in due coppie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giocare un doppio",
+              "doppio femminile",
+              "maschile"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Coppia di giocatori che disputa tale incontro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un doppio vincente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9b",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nel canottaggio: imbarcazione con due vogatori ciascuno dei quali rema con due remi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Equipaggio che voga su tale imbarcazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, nel bridge, coppia di carte dello stesso seme possedute da un giocatore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "teatro",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Teatro ; doppione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "letteratura",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria letteratura , aspetto opposto e complementare di una persona o di un personaggio letterario",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il personaggio non riesce a convivere con il suo doppio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "TS",
+        "field": "liturgia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Liturgia , il rito liturgico più nobile e solenne, che comporta la ripetizione dei vespri sia alla vigilia sia nel giorno di festa e, nelle ore canoniche maggiori, la ripetizione delle antifone intere sia all’inizio sia alla fine dei salmi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In modo ambiguo, falso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "agire",
+              "parlare doppio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di strada, che si può percorrere nei due sensi di marcia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di vocabolo o frase, che può intendersi in due modi diversi, uno serio e l’altro allusivo o scherzoso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che presenta un’affilatura su due lati",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "arma",
+              "lama",
+              "spada a doppio taglio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di argomentazione, che può portare sia vantaggi sia conseguenze negative",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "marina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Marina , vano parzialmente riempito d’acqua, situato sotto il fondo dello scafo, per dare stabilità alla nave e contenere l’acqua in caso di falla",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Spazio creato sotto il fondo di un cassetto, di un armadio, di un baule e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "8–13",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che è formato da due parti uguali o simili, o che ha due volte la quantità, la misura o l'intensità di qualcosa.",
+      "examples": [
+        "Ha comprato un biglietto per il treno con posto a sedere doppio.",
+        "La stanza ha una porta doppia per isolare meglio dal rumore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che svolge due funzioni o ha due caratteristiche distinte contemporaneamente.",
+      "examples": [
+        "Questo utensile ha una lama doppia, utile per tagliare e sfilettare.",
+        "Ha assunto un ruolo doppio nella commedia, interpretando due personaggi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che non è sincero, che nasconde intenzioni non dichiarate.",
+      "examples": [
+        "Mi ha dato una risposta doppia, non so cosa pensare.",
+        "È una persona doppia: dice una cosa e ne fa un'altra."
+      ],
+      "nota": "Spesso usato in contesti negativi per indicare mancanza di onestà o coerenza."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Quantità che è esattamente il doppio di un'altra.",
+      "examples": [
+        "Se mangi due fette di torta, hai preso un doppio della porzione normale.",
+        "Il prezzo è salito al doppio rispetto all'anno scorso."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Nel calcio e in altri sport, vittoria ottenuta sia nella gara di andata che in quella di ritorno contro la stessa squadra.",
+      "examples": [
+        "La squadra ha conquistato il doppio contro i rivali storici.",
+        "Con questo risultato, hanno realizzato il doppio in campionato."
+      ],
+      "nota": "Usato soprattutto in contesti sportivi."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Copia identica di un oggetto, spesso usata come riserva o per ingannare.",
+      "examples": [
+        "Ha fatto un doppio delle chiavi di casa per sicurezza.",
+        "Il ladro ha usato un doppio della statua per sostituirla senza farsi scoprire."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "avverbio",
+      "definition": "In misura doppia rispetto a quanto previsto o atteso.",
+      "examples": [
+        "Dopo l'allenamento, ho mangiato doppio per recuperare le energie.",
+        "Ha lavorato doppio per finire il progetto in tempo."
+      ],
+      "nota": "Usato spesso in espressioni colloquiali per indicare un'intensificazione."
+    }
+  ]
+}

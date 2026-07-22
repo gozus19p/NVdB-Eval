@@ -1,0 +1,200 @@
+{
+  "lemma": "osso",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0e69ad0a50d065b022"
+    },
+    "source": "paraviaXML/77506.xml",
+    "lemma": "osso",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "anatomia"
+            ],
+            "definitions": [
+              {
+                "glossa": "None anatomia , ciascuna delle strutture dure, rigide e resistenti di colore biancastro che costituiscono l’apparato scheletrico dei Vertebrati",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le ossa del braccio",
+              "piede",
+              "del bacino",
+              "osso lungo",
+              "corto",
+              "piatto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parte ossea di un animale macellato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bistecca con l’osso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La parte più compatta delle ossa animali impiegata nella produzione di oggetti d’uso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bottone d’osso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nocciolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "osso dell’albicocca"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "scherzoso"
+            ],
+            "definitions": [
+              {
+                "glossa": "Al , corpo umano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non ho dove posare le mie povere ossa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , resti mortali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le sue misere ossa sono state sepolte"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Struttura solida e resistente, costituita principalmente da calcio e fosforo, che forma lo scheletro dei vertebrati e serve da sostegno al corpo e protezione agli organi interni.",
+      "examples": [
+        "Il femore è l'osso più lungo del corpo umano.",
+        "Dopo la caduta, ha temuto di essersi rotto un osso."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Nel linguaggio comune, ciò che rimane di un animale macellato, spesso con poca carne, e che viene dato come cibo ad animali domestici o utilizzato per brodi.",
+      "examples": [
+        "Il cane ha passato tutto il pomeriggio a rosicchiare il suo osso.",
+        "Ha aggiunto l'osso di prosciutto al brodo per insaporirlo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Il nocciolo o la parte legnosa e dura contenuta all'interno di alcuni frutti, come le ciliegie o le pesche.",
+      "examples": [
+        "Fai attenzione a non ingoiare l'osso della ciliegia.",
+        "Ha scartato tutti gli ossi delle olive prima di preparare il paté."
+      ],
+      "nota": "In questo senso è detto anche 'nocciolo' o 'endocarpo'."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "In senso figurato, elemento centrale o parte irrinunciabile e fondamentale di qualcosa, spesso difficile da affrontare o comprendere.",
+      "examples": [
+        "Questo problema è un vero osso duro per gli studenti di matematica.",
+        "Il punto cruciale della questione è proprio questo osso da spolpare."
+      ],
+      "nota": "Spesso usato nell'espressione 'osso duro'."
+    }
+  ]
+}

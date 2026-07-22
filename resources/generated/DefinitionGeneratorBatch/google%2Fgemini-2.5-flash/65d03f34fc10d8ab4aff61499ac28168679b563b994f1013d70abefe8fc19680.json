@@ -1,0 +1,208 @@
+{
+  "lemma": "signorina",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4d69ad0a50d065e321"
+    },
+    "source": "paraviaXML/108280.xml",
+    "lemma": "signorina",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Appellativo di riguardo e cortesia con cui ci si rivolge o ci si riferisce a una donna non sposata e, un tempo, di ceto sociale elevato, specialmente premesso al cognome o al nome ( abbr. sig. na)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la signorina Rossi",
+              "la signorina Maria",
+              "buongiorno, signorina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Donna giovane non ancora sposata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha due figlie signorine"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Donna non più giovane non sposata",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fanciulla nel periodo della pubertà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere una signorina",
+              "farsi signorina"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Svilupparsi sessualmente, entrare nell’età della pubertà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "diventare signorina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "gergale",
+              "eufemistico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Prostituta che esercita in una casa di tolleranza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Uomo debole, fiacco o anche effeminato, specialmente come epiteto ingiurioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "termine generico di ittiologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine generico di ittiologia , nome delle specie del genere così chiamate per la loro grazia e per la bellezza dei loro colori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Pomacentrus"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Appellativo di cortesia usato per rivolgersi o riferirsi a donne giovani o non sposate.",
+      "examples": [
+        "La signorina al bancone ha risposto gentilmente a tutte le mie domande.",
+        "Buongiorno, signorina, posso aiutarla a trovare qualcosa?"
+      ],
+      "nota": "L'uso di questo termine è diventato meno comune al di fuori di contesti specifici, spesso sostituito da 'signora' indipendentemente dallo stato civile, per evitare congetture personali."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Giovane donna che lavora come commessa, cameriera o in un ruolo di servizio simile.",
+      "examples": [
+        "Chiami la signorina per ordinare un caffè.",
+        "La signorina del negozio di abbigliamento mi ha aiutato a scegliere il vestito più adatto."
+      ],
+      "nota": null
+    }
+  ]
+}

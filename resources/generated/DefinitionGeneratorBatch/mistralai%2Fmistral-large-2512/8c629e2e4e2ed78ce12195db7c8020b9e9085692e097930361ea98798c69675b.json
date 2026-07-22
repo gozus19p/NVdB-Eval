@@ -1,0 +1,182 @@
+{
+  "lemma": "aggiungere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafea69ad0a50d066611a"
+    },
+    "source": "paraviaXML/3087.xml",
+    "lemma": "aggiungere",
+    "grammar": [
+      "v.tr.",
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettere in più, unire a qualcosa che già esiste",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "aggiungi un po’ di sale",
+              "non aggiungere altro peso al bagaglio",
+              "aggiungere un pezzo raro alla propria collezione",
+              "aggiungere una firma a un documento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Considerare ulteriormente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "aggiungi anche che fra poco sarà buio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dire in più, soggiungere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "aggiunse che sarebbe partito subito",
+              "ho detto tutto, non ho altro da aggiungere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Raggiungere: Machiavelli)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli uomini sono più lenti a pigliare quello che possono avere, che non sono a desiderare quello che possono aggiugnere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arrivare: Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "anzi che ‘l giorno, già vicin, n’aggiunga"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "mettere insieme o unire qualcosa a qualcos'altro che già esiste o è presente",
+      "examples": [
+        "Ho aggiunto un po' di sale alla minestra per renderla più saporita.",
+        "Aggiungi il latte alla lista della spesa, per favore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "dire o scrivere qualcosa in più rispetto a quanto già detto o scritto",
+      "examples": [
+        "Dopo aver spiegato la regola, l'insegnante aggiunse alcuni esempi pratici.",
+        "Vorrei aggiungere che il progetto è stato completato in anticipo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "aumentare o incrementare qualcosa in quantità, intensità o valore",
+      "examples": [
+        "Con questo nuovo contratto, il mio stipendio è aggiunto di duecento euro.",
+        "La tensione in sala è aggiunta quando è stato annunciato il ritardo."
+      ],
+      "nota": "In questo uso, il verbo è spesso accompagnato da specificazioni di quantità o misura."
+    },
+    {
+      "pos": "verbo riflessivo (aggiungersi)",
+      "definition": "unirsi o sommarsi a un gruppo o a una situazione già esistente",
+      "examples": [
+        "Alla lista dei partecipanti si sono aggiunti altri tre nomi.",
+        "Alle difficoltà iniziali si è aggiunto un problema tecnico."
+      ],
+      "nota": null
+    }
+  ]
+}

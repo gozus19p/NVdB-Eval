@@ -1,0 +1,234 @@
+{
+  "lemma": "nucleare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064b1a1"
+    },
+    "source": "paraviaXML/74826.xml",
+    "lemma": "nucleare",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Del nucleo, relativo al nucleo, che forma un nucleo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia , relativo o appartenente al nucleo della cellula",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica fisica , relativo al nucleo dell’atomo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Energia prodotta da un processo di fissione o di fusione del nucleo atomico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "energia nucleare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che produce energia mediante un processo di fissione o di fusione del nucleo atomico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "impianto nucleare"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che sfrutta tale energia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "arma nucleare",
+              "sottomarino nucleare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Costituito da armi nucleari: che implica l’uso di tali armi: dotato di ordigni nucleari",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "potenziale nucleare di un paese",
+              "guerra nucleare",
+              "missile nucleare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , l’energia nucleare, considerata specialmente nei suoi impieghi civili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’impiego del nucleare nell’industria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1–4",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "relativo al nucleo di un atomo o all'energia da esso prodotta attraverso reazioni di fissione o fusione",
+      "examples": [
+        "La centrale nucleare fornisce energia alla regione.",
+        "Gli scienziati studiano le reazioni nucleari per migliorare la sicurezza."
+      ],
+      "nota": "Spesso associato a contesti tecnologici, energetici o militari (es. armi nucleari, energia nucleare)."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "relativo al nucleo di una cellula biologica",
+      "examples": [
+        "Il DNA è contenuto nel materiale nucleare della cellula.",
+        "La membrana nucleare separa il nucleo dal citoplasma."
+      ],
+      "nota": "Usato prevalentemente in ambito biologico o medico."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "che riguarda il nucleo centrale o fondamentale di un gruppo, un'organizzazione o un sistema",
+      "examples": [
+        "Il partito ha subito una scissione tra la componente nucleare e le frange esterne.",
+        "La famiglia nucleare è composta da genitori e figli."
+      ],
+      "nota": "In sociologia, 'famiglia nucleare' indica un modello familiare ristretto ai genitori e ai figli, contrapposto a quello esteso."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "energia prodotta attraverso reazioni nucleari, in particolare la fissione dell'uranio o del plutonio",
+      "examples": [
+        "Il governo ha deciso di investire nel nucleare per ridurre le emissioni di CO2.",
+        "Molti ambientalisti sono contrari al nucleare per i rischi legati alle scorie radioattive."
+      ],
+      "nota": "Spesso usato in contesti di dibattito energetico o politico. Può riferirsi anche alle tecnologie o alle politiche legate a questa forma di energia."
+    }
+  ]
+}

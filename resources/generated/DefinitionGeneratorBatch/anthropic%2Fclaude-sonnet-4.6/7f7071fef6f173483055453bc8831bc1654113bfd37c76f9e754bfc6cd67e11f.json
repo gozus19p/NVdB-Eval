@@ -1,0 +1,98 @@
+{
+  "lemma": "fidarsi",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb569ad0a50d0663651"
+    },
+    "source": "paraviaXML/43520.xml",
+    "lemma": "fidarsi",
+    "grammar": [
+      "v.pronom.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere fiducia in qualcuno o qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fidarsi di un amico",
+              "non mi fido della mia memoria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere il coraggio, la sicurezza di fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non mi fido a tuffarmi",
+              "il trampolino è troppo alto"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo riflessivo, intransitivo (si costruisce con 'di' + persona/cosa)",
+      "definition": "Riporre piena fiducia in qualcuno o qualcosa, ritenendolo affidabile, onesto o competente.",
+      "examples": [
+        "Mi fido ciecamente di mia sorella: non mi ha mai deluso.",
+        "Non mi fido di quel meccanico, preferisco andare da un altro."
+      ],
+      "nota": "Antonimo di 'diffidare'. L'espressione proverbiale 'Fidarsi è bene, non fidarsi è meglio' riflette un atteggiamento di prudenza diffuso nella cultura popolare italiana."
+    },
+    {
+      "pos": "verbo riflessivo, intransitivo (si costruisce con 'di' + infinito)",
+      "definition": "Sentirsi sufficientemente sicuro o coraggioso da compiere un'azione, osare fare qualcosa.",
+      "examples": [
+        "Non mi fido di guidare con questo ghiaccio sulla strada.",
+        "Ti fidi di saltare da quella roccia? L'acqua è abbastanza profonda."
+      ],
+      "nota": "In questo uso il complemento non è una persona ma un'azione espressa all'infinito. Indica la valutazione soggettiva della propria capacità o del rischio connesso all'azione."
+    },
+    {
+      "pos": "verbo riflessivo, intransitivo (uso assoluto o con 'di' + cosa)",
+      "definition": "Fare affidamento su qualcosa, contare sulla sua efficacia o validità.",
+      "examples": [
+        "Non fidarti troppo delle previsioni del tempo: cambiano continuamente.",
+        "Si fida solo della propria esperienza e non legge mai i manuali."
+      ],
+      "nota": "In questo uso il soggetto si affida a uno strumento, a un'informazione o a una propria capacità piuttosto che a una persona."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "lemma": "favore",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec369ad0a50d0657231"
+    },
+    "source": "paraviaXML/42724.xml",
+    "lemma": "favore",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Atto compiuto disinteressatamente, per gentilezza o benevolenza verso qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "chiedere un favore",
+              "aver bisogno di un favore"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fammi il favore di andartene",
+              "ma mi faccia il f.!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Disposizione d’animo benevola verso qualcuno o qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guadagnarsi",
+              "perdere il favore dei superiori",
+              "ottenere il favore del pubblico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Aiuto, protezione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire col favore del vento",
+              "scappare col favore delle tenebre"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , disponibilità ai rapporti amorosi: divenire amante di qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "concedere i propri favori"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Favorevole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un voto",
+              "un giudizio a favore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , di testimone che depone per l’imputato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "teste a favore"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Atto cortese o utile compiuto spontaneamente nei confronti di qualcuno.",
+      "examples": [
+        "Mi ha fatto un grande favore prestandomi l'auto.",
+        "Non chiedere troppi favori agli amici."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Simpatia, atteggiamento benevolo o protezione accordati a qualcuno.",
+      "examples": [
+        "L'insegnante mostra un evidente favore verso gli studenti più studiosi.",
+        "Gode del favore del capo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Vantaggio, condizione di superiorità in una competizione o situazione.",
+      "examples": [
+        "La squadra di casa ha giocato con il favore del pubblico.",
+        "Le condizioni meteorologiche erano a nostro favore."
+      ],
+      "nota": "Usato spesso in espressioni come 'a favore di'."
+    }
+  ]
+}

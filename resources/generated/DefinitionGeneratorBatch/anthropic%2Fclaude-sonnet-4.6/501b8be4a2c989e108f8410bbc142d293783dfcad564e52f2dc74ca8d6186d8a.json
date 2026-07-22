@@ -1,0 +1,215 @@
+{
+  "lemma": "radio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6c69ad0a50d06528a4"
+    },
+    "source": "paraviaXML/90251.xml",
+    "lemma": "radio",
+    "grammar": [
+      "s.f.inv.",
+      "agg.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "telecomunicazioni"
+            ],
+            "definitions": [
+              {
+                "glossa": "None telecomunicazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "None radiofonia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "None radiofonico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iniziale",
+              "maiuscolo",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anche con iniziale maiuscolo , ente statale od organizzazione privata che provvede a trasmettere radiofonicamente notizie, programmi musicali, culturali, di svago, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavorare alla radio",
+              "la radio italiana",
+              "francese",
+              "i programmi della radio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stazione radiotrasmittente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’antenna della radio domina la collina",
+              "sintonizzarsi su radio Montecarlo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Apparecchio radiofonico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accendere",
+              "spegnere la radio",
+              "comprarsi una radio nuova",
+              "abbassare il volume della radio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "telecomunicazioni",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Telecomunicazioni , apparecchio radiotelegrafico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f. invariabile",
+      "definition": "Apparecchio elettronico in grado di ricevere segnali trasmessi via onde elettromagnetiche e riprodurli sotto forma di suoni, musica o voci.",
+      "examples": [
+        "Ho sentito la notizia alla radio stamattina.",
+        "Spegni la radio, per favore, devo concentrarmi."
+      ],
+      "nota": "In questo senso può riferirsi sia al dispositivo fisico sia all'ascolto in generale ('ascoltare la radio')."
+    },
+    {
+      "pos": "sostantivo f. invariabile",
+      "definition": "Stazione o emittente che produce e trasmette programmi via onde elettromagnetiche.",
+      "examples": [
+        "Quella radio trasmette solo musica degli anni Ottanta.",
+        "Lavora come speaker per una radio locale."
+      ],
+      "nota": "In questo senso indica l'ente o l'organizzazione, non il dispositivo."
+    },
+    {
+      "pos": "sostantivo f. invariabile",
+      "definition": "Tecnologia o sistema di trasmissione e ricezione di segnali a distanza tramite onde elettromagnetiche, senza uso di cavi.",
+      "examples": [
+        "Le comunicazioni via radio sono fondamentali nelle operazioni militari.",
+        "I piloti mantengono il contatto con la torre di controllo tramite radio."
+      ],
+      "nota": "In questo senso è spesso usato in contesti tecnici, militari o di comunicazione professionale."
+    },
+    {
+      "pos": "sostantivo m. invariabile",
+      "definition": "Elemento chimico metallico, radioattivo, di numero atomico 88, scoperto da Marie e Pierre Curie.",
+      "examples": [
+        "Il radio viene impiegato in alcuni trattamenti medici specializzati.",
+        "La scoperta del radio valse a Marie Curie il Premio Nobel per la Chimica."
+      ],
+      "nota": "Simbolo chimico: Ra. In questo senso il genere è maschile, a differenza degli altri usi del lemma."
+    },
+    {
+      "pos": "sostantivo m. invariabile",
+      "definition": "Osso del forebraccio situato sul lato del pollice, che si articola con l'ulna e le ossa del carpo.",
+      "examples": [
+        "Si è fratturato il radio cadendo dalla bicicletta.",
+        "La radiografia ha mostrato una piccola crepa al radio."
+      ],
+      "nota": "Termine anatomico di uso corrente anche al di fuori del contesto medico specialistico."
+    },
+    {
+      "pos": "sostantivo m. invariabile",
+      "definition": "Segmento che congiunge il centro di una circonferenza o di una sfera a un punto della sua linea perimetrale; per estensione, distanza dal centro.",
+      "examples": [
+        "Il raggio della ruota è di trenta centimetri.",
+        "Tutti i negozi nel raggio di un chilometro sono stati evacuati."
+      ],
+      "nota": "In italiano contemporaneo questo significato geometrico è più comunemente espresso dalla forma 'raggio'; 'radio' in senso geometrico è meno frequente nel parlato comune ma attestato in testi tecnici e scientifici."
+    }
+  ]
+}

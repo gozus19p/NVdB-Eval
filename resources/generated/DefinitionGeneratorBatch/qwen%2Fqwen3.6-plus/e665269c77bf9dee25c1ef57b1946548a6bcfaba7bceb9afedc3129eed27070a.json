@@ -1,0 +1,137 @@
+{
+  "lemma": "scatola",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4369ad0a50d065da5e"
+    },
+    "source": "paraviaXML/102876.xml",
+    "lemma": "scatola",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Contenitore di differenti materiali, forme e dimensioni a seconda delle esigenze, solitamente provvisto di coperchio, usato per riporre, conservare o trasportare oggetti va- ri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scatola di cartone",
+              "di latta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In cartone, a forma di parallelepipedo, tale da contenere un paio di scarpe",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scatola da scarpe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "metonimia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per , il suo contenuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è riuscito a mangiare un’intera scatola di gianduiotti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oggetto, congegno a forma di scatola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un carillon formato da una scatola con sopra una bambolina"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Contenitore rigido o semirigido, di forma solitamente parallelepipeda, realizzato in materiali come cartone, metallo, legno o plastica, destinato a racchiudere, proteggere o trasportare oggetti.",
+      "examples": [
+        "Ho sistemato le fotografie d'infanzia in una scatola di cartone conservata in solaio.",
+        "Il pacco è arrivato integro perché ben protetto all'interno di una scatola con pareti rinforzate."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Veicolo automobilistico in cattivo stato di conservazione, obsoleto o di scarso valore commerciale e prestazionale.",
+      "examples": [
+        "Non capisco come fai a guidare ancora quella scatola per tornare a casa ogni sera.",
+        "Ha finalmente deciso di rottamare la sua vecchia scatola per acquistare un mezzo più sicuro e affidabile."
+      ],
+      "nota": "Uso colloquiale e marcato in senso spregiativo."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Stanza, appartamento o alloggio di dimensioni molto ridotte, angusto e spesso privo di comfort, illuminazione naturale o spazi esterni.",
+      "examples": [
+        "Dopo il trasferimento in città, si è ritrovato a vivere in una scatola senza finestre.",
+        "Pagarne tre al mese fa male, considerando che si tratta di una scatola poco abitabile e rumorosa."
+      ],
+      "nota": "Estensione figurata che enfatizza la sensazione di chiusura e angustia spaziale."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Involucro esterno, spesso metallico o plastico, che costituisce la struttura portante e protettiva di un apparecchio elettronico, informatico o di un quadro elettrico.",
+      "examples": [
+        "Ha aperto la scatola del computer fisso per pulire le ventole e aggiungere memoria RAM.",
+        "L'elettricista ha fissato tutti i cavi e gli interruttori all'interno della scatola di derivazione."
+      ],
+      "nota": "Termine diffuso in ambito tecnico-informatico e impiantistico, spesso usato come sinonimo di case o chassis."
+    }
+  ]
+}

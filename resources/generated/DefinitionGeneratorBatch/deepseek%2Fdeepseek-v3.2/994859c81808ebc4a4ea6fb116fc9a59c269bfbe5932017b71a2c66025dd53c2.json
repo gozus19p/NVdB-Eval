@@ -1,0 +1,93 @@
+{
+  "lemma": "indagine",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaede69ad0a50d065886a"
+    },
+    "source": "paraviaXML/55470.xml",
+    "lemma": "indagine",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ricerca sistematica per conoscere, scoprire qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "indagine demoscopica",
+              "statistica",
+              "storica",
+              "filologica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , investigazione giudiziaria o degli organi di polizia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziare",
+              "concludere un’indagine",
+              "depistare le indagini",
+              "dare un nuovo corso alle indagini"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Attività metodica di ricerca e raccolta di dati o informazioni su un argomento specifico, finalizzata a ottenere conoscenza o chiarire una questione.",
+      "examples": [
+        "La polizia ha avviato un'indagine approfondita sulla scomparsa del giovane.",
+        "L'istituto di statistica pubblica periodicamente indagini sul mercato del lavoro."
+      ],
+      "nota": "Il termine si riferisce tipicamente a un processo formale o sistematico di ricerca."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Studio analitico e approfondito volto alla comprensione di un fenomeno, spesso di carattere intellettuale, scientifico o filosofico.",
+      "examples": [
+        "Il saggio propone una stimolante indagine sulle radici della democrazia moderna.",
+        "La sua indagine poetica si concentra sul tema della solitudine."
+      ],
+      "nota": null
+    }
+  ]
+}

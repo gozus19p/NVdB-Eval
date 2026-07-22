@@ -1,0 +1,473 @@
+{
+  "lemma": "giorno",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaed269ad0a50d0657e89"
+    },
+    "source": "paraviaXML/48781.xml",
+    "lemma": "giorno",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "TS",
+        "field": "astronomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Periodo di ore fra una mezzanotte e la successiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la settimana ha sette giorni",
+              "il primo",
+              "l’ultimo giorno del mese"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( abbr. g.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il giorno 2 di luglio"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa successo da molto ma che sembra vicino nel tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pare",
+              "sembra un giorno"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per sapere a quale giorno della settimana o del mese corrisponde il giorno in questione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che giorno è oggi?",
+              "che giorno era ieri?"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In un giorno imprecisato, passato o futuro; un giorno futuro imprecisato ma abbastanza vicino; in questo periodo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un giorno",
+              "uno di questi giorni",
+              "in questi giorni"
+            ]
+          },
+          {
+            "number": 7,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Astronomia , periodo di tempo impiegato dalla Terra per compiere una rotazione intorno al proprio asse",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Periodo di ore, calcolato a partire da una qualsiasi ora",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la nave parte alle cinque e ci mette un giorno ad arrivare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Periodo di luce fra l’alba e il tramon- to",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavorare di giorno e uscire la sera"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento alla luce o al sorgere del sole: fa chiaro; prima dell’alba; c’è ancora luce",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è giorno",
+              "è giorno fatto",
+              "pieno",
+              "alzarsi prima di giorno",
+              "è ancora giorno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Giornata, specialmente con riferimento alle condizioni del tempo o ai fatti che la caratterizzano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un giorno sereno",
+              "freddo",
+              "un giorno di pioggia",
+              "di sole"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Giornata in cui si festeggia, si celebra qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il giorno di Natale",
+              "di Pasqua",
+              "il giorno dei morti",
+              "di san Valentino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cammino, distanza percorsi in una giornata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Parigi è a un giorno di treno da qui"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , periodo storico, fase della vita di qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i giorni della rivoluzione",
+              "i giorni felici dell’infanzia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’ultimo periodo, la fine; quando ero giovane, quando eravate giovani, ai miei, ai vostri tempi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli ultimi giorni del fascismo",
+              "ai miei",
+              "ai vostri giorni"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’intera esistenza, la vita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "trascorrere i propri giorni in convento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alcuni giorni sì, altri no; talvolta, a volte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mal di testa mi viene a giorni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Entro poco tempo, fra pochi giorni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la lettera dovrebbe arrivare a giorni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , di struttura, costruzione e simile , priva di rivestimento o di copertura, in modo da lasciare visibile la sua ossatura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scala a giorno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "oreficeria",
+        "grammar": [
+          "locuzione aggettivale",
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oreficeria , di montatura, effettuata in modo da lasciare la gemma quasi completamente visibile: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "montatura",
+              "legatura a giorno",
+              "montare",
+              "legare a giorno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arte, di cloisonné, privo del fondo di supporto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "artigianato",
+        "grammar": [
+          "locuzione sostantivale maschile",
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Inv. artigianato ; à jour",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "periodo di tempo che va dall'alba al tramonto",
+      "examples": [
+        "Ieri giorno sono andato al parco.",
+        "Il giorno è finito con un tramonto bellissimo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "periodo di ventiquattro ore, considerato come unità di tempo",
+      "examples": [
+        "Ho un appuntamento domani giorno alle 10.",
+        "Il mio compleanno cade un giorno feriale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "momento o periodo opportuno",
+      "examples": [
+        "È il giorno giusto per fare una gita.",
+        "Il giorno della mia laurea è stato indimenticabile."
+      ],
+      "nota": null
+    }
+  ]
+}

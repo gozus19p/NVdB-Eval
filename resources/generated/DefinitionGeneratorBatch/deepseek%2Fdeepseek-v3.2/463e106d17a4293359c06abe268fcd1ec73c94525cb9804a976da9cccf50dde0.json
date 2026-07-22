@@ -1,0 +1,82 @@
+{
+  "lemma": "ristorante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3869ad0a50d065d1cd"
+    },
+    "source": "paraviaXML/98171.xml",
+    "lemma": "ristorante",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "ristorante-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Locale pubblico in cui si cucinano, si servono e si consumano ai tavoli pasti completi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ristorante di lusso",
+              "tipico",
+              "cinese",
+              "messicano",
+              "andare",
+              "cenare al ristorante"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "albergo",
+              "caffè ristorante"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Locale commerciale dove vengono preparati e serviti pasti a pagamento, generalmente con servizio al tavolo.",
+      "examples": [
+        "Per il nostro anniversario abbiamo prenotato un tavolo in un ristorante di pesce sul lungomare.",
+        "Il nuovo ristorante etnico in centro città è molto frequentato a pranzo."
+      ],
+      "nota": "Si distingue tipicamente da altri esercizi come trattorie, osterie o pizzerie per un'offerta e un servizio più strutturati, anche se la distinzione nell'uso corrente non è sempre rigida."
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Azienda o attività che gestisce tale tipo di locale.",
+      "examples": [
+        "Dopo anni di esperienza come chef, ha finalmente aperto un ristorante tutto suo.",
+        "Il ristorante di famiglia è passato di generazione in generazione."
+      ],
+      "nota": "In questo senso, il termine si riferisce all'attività imprenditoriale nel suo complesso, più che al locale fisico."
+    }
+  ]
+}

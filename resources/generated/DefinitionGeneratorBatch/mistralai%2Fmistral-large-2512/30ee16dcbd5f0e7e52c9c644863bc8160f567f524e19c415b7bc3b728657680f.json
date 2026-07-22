@@ -1,0 +1,178 @@
+{
+  "lemma": "tassa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6269ad0a50d065f44d"
+    },
+    "source": "paraviaXML/118543.xml",
+    "lemma": "tassa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Compenso obbligatorio corrisposto allo stato o ad altro ente pubblico come controprestazione di un servizio specifico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tasse universitarie",
+              "scolastiche",
+              "automobilistiche"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Imposta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "metà del mio stipendio finisce in tasse",
+              "ci vorrebbero meno tasse!",
+              "pagare le tasse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Quota corrisposta a un’associazione, a un ente privato e simile per ricevere un servizio o per poter partecipare ad attività comuni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Multa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , retribuzione spettante a un pubblico ufficiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , quota o elemosina stabilita dal papa in occasione dei giubilei grazie alla quale si ottenevano le indulgenze senza andare a Roma",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Somma di denaro che i cittadini o le imprese devono versare allo Stato o a un ente pubblico per finanziare servizi e spese collettive, in base a norme legislative.",
+      "examples": [
+        "Ogni anno devo pagare le tasse sul reddito.",
+        "Il governo ha aumentato le tasse sui carburanti per ridurre l'inquinamento."
+      ],
+      "nota": "Può riferirsi a imposte dirette (es. IRPEF) o indirette (es. IVA). Spesso usato al plurale per indicare il sistema fiscale nel suo complesso."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Contributo obbligatorio richiesto per un servizio specifico o per l'accesso a una struttura, distinto dalle imposte generali.",
+      "examples": [
+        "Per iscrivere mio figlio all'asilo comunale ho pagato una tassa di iscrizione.",
+        "La tassa di soggiorno negli hotel serve a finanziare il turismo locale."
+      ],
+      "nota": "In questo senso, si distingue dalle imposte perché è legata a un servizio o beneficio diretto (es. tassa di circolazione, tassa sui rifiuti)."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In contesti figurati, ciò che viene richiesto o preteso in modo oneroso, spesso metaforicamente.",
+      "examples": [
+        "La guerra ha richiesto un'alta tassa in termini di vite umane.",
+        "Il successo professionale ha una sua tassa: meno tempo per la famiglia."
+      ],
+      "nota": "Uso prevalentemente figurato, per indicare un costo non economico ma morale, sociale o personale."
+    }
+  ]
+}

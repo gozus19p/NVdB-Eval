@@ -1,0 +1,159 @@
+{
+  "lemma": "eseguire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb469ad0a50d0663556"
+    },
+    "source": "paraviaXML/40316.xml",
+    "lemma": "eseguire",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettere in pratica, fare, specialmente secondo un piano o una regola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "eseguire un piano",
+              "eseguire una riparazione",
+              "un lavoro di restauro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mettere in atto obbedendo a un ordine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "eseguire un comando"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Compiere un gesto atletico, un esercizio fisico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "eseguire un salto mortale",
+              "un tuffo",
+              "un passo di danza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Suonare o cantare una composizione musicale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "eseguire una sonata per pianoforte",
+              "eseguire una sinfonia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rappresentare scenicamente un’opera musicale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "eseguire un balletto",
+              "un’opera lirica"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Compiere un'azione, un'operazione o un compito secondo le istruzioni o un piano prestabilito; portare a termine qualcosa.",
+      "examples": [
+        "Il chirurgo ha eseguito un'operazione complessa con grande precisione.",
+        "Dobbiamo eseguire gli ordini del capo senza discutere.",
+        "L'atleta ha eseguito la sua performance senza errori."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Interpretare o riprodurre un brano musicale, teatrale o artistico davanti a un pubblico o per proprio conto.",
+      "examples": [
+        "Il pianista ha eseguito un difficile concerto di Rachmaninov.",
+        "La compagnia teatrale eseguirà la commedia per tutto il mese di maggio.",
+        "L'artista ha eseguito un bellissimo affresco nella chiesa."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Mettere in pratica, realizzare o applicare un progetto, una legge o una sentenza.",
+      "examples": [
+        "Il governo dovrà eseguire la nuova legge fiscale entro la fine dell'anno.",
+        "Il tribunale ha ordinato di eseguire la sentenza immediatamente.",
+        "È stato difficile eseguire il progetto per la mancanza di fondi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Nel contesto dell'informatica, avviare o far funzionare un programma o una serie di istruzioni su un computer o un dispositivo elettronico.",
+      "examples": [
+        "Il software non riesce a eseguire il comando richiesto.",
+        "Ho provato a eseguire il programma, ma si è bloccato.",
+        "Per installare l'applicazione, devi eseguire il file di setup."
+      ],
+      "nota": null
+    }
+  ]
+}

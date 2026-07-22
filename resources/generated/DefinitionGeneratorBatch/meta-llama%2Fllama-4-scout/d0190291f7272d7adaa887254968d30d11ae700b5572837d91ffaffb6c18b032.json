@@ -1,0 +1,52 @@
+{
+  "lemma": "agosto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6d69ad0a50d06529d8"
+    },
+    "source": "paraviaXML/3390.xml",
+    "lemma": "agosto",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "agosto-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ottavo mese dell’anno, di trentuno giorni nel calendario gregoriano e giuliano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire in, ad agosto",
+              "è stato un agosto piovoso",
+              "accadde nell’agosto del 1960"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "ottavo mese dell'anno",
+      "examples": [
+        "Agosto è il mese delle ferie.",
+        "Il caldo di agosto è soffocante."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "lemma": "operaio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6c69ad0a50d065285a"
+    },
+    "source": "paraviaXML/76428.xml",
+    "lemma": "operaio",
+    "grammar": [
+      "s.m.",
+      "agg."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi, specialmente nell’industria, svolge un’attività lavorativa manuale alle dipendenze di qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operaio metalmeccanico",
+              "tessile",
+              "edile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lavoratore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi presta lavoro a opera nei campi, bracciante",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo ai lavoratori dipendenti dell’industria, che riguarda tale categoria sociale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "classe operaia"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Lavoratore che svolge un mestiere manuale, spesso in un'industria o in un cantiere",
+      "examples": [
+        "L'operaio edile ha lavorato tutto il giorno al cantiere.",
+        "Gli operai della fabbrica hanno richiesto un aumento salariale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Lavoratrice che svolge un mestiere manuale, spesso in un'industria o in un cantiere",
+      "examples": [
+        "L'operaia ha assemblato le parti della macchina.",
+        "Le operaie del settore tessile hanno rivendicato migliori condizioni lavorative."
+      ],
+      "nota": null
+    }
+  ]
+}

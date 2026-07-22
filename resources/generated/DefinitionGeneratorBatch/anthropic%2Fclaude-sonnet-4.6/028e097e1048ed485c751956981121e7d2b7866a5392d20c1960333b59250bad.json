@@ -1,0 +1,165 @@
+{
+  "lemma": "eroe",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebe69ad0a50d0656d65"
+    },
+    "source": "paraviaXML/39910.xml",
+    "lemma": "eroe",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "mitologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mitologia , nel mito classico, semidio dotato di eccezionali virtù e autore di gesta prodigiose",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi dà prova di straordinario coraggio e generosità; chi si sacrifica per un ideale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "eroe di guerra",
+              "morire",
+              "comportarsi da eroe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Personaggio principale di un’opera letteraria, musicale, cinematografica e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’eroe del racconto",
+              "del romanzo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In racconti e romanzi: formula con cui il narratore fa riferimento al protagonista dell’opera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il nostro eroe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "scherzoso"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi fa parlare di sé, chi è al centro dell’attenzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’eroe del giorno",
+              "del momento",
+              "della festa"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Figura della mitologia e della letteratura antica dotata di qualità eccezionali, spesso semidivina, protagonista di imprese leggendarie.",
+      "examples": [
+        "Achille ed Ettore sono i grandi eroi dell'Iliade.",
+        "Gli eroi greci come Ercole ed Ulisse popolano la mitologia classica."
+      ],
+      "nota": "In questo senso si contrappone a 'dio' (essere pienamente divino) e a 'uomo comune'. Appartiene prevalentemente al linguaggio letterario e accademico."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona che compie atti di coraggio straordinario, spesso con sacrificio personale, a beneficio di altri o di una causa collettiva.",
+      "examples": [
+        "I vigili del fuoco intervenuti nel disastro sono stati salutati come eroi.",
+        "Molti partigiani sono considerati eroi della Resistenza italiana."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Personaggio principale di un'opera narrativa, teatrale o cinematografica, attorno al quale ruota la vicenda.",
+      "examples": [
+        "L'eroe del romanzo affronta mille peripezie prima di ritrovare la sua famiglia.",
+        "In quel film l'eroe è un detective solitario e tormentato."
+      ],
+      "nota": "Equivale a 'protagonista' ma con sfumatura di centralità assoluta nella trama; può essere distinto dal 'personaggio positivo', poiché anche un antieroe può ricoprire questo ruolo."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona ammirata o celebrata in un determinato ambito come modello di eccellenza o di ispirazione.",
+      "examples": [
+        "Per me Falcone è sempre stato un eroe della giustizia.",
+        "Quel ricercatore è diventato l'eroe di una generazione di scienziati."
+      ],
+      "nota": "Uso figurato ed esteso rispetto al senso eroico-militare; spesso indica ammirazione soggettiva più che riconoscimento collettivo ufficiale."
+    }
+  ]
+}

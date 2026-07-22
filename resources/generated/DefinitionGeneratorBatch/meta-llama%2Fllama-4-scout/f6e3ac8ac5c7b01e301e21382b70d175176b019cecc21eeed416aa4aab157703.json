@@ -1,0 +1,159 @@
+{
+  "lemma": "avanzare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa569ad0a50d066294d"
+    },
+    "source": "paraviaXML/10924.xml",
+    "lemma": "avanzare",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") essere in sovrabbondanza: essere d’avanzo, restare inutilizzato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il vino basta e avanza",
+              "è avanzato del pane"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sopravvivere, scamparla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avanzare a una catastrofe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere in credito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avanzare diecimila lire da qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere in più, avere risparmiato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avanzare una piccola somma"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "muoversi in avanti, procedere",
+      "examples": [
+        "Il corteo funebre avanzava lentamente verso il cimitero.",
+        "La tecnologia avanza a passi veloci."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "far progredire, migliorare",
+      "examples": [
+        "La nuova strategia aiuterà ad avanzare la causa della pace.",
+        "La ricerca avanza le conoscenze umane."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "procedere verso una meta",
+      "examples": [
+        "Si avanzò cautamente nella stanza buia.",
+        "La squadra si avanzò verso la finale."
+      ],
+      "nota": "uso meno comune"
+    }
+  ]
+}

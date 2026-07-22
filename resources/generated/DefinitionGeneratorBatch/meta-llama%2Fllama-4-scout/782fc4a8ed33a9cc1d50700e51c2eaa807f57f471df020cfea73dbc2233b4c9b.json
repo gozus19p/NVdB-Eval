@@ -1,0 +1,179 @@
+{
+  "lemma": "svolgere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe669ad0a50d0665e53"
+    },
+    "source": "paraviaXML/117692.xml",
+    "lemma": "svolgere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Distendere, spiegare, disfare ciò che era avvolto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "svolgere un gomitolo",
+              "un pacco",
+              "una fune"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Trattare per esteso, sviluppare negli aspetti particolari",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "svolgere un argomento",
+              "svolgere un tema",
+              "una tesi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Realizzare in fasi successive, eseguire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "svolgere un progetto",
+              "un programma",
+              "un compito ingrato da svolgere",
+              "svolgere un’efficace azione di mediazione"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esercitare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "svolgere un lavoro",
+              "una professione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dissuadere, distogliere: Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Bartolo seppe svolgerlo ogni volta, con ragioni troppo facili a indovinarsi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sfogliare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "svolgere un libro"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "completare, portare a termine un'azione, un'attività, un compito",
+      "examples": [
+        "Il team ha svolto il progetto entro i tempi previsti.",
+        "La segretaria svolge le mansioni di responsabile dell'archivio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "disvolgere, sciogliere, aprire qualcosa che era arrotolato o chiuso",
+      "examples": [
+        "Svolge il tappeto arrotolato e lo stende sul pavimento.",
+        "La donna svolge il filo d'oro per infilarlo nel telaio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "procedere, muoversi in una direzione, spesso a spirale",
+      "examples": [
+        "La strada si svolge lungo la costa.",
+        "Il racconto si svolge durante la seconda guerra mondiale."
+      ],
+      "nota": null
+    }
+  ]
+}

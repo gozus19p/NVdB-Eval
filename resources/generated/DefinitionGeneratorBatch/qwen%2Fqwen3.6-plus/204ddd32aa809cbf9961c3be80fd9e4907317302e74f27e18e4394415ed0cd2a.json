@@ -1,0 +1,97 @@
+{
+  "lemma": "emozione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebb69ad0a50d0656afc"
+    },
+    "source": "paraviaXML/38698.xml",
+    "lemma": "emozione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impressione, sensazione forte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "provocare",
+              "suscitare una forte emozione",
+              "un’emozione violenta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Turbamento, agitazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un viaggio ricco di emozioni",
+              "che emozione rivederti!",
+              "essere in preda all’emozione",
+              "non riuscire a parlare per l’emozione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , intensa esperienza psichica, piacevole o spiacevole, accompagnata da reazioni fisiche e comportamentali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Stato psicofisiologico intenso e transitorio, caratterizzato da una marcata reazione interiore e spesso da manifestazioni fisiche osservabili, suscitato da eventi, pensieri o stimoli esterni.",
+      "examples": [
+        "All'improvviso è stato colto da un'emozione così forte da non riuscire a proferire parola.",
+        "Cercava di dominare l'emozione che le tremava nella voce."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Evento, opera artistica o esperienza collettiva capace di suscitare un profondo coinvolgimento affettivo e di lasciare un segno duraturo in chi vi partecipa.",
+      "examples": [
+        "Il concerto di ieri sera è stata un'emozione pura, dalla prima all'ultima nota.",
+        "Vedere giocarsi una partita così tesa è stata una vera emozione per tutti gli spettatori."
+      ],
+      "nota": "Uso tipicamente valutativo, impiegato per esprimere giudizio positivo sull'impatto psicologico di un'opera, di uno spettacolo o di un avvenimento."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "lemma": "pubblicità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2a69ad0a50d065c625"
+    },
+    "source": "paraviaXML/88688.xml",
+    "lemma": "pubblicità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere pubblico, l’essere accessibile al pubblico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicità di un dibattito",
+              "pubblicità delle udienze preliminari"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Divulgazione, diffusione tra il pubblico di dati, informazioni, fatti o simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una notizia che non ha ricevuto alcuna pubblicità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Propaganda svolta da un’azienda per richiamare l’attenzione del pubblico sul proprio prodotto e incrementarne le vendite",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicità affissionale",
+              "giornalistica",
+              "radiofonica",
+              "televisiva",
+              "agenzia di pubblicità",
+              "la pubblicità incide sul bilancio dell’azienda"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Qualsiasi forma di annuncio, specialmente riportato dai mass media, cui sia affidato tale compito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una pubblicità girata in esterni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Messaggio o comunicazione diffusa attraverso i mezzi di comunicazione di massa allo scopo di promuovere un prodotto, un servizio o un'idea",
+      "examples": [
+        "La pubblicità è un elemento fondamentale nella strategia di marketing di ogni azienda.",
+        "La nuova pubblicità della Coca-Cola è stata molto criticata per il suo impatto ambientale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "L'attività di promozione di un prodotto, servizio o idea attraverso i mezzi di comunicazione",
+      "examples": [
+        "L'azienda ha aumentato il budget per la pubblicità online.",
+        "La pubblicità sui social media è molto efficace per raggiungere i giovani."
+      ],
+      "nota": null
+    }
+  ]
+}

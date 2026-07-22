@@ -1,0 +1,137 @@
+{
+  "lemma": "ospedale",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0e69ad0a50d065afe1"
+    },
+    "source": "paraviaXML/77363.xml",
+    "lemma": "ospedale",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Istituto, specialmente pubblico, dotato di apposite strutture e apparecchiature che lo rendono atto al ricovero e alla cura medica o chirurgica di quanti necessitano di assistenza sanitaria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le corsie di un ospedale",
+              "ospedale specializzato",
+              "ortopedico",
+              "oftalmico",
+              "militare",
+              "finire all’ospedale"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Periodo di degenza ospedaliera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dopo l’incidente si è fatto 10 giorni di ospedale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ospizio destinato a persone anziane o prive di mezzi di sussistenza; asilo per pellegrini",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Orfanotrofio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Negozio o laboratorio specializzato nella riparazione o nel restauro di determinati oggetti, specialmente nella denominazione di imprese artigianali o commerciali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ospedale delle bambole"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Struttura sanitaria pubblica o privata attrezzata per la diagnosi, il trattamento medico o chirurgico e la degenza di pazienti, solitamente dotata di pronto soccorso e reparti specialistici.",
+      "examples": [
+        "Dopo l'intervento è rimasto in ospedale per una settimana per la riabilitazione.",
+        "Il comune ha stanziato fondi per l'ammodernamento delle attrezzature dell'ospedale generale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Luogo o ambiente caratterizzato da estrema confusione, disorganizzazione o da un continuo andirivieni di persone con problemi da risolvere, usato in senso figurato e spesso con sfumatura ironica o polemica.",
+      "examples": [
+        "Dopo il trasloco la cucina era un vero e proprio ospedale, con scatole dappertutto e utensili rotti.",
+        "Non riesco a lavorare in questo ufficio: è un ospedale con il telefono che squilla sempre e colleghi che entrano senza bussare."
+      ],
+      "nota": "Registro informale; l'accezione sottolinea metaforicamente il caos o la sofferenza percepita in un contesto non sanitario."
+    }
+  ]
+}

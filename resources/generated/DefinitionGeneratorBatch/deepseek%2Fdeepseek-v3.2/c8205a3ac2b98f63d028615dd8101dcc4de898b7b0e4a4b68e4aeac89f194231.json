@@ -1,0 +1,290 @@
+{
+  "lemma": "articolo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7869ad0a50d0653258"
+    },
+    "source": "paraviaXML/8832.xml",
+    "lemma": "articolo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parte variabile del discorso che precede il sostantivo e si accorda con esso per genere e numero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "commercio",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle suddivisioni di un regolamento, di una legge, di un contratto e simile ( abbr. art.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’articolo 22 del codice civile"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Commercio , voce di un bilancio, di una fattura commerciale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Argomento, principio fondamentale di una dottrina, di una religione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Scritto di giornale, rivista e simile su un determinato argomento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "articolo di attualità",
+              "di economia",
+              "di sport"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipo di oggetto in commercio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "articoli sportivi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "scherzoso",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , essere un bel tipo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere un bell’articolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "linguistica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , voce di un dizionario, di un’enciclopedia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Momento, circostanza; in punto di morte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "in articolo di morte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8a",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "anatomia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anatomia , articolazione, giuntura",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8b",
+        "usage": "TS",
+        "field": "botanica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Zoologia , suddivisione secondaria di un segmento non fornita di muscolatura propria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica , parte di un organo vegetale separata dalle altre per mezzo di una strozzatura",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo, m.",
+      "definition": "Elemento scritto, come un resoconto o un commento, pubblicato su un giornale, una rivista o altro mezzo di comunicazione di massa.",
+      "examples": [
+        "La giornalista ha scritto un articolo approfondito sulla crisi climatica.",
+        "Ho letto un interessante articolo di opinione sul quotidiano."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, m.",
+      "definition": "Ciascuna delle singole unità o voci elencate in un documento legale o normativo, come una legge o un trattato.",
+      "examples": [
+        "Il progetto di legge è composto da venti articoli.",
+        "L'articolo 1 della Costituzione definisce i principi fondamentali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, m.",
+      "definition": "Oggetto distinto e vendibile, tipicamente parte di un assortimento commerciale o di un inventario.",
+      "examples": [
+        "Il negozio di casalinghi vende articoli per la casa di ogni tipo.",
+        "L'articolo più richiesto nel catalogo è quello in edizione limitata."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, m.",
+      "definition": "Parte del discorso che precede un nome o un sintagma nominale, specificandone il riferimento in modo determinativo o indeterminativo.",
+      "examples": [
+        "Nella frase 'Il gatto dorme', 'il' è un articolo determinativo.",
+        "L'articolo indeterminativo 'un' introduce un'entità non specificata."
+      ],
+      "nota": "In linguistica, si distingue tra articolo determinativo (il, lo, la, i, gli, le) e indeterminativo (un, uno, una)."
+    }
+  ]
+}

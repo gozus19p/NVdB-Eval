@@ -1,0 +1,74 @@
+{
+  "lemma": "telefonata",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6369ad0a50d065f53f"
+    },
+    "source": "paraviaXML/118999.xml",
+    "lemma": "telefonata",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "telefonata-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chiamata, comunicazione fatta per mezzo del telefono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare una telefonata"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conversazione telefonica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una telefonata di mezz’ora",
+              "una telefonata interurbana"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Comunicazione verbale effettuata tramite telefono, intesa come singolo atto o episodio di contatto telefonico.",
+      "examples": [
+        "Ho ricevuto una telefonata da mia sorella stamattina.",
+        "La telefonata è durata quasi un'ora, non riuscivamo a smettere di parlare.",
+        "Aspettavo una telefonata importante dal medico."
+      ],
+      "nota": "Può riferirsi sia a telefonate tradizionali sia a chiamate effettuate tramite smartphone o app di comunicazione vocale. Si distingue da 'messaggio' in quanto implica uno scambio vocale in tempo reale."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Il semplice gesto o atto di comporre un numero e contattare qualcuno per telefono, con enfasi sulla rapidità o facilità dell'azione.",
+      "examples": [
+        "Con una telefonata ho risolto tutto il problema burocratico.",
+        "Bastava una telefonata per avvisarmi, non capisco perché non l'hai fatto."
+      ],
+      "nota": "In questo senso si enfatizza la minimalità dell'azione richiesta, spesso in contesti in cui si lamenta o si sottolinea la semplicità del gesto omesso o compiuto."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "fretta",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaecc69ad0a50d065791f"
+    },
+    "source": "paraviaXML/46144.xml",
+    "lemma": "fretta",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Desiderio o bisogno di concludere con grande rapidità ciò che si sta facendo o che si sta per fare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere fretta",
+              "non esserci fretta",
+              "dimenticare qcs. nella fretta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sollecitarlo a sbrigarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "mettere fretta a qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rapidità negli atti, nei movimenti e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare",
+              "mangiare con fretta",
+              "camminare con molta fretta"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Stato d'animo o atteggiamento caratterizzato dal desiderio o dalla necessità di compiere un'azione nel minor tempo possibile.",
+      "examples": [
+        "Ho una fretta terribile per non perdere il treno.",
+        "Non fare le cose con troppa fretta, potresti sbagliare."
+      ],
+      "nota": "Può essere sinonimo di 'premura' o 'sollecitudine', sebbene questi termini abbiano spesso una connotazione più positiva."
+    }
+  ]
+}

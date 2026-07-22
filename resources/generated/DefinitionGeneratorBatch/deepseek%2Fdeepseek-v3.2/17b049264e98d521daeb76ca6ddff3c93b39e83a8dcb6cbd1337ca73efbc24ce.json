@@ -1,0 +1,104 @@
+{
+  "lemma": "iscrivere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc169ad0a50d0663fc1"
+    },
+    "source": "paraviaXML/60602.xml",
+    "lemma": "iscrivere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Registrare persone, documenti, beni e simile in un apposito elenco a fini contabili, amministrativi, statistici, o allo scopo di attestare ufficialmente l’appartenenza a un determinato gruppo, istituzione, partito, movimento, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iscrivere una squadra a un torneo",
+              "iscrivere una proprietà nel registro delle ipoteche",
+              "iscrivere all’anagrafe un nuovo residente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scrivere, disegnare, incidere sopra una superficie a fini decorativi e ornamentali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "comune",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geometria , non ; inscrivere",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rendere parte di una lista o di un registro ufficiale di persone che condividono un impegno, un'attività o uno status comune.",
+      "examples": [
+        "Ho deciso di iscrivere mio figlio a un corso di nuoto.",
+        "La segretaria deve ancora iscrivere i nuovi associati all'albo professionale."
+      ],
+      "nota": "L'uso è tipicamente riferito a organizzazioni (scuole, club, liste elettorali, associazioni)."
+    },
+    {
+      "pos": "verbo riflessivo (iscriversi)",
+      "definition": "Chiedere ed ottenere formalmente di essere inserito in una lista o registro per partecipare a un'attività o far parte di un gruppo.",
+      "examples": [
+        "Devo ricordarmi di iscrivermi all'esame entro venerdì.",
+        "Molti giovani si iscrivono all'università subito dopo il diploma."
+      ],
+      "nota": "La forma riflessiva è estremamente comune e indica l'azione compiuta dal soggetto su sé stesso."
+    }
+  ]
+}

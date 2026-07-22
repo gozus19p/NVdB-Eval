@@ -1,0 +1,91 @@
+{
+  "lemma": "avvenire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa569ad0a50d0662965"
+    },
+    "source": "paraviaXML/11088.xml",
+    "lemma": "avvenire",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "avvenire-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "proposizione",
+          "locuzione congiuntivale",
+          "locuzione congiuntivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accadere, succedere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvenne l’imprevisto",
+              "sono avvenuti fatti terribili",
+              "andrò, avvenga quel che vuole"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "impersonale",
+              "variante",
+              "variante"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impersonale , introduce soggettive: variante ; avvegnaché None variante ; avvegnaché.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avviene di incontrare per caso qcn."
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Accadere, verificarsi, avere luogo",
+      "examples": [
+        "L'incontro avverrà domani alle dieci.",
+        "Speriamo che un cambiamento positivo possa finalmente avvenire."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo impersonale",
+      "definition": "È il verbo usato nella locuzione impersonale 'che avviene?' per chiedere cosa stia succedendo.",
+      "examples": [
+        "Con tutto quel rumore, che avviene lì fuori?",
+        "Vedo gente che corre, che avviene?"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Periodo di tempo che segue il momento presente; ciò che accadrà in seguito.",
+      "examples": [
+        "Le nuove generazioni costruiranno il loro avvenire.",
+        "Nessuno può prevedere con certezza l'avvenire."
+      ],
+      "nota": "Sinonimo letterario di 'futuro', più formale e di uso meno frequente."
+    }
+  ]
+}

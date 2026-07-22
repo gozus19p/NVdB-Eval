@@ -1,0 +1,124 @@
+{
+  "lemma": "rivelare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafd769ad0a50d06651b9"
+    },
+    "source": "paraviaXML/98679.xml",
+    "lemma": "rivelare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Svelare, rendere noto ciò che è segreto, poco conosciuto, misterioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rivelare un segreto",
+              "rivelare una confidenza",
+              "non ha voluto rivelare le sue intenzioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Palesare, mostrare con evidenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questa risposta rivela la tua malafede",
+              "i suoi occhi rivelano gioia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rendere percepibile, per mezzo di particolari congegni o procedimenti, un fenomeno non direttamente osservabile con i sensi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’apparecchio rivela la presenza di radiazioni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Far conoscere fatti, informazioni, identità o segreti che erano tenuti nascosti o non erano ancora noti.",
+      "examples": [
+        "Il giornalista ha deciso di svelare le fonti del suo articolo solo dopo aver ottenuto la garanzia dell'anonimato.",
+        "Non posso comunicare i dettagli dell'accordo perché sono ancora in fase di trattativa."
+      ],
+      "nota": "Implica generalmente un atto volontario e diretto di comunicazione."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Palesare o mostrare indirettamente, attraverso indizi, comportamenti, sintomi o risultati, un tratto caratteriale, una condizione fisica o una disposizione interiore.",
+      "examples": [
+        "Il suo tono di voce manifesta una profonda stanchezza nonostante gli sforzi per nasconderla.",
+        "Le analisi cliniche hanno evidenziato una carenza vitaminica che poteva spiegare la debolezza del paziente."
+      ],
+      "nota": "Il processo di manifestazione è spesso involontario e dedotto dall'osservatore o dalla strumentazione."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rendere manifesta una verità, un messaggio o una volontà attribuita a un'entità divina, sacra o trascendente.",
+      "examples": [
+        "Secondo la tradizione, il profeta avrebbe trasmesso al popolo il cammino da seguire per raggiungere la salvezza.",
+        "I testi antichi descrivono come la divinità comunichi i propri piani attraverso visioni e sogni premonitori."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo pronominale",
+      "definition": "Risultare o dimostrarsi in un determinato modo dopo un'esperienza, una prova o un esame attento della situazione.",
+      "examples": [
+        "La nuova professionista si è dimostrata molto competente già durante la prima settimana di lavoro.",
+        "Con il passare dei mesi, quell'investimento iniziale si è configurato come una mossa strategica vincente."
+      ],
+      "nota": "Regge frequentemente un complemento predicativo del soggetto e indica un esito o una caratteristica emersa in seguito all'esperienza."
+    }
+  ]
+}

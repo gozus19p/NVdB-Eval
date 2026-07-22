@@ -1,0 +1,198 @@
+{
+  "lemma": "giudicare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb769ad0a50d06637bc"
+    },
+    "source": "paraviaXML/49010.xml",
+    "lemma": "giudicare",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sottoporre a giudizio, specialmente di natura morale o estetica, valutare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giudicare una persona",
+              "un comportamento",
+              "un’azione",
+              "giudicare un quadro",
+              "giudicare un’opera letteraria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") esercitare la facoltà del giudizio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "saper giudicare",
+              "non giudicare",
+              "giudicare con la propria testa",
+              "giudicare senza pregiudizi",
+              "giudicare obiettivamente",
+              "giudicare dalle apparenze"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ritenere, reputare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la giudico una buona cosa",
+              "ti giudico uno stupido"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , definire con una sentenza, un verdetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giudicare una causa",
+              "un imputato",
+              "la giuria lo ha giudicato colpevole"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Aggiudicare, assegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Valutare qualcuno o qualcosa esprimendo un'opinione o un giudizio di merito, basandosi su criteri propri o condivisi.",
+      "examples": [
+        "Non dovresti giudicare le persone dall'aspetto esteriore.",
+        "Il pubblico ha giudicato positivamente la sua performance."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Ritenere, considerare o stimare qualcuno o qualcosa in un certo modo; esprimere una valutazione attributiva.",
+      "examples": [
+        "Giudico questa decisione del tutto sbagliata.",
+        "Lo giudico una persona affidabile e competente."
+      ],
+      "nota": "In questo senso il verbo introduce spesso un complemento predicativo dell'oggetto (es. 'lo giudico capace') e si avvicina semanticamente a 'ritenere' e 'considerare'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Pronunciare una sentenza su qualcuno in sede giudiziaria, stabilendo colpevolezza o innocenza secondo la legge.",
+      "examples": [
+        "Il tribunale lo ha giudicato colpevole di frode fiscale.",
+        "Sarà giudicato dalla corte d'appello il prossimo mese."
+      ],
+      "nota": "È il senso proprio del linguaggio giuridico; il soggetto è tipicamente un'autorità giudiziaria."
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Esprimere giudizi su persone o situazioni in modo censorio o critico, spesso con connotazione negativa.",
+      "examples": [
+        "È facile giudicare quando non si è mai stati in quella situazione.",
+        "Smettila di giudicare e cerca invece di capire."
+      ],
+      "nota": "Usato in senso assoluto, senza oggetto esplicito, assume spesso una connotazione moraleggiante o di condanna del comportamento altrui."
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Valutare sé stessi, formulare un'opinione sulla propria condotta, capacità o valore.",
+      "examples": [
+        "Si giudica con eccessiva severità, nonostante i suoi risultati.",
+        "Non riesce a giudicarsi in modo obiettivo."
+      ],
+      "nota": null
+    }
+  ]
+}

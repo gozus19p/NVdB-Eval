@@ -1,0 +1,209 @@
+{
+  "lemma": "sorella",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5269ad0a50d065e78d"
+    },
+    "source": "paraviaXML/111119.xml",
+    "lemma": "sorella",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Persona di sesso femminile che ha in comune con un’altra l’essere nata dagli stessi genitori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mia sorella",
+              "la sorella di Piera",
+              "sorella gemella",
+              "sorella maggiore",
+              "sorella minore",
+              "sorella mezzana",
+              "è andato con sua sorella",
+              "è andato con la sorella",
+              "essere sorelle",
+              "essere fratello e sorella"
+            ]
+          },
+          {
+            "number": 7,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere molto amiche, essere cresciute insieme",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere come sorelle"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cosa, rappresentata da un sostantivo di genere femminile, simile o collegata a un’altra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’ingiustizia è sorella della violenza"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha le stesse origini, che risulta strettamente affine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lingue",
+              "nazioni sorelle"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "termine ecclesiastico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Termine ecclesiastico , appellativo di membri affiliati a confraternite o congregazioni femminili religiose o laiche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sorella Domenica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Appellati- vo delle infermiere della Croce Rossa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina specialmente al , gemelle malformate unite per una o più parti del corpo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Amica con cui si ha una straordinaria affinità di gusti.",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Donna che condivide almeno un genitore con un'altra persona, in rapporto di consanguineità diretta.",
+      "examples": [
+        "Mia sorella maggiore ha appena accettato una proposta di lavoro a Roma.",
+        "Da quando vivono in città diverse, le sorelle cercano di telefonarsi ogni domenica sera."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Donna consacrata che vive in comunità seguendo una regola religiosa; per estensione, membro di un collettivo o movimento legato da forti ideali di solidarietà e condivisione.",
+      "examples": [
+        "La sorella ha trascorso vent'anni nella missione, assistendo le comunità locali con grande dedizione.",
+        "Nel dibattito pubblico, chiamarsi con questo nome è diventato un modo per sancire un patto di mutuo sostegno tra donne."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Entità, disciplina o fenomeno che presenta origini, natura o caratteristiche profondamente affini a un'altra, con cui mantiene un rapporto di stretta somiglianza o derivazione comune.",
+      "examples": [
+        "Storicisti e critici considerano il diario intimo e l'autobiografia forme sorelle di scrittura personale.",
+        "L'economia comportamentale e la psicologia cognitiva sono discipline sorelle, fondate sulla stessa analisi dei processi decisionali."
+      ],
+      "nota": "Impiegato soprattutto in registri colti o specialistici per segnalare affinità strutturali, storiche o funzionali tra elementi diversi."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "edicola",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb869ad0a50d06568cc"
+    },
+    "source": "paraviaXML/37528.xml",
+    "lemma": "edicola",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Architettura , piccola costruzione contenente un’immagine sacra, una statua e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’edicola con molti ex voto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chiosco, specialmente per la vendita dei giornali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Piccola struttura commerciale, di solito situata sulla pubblica via, dove si vendono quotidiani, riviste, libri e altri prodotti.",
+      "examples": [
+        "Davanti alla stazione c'è un'edicola molto fornita.",
+        "Sono andato all'edicola a comprare il giornale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Pico cappella votiva o monumento di dimensioni ridotte, spesso contenente un'immagine sacra, eretta all'aperto o all'interno di edifici.",
+      "examples": [
+        "Nel paese c'è un'antica edicola sacra all'ingresso del bosco.",
+        "Sulla facciata del palazzo si nota un'edicola con una statua della Madonna."
+      ],
+      "nota": "In ambito architettonico, può anche riferirsi a una nicchia o struttura ornamentale simile."
+    }
+  ]
+}

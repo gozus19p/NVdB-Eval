@@ -1,0 +1,107 @@
+{
+  "lemma": "medico",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef869ad0a50d0659e05"
+    },
+    "source": "paraviaXML/68112.xml",
+    "lemma": "medico",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi pratica la medicina avendo conseguito il titolo accademico e l’abilitazione all’esercizio della professione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare il medico",
+              "farsi prescrivere una ricetta dal medico",
+              "ordine dei medici"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi presta le necessarie cure per lenire un dolore fisico o morale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "durante la malattia è stato un buon medico per me"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che costituisce un rimedio a sofferenze e dolori: il tempo è il miglior m. per le delusioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Professionista sanitario laureato e abilitato per legge a diagnosticare, curare e prevenire le patologie.",
+      "examples": [
+        "Ogni volta che ho la febbre alta, chiamo subito il professionista di guardia.",
+        "Il curante mi ha prescritto una terapia e mi ha consigliato di riposare per qualche giorno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo alla scienza che studia la salute e la malattia, o alla relativa professione di diagnosi e cura.",
+      "examples": [
+        "Per rientrare a scuola serve un certificato ufficiale rilasciato da un sanitario abilitato.",
+        "La responsabilità clinica durante un intervento chirurgico è coperta da specifiche polizze assicurative."
+      ],
+      "nota": "Usato prevalentemente in anteposizione a sostantivi che indicano documenti, équipe o procedure (es. 'referto', 'team', 'protocollo')."
+    }
+  ]
+}

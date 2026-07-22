@@ -1,0 +1,956 @@
+{
+  "lemma": "mezzo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a691"
+    },
+    "source": "paraviaXML/69471.xml",
+    "lemma": "mezzo",
+    "grammar": [
+      "agg.",
+      "s.m.",
+      "avv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che costituisce la metà di un intero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mezza mela",
+              "mezzo chilo",
+              "mezza dozzina",
+              "mezza porzione"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ll’art. indet. con valore approssimativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "peserà un mezzo chilo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di recipiente, che ha una capacità corrispondente alla metà del formato tipo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bere una mezza minerale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con ellissi del sostantivo cui si riferisce",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pesare tre chili e mezzo",
+              "è l’una e mezza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Non completo, non intero, in contrapposizione a ciò che è o si considera intero, completo; anche con valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha distrutto mezza macchina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che si trova nel punto medio, intermedio fra due estremi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere nel fango a mezza gamba"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ttenuato, per esprimere indeterminatezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il film è stato una mezza delusione"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Una promessa non espressa con chiarezza; un’idea vaga; assolutamente nulla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare una mezza promessa",
+              "avere una mezza idea",
+              "non dire una mezza parola"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , che non è completamente tale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una bicicletta mezza rotta",
+              "una scatola mezza vuota"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che è tale solo parzialmente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere un mezzo delinquente",
+              "quella ragazza è mezza scema"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "spregiativo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per indicare insufficienza, limitatezza, mediocrità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è un mezzo uomo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La metà di un tutto ( accorc. me’)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "due mezzi fanno un intero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fluido, sostanza, ambiente e simile , in cui avviene un fenomeno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’aria è un mezzo trasparente",
+              "vincere la resistenza del mezzo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sistema, modo per raggiungere un fine, per ottenere un risulta- to",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un mezzo sicuro per contattarlo è chiedere alla segretaria",
+              "usare mezzi poco puliti",
+              "il fine giustifica i mezzi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parte, punto centrale in uno spazio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nel mezzo della stanza c’è il tavolo",
+              "fermarsi nel mezzo della piazza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Momento centrale di un periodo di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "me ne sono andato nel bel mezzo della festa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel frattempo, frattanto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "in questo",
+              "in quel mezzo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Senza indugi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "senza por tempo in mezzo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Strumento con cui si compie una determinata attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la penna è un mezzo di scrittura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Veicolo per il trasporto di cose e persone",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un mezzo celere",
+              "mezzi ferroviari",
+              "mezzi aerei"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , averi, denaro, patrimonio personale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è un uomo di molti mezzi",
+              "i miei mezzi non mi permettono questa spesa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , capacità, dote naturale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un atleta di molti mezzi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "geografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica geografia , in fitogeografia, l’elemento nel quale vive un organismo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "marina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Marina , cavo che serra la parte centrale delle vele quadre",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "numismatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Numismatica , frazione del paolo coniata durante il pontificato di Paolo III",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "TS",
+        "field": "metrologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Metrologia , unità di misura per liquidi, utilizzata a Malta, equivalente a pinte, ossia a 2, l",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , motivo di un ricorso, di un appello, di un’impugnazione, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per metà, a metà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "era mezzo addormentato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "A bassa voce o con reti- cenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dire qcs. a mezza bocca"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Reticente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un commento a mezza bocca"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale",
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "A poca altezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Non esplicito, reticen- te",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un discorso a mezz’aria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "A metà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è rimasto a mezzo della frase"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non completamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vestito a mezzo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per mezzo di",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "annunciare a mezzo stampa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fra, tra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’au-to è posteggiata in mezzo a due alberi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nella parte centrale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "in mezzo alla stanza c’è un tavolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Attraverso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "passare in mezzo al bosco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "A contatto con, circondato da",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stare in mezzo alla gente",
+              "vivere in mezzo al lusso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che corrisponde alla metà esatta di qualcosa; pari alla metà di una quantità o unità considerata intera.",
+      "examples": [
+        "Ho bevuto mezzo bicchiere di vino.",
+        "Aspetta mezzo minuto, arrivo subito."
+      ],
+      "nota": "Precede il sostantivo senza articolo proprio; si distingue da 'metà' che è sostantivo."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Non del tutto, parzialmente; in modo incompleto o approssimativo.",
+      "examples": [
+        "Era mezzo addormentato quando è arrivata la chiamata.",
+        "La stanza era mezza vuota all'inizio del concerto."
+      ],
+      "nota": "Uso prevalentemente predicativo o preverbale con valore di avverbio attenuativo."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "La metà esatta di un'unità, di una quantità o di un insieme.",
+      "examples": [
+        "Dammi un mezzo di pizza, ho poca fame.",
+        "Il mezzo della strada era occupato da un cantiere."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Strumento, risorsa o modalità utilizzata per raggiungere uno scopo o compiere un'azione.",
+      "examples": [
+        "Il dialogo è il mezzo migliore per risolvere i conflitti.",
+        "Ha usato ogni mezzo a sua disposizione per ottenere il lavoro."
+      ],
+      "nota": "Spesso usato al plurale: 'mezzi'. Si contrappone al concetto di 'fine': 'il fine giustifica i mezzi'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Veicolo o sistema di trasporto utilizzato per spostarsi da un luogo a un altro.",
+      "examples": [
+        "Prendo i mezzi pubblici ogni mattina per andare in ufficio.",
+        "Qual è il mezzo più veloce per arrivare in centro?"
+      ],
+      "nota": "Frequentemente usato al plurale nella locuzione 'mezzi pubblici' per indicare bus, tram, metro ecc."
+    },
+    {
+      "pos": "sostantivo m. (plurale)",
+      "definition": "Risorse economiche e materiali di cui una persona o un'organizzazione dispone.",
+      "examples": [
+        "Non ha i mezzi per permettersi quell'appartamento.",
+        "L'associazione opera con mezzi limitati ma ottiene grandi risultati."
+      ],
+      "nota": "In questo senso è quasi sempre usato al plurale."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Elemento fisico o ambiente che consente la propagazione di un fenomeno, come suono, luce o onde.",
+      "examples": [
+        "Il suono si propaga attraverso un mezzo materiale.",
+        "Il vuoto non è un mezzo adatto alla trasmissione delle onde sonore."
+      ],
+      "nota": "Uso prevalentemente tecnico-scientifico, ma sufficientemente diffuso nell'italiano contemporaneo."
+    },
+    {
+      "pos": "avverbio",
+      "definition": "In parte, non completamente; a metà.",
+      "examples": [
+        "Questo lavoro è fatto mezzo bene e mezzo male.",
+        "Era mezzo convinta di accettare la proposta."
+      ],
+      "nota": "Spesso è difficile distinguere l'uso avverbiale da quello aggettivale predicativo; in contesti verbali si comporta da avverbio."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Il punto centrale o la parte intermedia di qualcosa nello spazio o nel tempo.",
+      "examples": [
+        "Si è fermato nel mezzo del cortile senza dire nulla.",
+        "Nel mezzo della discussione è arrivata una notizia inaspettata."
+      ],
+      "nota": "Ricorre frequentemente nelle locuzioni 'in mezzo a', 'nel mezzo di'."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "lemma": "svolgere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe669ad0a50d0665e53"
+    },
+    "source": "paraviaXML/117692.xml",
+    "lemma": "svolgere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Distendere, spiegare, disfare ciò che era avvolto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "svolgere un gomitolo",
+              "un pacco",
+              "una fune"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Trattare per esteso, sviluppare negli aspetti particolari",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "svolgere un argomento",
+              "svolgere un tema",
+              "una tesi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Realizzare in fasi successive, eseguire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "svolgere un progetto",
+              "un programma",
+              "un compito ingrato da svolgere",
+              "svolgere un’efficace azione di mediazione"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esercitare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "svolgere un lavoro",
+              "una professione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dissuadere, distogliere: Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Bartolo seppe svolgerlo ogni volta, con ragioni troppo facili a indovinarsi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sfogliare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "svolgere un libro"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Distendere o srotolare un oggetto materiale che era precedentemente arrotolato, ripiegato o avvolto.",
+      "examples": [
+        "L'elettricista ha dovuto svolgere alcuni metri di cavetto per raggiungere la presa esterna.",
+        "Prima di stenderlo in soggiorno, è meglio svolgere con calma il tappeto per eliminare le pieghe."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Portare a compimento o eseguire in modo continuativo un incarico, una mansione, un'indagine o un'attività specifica.",
+      "examples": [
+        "Durante il periodo di prova, il nuovo dipendente svolgerà principalmente mansioni di back-office.",
+        "La procura sta svolgendo le indagini preliminari per accertare le responsabilità legali."
+      ],
+      "nota": "Frequente in contesti professionali, amministrativi e giudiziari; regge solitamente complementi oggettivi come 'ruolo', 'funzione', 'attività', 'servizio'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Elaborare, sviluppare o esporre in forma estesa e articolata un tema, un concetto, un testo o un progetto.",
+      "examples": [
+        "Per la verifica finale, gli studenti dovranno svolgere un saggio breve sul fenomeno migratorio.",
+        "Il relatore ha svolto la sua relazione con chiarezza, toccando tutti i punti previsti dall'ordine del giorno."
+      ],
+      "nota": "Comune in ambito scolastico, accademico e discorsivo."
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Avere luogo, procedere o articolarsi in un determinato modo e in uno specifico arco temporale, riferito a eventi, riunioni o narrazioni.",
+      "examples": [
+        "La riunione di condominio si è svolta in un clima teso ma sostanzialmente ordinato.",
+        "La vicenda narrata nel film si svolge interamente nel corso di una notte invernale."
+      ],
+      "nota": "Si impiega quasi esclusivamente in forma pronominale con la particella 'si' (svolgersi); indica il dispiegarsi dinamico o cronologico di un avvenimento."
+    }
+  ]
+}

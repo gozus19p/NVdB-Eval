@@ -1,0 +1,195 @@
+{
+  "lemma": "esprimere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb469ad0a50d0663591"
+    },
+    "source": "paraviaXML/40715.xml",
+    "lemma": "esprimere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Far conoscere, comunicare specialmente col linguaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esprimere chiaramente le proprie idee",
+              "esprimere a qcn. la propria opinione su qcs.",
+              "esprimere un desiderio",
+              "esprimere delle scuse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Manifestare con il volto, il corpo o i gesti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esprimere gioia con gli occhi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , significare, manifestare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una frase che non esprime nulla",
+              "un film che esprime le idee di oggi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rappresentare artisticamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "poesia che esprime la concezione romantica dell’autore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Produrre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli azzurri cavalier bianchi e vermigli | che dal suolo plebeo la Patria esprime"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Carducci)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Spremere, tirare fuori",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Comunicare idee, sentimenti o informazioni attraverso parole, gesti o altri mezzi.",
+      "examples": [
+        "Ha espresso il suo disappunto con un lungo discorso.",
+        "Non riesce a esprimere a parole ciò che prova."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Manifestare o rendere visibile una qualità, una caratteristica o un'emozione attraverso l'aspetto o il comportamento.",
+      "examples": [
+        "Il suo volto esprimeva una profonda tristezza.",
+        "Questa opera d'arte esprime la gioia di vivere."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Far uscire un liquido o una sostanza da qualcosa mediante pressione o spremitura.",
+      "examples": [
+        "Per fare il succo, bisogna esprimere gli agrumi con forza.",
+        "Ha espresso il pus dalla ferita."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Rivelare i propri pensieri o sentimenti con chiarezza e sincerità.",
+      "examples": [
+        "Si è espresso liberamente durante la riunione.",
+        "È importante esprimersi con rispetto anche quando si dissentisce."
+      ],
+      "nota": "L'uso riflessivo sottolinea l'azione di comunicare da parte del soggetto stesso."
+    }
+  ]
+}

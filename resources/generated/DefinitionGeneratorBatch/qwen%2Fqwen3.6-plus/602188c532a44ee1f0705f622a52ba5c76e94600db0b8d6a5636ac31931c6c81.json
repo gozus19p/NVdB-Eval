@@ -1,0 +1,149 @@
+{
+  "lemma": "visita",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8569ad0a50d066101b"
+    },
+    "source": "paraviaXML/128008.xml",
+    "lemma": "visita",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il recarsi presso qualcuno e intrattenersi in sua compagnia per amicizia, cortesia, dovere, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare visita a un amico",
+              "a un malato",
+              "andare in visita dai parenti",
+              "ricevere",
+              "restituire una visita"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "metonimia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per , la persona che visita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’è una visita per te"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Visita medica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visita specialistica",
+              "visita ambulatoriale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il recarsi in un luogo o in una località a scopo culturale, per turismo, come atto di culto, per ispezionare, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la visita di un museo",
+              "di una città",
+              "di una chiesa",
+              "di una scuola"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Atto del recarsi presso l’abitazione o il luogo di attività di una persona per intrattenersi con finalità di cortesia, amicizia o aggiornamento reciproco.",
+      "examples": [
+        "Ogni domenica la nonna prepara il pranzo per accogliere le visite del resto della famiglia.",
+        "Durante le festività riceve molti amici, perciò preferisce non fissare altre visite negli stessi giorni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Incontro programmato tra un paziente e un professionista sanitario volto a valutare lo stato fisico o psicologico, stabilire diagnosi o prescrivere terapie.",
+      "examples": [
+        "Ho prenotato una visita specialistica per controllare un disturbo ricorrente alla colonna vertebrale.",
+        "Prima di iscriverlo in palestra, il ragazzo deve presentare il certificato rilasciato dopo la visita medica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Percorso di osservazione e fruizione di un luogo, un edificio o un’area di interesse culturale, storico o naturalistico, spesso organizzato a scopo ricreativo o didattico.",
+      "examples": [
+        "L’accesso alle grotte è consentito esclusivamente durante il percorso guidato del mattino.",
+        "Biglietteria e ingresso alla mostra sono chiaramente separati per non interferire con il flusso della visita al museo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Controllo ispettivo condotto da autorità o funzionari preposti per verificare la conformità di spazi, documenti o attività a norme tecniche, fiscali o di sicurezza.",
+      "examples": [
+        "I tecnici hanno completato la visita all’impianto di produzione per confermare il rispetto dei protocolli antincendio.",
+        "L’ente di vigilanza ha comunicato la visita presso la sede legale per un controllo straordinario sulla documentazione contabile."
+      ],
+      "nota": "In contesti amministrativi o normativi si combina frequentemente con aggettivi o complementi che precisano l'ambito di intervento (es. fiscale, ispettiva, di sicurezza)."
+    }
+  ]
+}

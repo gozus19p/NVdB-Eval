@@ -1,0 +1,564 @@
+{
+  "lemma": "base",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae8069ad0a50d0653928"
+    },
+    "source": "paraviaXML/12526.xml",
+    "lemma": "base",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "generalmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Parte inferiore di un oggetto o una struttura, generalmente con funzione di sostegno o di appoggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "base di una scultura",
+              "di un edificio",
+              "di un vaso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fondamento teorico o concettuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una teoria con solide basi",
+              "una ricerca su base empirica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Un punto d’intesa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "trovare una base comune"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , preparazione culturale o professionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mancare di basi",
+              "avere buone basi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Elemento fondamentale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i carboidrati sono la base della dieta mediterranea"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "geometria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geometria , la faccia su cui idealmente poggia un solido",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il lato su cui idealmente poggia un poligono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’area del triangolo si ottiene moltiplicando base per altezza diviso due"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Luogo in cui si preparano o da cui partono azioni organizzate, specialmente militari",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "base operativa",
+              "rientrare",
+              "tornare alla base"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato",
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Abitazione o sede abituale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è stato in giro per tutta l’estate, ma ora è tornato alla base"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’insieme degli iscritti di un partito o di un’organizzazione di massa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il vertice del sindacato ha consultato la base"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , composto in grado di generare un ambiente basico in acqua",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accettore di protoni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "chimica"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chimica ; idrossido",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nel baseball, ciascuno dei quattro angoli del quadrato di gioco occupato da un giocatore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prima",
+              "seconda",
+              "terza base"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , numero a partire dal quale si compiono determinate operazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "numerazione in base 10",
+              "base di una potenza",
+              "di un logaritmo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "elettrotecnica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Elettrotecnica , elettrodo di controllo di un transistor",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "linguistica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , forma linguistica che ne origina altre, sia sul piano diacronico sia su quello sincronico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "base etimologica, base nominale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "funzione",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cosmetica , crema per il viso che si applica prima del trucco; anche in funzione inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "applicare la crema base"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fondotinta",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Smalto trasparente per unghie su cui si applica quello colorato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , brano musicale registrato usato come supporto per esecuzioni strumentali o vocali dal vivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "TS",
+        "field": "ottica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ottica , curvatura di una delle due facce di una lente",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione inv. fondamentale, di base",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "idea base",
+              "ingredienti base"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che appartiene alla fascia di livello inferiore all’interno di una gamma di prodotti, per caratteristiche, dotazioni, prezzo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "modello base",
+              "versione base"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1–14",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Parte inferiore di un oggetto o struttura che ne sostiene il peso o ne consente la stabilità.",
+      "examples": [
+        "La base del vaso è troppo stretta e rischia di rovesciarsi.",
+        "Hanno costruito una solida base in cemento per il nuovo edificio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Punto di partenza o fondamento su cui si sviluppa un ragionamento, un'attività o un sistema.",
+      "examples": [
+        "Questa teoria si basa su solide basi scientifiche.",
+        "Per imparare una lingua, è importante partire dalle basi grammaticali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Luogo fisico o organizzativo da cui si svolgono operazioni militari, logistiche o di altro tipo.",
+      "examples": [
+        "La base militare è stata attaccata durante la notte.",
+        "Hanno allestito una base operativa per coordinare i soccorsi."
+      ],
+      "nota": "Spesso usato in contesti militari, sportivi o di emergenza."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Gruppo di persone che sostengono un'organizzazione, un partito o un movimento, spesso contrapposto alla leadership.",
+      "examples": [
+        "La base del partito ha espresso dissenso verso la nuova linea politica.",
+        "Il sindacato ha organizzato un'assemblea per ascoltare le richieste della base."
+      ],
+      "nota": "Comune in contesti politici o sindacali."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In chimica, sostanza che, sciolta in acqua, libera ioni idrossido (OH⁻) e neutralizza gli acidi.",
+      "examples": [
+        "L'idrossido di sodio è una base forte utilizzata in molti processi industriali.",
+        "Per neutralizzare l'acido, è necessario aggiungere una base."
+      ],
+      "nota": "Uso tecnico diffuso in ambito scientifico e scolastico."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che costituisce il fondamento o la parte essenziale di qualcosa.",
+      "examples": [
+        "Questo corso offre una formazione di base per chi vuole lavorare nel settore.",
+        "Le conoscenze di base della matematica sono indispensabili per questo esame."
+      ],
+      "nota": "Spesso usato in combinazione con sostantivi come 'corso', 'conoscenze', 'competenze'."
+    },
+    {
+      "pos": "avverbio",
+      "definition": "In modo fondamentale o essenziale, spesso usato per indicare una condizione minima o di partenza.",
+      "examples": [
+        "Per partecipare, è base saper nuotare.",
+        "Il progetto è base finanziato, ma serviranno altri fondi per completarlo."
+      ],
+      "nota": "Uso meno comune rispetto alle altre accezioni; spesso sostituibile con 'almeno' o 'fondamentalmente'."
+    }
+  ]
+}

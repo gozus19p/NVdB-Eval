@@ -1,0 +1,118 @@
+{
+  "lemma": "circostanza",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9b69ad0a50d065503b"
+    },
+    "source": "paraviaXML/22942.xml",
+    "lemma": "circostanza",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Condizione, fatto che concorre a determinare decisioni, atti, eventi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "date le circostanze, partirò subito",
+              "in queste circostanze non posso fare altro",
+              "una circostanza favorevole"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Situazione particolare in cui ci si trova",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "incontrarsi in una lieta circostanza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , paraggi, vicinanze",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dettaglio, minuzia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Evento o condizione che accompagna un fatto o una situazione",
+      "examples": [
+        "La presenza della polizia era una circostanza imbarazzante.",
+        "La circostanza che fosse presente anche lei cambiò tutto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Condizione o situazione accessoria che può influenzare un fatto o una decisione",
+      "examples": [
+        "Le circostanze economiche della famiglia sono migliorate.",
+        "È stato assolto a causa delle circostanze attenuanti."
+      ],
+      "nota": null
+    }
+  ]
+}

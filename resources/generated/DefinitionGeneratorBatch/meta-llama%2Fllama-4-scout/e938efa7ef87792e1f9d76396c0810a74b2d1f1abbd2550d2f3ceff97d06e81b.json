@@ -1,0 +1,134 @@
+{
+  "lemma": "tedesco",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0769ad0a50d064b8ca"
+    },
+    "source": "paraviaXML/118853.xml",
+    "lemma": "tedesco",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Della Germania",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante della Germania",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "linguistica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , lingua germanica occidentale, parlata oggi come lingua nazionale o ufficiale in Germania, Austria, Svizzera, Lussemburgo, Liechtenstein, Namibia e da minoranze linguistiche in Danimarca e altri paesi, tra le quali cospicue quelle dell’est europeo, quella sudtirolese o altoatesina in Italia e quelle dei numerosi stati dell’America settentrionale e meridionale, costituitasi come lingua scritta cancelleresca attraverso il conguaglio di parlate alto–tedesche, usata da Lutero nella traduzione della Bibbia ( 1522–34) progressivamente affermatasi nel parlato penetrando profondamente i dialetti sia alto–tedeschi sia basso–tedeschi e diventando una delle lingue di maggior prestigio nella cultura letteraria, artistica, scientifica e filosofica del mondo moderno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Materia d’insegnamento relativa a tale lingua e alla sua letteratura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "professore",
+              "testo di tedesco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "persona che abita la Germania o è originaria di tale nazione",
+      "examples": [
+        "I tedeschi sono noti per la loro puntualità.",
+        "La cultura tedesca è ricca di storia e tradizioni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "relativo alla Germania, al suo popolo o alla sua lingua",
+      "examples": [
+        "La lingua tedesca è molto diffusa in Europa.",
+        "La musica tedesca ha una grande varietà di generi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "lingua parlata in Germania",
+      "examples": [
+        "Il tedesco è una lingua germanica.",
+        "Imparare il tedesco può essere difficile."
+      ],
+      "nota": null
+    }
+  ]
+}

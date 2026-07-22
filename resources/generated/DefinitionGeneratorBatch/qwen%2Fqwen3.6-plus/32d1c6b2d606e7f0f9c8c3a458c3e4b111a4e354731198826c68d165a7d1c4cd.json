@@ -1,0 +1,114 @@
+{
+  "lemma": "figlia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec669ad0a50d06573ee"
+    },
+    "source": "paraviaXML/43609.xml",
+    "lemma": "figlia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Figlio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Amministrazione burocrazia , cedola di ricevuta, bollettario e simile che si stacca",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filiale, succursale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2,3",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Discendente diretta di sesso femminile rispetto a uno o entrambi i genitori.",
+      "examples": [
+        "Sua figlia ha appena iniziato l'università a Bologna.",
+        "Ha dedicato tutto il suo tempo libero alla figlia minore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Persona che riconosce un legame di derivazione spirituale, culturale o ideologica con un maestro, un'istituzione o un movimento.",
+      "examples": [
+        "Nel campo della pittura contemporanea viene spesso considerata figlia della tradizione fiamminga.",
+        "Si è sempre dichiarata figlia del movimento femminista italiano."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Fatto, concetto o prodotto che trae origine o è conseguenza diretta di una causa, un contesto storico o un'altra realtà.",
+      "examples": [
+        "La nuova normativa è figlia di un lungo compromesso tra le parti sociali.",
+        "Questa ondata di scioperi è figlia del malcontento generale."
+      ],
+      "nota": null
+    }
+  ]
+}

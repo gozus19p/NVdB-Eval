@@ -1,0 +1,117 @@
+{
+  "lemma": "spaventare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe269ad0a50d0665ab2"
+    },
+    "source": "paraviaXML/112301.xml",
+    "lemma": "spaventare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Riempire di spavento, di timore, impaurire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "credeva di spaventarlo con le sue minacce",
+              "il buio spaventa molti bambini"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettere in apprensione, preoccupare, impensierire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il pensiero di dover viaggiare con la nebbia mi spaventa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Distogliere, scoraggiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la vostra sconcia e fastidiosa pena | di palesarvi a me non vi spaventi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Incute paura, timore o forte agitazione in una persona o in un animale, provocando spesso una reazione di fuga o di allarme.",
+      "examples": [
+        "Il rumore improvviso dello scoppio ha spaventato tutti i presenti.",
+        "Non usare toni così aggressivi se non vuoi spaventare il nuovo assistente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Causa viva preoccupazione, sgomento o apprensione di fronte a un dato negativo, a una cifra elevata o a una prospettiva giudicata gravosa o rischiosa.",
+      "examples": [
+        "Il preventivo per la ristrutturazione ci ha spaventato fin dalla prima lettura.",
+        "Mi spaventa l'idea di dover guidare per otto ore consecutive senza fare soste."
+      ],
+      "nota": "Impiegato frequentemente in registri informali e mediatici per sottolineare l'impatto emotivo o pratico di eventi, costi o conseguenze ritenute eccessive."
+    }
+  ]
+}

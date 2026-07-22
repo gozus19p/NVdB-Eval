@@ -1,0 +1,191 @@
+{
+  "lemma": "analisi",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7269ad0a50d0652d4b"
+    },
+    "source": "paraviaXML/5543.xml",
+    "lemma": "analisi",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Forma di indagine che consiste nella scomposizione di un tutto, astratto o concreto, nelle sue parti costitutive e nell’esame sistematico di queste",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esame attento, indagine accurata di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare un’attenta analisi dell’accaduto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scientifico , in varie discipline, complesso di operazioni finalizzate a stabilire natura, qualità e quantità di una data sostanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In medicina, specialmente al , complesso di esami clinici a scopo diagnostico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "analisi cliniche",
+              "del sangue",
+              "delle urine",
+              "gli hanno fatto le analisi e non gli hanno trovato nulla"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , terapia psicoanalitica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "entrare in analisi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica ; analisi matematica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Analisi infinitesimale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Esame metodico che scompone un oggetto, un fenomeno o un insieme di dati nelle sue unità fondamentali per comprenderne la struttura, la natura o il funzionamento.",
+      "examples": [
+        "Prima di avviare il progetto, il team ha condotto una valutazione approfondita del mercato e dei concorrenti diretti.",
+        "Lo studio del testo ha rivelato la presenza di metafore ricorrenti che caratterizzano lo stile dell'autore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Branca della matematica dedicata allo studio di limiti, derivate, integrali, serie e proprietà generali delle funzioni.",
+      "examples": [
+        "Il corso universitario richiede una solida preparazione di base in algebra prima di affrontare i teoremi fondamentali.",
+        "Il ricercatore ha applicato gli strumenti del calcolo infinitesimale per risolvere l'equazione differenziale proposta."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Esame clinico o di laboratorio eseguito su prelievi biologici, come sangue o urine, per valutare lo stato di salute o individuare patologie.",
+      "examples": [
+        "Il medico ha prescritto un test completo per controllare il livello di colesterolo e la funzionalità tiroidea.",
+        "Dopo aver ritirato i referti in farmacia, il paziente ha fissato un appuntamento per discutere i valori anomali."
+      ],
+      "nota": "Ricorre frequentemente al plurale nel linguaggio medico e nell'uso quotidiano."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Percorso psicoterapeutico di lungo periodo che mira a risolvere conflitti interiori esplorando i contenuti della mente non conscia, secondo la tradizione freudiana.",
+      "examples": [
+        "Durante le sedute settimanali, il paziente ha iniziato a riconoscere i meccanismi di difesa che ostacolavano le sue relazioni affettive.",
+        "La decisione di interrompere il trattamento è stata discussa apertamente con il terapeuta nelle ultime fasi del percorso."
+      ],
+      "nota": "Forma ellittica di psicoanalisi, di uso consolidato in ambito clinico e nel linguaggio comune."
+    }
+  ]
+}

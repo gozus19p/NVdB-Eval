@@ -1,0 +1,239 @@
+{
+  "lemma": "commettere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa969ad0a50d0662cf5"
+    },
+    "source": "paraviaXML/24724.xml",
+    "lemma": "commettere",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare, compiere un’azione deprecabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commettere un errore",
+              "commettere un furto",
+              "un reato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far combaciare, congiungere, incastrare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commettere le tessere di un mosaico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Affidare, consegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ai presenti diletti | la breve età commetti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Leopardi)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Commissionare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commettere un abito in sartoria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ordinare, imporre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ecco io commetto | che non s’offenda il popol tuo cristiano"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Tasso)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Raccomandare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Immettere, introdurre, diffondere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commettere male",
+              "commettere zizzania"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Combaciare perfettamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "eseguire un'azione moralmente o legalmente sbagliata",
+      "examples": [
+        "Ha commesso un errore grave durante l'esame.",
+        "Non si dovrebbe mai commettere un furto, è contro la legge."
+      ],
+      "nota": "Spesso usato in contesti che implicano colpa o responsabilità, sia in ambito morale che giuridico."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "realizzare un'azione che comporta un rischio o un danno, anche involontario",
+      "examples": [
+        "Ha commesso una leggerezza parlando con i giornalisti.",
+        "Commettere un'imprudenza alla guida può avere conseguenze gravi."
+      ],
+      "nota": "Può riferirsi a azioni non necessariamente illegali, ma comunque sconsiderate o avventate."
+    }
+  ]
+}

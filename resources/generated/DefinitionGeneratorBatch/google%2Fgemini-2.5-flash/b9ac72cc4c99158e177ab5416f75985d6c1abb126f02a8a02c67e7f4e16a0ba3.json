@@ -1,0 +1,206 @@
+{
+  "lemma": "somma",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5169ad0a50d065e69b"
+    },
+    "source": "paraviaXML/110461.xml",
+    "lemma": "somma",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "matematica"
+            ],
+            "definitions": [
+              {
+                "glossa": "Matematica , il risultato dell’addizione ( abbr. S.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la somma di 2 e 7 è 9"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’operazione stessa dell’addizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "calcolare",
+              "fare la somma"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’insieme che risulta dall’unione di più elementi o componenti, anche eterogenei tra loro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "solo grazie alla somma degli sforzi di tutti otterremo ciò che vogliamo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Quantità, specialmente considerevole, di denaro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha investito una forte somma in quei titoli",
+              "dispongo di una certa somma"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "farmacia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Farmacia , combinazione di due farmaci a cui corrisponde un effetto pari o inferiore alle azioni dei farmaci assunti singolarmente",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Punto di maggiore importanza, sostanza, conclusione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la somma della vicenda è questa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Summa, compendio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Risultato di un'addizione tra due o più quantità o valori.",
+      "examples": [
+        "La somma di due più due fa quattro.",
+        "Ha calcolato la somma delle entrate e delle uscite per il bilancio mensile."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Quantità considerevole di denaro o di beni materiali.",
+      "examples": [
+        "Ha vinto una somma ingente alla lotteria.",
+        "Per l'acquisto della casa è richiesta una somma considerevole."
+      ],
+      "nota": "Spesso usato con aggettivi che ne indicano la grandezza (es. ingente, notevole)."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "L'aspetto più importante, essenziale o riassuntivo di un discorso, un concetto o una situazione.",
+      "examples": [
+        "La somma del suo intervento era un invito alla collaborazione.",
+        "In breve, questa è la somma dei problemi che dobbiamo affrontare."
+      ],
+      "nota": "Frequentemente usato nell'espressione 'in somma' o 'in fin dei conti' per indicare una conclusione o un riassunto."
+    },
+    {
+      "pos": "aggettivo qualificativo femminile",
+      "definition": "Che si trova al grado massimo, più elevato o più importante in una determinata categoria o gerarchia.",
+      "examples": [
+        "La giustizia somma è un ideale difficile da raggiungere.",
+        "Il sommo poeta Dante Alighieri è una figura centrale della letteratura italiana."
+      ],
+      "nota": "Forma femminile dell'aggettivo 'sommo', spesso riferito a concetti astratti o figure eminenti."
+    }
+  ]
+}

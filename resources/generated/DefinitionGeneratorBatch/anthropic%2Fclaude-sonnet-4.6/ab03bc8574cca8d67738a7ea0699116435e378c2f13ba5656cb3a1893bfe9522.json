@@ -1,0 +1,407 @@
+{
+  "lemma": "estremo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064abb0"
+    },
+    "source": "paraviaXML/41042.xml",
+    "lemma": "estremo",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è situato il più lontano possibile nello spazio: che rappresenta il termine ultimo nel tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "raggiungemmo la punta estrema della penisola",
+              "sta per scadere il limite estremo per la consegna delle domande di concorso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Molto grande, notevole, massimo: eccessivo, esagerato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "provare un’estrema gioia",
+              "avere sul viso un estremo pallore",
+              "trarre conclusioni estreme",
+              "scrollati di dosso questo pessimismo estremo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Estremistico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Grave, irreparabile: urgente, impellente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pericolo estremo",
+              "estreme conseguenze",
+              "c’è un estremo bisogno del vostro aiuto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Risolutivo, drastico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "arrivare a prendere una decisione estrema",
+              "ricorrere a un rimedio estremo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Punto o parte finale di qualcosa , estremità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attraversare la città da un estremo all’altro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Culmine, massimo: eccesso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere all’estremo della contentezza",
+              "andare da un estremo all’altro"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In fin di vita o in situazione disperata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere ridotto agli estremi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "TS",
+        "field": "logica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Logica , termine di una proposizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine della conclusione di un sillogismo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , primo o quarto termine di una proporzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4c",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , valore massimo o minimo di una funzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "sostantivo maschile",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto specialmente al , elemento costitutivo di un reato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non ricorrono gli estremi della truffa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "burocrazia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Burocrazia , elemento necessario a identificare esattamente un documento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fornire gli estremi di un documento di riconoscimento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nel rugby, giocatore che assicura la difesa della linea di meta",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3–7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che si trova al punto più lontano, al limite più distante di uno spazio o di una sequenza; ultimo o primo in assoluto.",
+      "examples": [
+        "Abitava nell'estremo angolo del cortile, lontano da tutti.",
+        "Raggiunsero l'estremo nord del continente dopo settimane di viaggio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che rappresenta il grado massimo o il culmine di un'intensità, di una qualità o di una situazione; molto elevato, oltre la norma.",
+      "examples": [
+        "Le condizioni meteo erano di estrema gravità.",
+        "Ha agito con estrema cautela per non commettere errori."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che avviene o si colloca alla fine della vita o di un processo; definitivo, conclusivo.",
+      "examples": [
+        "Il medico gli amministrò gli estremi conforti religiosi.",
+        "Nelle sue ultime ore pronunciò parole di estremo congedo."
+      ],
+      "nota": "Frequente in collocazioni come «estremo saluto», «estremo addio», «estremi istanti»."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che adotta posizioni o metodi radicali, lontani da qualsiasi moderazione; intransigente, radicale.",
+      "examples": [
+        "Il partito aveva assunto posizioni sempre più estreme.",
+        "Una frangia estrema del movimento si oppose a qualsiasi trattativa."
+      ],
+      "nota": "Usato in ambito politico e ideologico; si contrappone a 'moderato'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Il punto o il limite più lontano di uno spazio, di una scala o di un intervallo; ciascuno dei due capi opposti di qualcosa.",
+      "examples": [
+        "I due estremi della corda erano fissati a pali distanti tra loro.",
+        "La temperatura oscilla tra gli estremi di -10 e +40 gradi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Situazione o condizione portata al massimo grado, spesso in senso negativo; eccesso.",
+      "examples": [
+        "Non bisogna cadere negli estremi: la moderazione è sempre la scelta migliore.",
+        "La sua reazione è andata all'estremo opposto rispetto a quello che ci aspettavamo."
+      ],
+      "nota": "Spesso usato al plurale o in locuzioni come «cadere negli estremi», «passare da un estremo all'altro»."
+    },
+    {
+      "pos": "sostantivo m. plurale",
+      "definition": "Gli elementi identificativi essenziali di un documento, di una persona o di un atto formale (nome, data, numero, ecc.).",
+      "examples": [
+        "Fornisci gli estremi del contratto per procedere con la verifica.",
+        "La polizia ha acquisito gli estremi anagrafici di tutti i presenti."
+      ],
+      "nota": "Usato quasi esclusivamente al plurale in contesti burocratici, legali e amministrativi."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "lemma": "affrontare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa069ad0a50d0662557"
+    },
+    "source": "paraviaXML/2845.xml",
+    "lemma": "affrontare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettersi o andare di fronte a qualcuno specialmente con atteggiamento deciso o ostile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affrontare il nemico",
+              "ho deciso di affrontare Mario e chiarire tutto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Iniziare a trattare, a svolgere, intraprendere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affrontare un argomento difficile",
+              "affrontare un nuovo lavoro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sostenere qualcosa di difficile o impegnativo: fronteggiare qualcosa di negativo o di controproducente: andare consapevolmente incontro a",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affrontare una discussione",
+              "affrontare un problema",
+              "affrontare le critiche",
+              "il ridicolo",
+              "affrontare un rischio",
+              "un pericolo",
+              "affrontare le conseguenze delle proprie azioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "TS",
+        "field": "tecnica, tecnologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , far combaciare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affrontare due assi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "TS",
+        "field": "chirurgia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chirurgia , mettere a contatto i due bordi di una ferita",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Confrontare, paragonare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "mettersi di fronte a una situazione difficile o impegnativa per risolverla o gestirla",
+      "examples": [
+        "Ha deciso di affrontare il problema della disoccupazione con determinazione.",
+        "Affrontare una malattia richiede coraggio e supporto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "incontrare qualcuno con intenzioni ostili o per discutere aspramente",
+      "examples": [
+        "I due rivali si sono affrontati in un acceso dibattito pubblico.",
+        "La polizia ha dovuto affrontare i manifestanti per sedare la protesta."
+      ],
+      "nota": "Spesso usato in contesti di conflitto fisico o verbale."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "iniziare a trattare un argomento o una questione in modo sistematico",
+      "examples": [
+        "Il professore affronterà il tema della rivoluzione industriale nella prossima lezione.",
+        "Nel suo nuovo libro, l'autore affronta il delicato argomento dell'immigrazione."
+      ],
+      "nota": "Comune in contesti accademici, professionali o divulgativi."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "sostenere una spesa o un impegno economico",
+      "examples": [
+        "La famiglia ha dovuto affrontare ingenti spese mediche.",
+        "Affrontare i costi di una ristrutturazione non è semplice per tutti."
+      ],
+      "nota": "Usato soprattutto in riferimento a spese rilevanti o impreviste."
+    }
+  ]
+}

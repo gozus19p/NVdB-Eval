@@ -1,0 +1,440 @@
+{
+  "lemma": "meno",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0a69ad0a50d064d031"
+    },
+    "source": "paraviaXML/68581.xml",
+    "lemma": "meno",
+    "grammar": [
+      "avv.",
+      "agg.compar.inv.",
+      "prep.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In minore quantità, in minor misura o grado; forma il comparativo di minoranza, anche con il secondo termine sottinteso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Carlo è meno intelligente di Marco",
+              "questo problema è meno importante dell’altro",
+              "ora la strada è meno affollata",
+              "oggi fa meno freddo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ll’articolo determinativo e seguito da aggettivo, forma il superlativo relativo di minoranza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sei il meno studioso della classe",
+              "Giovanna è la meno bella delle sorelle",
+              "nel poker sei il meno abile tra noi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "In proposizioni dubitative o interrogative doppie, specialmente indirette, esprime negazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non ricordo se gliel’ho detto o meno",
+              "devi dirmi se accetti o meno",
+              "non so se ne valga la pena o meno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , indica l’operazione della sottrazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sei meno due è uguale a quattro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Indica il sottrarsi di una qualsiasi entità da un’altra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono le due meno cinque",
+              "1 kg meno 3 etti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nelle votazioni scolastiche, posposto a un voto indica una valutazione leggermente inferiore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho preso cinque meno di latino",
+              "mi ha dato sette meno in storia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4d",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nella misurazione della temperatura, indica valori al di sotto dello zero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il termometro segna meno sette"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4e",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In correlazione con , indica un’approssimazione con piccolissimo scarto, per eccesso o per difetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "più",
+              "chilo più chilo meno",
+              "giorno più giorno meno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "aggettivo comparativo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Aggettivo comparativo inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è in minor numero, che è in quantità minore, anche con il secondo termine sottinteso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho impiegato meno tempo",
+              "al cinema c’era meno gente di ieri",
+              "preferisco fare le cose con meno fretta",
+              "ho meno scrupoli di te"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Eutro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "meno di così non potevo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fuorché, tranne",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’era tutta la classe meno il professore",
+              "il mio medico riceve tutti i giorni meno il sabato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "IV",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo al singolare , la minor cosa, la meno importante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo è il meno che tu potessi fare",
+              "è il meno che ti potesse capitare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nome del segno ( –) che, a seconda delle discipline scientifiche, assume valori diversi ( in matematica indica la sottrazione, in fisica la carica negativa, in chimica il valore negativo)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , la minoranza, il minor numero delle persone",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coloro che accettarono furono i meno",
+              "gli assenti sono stati i meno"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "avverbio",
+      "definition": "Indica una quantità, un grado o una frequenza inferiori rispetto a un termine di paragone espresso o sottinteso.",
+      "examples": [
+        "Per preparare la torta serve meno zucchero di quanto pensi.",
+        "Negli ultimi mesi è uscito meno di casa per dedicarsi allo studio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "preposizione",
+      "definition": "Introduce un elemento che viene escluso da un gruppo o da una totalità, con valore equivalente a 'eccetto' o 'tranne'.",
+      "examples": [
+        "Erano invitati tutti i colleghi, meno chi aveva già dato le dimissioni.",
+        "Il museo è accessibile al pubblico tutti i giorni meno il martedì."
+      ],
+      "nota": "Nell'italiano contemporaneo ha acquisito statuto autonomo di preposizione impropria nei contesti di esclusione, distanziandosi dal originario valore avverbiale."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Rappresenta il simbolo matematico della sottrazione (-) o, in senso traslato, un aspetto sfavorevole, un limite o un punto debole in una valutazione comparativa.",
+      "examples": [
+        "Il risultato di dodici meno cinque è sette.",
+        "Dopo l'analisi del contratto, il legale ha evidenziato più vantaggi che svantaggi, ma i critici hanno notato comunque qualche meno di rilievo."
+      ],
+      "nota": null
+    }
+  ]
+}

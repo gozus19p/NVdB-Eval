@@ -1,0 +1,619 @@
+{
+  "lemma": "titolo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6769ad0a50d065f8d6"
+    },
+    "source": "paraviaXML/120716.xml",
+    "lemma": "titolo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nome o breve frase, anche di fantasia, con cui si indicano l’argomento, il soggetto di uno scritto, di un testo, di un’opera d’arte e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Intestazione dei singoli capitoli o delle varie parti di un volume, di partite, di conti, bilanci, registrazioni e simile ( abbr. tit.",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Libro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la sua biblioteca conta centinaia di titoli"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Appellativo che spetta a una persona per il suo grado, per gli studi compiuti, per l’attività che esercita, per meriti particolari",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "titolo accademico",
+              "cavalleresco",
+              "titolo di medico",
+              "di avvocato",
+              "titolo di marchese",
+              "di principe"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ogni documento che comprovi il diritto a ricevere un determinato appellativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, appellativo che spetta al vincitore di un campionato o di una competizione sportiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "titolo di campione d’Italia",
+              "titolo di campione olimpico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nome, denominazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dentro de la muda | la qual per me ha il titol de la fame"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nomea, fama",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quei, cui dona il vulgo | titol di saggio"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Parini)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine ecclesiastico , nome della persona divina, del santo, dell’angelo, del mistero, eccetera al quale una chiesa è dedicata",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "scherzoso",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Epiteto, specialmente ingiurioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ragione, diritto, autorità che giustifica qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non ha il titolo per farlo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6b",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , fatto giuridico per effetto del quale un diritto viene attribuito a un soggetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il documento che lo comprova",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6c",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Burocrazia specialmente al specialmente con riferimento a criteri di selezione in concorsi pubblici, ciascuno degli elementi o dei requisiti professionali acquisiti in precedenti attività atti a qualificare il candidato; i documenti che li comprovano",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "finanza"
+            ],
+            "definitions": [
+              {
+                "glossa": "Finanza , qualsiasi azione od obbligazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8a",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica metallurgia , percentuale di una determinata sostanza in una lega, una soluzione, una miscela e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8b",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia numismatica , il rapporto tra il peso del metallo pregiato contenuto in una moneta e il peso complessivo della moneta stessa, espresso specialmente in millesimi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento all’oro, rapporto percentuale tra il peso del metallo puro e quello totale, espresso in carati",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8c",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , rapporto tra la massa di una sostanza in soluzione e il volume o il peso della soluzione o del solvente",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quantità di una sostanza necessaria per produrre una reazione con un dato volume o con una quantità di un’altra sostanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In una miscela combustibile, il rapporto che esiste tra la massa del combustibile e quella dell’intera miscela",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8d",
+        "usage": "TS",
+        "field": "biochimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biochimica , in un siero, grado di interazione del complemento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8e",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , in un vapore saturo, rapporto esistente fra il peso della parte gassosa e il peso complessivo delle fasi gassosa e liquida",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9a",
+        "usage": "TS",
+        "field": "agricoltura, agraria, agronomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Agricoltura, agraria, agronomia , percentuale di sostanza nutritiva contenuta in concimi e fertilizzanti rapportata al suo peso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9b",
+        "usage": "TS",
+        "field": "agricoltura, agraria, agronomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Agricoltura, agraria, agronomia , numero che definisce le qualità commerciali di una partita di semi, utile a calcolare il quantitativo di semente da impiegare nelle semine",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "tessile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tessile , grandezza che definisce il grado di finezza di un filato, sulla base del rapporto tra la sua lunghezza e il peso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , in Roma antica, iscrizione apposta alle immagini degli antenati in cui si elencavano cariche e onori da essi ottenuti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Nome o denominazione assegnata a un'opera letteraria, cinematografica, musicale o artistica per identificarla.",
+      "examples": [
+        "Il titolo del romanzo è stato scelto dall'editore all'ultimo momento.",
+        "Non ricordo il titolo di quel film, ma la trama era bellissima."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Intestazione di un articolo giornalistico, di un capitolo o di una sezione di testo, posta in evidenza per sintetizzarne il contenuto.",
+      "examples": [
+        "Il titolo dell'articolo era così sensazionalistico da ingannare i lettori.",
+        "Ogni capitolo del saggio è preceduto da un titolo esplicativo."
+      ],
+      "nota": "Nel linguaggio giornalistico spesso usato al plurale ('i titoli') per indicare i principali articoli o notizie di apertura."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Qualifica onorifica, nobiliare o accademica che designa il rango, la professione o il grado di una persona.",
+      "examples": [
+        "Ha ottenuto il titolo di professore ordinario dopo anni di ricerca.",
+        "Il conte era molto orgoglioso del suo titolo nobiliare."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Documento ufficiale o attestato che certifica un diritto, una qualifica o una proprietà.",
+      "examples": [
+        "Per partecipare al concorso è necessario possedere un titolo di studio universitario.",
+        "Ha presentato i titoli di proprietà dell'immobile al notaio."
+      ],
+      "nota": "Include locuzioni come 'titolo di studio', 'titolo di credito', 'titolo di proprietà'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Strumento finanziario negoziabile che rappresenta un diritto patrimoniale, come un'azione, un'obbligazione o un buono del tesoro.",
+      "examples": [
+        "I titoli di Stato hanno reso meno del previsto quest'anno.",
+        "Ha investito i risparmi in titoli azionari ad alto rischio."
+      ],
+      "nota": "Uso tipico del linguaggio economico-finanziario."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Motivo, ragione o diritto che legittima un'azione o una pretesa.",
+      "examples": [
+        "Non hai nessun titolo per criticare le sue scelte.",
+        "A che titolo partecipi a questa riunione?"
+      ],
+      "nota": "Frequente nella locuzione 'a titolo di' (a titolo gratuito, a titolo personale) e nelle costruzioni interrogative 'a che titolo'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Riconoscimento sportivo che attesta la vittoria in una competizione o il raggiungimento del primato in una disciplina.",
+      "examples": [
+        "La squadra ha conquistato il titolo di campione d'Italia per la terza volta consecutiva.",
+        "Si è allenata duramente per difendere il titolo mondiale."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "lemma": "denunciare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafae69ad0a50d066301b"
+    },
+    "source": "paraviaXML/31523.xml",
+    "lemma": "denunciare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dichiarare, portare a conoscenza dell’autorità competente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbiamo denunciato il furto alla polizia",
+              "entro fine mese occorre denunciare i propri redditi all’ufficio delle imposte",
+              "denunciare all’anagrafe la nascita del figlio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "diritto"
+            ],
+            "definitions": [
+              {
+                "glossa": "None diritto , accusare di un reato presso un organo di polizia o della magistratura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "m’insulti?, ti denuncio alla polizia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mostrare, palesare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo stato di questo ospedale denuncia l’incuria dell’amministrazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "diritto internazionale",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto internazionale , disdire, rifiutare un accordo o un trattato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Segnalare formalmente alle autorità competenti un fatto illecito o una persona ritenuta responsabile di un reato.",
+      "examples": [
+        "La vittima ha deciso di denunciare il suo aggressore alla polizia.",
+        "Chiunque sia a conoscenza di reati ambientali è incoraggiato a denunciare i responsabili."
+      ],
+      "nota": "Uso prevalente nel linguaggio giuridico e giornalistico. Si distingue da 'querela', che è l'atto formale presentato dalla parte offesa; 'denunciare' ha portata più ampia e può essere effettuato anche da chi non è direttamente vittima."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rendere pubblica una situazione di abuso, ingiustizia o irregolarità, portandola all'attenzione dell'opinione pubblica o di un'istituzione.",
+      "examples": [
+        "L'associazione ha denunciato le condizioni disumane in cui versano i migranti nel centro di accoglienza.",
+        "Il giornalista ha denunciato la corruzione dilagante nel settore degli appalti pubblici."
+      ],
+      "nota": "In questo senso l'atto non è necessariamente di natura legale, ma ha una valenza civile o morale; è frequente nel linguaggio del giornalismo d'inchiesta e dell'attivismo."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Dichiarare ufficialmente qualcosa a un ente pubblico o fiscale, come redditi, patrimoni o altre situazioni soggette a obbligo di comunicazione.",
+      "examples": [
+        "Il contribuente è tenuto a denunciare tutti i redditi percepiti nell'anno fiscale.",
+        "Ha dimenticato di denunciare il nuovo immobile acquistato al catasto."
+      ],
+      "nota": "Uso tecnico-burocratico, frequente in ambito fiscale e amministrativo."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rivelare o lasciar trasparire involontariamente una caratteristica, una qualità o uno stato d'animo.",
+      "examples": [
+        "Il suo sguardo sfuggente denunciava un senso di colpa profondo.",
+        "Quello stile di scrittura denuncia un'influenza marcata degli autori del Novecento."
+      ],
+      "nota": "Uso figurato, sinonimo parziale di 'tradire', 'rivelare', 'indicare'. Non implica alcun atto volontario da parte del soggetto grammaticale."
+    }
+  ]
+}

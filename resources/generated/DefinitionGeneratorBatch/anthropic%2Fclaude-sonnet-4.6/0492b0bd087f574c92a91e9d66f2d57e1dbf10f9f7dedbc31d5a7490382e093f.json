@@ -1,0 +1,200 @@
+{
+  "lemma": "analisi",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7269ad0a50d0652d4b"
+    },
+    "source": "paraviaXML/5543.xml",
+    "lemma": "analisi",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Forma di indagine che consiste nella scomposizione di un tutto, astratto o concreto, nelle sue parti costitutive e nell’esame sistematico di queste",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esame attento, indagine accurata di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare un’attenta analisi dell’accaduto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scientifico , in varie discipline, complesso di operazioni finalizzate a stabilire natura, qualità e quantità di una data sostanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In medicina, specialmente al , complesso di esami clinici a scopo diagnostico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "analisi cliniche",
+              "del sangue",
+              "delle urine",
+              "gli hanno fatto le analisi e non gli hanno trovato nulla"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , terapia psicoanalitica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "entrare in analisi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica ; analisi matematica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Analisi infinitesimale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Esame sistematico di un insieme complesso volto a scomporlo nelle sue parti costitutive per comprenderne la struttura, il funzionamento o il significato.",
+      "examples": [
+        "L'analisi del testo ha rivelato numerose contraddizioni interne.",
+        "Il comitato ha condotto un'analisi approfondita della situazione economica."
+      ],
+      "nota": "Senso generale e trasversale, applicabile a contesti intellettuali, scientifici e quotidiani. Si contrappone a 'sintesi'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Procedura di laboratorio che esamina un campione biologico (sangue, urine, tessuti) per rilevare la presenza o la quantità di determinate sostanze o indicatori clinici.",
+      "examples": [
+        "Il medico le ha prescritto le analisi del sangue prima della visita.",
+        "I risultati delle analisi sono arrivati dopo due giorni."
+      ],
+      "nota": "Usato quasi sempre al plurale in questo contesto medico-clinico. Nella lingua comune è frequentemente inteso proprio in questo senso."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Branca della matematica che studia i processi di limite, la continuità, la derivazione e l'integrazione delle funzioni.",
+      "examples": [
+        "All'università ho superato con fatica l'esame di analisi matematica.",
+        "L'analisi è una delle discipline fondamentali per gli studenti di ingegneria."
+      ],
+      "nota": "Abbreviazione di 'analisi matematica'. Uso tecnico-disciplinare."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Percorso terapeutico psicoanalitico condotto con l'ausilio di un professionista, volto a esplorare i processi inconsci e a risolvere conflitti psicologici.",
+      "examples": [
+        "Da anni è in analisi e dice che le ha cambiato la vita.",
+        "Il suo terapeuta le ha suggerito di iniziare un percorso di analisi."
+      ],
+      "nota": "Abbreviazione di 'psicanalisi' o 'psicoanalisi'. Uso colloquiale e clinico."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In linguistica, scomposizione di un enunciato o di una parola nei suoi elementi grammaticali costitutivi per individuarne le funzioni sintattiche, morfologiche o logiche.",
+      "examples": [
+        "L'insegnante ha chiesto di fare l'analisi logica della frase.",
+        "L'analisi grammaticale permette di riconoscere le parti del discorso."
+      ],
+      "nota": "Comprende le sottotipologie 'analisi grammaticale', 'analisi logica' e 'analisi del periodo', tipiche della tradizione scolastica italiana."
+    }
+  ]
+}

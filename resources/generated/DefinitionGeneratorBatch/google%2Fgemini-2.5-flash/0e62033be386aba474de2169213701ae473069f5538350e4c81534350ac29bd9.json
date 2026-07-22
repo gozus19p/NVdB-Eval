@@ -1,0 +1,120 @@
+{
+  "lemma": "sensazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4969ad0a50d065dfe6"
+    },
+    "source": "paraviaXML/106187.xml",
+    "lemma": "sensazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Percezione cosciente prodotta sugli organi di senso da stimoli esterni o interni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sensazione tattile",
+              "uditiva",
+              "gustativa",
+              "sensazione di freddo",
+              "di caldo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "La coscienza di una modificazione dello stato psichico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere la sensazione di un grave perdita",
+              "provare una sensazione piacevole"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impressione indefinibile o incerta, percezione indeterminata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere la sensazione di cadere",
+              "ho la sensazione che non verrà promossa"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Percezione soggettiva che si origina quando uno stimolo esterno o interno viene elaborato dagli organi di senso.",
+      "examples": [
+        "Ho avuto una strana sensazione di freddo improvviso, anche se l'aria non era gelida.",
+        "La sensazione del sole sulla pelle dopo una lunga giornata invernale è impagabile."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Impressione molto forte, spesso associata a sentimenti o stati d'animo, che si produce nella mente o nello spirito.",
+      "examples": [
+        "Ascoltando quella musica provai una profonda sensazione di malinconia.",
+        "La notizia della sua partenza mi ha lasciato un'amara sensazione di vuoto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Situazione o evento che genera grande interesse, stupore o scandalo nel pubblico o in una comunità.",
+      "examples": [
+        "La sua apparizione sul palco ha creato una vera sensazione tra tutti i presenti.",
+        "Il nuovo film del regista ha suscitato una sensazione, dividendo critica e spettatori."
+      ],
+      "nota": "In questo senso, è spesso usata in espressioni come 'fare sensazione' o 'creare sensazione'."
+    }
+  ]
+}

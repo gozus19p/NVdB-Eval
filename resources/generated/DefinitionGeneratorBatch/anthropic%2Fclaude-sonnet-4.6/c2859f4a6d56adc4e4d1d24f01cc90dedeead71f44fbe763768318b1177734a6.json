@@ -1,0 +1,52 @@
+{
+  "lemma": "febbraio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec469ad0a50d0657240"
+    },
+    "source": "paraviaXML/42764.xml",
+    "lemma": "febbraio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "febbraio-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Secondo mese dell’anno nel calendario gregoriano e giuliano, di giorni negli anni normali, di negli anni bisestili: febbraro, None ferraio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi trasferirò in febbraio",
+              "è stato un febbraio molto caldo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Secondo mese dell'anno nel calendario gregoriano, composto normalmente di 28 giorni e di 29 negli anni bisestili.",
+      "examples": [
+        "Il 14 febbraio si festeggia San Valentino, la ricorrenza degli innamorati.",
+        "Quest'anno febbraio è stato insolitamente mite, con temperature quasi primaverili.",
+        "La riunione è fissata per i primi di febbraio."
+      ],
+      "nota": "È il mese più corto dell'anno. Il nome deriva dal latino februarius, collegato ai riti di purificazione (februa) celebrati nell'antica Roma. Si abbrevia comunemente in 'feb.' o 'feb'."
+    }
+  ]
+}

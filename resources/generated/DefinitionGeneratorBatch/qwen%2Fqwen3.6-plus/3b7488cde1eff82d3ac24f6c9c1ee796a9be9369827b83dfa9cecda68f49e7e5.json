@@ -1,0 +1,52 @@
+{
+  "lemma": "causare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa869ad0a50d0662bbc"
+    },
+    "source": "paraviaXML/20209.xml",
+    "lemma": "causare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "causare-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far succedere, provocare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "causare un danno",
+              "causare uno scandalo",
+              "la grandinata ha causato danni alle colture"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Determinare il verificarsi di un evento, di una condizione o di un effetto, essendone l'origine diretta o indiretta.",
+      "examples": [
+        "L'errata manutenzione della rete elettrica ha causato un blackout in tutta la regione.",
+        "Il suo comportamento impulsivo ha causato notevoli disagi all'organizzazione."
+      ],
+      "nota": "Nell'italiano contemporaneo ricorre prevalentemente, anche se non esclusivamente, per eventi o conseguenze di natura negativa o di particolare rilievo."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "lemma": "collegare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa969ad0a50d0662cbc"
+    },
+    "source": "paraviaXML/24185.xml",
+    "lemma": "collegare",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Unire, congiungere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "collegare due cavi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Allacciare un impianto, un apparecchio e simile a un sistema centrale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "collegare un telefono",
+              "collegare il computer a un modem"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettere in comunicazione, specialmente mediante strade, mezzi di trasporto eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il nuovo tram collega direttamente la cintura al centro città",
+              "l’autostrada collega i due capoluoghi",
+              "un traghetto collega l’isola al continente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Connettere, coordinare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "collegare le frasi all’interno di un discorso"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mettere in relazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "collegare due fatti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere connesso; concordare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’introduzione del tema non collega con lo svolgimento"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Unire o mettere in comunicazione strumenti, infrastrutture, sistemi o reti affinché possano scambiare dati, energia o funzionare in coordinamento.",
+      "examples": [
+        "Prima di avviare la presentazione, devi collegare il computer al proiettore dell'aula.",
+        "La nuova dorsale in fibra ottica collega stabilmente i due edifici per garantire massima velocità di trasmissione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Stabilire una relazione logica, causale o concettuale tra eventi, idee, informazioni o circostanze per spiegarli o interpretarli in modo unitario.",
+      "examples": [
+        "Gli investigatori faticano a collegare l'episodio di furto al precedente conflitto tra i dipendenti.",
+        "Durante l'esame, lo studente ha saputo collegare brillantemente le teorie economiche alle trasformazioni sociali del ventesimo secolo."
+      ],
+      "nota": null
+    }
+  ]
+}

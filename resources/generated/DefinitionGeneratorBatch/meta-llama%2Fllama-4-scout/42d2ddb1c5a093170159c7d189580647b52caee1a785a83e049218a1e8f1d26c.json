@@ -1,0 +1,193 @@
+{
+  "lemma": "museo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0469ad0a50d065a75f"
+    },
+    "source": "paraviaXML/72601.xml",
+    "lemma": "museo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Raccolta di opere d’arte o di oggetti di particolare interesse artistico o storico–scientifico, esposti in un edificio o all’aperto, con finalità culturali, didattiche o conservative",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "museo d’arte moderna",
+              "museo di scienze naturali"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’edificio in cui è contenuta tale raccolta",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Piena di oggetti di antiquariato, di cimeli o ricordi personali, specialmente polverosi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una casa che è",
+              "che sembra un museo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "letteratura",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia letteratura , titolo dato ad opere dotte di carattere espositivo, e spesso a periodici",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione inv. sempre posposto al , che contiene o raccoglie numerose opere di interesse artistico o storico–scientifico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "villa",
+              "quartiere museo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di gran pregio e rarità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho acquistato due oggetti da museo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "spregiativo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Antiquato, anacronistico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha idee da museo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Istituzione che conserva e espone al pubblico opere d'arte, reperti archeologici, oggetti di interesse storico o scientifico",
+      "examples": [
+        "Il Louvre è uno dei musei più famosi del mondo.",
+        "La città ha un nuovo museo di arte moderna."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Luogo di esposizione temporanea o permanente di oggetti o opere d'arte",
+      "examples": [
+        "Il museo ospita una mostra di fotografia.",
+        "Il museo itinerante viaggia in tutta la regione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Ambiente o luogo considerato come un contenitore di tesori o memorie",
+      "examples": [
+        "La sua biblioteca è un vero e proprio museo di libri rari.",
+        "Il suo appartamento è un museo di oggetti di antiquariato."
+      ],
+      "nota": "Uso figurato"
+    }
+  ]
+}

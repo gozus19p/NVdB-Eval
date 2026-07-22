@@ -1,0 +1,213 @@
+{
+  "lemma": "fingere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb569ad0a50d0663663"
+    },
+    "source": "paraviaXML/43998.xml",
+    "lemma": "fingere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far credere ciò che non è vero, simulare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fingere di dormire",
+              "fingere stupore",
+              "sorpresa",
+              "fingere un pretesto"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fingere con se stessi",
+              "fingere davanti agli altri",
+              "sembra che pianga, ma finge"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere o non essere una persona sincera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non saper fingere",
+              "saper fingere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Immaginare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fingere di fare un viaggio",
+              "fingiamo che sia domenica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ammettere per ipotesi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fingiamo che tu vinca la lotteria: come spenderesti i soldi?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rappresentare, creare con la fantasia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sovrumani | silenzi, e profondissima quiete | io nel pensier mi fingo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Leopardi)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Modellare, plasmare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la rondinella... il proprio nido | ella medesma pur compone e finge"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Tasso)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Simulare uno stato d'animo, un'azione o una condizione che non corrisponde alla realtà, con l'intenzione di ingannare o di non rivelare la verità.",
+      "examples": [
+        "Ha finto di non vedere il suo ex quando lo ha incrociato per strada.",
+        "Fingeva entusiasmo per il progetto, ma in realtà non ne era convinta."
+      ],
+      "nota": "Si costruisce frequentemente con un infinito introdotto da 'di' (fingere di dormire) o con una proposizione oggettiva (fingeva che tutto andasse bene)."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Inventare o immaginare qualcosa di non reale, presentandolo come se fosse vero; fabbricare una storia o una situazione fittizia.",
+      "examples": [
+        "Il bambino fingeva di essere un cavaliere medievale mentre giocava in giardino.",
+        "Gli scrittori fingono mondi e personaggi che sembrano vivi sulla pagina."
+      ],
+      "nota": "In questo senso si avvicina al concetto di rappresentazione creativa o gioco di finzione, senza necessariamente implicare inganno."
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Comportarsi in modo non autentico, nascondendo i propri veri sentimenti o intenzioni.",
+      "examples": [
+        "Non riesco a fingere: quando sono triste si vede subito.",
+        "Smettila di fingere e dimmi cosa stai davvero pensando."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo (fingersi)",
+      "definition": "Presentarsi come qualcuno o qualcosa che non si è, assumendo un'identità o un ruolo falso.",
+      "examples": [
+        "Si è finto medico per entrare nell'ospedale.",
+        "Si fingeva interessato alle sue storie, ma pensava ad altro."
+      ],
+      "nota": "La forma riflessiva 'fingersi' regge un nome o un aggettivo del predicato e indica l'assunzione di una falsa identità o condizione."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "FIRST": {
+    "mistral-large-2512": {
+      "n": 141,
+      "mean_similarity": 0.5675338479131866,
+      "mean_matched_similarity": 0.5719132000192528,
+      "mean_false_negatives": 0.05673758865248227,
+      "mean_false_positives": 2.120567375886525
+    },
+    "llama-4-scout": {
+      "n": 135,
+      "mean_similarity": 0.5592120877590389,
+      "mean_matched_similarity": 0.5648678247073684,
+      "mean_false_negatives": 0.05925925925925926,
+      "mean_false_positives": 1.8518518518518519
+    },
+    "qwen3.6-plus": {
+      "n": 141,
+      "mean_similarity": 0.5320269049853639,
+      "mean_matched_similarity": 0.5381246732991523,
+      "mean_false_negatives": 0.0851063829787234,
+      "mean_false_positives": 1.7943262411347518
+    },
+    "gemini-2.5-flash": {
+      "n": 142,
+      "mean_similarity": 0.5465522887021754,
+      "mean_matched_similarity": 0.5546082484855058,
+      "mean_false_negatives": 0.1267605633802817,
+      "mean_false_positives": 1.6830985915492958
+    },
+    "deepseek-v3.2": {
+      "n": 142,
+      "mean_similarity": 0.5395217370563083,
+      "mean_matched_similarity": 0.5458959883380629,
+      "mean_false_negatives": 0.11267605633802817,
+      "mean_false_positives": 1.795774647887324
+    },
+    "claude-sonnet-4.6": {
+      "n": 142,
+      "mean_similarity": 0.5693266580619237,
+      "mean_matched_similarity": 0.5736903798680973,
+      "mean_false_negatives": 0.056338028169014086,
+      "mean_false_positives": 1.9577464788732395
+    }
+  },
+  "SECOND": {
+    "mistral-large-2512": {
+      "n": 143,
+      "mean_similarity": 0.5864070690224533,
+      "mean_matched_similarity": 0.588517253374148,
+      "mean_false_negatives": 0.06993006993006994,
+      "mean_false_positives": 4.363636363636363
+    },
+    "llama-4-scout": {
+      "n": 140,
+      "mean_similarity": 0.5688711518281312,
+      "mean_matched_similarity": 0.5837850590202196,
+      "mean_false_negatives": 0.20714285714285716,
+      "mean_false_positives": 3.757142857142857
+    },
+    "qwen3.6-plus": {
+      "n": 143,
+      "mean_similarity": 0.5378551962825937,
+      "mean_matched_similarity": 0.5434064580819414,
+      "mean_false_negatives": 0.1048951048951049,
+      "mean_false_positives": 3.4965034965034967
+    },
+    "gemini-2.5-flash": {
+      "n": 144,
+      "mean_similarity": 0.5665458594865846,
+      "mean_matched_similarity": 0.5720371100440766,
+      "mean_false_negatives": 0.1111111111111111,
+      "mean_false_positives": 3.2083333333333335
+    },
+    "deepseek-v3.2": {
+      "n": 144,
+      "mean_similarity": 0.575713861047293,
+      "mean_matched_similarity": 0.5805922341045767,
+      "mean_false_negatives": 0.10416666666666667,
+      "mean_false_positives": 3.5069444444444446
+    },
+    "claude-sonnet-4.6": {
+      "n": 144,
+      "mean_similarity": 0.5767361876784818,
+      "mean_matched_similarity": 0.580248116421377,
+      "mean_false_negatives": 0.08333333333333333,
+      "mean_false_positives": 4.104166666666667
+    }
+  },
+  "THIRD": {
+    "mistral-large-2512": {
+      "n": 139,
+      "mean_similarity": 0.5748614107979391,
+      "mean_matched_similarity": 0.5751673857545341,
+      "mean_false_negatives": 0.2949640287769784,
+      "mean_false_positives": 7.741007194244604
+    },
+    "llama-4-scout": {
+      "n": 126,
+      "mean_similarity": 0.5398268059669078,
+      "mean_matched_similarity": 0.564051920044449,
+      "mean_false_negatives": 0.6666666666666666,
+      "mean_false_positives": 5.023809523809524
+    },
+    "qwen3.6-plus": {
+      "n": 140,
+      "mean_similarity": 0.5270232201929151,
+      "mean_matched_similarity": 0.5278829012542277,
+      "mean_false_negatives": 0.30714285714285716,
+      "mean_false_positives": 6.464285714285714
+    },
+    "gemini-2.5-flash": {
+      "n": 141,
+      "mean_similarity": 0.5492276251124614,
+      "mean_matched_similarity": 0.5561480806815902,
+      "mean_false_negatives": 0.41134751773049644,
+      "mean_false_positives": 4.929078014184397
+    },
+    "deepseek-v3.2": {
+      "n": 142,
+      "mean_similarity": 0.5675969455670885,
+      "mean_matched_similarity": 0.5693789781758595,
+      "mean_false_negatives": 0.323943661971831,
+      "mean_false_positives": 6.485915492957746
+    },
+    "claude-sonnet-4.6": {
+      "n": 143,
+      "mean_similarity": 0.5711143998845101,
+      "mean_matched_similarity": 0.5724959227825986,
+      "mean_false_negatives": 0.3146853146853147,
+      "mean_false_positives": 7.265734265734266
+    }
+  },
+  "FOURTH": {
+    "mistral-large-2512": {
+      "n": 147,
+      "mean_similarity": 0.5861399592442954,
+      "mean_matched_similarity": 0.5862047894864986,
+      "mean_false_negatives": 0.006802721088435374,
+      "mean_false_positives": 15.693877551020408
+    },
+    "llama-4-scout": {
+      "n": 129,
+      "mean_similarity": 0.40187511999102565,
+      "mean_matched_similarity": 0.5671880781631177,
+      "mean_false_negatives": 4.51937984496124,
+      "mean_false_positives": 3.7286821705426356
+    },
+    "qwen3.6-plus": {
+      "n": 145,
+      "mean_similarity": 0.5442367454270649,
+      "mean_matched_similarity": 0.5463775788491042,
+      "mean_false_negatives": 0.1724137931034483,
+      "mean_false_positives": 12.213793103448277
+    },
+    "gemini-2.5-flash": {
+      "n": 145,
+      "mean_similarity": 0.5660035780078487,
+      "mean_matched_similarity": 0.5726862960702592,
+      "mean_false_negatives": 0.20689655172413793,
+      "mean_false_positives": 11.013793103448275
+    },
+    "deepseek-v3.2": {
+      "n": 148,
+      "mean_similarity": 0.5811447713936291,
+      "mean_matched_similarity": 0.5829101252097912,
+      "mean_false_negatives": 0.12837837837837837,
+      "mean_false_positives": 12.216216216216216
+    },
+    "claude-sonnet-4.6": {
+      "n": 148,
+      "mean_similarity": 0.5805291106232712,
+      "mean_matched_similarity": 0.5805291106232712,
+      "mean_false_negatives": 0.0,
+      "mean_false_positives": 15.344594594594595
+    }
+  }
+}

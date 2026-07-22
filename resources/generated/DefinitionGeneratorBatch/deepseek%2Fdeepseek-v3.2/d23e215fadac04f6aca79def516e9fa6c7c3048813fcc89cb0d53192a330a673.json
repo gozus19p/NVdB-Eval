@@ -1,0 +1,172 @@
+{
+  "lemma": "villa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8469ad0a50d0660f43"
+    },
+    "source": "paraviaXML/127629.xml",
+    "lemma": "villa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Casa signorile, modernamente di dimensioni non eccessive, circondata da un giardino o da un parco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "villa bifamiliare",
+              "unifamiliare",
+              "un quartiere residenziale ricco di ville",
+              "possiede una villa in Costa Smeralda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dimora, spesso di notevole pregio architettonico, situata in una tenuta agricola in cui i padroni trascorrevano i periodi di vacanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le ville medicee sulla collina fiorentina"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Podere: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli comandò che alla villa s’andasse e quivi co’ suoi lavoratori si dimorasse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Borgo, villaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "odi spesso un tonar di ferree canne, | che rimbomba lontan di villa in villa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Leopardi)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Città",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "e rividi la mia villa diserta | da Carlo di Valese"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Carducci)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Abitazione di campagna signorile, spesso dotata di giardino e di considerevoli dimensioni.",
+      "examples": [
+        "Hanno trascorso il weekend in una villa immersa nelle colline toscane.",
+        "La villa settecentesca è circondata da un vasto parco."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Edificio residenziale di lusso, isolato e indipendente, situato anche in contesti urbani o suburbani.",
+      "examples": [
+        "Hanno costruito una villa moderna nel quartiere residenziale.",
+        "Il quartiere è noto per le sue ville con piscina."
+      ],
+      "nota": "In questo senso, non implica necessariamente un contesto rurale."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Complesso di costruzioni e terreni agricoli di epoca romana, centro di attività produttive e residenza del proprietario.",
+      "examples": [
+        "Gli scavi hanno portato alla luce i resti di una villa romana.",
+        "La villa rustica era il cuore dell'azienda agricola antica."
+      ],
+      "nota": "Questo senso è specifico del contesto storico-archeologico."
+    }
+  ]
+}

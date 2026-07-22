@@ -1,0 +1,232 @@
+{
+  "lemma": "separare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafdd69ad0a50d06656a3"
+    },
+    "source": "paraviaXML/106289.xml",
+    "lemma": "separare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Disgiungere, dividere cose, elementi o sostanze unite, vicine, mescolate o confuse",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "separare la farina dalla crusca",
+              "separare le mele mature da quelle acerbe",
+              "separare l’albume dal tuorlo",
+              "separare due letti gemelli"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Allontanare una persona da un’altra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "separare due compagni di banco"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intervenire fra loro per dividerli e far cessare la lite",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "separare due persone che litigano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare da confine, da elemento divisore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le Alpi separano la Francia dall’Italia",
+              "la siepe separa le due proprietà",
+              "il fiume separa le due regioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rendere discordi, disunire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il diverso credo politico li ha separati",
+              "gli interessi personali hanno separato gli animi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Distinguere, discernere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "separare il bene dal male",
+              "la verità dall’errore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Isolare, allontanare dal contatto con gli altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "separare gli ammalati per evitare il contagio",
+              "separare i detenuti politici da quelli comuni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Interrompere, far cessare: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una amicizia sì grande ne nacque tra loro, che mai poi da altro caso che da morte non fu separata"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Dividere o allontanare due o più elementi che erano uniti o vicini.",
+      "examples": [
+        "Ho separato i documenti importanti da quelli vecchi.",
+        "Il fiume separa la città in due parti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Distinguere o differenziare due o più concetti, idee o categorie.",
+      "examples": [
+        "È importante separare i fatti dalle opinioni.",
+        "Nel suo discorso ha separato chiaramente i problemi economici da quelli sociali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo (separarsi)",
+      "definition": "Allontanarsi l'uno dall'altro, interrompere una relazione o un legame.",
+      "examples": [
+        "Dopo dieci anni di matrimonio, si sono separati.",
+        "I due soci si sono separati per divergenze di vedute."
+      ],
+      "nota": "Spesso usato in contesti affettivi, lavorativi o di partnership."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Diventare distinto o indipendente da qualcosa o qualcuno.",
+      "examples": [
+        "Con il tempo, i suoi interessi si sono separati dai miei.",
+        "La squadra si è separata dal gruppo principale durante la gara."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Isolare una parte di un insieme per un trattamento specifico.",
+      "examples": [
+        "Il medico ha deciso di separare il paziente dagli altri per evitare contagi.",
+        "Dobbiamo separare i rifiuti riciclabili da quelli non riciclabili."
+      ],
+      "nota": "Frequente in contesti di selezione o classificazione."
+    }
+  ]
+}

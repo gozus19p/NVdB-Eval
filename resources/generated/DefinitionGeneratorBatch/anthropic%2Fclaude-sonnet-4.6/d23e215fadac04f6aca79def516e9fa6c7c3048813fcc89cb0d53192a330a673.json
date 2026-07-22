@@ -1,0 +1,172 @@
+{
+  "lemma": "villa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8469ad0a50d0660f43"
+    },
+    "source": "paraviaXML/127629.xml",
+    "lemma": "villa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Casa signorile, modernamente di dimensioni non eccessive, circondata da un giardino o da un parco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "villa bifamiliare",
+              "unifamiliare",
+              "un quartiere residenziale ricco di ville",
+              "possiede una villa in Costa Smeralda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dimora, spesso di notevole pregio architettonico, situata in una tenuta agricola in cui i padroni trascorrevano i periodi di vacanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le ville medicee sulla collina fiorentina"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Podere: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli comandò che alla villa s’andasse e quivi co’ suoi lavoratori si dimorasse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Borgo, villaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "odi spesso un tonar di ferree canne, | che rimbomba lontan di villa in villa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Leopardi)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Città",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "e rividi la mia villa diserta | da Carlo di Valese"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Carducci)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Abitazione signorile o di pregio, solitamente di grandi dimensioni, circondata da un parco o giardino, situata in campagna o in zone residenziali.",
+      "examples": [
+        "Hanno trascorso l'estate in una villa con piscina sulle colline toscane.",
+        "La villa era circondata da un immenso giardino all'italiana con fontane e statue."
+      ],
+      "nota": "Si distingue dalla 'casa di campagna' per le dimensioni maggiori e il carattere più lussuoso; si distingue dal 'palazzo' per la collocazione non urbana e la presenza di spazio verde."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Casa unifamiliare di tipo residenziale, generalmente dotata di giardino privato, situata in periferia o in zone suburbane, indipendentemente dal livello di lusso.",
+      "examples": [
+        "Hanno lasciato l'appartamento in città e si sono trasferiti in una villetta con giardino.",
+        "Nel quartiere residenziale sorgono file di ville a schiera con piccoli orti."
+      ],
+      "nota": "In questo senso più generico, spesso ricorre al diminutivo 'villetta'. Si contrappone all'appartamento come tipologia abitativa."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Complesso architettonico storico di epoca rinascimentale o barocca, con edificio principale e giardini formali, spesso di proprietà nobiliare o trasformato in museo o sede istituzionale.",
+      "examples": [
+        "Villa Borghese a Roma è oggi uno dei parchi pubblici più frequentati della capitale.",
+        "La visita a Villa d'Este a Tivoli è d'obbligo per ammirare i giochi d'acqua dei suoi giardini."
+      ],
+      "nota": "In questo senso ricorre frequentemente come parte di nomi propri di complessi storici italiani di rilevanza culturale e turistica."
+    }
+  ]
+}

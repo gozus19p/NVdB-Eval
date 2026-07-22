@@ -1,0 +1,395 @@
+{
+  "lemma": "caro",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aadfe69ad0a50d0647b88"
+    },
+    "source": "paraviaXML/19348.xml",
+    "lemma": "caro",
+    "grammar": [
+      "agg.",
+      "avv.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che è amato, per cui si prova affetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una persona cara",
+              "una cara amica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , a cui si è affezionati",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un ricordo",
+              "un oggetto molto caro"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Come appellativo affettuoso, rivolgendosi a qualcuno ; in formule epistolari, in apertura di lettera: in chiusura di lettera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ascolta, caro",
+              "addio, caro",
+              "cara mamma",
+              "mio caro Antonio",
+              "cari saluti",
+              "tanti cari saluti"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "ironico",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "In usi o per esprimere sarcasmo, risentimento, impazienza, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "caro mio, non farmi perdere tempo!",
+              "questi sono i risultati, caro signore!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , apprezzato, gradito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è un autore molto caro al suo pubblico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che si fa benvolere perché affettuoso, gentile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è una donna molto cara",
+              "sei stato molto caro con me"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , amorevole, dettato da affetto, premura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho ricevuto le sue care attenzioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è considerato prezioso, desiderabile o importante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la vita è cara a tutti",
+              "se ti è cara la salute devi smettere di bere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha un prezzo elevato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo vestito è troppo caro",
+              "vivere in città è sempre più caro"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che vende a prezzi elevati",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un negozio molto caro"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che si fa pagare molto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è un dentista bravo, ma troppo caro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "A prezzo elevato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vendere",
+              "costare",
+              "pagare caro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , i genitori, i parenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho passato le vacanze con i miei cari"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rialzo dei prezzi: anche come aggettivogeno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il caro degli alloggi",
+              "il caro alloggi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Carestia; scarsità di viveri",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo qualificativo",
+      "definition": "Di prezzo elevato.",
+      "examples": [
+        "L'affitto in centro è diventato molto caro.",
+        "Questa marca di vestiti è più cara dell'altra."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo qualificativo",
+      "definition": "Estremamente gradito, oggetto di affetto profondo.",
+      "examples": [
+        "La mia cara nonna mi raccontava sempre delle storie.",
+        "Ti ho scritto una lettera, caro amico."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Persona amata, particolarmente cara.",
+      "examples": [
+        "Ha perso il suo caro in un incidente.",
+        "Saluta i tuoi cari da parte mia."
+      ],
+      "nota": "Usato prevalentemente al plurale per indicare familiari o persone care in generale."
+    }
+  ]
+}

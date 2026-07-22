@@ -1,0 +1,237 @@
+{
+  "lemma": "abbandonare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf9d69ad0a50d0662338"
+    },
+    "source": "paraviaXML/86.xml",
+    "lemma": "abbandonare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lasciare, specialmente per sempre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbandonare il proprio paese",
+              "abbandonare la famiglia",
+              "gli amici"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Disfarsene",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbandonare la refurtiva"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la gioia di vivere lo ha abbandonato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "riferimento",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente con riferimento a persone, lasciare senza aiuto, sostegno e simile ; trascurare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbandonare qcn. a se stesso, al proprio destino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Smettere di fare, di occuparsi di qualcosa ; rinunciare a portare a termine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbandonare un affare",
+              "un’impresa",
+              "abbandonare gli studi",
+              "abbandonare un proposito",
+              "un’abitudine"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente , nelle competizioni sportive, ritirarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha abbandonato alla terza ripresa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di un arto o di una parte del corpo, rilasciare: adagiare, posare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbandonare la testa sulle spalle",
+              "abbandonare una mano sul bracciolo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Smettere di tirarle, di stringerle",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbandonare le briglie"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "lasciare una persona, un animale o un luogo senza intenzione di ritornare o senza prendersene più cura",
+      "examples": [
+        "Ha abbandonato il cane per strada prima di partire per le vacanze.",
+        "Dopo anni di matrimonio, decise di abbandonare la famiglia senza spiegazioni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "cessare di praticare un'attività, un'abitudine o un progetto, spesso per mancanza di interesse o di risorse",
+      "examples": [
+        "Ha abbandonato gli studi universitari dopo il primo anno.",
+        "Dopo tanti anni, ha finalmente abbandonato il vizio del fumo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "lasciare andare qualcosa o qualcuno, rinunciando al controllo o alla presa su di esso",
+      "examples": [
+        "Abbandonò la presa sulla corda e cadde a terra.",
+        "Il bambino abbandonò la mano della madre e corse verso il parco."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "cedere a una sensazione, un'emozione o uno stato fisico, spesso in modo passivo o involontario",
+      "examples": [
+        "Dopo ore di resistenza, abbandonò al sonno sul divano.",
+        "Alla fine della gara, abbandonò alla stanchezza e si sdraiò sull'erba."
+      ],
+      "nota": "Spesso usato con la preposizione 'a' (es. abbandonarsi a qualcosa)."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "lasciare un luogo o una situazione in modo definitivo, spesso per sfuggire a un pericolo o a una difficoltà",
+      "examples": [
+        "Gli abitanti abbandonarono la città prima dell'arrivo dell'uragano.",
+        "Il pilota fu costretto ad abbandonare l'aereo in fiamme."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo (abbandonarsi)",
+      "definition": "lasciarsi andare completamente a un'emozione, uno stato d'animo o un comportamento, senza freni o controllo",
+      "examples": [
+        "Dopo la vittoria, si abbandonò a un pianto di gioia.",
+        "Si abbandonò alla disperazione quando seppe la notizia."
+      ],
+      "nota": "Spesso implica una perdita di controllo o una resa emotiva."
+    }
+  ]
+}

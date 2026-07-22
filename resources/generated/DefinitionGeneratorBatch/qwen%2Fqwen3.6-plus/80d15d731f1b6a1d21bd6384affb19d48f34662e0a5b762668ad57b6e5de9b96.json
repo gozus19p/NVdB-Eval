@@ -1,0 +1,154 @@
+{
+  "lemma": "avvertire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafea69ad0a50d0666146"
+    },
+    "source": "paraviaXML/11153.xml",
+    "lemma": "avvertire",
+    "grammar": [
+      "v.tr.",
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Informare qualcuno di qualcosa specialmente di importante o grave",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvertire di un pericolo",
+              "di una minaccia",
+              "di un rischio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avvisare, specialmente con tono minaccioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ti avverto di non scherzare col fuoco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sentire, percepire qualcosa ; notare, apprezzare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvertire un rumore",
+              "un dolore",
+              "avvertire l’importanza di qcs."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare attenzione, badare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Accorgersi della presenza o del manifestarsi di un fenomeno fisico, di un sintomo o di uno stato emotivo attraverso i sensi o l'introspezione.",
+      "examples": [
+        "Durante la corsa ha avvertito un dolore acuto al fianco sinistro.",
+        "Nonostante il volume della televisione, non riesco ad avvertire nessun rumore sospetto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rendere partecipe qualcuno di una notizia, di un fatto o di un imminente cambiamento, fornendo le informazioni rilevanti.",
+      "examples": [
+        "Appena avremo conferma della data, ti avvertiamo con un messaggio.",
+        "I condomini sono stati avvertiti per tempo sull'interruzione dell'ascensore per manutenzione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Preannunciare a qualcuno conseguenze negative o rischi concreti legati a un determinato comportamento, con intento dissuasivo o cautelativo.",
+      "examples": [
+        "Ti avverto che se continui a ignorare le scadenze, il contratto verrà rescisso.",
+        "Le autorità hanno avvertito la popolazione sui pericoli del peggioramento delle condizioni meteo."
+      ],
+      "nota": "In questo senso il verbo assume una marcata connotazione di ammonimento, spesso introdotta da una proposizione subordinata esplicita (es. 'che')."
+    }
+  ]
+}

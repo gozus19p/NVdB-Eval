@@ -1,0 +1,169 @@
+{
+  "lemma": "amicizia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7069ad0a50d0652c6b"
+    },
+    "source": "paraviaXML/4909.xml",
+    "lemma": "amicizia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sentimento e legame tra persone basato su reciproco affetto, stima, fiducia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stringere amicizia con qcn.",
+              "allacciare",
+              "rompere un’amicizia",
+              "rapporto di amicizia"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non sincera, dovuta al vantaggio che se ne può ricavare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "amicizia interessata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Situazione caratterizzata da buone relazioni fra stati o paesi, alleanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "trattato di amicizia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eufemistico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Relazione amorosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , persona con cui si hanno rapporti amichevoli",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere molte amicizie",
+              "la cerchia delle amicizie"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Persona influente disposta a fare dei favori anche illeciti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha vinto il concorso grazie alle sue amicizie",
+              "amicizie altolocate"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sentimento di affetto reciproco e profondo legame che unisce due o più persone, basato sulla fiducia, sulla stima e sulla condivisione di valori e interessi.",
+      "examples": [
+        "La nostra amicizia è durata per oltre vent'anni, superando molte difficoltà.",
+        "Tra loro è nata una forte amicizia fin dal primo giorno di scuola."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Rapporto di frequentazione o relazione che lega individui o gruppi, anche senza il coinvolgimento emotivo intenso tipico del primo senso, ma caratterizzato da cordialità e mutuo rispetto.",
+      "examples": [
+        "Mantiene buone amicizie nell'ambiente lavorativo, utili per la sua carriera.",
+        "Ha stretto amicizia con i nuovi vicini di casa, facili da frequentare."
+      ],
+      "nota": "Questo senso include anche relazioni meno profonde ma comunque positive."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Disponibilità o propensione benevola verso qualcuno, manifestata attraverso parole o azioni di supporto e solidarietà.",
+      "examples": [
+        "Ho chiesto la sua amicizia per un progetto importante, sperando nel suo aiuto.",
+        "Il presidente ha espresso la sua amicizia verso i paesi colpiti dal terremoto."
+      ],
+      "nota": "Implica un gesto di favore o supporto, spesso in contesti formali o diplomatici."
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "lemma": "raggio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2e69ad0a50d065c990"
+    },
+    "source": "paraviaXML/90658.xml",
+    "lemma": "raggio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle linee lungo cui sembra propagarsi la luce originata da una sorgente luminosa, specialmente da un corpo celeste",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "raggio di sole",
+              "i raggi della luna",
+              "delle stelle",
+              "abbronzarsi ai raggi solari",
+              "tra le persiane filtrano dei raggi di luce",
+              "raggi di una lampada"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Luce del sole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "svegliarsi ai primi raggi"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Luccichio, riflesso luminoso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Luce emanata da una figura divina, soprannaturale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "si nascose | dentro al suo raggio la figura santa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nell’iconografia cristiana, ciascuna delle linee luminose rappresentate intorno al capo dei beati e talora anche dei santi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Influsso esercitato da Dio o dalla sua grazia sull’anima",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo raggio de la grazia, onde s’accende | verace amore e che poi cresce amando"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sguardo particolarmente luminoso, luce degli occhi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quando sarai dinanzi al dolce raggio | di quella il cui bell’occhio tutto vede"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Barlume, lampo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere un raggio di speranza",
+              "nei suoi occhi brillò un raggio di arguzia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , fascio di onde elettromagnetiche o di particelle elementari",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "raggi riflessi",
+              "incidenti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "TS",
+        "field": "estensivo",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , la direzione di propagazione di tale fascio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Al , radiografia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare i raggi",
+              "ritirare i raggi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "TS",
+        "field": "geometria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geometria , in un cerchio o in una sfera, segmento che unisce un generico punto della circonferenza o della superficie sferica con il centro ( simb. None r)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "TS",
+        "field": "geometria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geometria , in un poligono regolare, ciascuno dei segmenti che uniscono i suoi vertici al centro, corrispondente, quindi al raggio del cerchio circoscritto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5c",
+        "usage": "TS",
+        "field": "comune",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , non ; semiretta",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Area circostante un luogo, considerata fino a una determinata distanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non c’era anima viva nel raggio di molte miglia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ambito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ciò è fuori dal raggio dei miei interessi",
+              "delle mie possibilità"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Entro un’area, in un ambito molto limitati",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a breve raggio"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In un’area, in un ambito piuttosto estesi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a largo",
+              "a vasto",
+              "ad ampio raggio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciascuno degli elementi che, partendo da un centro, si diramano a raggiera in più direzioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i raggi di incrinatura del parabrezza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In una ruota, ciascuno degli elementi che uniscono il mozzo al cerchio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i raggi della bicicletta",
+              "delle ruote di un calesse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Edilizia , ciascuno dei bracci di un edificio, specialmente carcerario, che si dipartono da un nucleo centrale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "tecnica, tecnologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , nello scavo di gallerie, ciascuno degli elementi portanti della struttura di sostegno provvisoria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "zoologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Zoologia , negli animali a simmetria raggiata, ciascuno degli assi perpendicolari a quello principale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "ornitologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ornitologia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "None barbula",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "ittiologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ittiologia , struttura scheletrica o cartilaginea di sostegno o rinforzo ad alcune strutture dei pesci ossei, quali le membrane e le branchie",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13a",
+        "usage": "TS",
+        "field": "botanica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica , insieme dei fiori periferici nel capolino delle Composite",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "None pedicello",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13b",
+        "usage": "TS",
+        "field": "botanica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica , in istologia botanica, segmento geometrico che congiunge la circonferenza ideale della sezione di un organo con il suo centro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Linea retta che si diparte dal centro di una circonferenza o di una sfera verso un punto della circonferenza stessa.",
+      "examples": [
+        "Il raggio del cerchio misura esattamente cinque centimetri.",
+        "Per calcolare l'area, ho bisogno di conoscere la lunghezza del raggio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Linea di luce che si propaga da una sorgente luminosa.",
+      "examples": [
+        "Un raggio di sole filtrò attraverso le persiane chiuse.",
+        "I raggi del faro illuminavano la costa nella notte."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Sottile elemento ligneo che costituisce la struttura di una ruota, collegando il mozzo al cerchio.",
+      "examples": [
+        "Durante l'incidente, si è piegato un raggio della ruota anteriore.",
+        "La bicicletta ha una ruota a raggi molto robusta."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Raggio d'azione: ambito entro cui qualcosa (un veicolo, un'arma, un'influenza) è in grado di operare o di avere effetto.",
+      "examples": [
+        "La nostra auto ha un raggio d'azione limitato con il pieno di benzina.",
+        "La nuova normativa estende il raggio d'azione del controllo amministrativo."
+      ],
+      "nota": "Espressione idiomatica consolidata. Il significato è figurato e si riferisce all'estensione di un'operatività o di un'influenza."
+    }
+  ]
+}

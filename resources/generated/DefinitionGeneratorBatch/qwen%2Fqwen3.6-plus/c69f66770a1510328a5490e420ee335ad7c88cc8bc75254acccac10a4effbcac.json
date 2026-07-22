@@ -1,0 +1,536 @@
+{
+  "lemma": "leggere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc169ad0a50d066403c"
+    },
+    "source": "paraviaXML/62864.xml",
+    "lemma": "leggere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scorrere con la vista i caratteri della scrittura distinguendo i suoni rappresentati dalle lettere e comprendendo più o meno completamente il significato di parole e frasi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare a leggere",
+              "saper leggere e scrivere",
+              "leggere sottovoce",
+              "a voce alta",
+              "leggere speditamente",
+              "a stento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prendere conoscenza del contenuto di uno scritto attraverso la lettura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere una lettera",
+              "leggere il giornale",
+              "leggere un libro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L. tutta o in parte la sua opera; conoscerla in modo da comprenderne i testi scritti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere un autore",
+              "leggere una lingua"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Aggettivo o da complemento di argomento, venire a conoscenza tramite la lettura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho letto che questa sera ci sarà un concerto",
+              "hai letto dell’aumento della benzina?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Amare la lettura, dedicarsi a essa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nel tempo libero leggo",
+              "gli italiani leggono poco",
+              "è uno che legge moltissimo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pronunciare a voce alta un testo per comunicare ad altri il contenuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere un discorso",
+              "leggere una favola"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pronunciarla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere una sentenza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intendere, interpretare in un determinato modo uno scritto, un passo di un autore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere un testo in chiave filologica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di un manoscritto, di un’edizione a stampa, recare una determinata lezione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i codici antichi leggono in modo diverso questo passo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Analizzare, interpretare un’opera d’arte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere un quadro",
+              "leggere un film in chiave critica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Decifrare, interpretare segni o scritture non convenzionali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere un codice cifrato",
+              "leggere una formula chimica",
+              "leggere una carta topografica",
+              "leggere una radiografia",
+              "leggere un diagramma"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ricavarne gli elementi e i dati necessari alla realizzazione del progetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere un disegno tecnico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Intuire, indovinare pensieri, intenzioni, sentimenti dall’espressione del volto, dello sguardo, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere la paura",
+              "la gioia",
+              "la rabbia negli occhi di qcn.",
+              "leggere la speranza in volto",
+              "in fronte a qcn."
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indovinare i pensieri più intimi e riposti di una persona",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere nel cuore",
+              "nell’animo",
+              "nella mente di qcn."
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prevederlo o presumere di poterlo fare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere il futuro",
+              "nel futuro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , distinguere sullo spartito i suoni rappresentati dalle note; eseguire un brano seguendo lo spartito su cui è scritto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare a leggere la musica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , prelevare dati da un’unità di memoria per visionarli, elaborarli o trasferirli",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "tecnica, tecnologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , rilevare le indicazioni fornite da uno strumento di misura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere un contatore",
+              "leggere un amperometro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "tipografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipografia , correggere il testo di una bozza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insegnare, esporre una scienza, una dottrina, una disciplina: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vollono lasciare a me solo che io leggessi ... le medicine"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conoscere il futuro o presumere di poterlo fare basandosi sulla disposizione delle carte",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, nel poker, guardare le carte aprendole a ventaglio con l’indice e il pollice della mano quel tanto che basti a riconoscerle",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conoscere o presumere di conoscere il pensiero altrui in virtù di percezioni extrasensoriali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Indovinare, intuire ciò che qualcuno ha in mente senza che questi lo esprima",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ormai ti leggo nel pensiero"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo, intransitivo (ausiliare avere)",
+      "definition": "Riconoscere e interpretare i segni della scrittura o della stampa per comprenderne il messaggio linguistico.",
+      "examples": [
+        "Mio figlio ha iniziato a decodificare le prime frasi da solo a quattro anni.",
+        "Durante il tragitto in autobus leggo sempre un romanzo o il quotidiano."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Decifrare, dedurre o intendere il significato non esplicito di situazioni, comportamenti o dati attraverso l'osservazione e l'analisi.",
+      "examples": [
+        "Dai suoi sguardi e dalla postura leggo chiaramente una forte preoccupazione.",
+        "I meteorologi interpretano le mappe sinottiche per prevedere l'arrivo del maltempo."
+      ],
+      "nota": "Implica un'attività cognitiva di interpretazione attiva, comune in contesti psicologici, professionali o analitici."
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "lemma": "animare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa269ad0a50d06626fd"
+    },
+    "source": "paraviaXML/6041.xml",
+    "lemma": "animare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Render vivo, vivificare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il soffio vitale che anima il corpo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Riempire di attività, di movimento, di vivacità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i bambini animavano la strada deserta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rendere interessante, avvincente, divertente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "animare una conversazione",
+              "una serata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Organizzare e intrattenere con attività ricreative",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "animare un gruppo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Incitare, incoraggiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "animare qcn. a un’impresa",
+              "alla battaglia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intensificare, promuovere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "animare i commerci",
+              "le attività culturali"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "Dare vita, movimento o energia a qualcosa",
+      "examples": [
+        "La musica animava la festa.",
+        "Il suo entusiasmo animava tutta la squadra."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Ispirare, infondere sentimento o spirito a qualcuno",
+      "examples": [
+        "La sua passione per l'arte animava gli studenti.",
+        "La sua presenza animava la riunione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Acquistare vita, movimento o energia",
+      "examples": [
+        "La folla si animava durante il concerto.",
+        "Il parco si anima durante le feste."
+      ],
+      "nota": null
+    }
+  ]
+}

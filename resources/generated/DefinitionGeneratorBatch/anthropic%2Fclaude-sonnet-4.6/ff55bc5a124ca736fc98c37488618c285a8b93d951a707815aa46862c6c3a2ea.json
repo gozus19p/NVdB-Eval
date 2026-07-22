@@ -1,0 +1,132 @@
+{
+  "lemma": "sottolineare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe169ad0a50d0665a1e"
+    },
+    "source": "paraviaXML/111479.xml",
+    "lemma": "sottolineare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Evidenziare una o più parole tracciandovi sotto una linea",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sottolineare in rosso gli errori"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dare rilievo, accentuare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sottolineare l’importanza di un fatto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettere in particolare risalto una forma, un particolare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un abito che sottolinea i fianchi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Pronunciare con particolare enfasi, specialmente per caricare di sottintesi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ripeté la domanda sottolineando le parole"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Tracciare una linea sotto una parola, un testo o un'espressione scritta per metterla in evidenza o per segnalarla.",
+      "examples": [
+        "Ho sottolineato i passaggi più importanti del capitolo con un evidenziatore giallo.",
+        "Il professore ci chiese di sottolineare le parole chiave nel testo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Mettere in rilievo un concetto, un fatto o un aspetto, richiamando esplicitamente l'attenzione su di esso nel discorso o nella comunicazione.",
+      "examples": [
+        "Il ministro ha sottolineato la necessità di intervenire con urgenza sul cambiamento climatico.",
+        "Vorrei sottolineare che i dati presentati sono ancora provvisori."
+      ],
+      "nota": "Uso figurato, molto frequente nel linguaggio giornalistico, politico e accademico. È spesso sinonimo di 'evidenziare', 'ribadire' o 'rimarcare'."
+    }
+  ]
+}

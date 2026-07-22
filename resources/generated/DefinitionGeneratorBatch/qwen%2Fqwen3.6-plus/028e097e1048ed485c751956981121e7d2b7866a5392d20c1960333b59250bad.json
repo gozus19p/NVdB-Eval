@@ -1,0 +1,156 @@
+{
+  "lemma": "eroe",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebe69ad0a50d0656d65"
+    },
+    "source": "paraviaXML/39910.xml",
+    "lemma": "eroe",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "mitologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mitologia , nel mito classico, semidio dotato di eccezionali virtù e autore di gesta prodigiose",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi dà prova di straordinario coraggio e generosità; chi si sacrifica per un ideale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "eroe di guerra",
+              "morire",
+              "comportarsi da eroe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Personaggio principale di un’opera letteraria, musicale, cinematografica e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’eroe del racconto",
+              "del romanzo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In racconti e romanzi: formula con cui il narratore fa riferimento al protagonista dell’opera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il nostro eroe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "scherzoso"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi fa parlare di sé, chi è al centro dell’attenzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’eroe del giorno",
+              "del momento",
+              "della festa"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona che, in situazioni di grave pericolo o difficoltà, agisce con coraggio eccezionale e spirito di sacrificio per tutelare gli altri o difendere un ideale condiviso.",
+      "examples": [
+        "I soccorritori che sono entrati nell'edificio in fiamme vengono considerati degli eroi dalla cittadinanza.",
+        "Ha dedicato la vita intera alla ricerca di terapie innovative, affermandosi come una figura di riferimento per i malati."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Protagonista di un'opera narrativa, cinematografica o teatrale, intorno al quale si sviluppano le vicende della trama.",
+      "examples": [
+        "Il regista ha scelto di mettere in luce le fragilità del personaggio principale per generare maggiore empatia nel pubblico.",
+        "In questo tipo di racconti, il protagonista deve superare diverse prove iniziatiche prima di conquistare ciò che desidera."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Figura appartenente alla mitologia antica o alla tradizione epica, caratterizzata da forza sovrumana, virtù guerriere e spesso da ascendenza divina o semidivina.",
+      "examples": [
+        "Lo studente ha analizzato le differenze tra il campione dell'epica classica e i modelli letterari contemporanei.",
+        "Mosi di reperti archeologici testimoniano il culto civico legato ai combattenti leggendari dell'antichità."
+      ],
+      "nota": null
+    }
+  ]
+}

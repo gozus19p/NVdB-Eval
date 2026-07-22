@@ -1,0 +1,182 @@
+{
+  "lemma": "sospetto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5369ad0a50d065e7c5"
+    },
+    "source": "paraviaXML/111262.xml",
+    "lemma": "sospetto",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dubbio, supposizione riguardo a qualcuno o qualcosa ; timore, diffidenza che s’insinua nell’animo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sospetto fondato",
+              "infondato",
+              "destare",
+              "nutrire sospetti",
+              "avere sospetti sulla lealtà di qcn.",
+              "ho il sospetto che voglia incastrarmi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sospettare; essere sospettato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "venire in sospetto",
+              "cadere",
+              "venire in sospetto di",
+              "a qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Timore, paura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gridavan sì alto, | ch’i’ mi strinsi al poeta per sospetto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Incertezza, esitazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a così alto sospetto | non ti fermar"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Minima quantità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "caffè con un sospetto di latte"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Convinzione o dubbio che qualcuno abbia commesso un'azione illecita o scorretta, spesso basata su indizi non conclusivi.",
+      "examples": [
+        "La polizia ha un sospetto sul colpevole del furto.",
+        "Il suo comportamento ha destato molti sospetti tra i colleghi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona che si ritiene possa aver commesso un reato o un'azione riprovevole.",
+      "examples": [
+        "Il sospetto è stato interrogato per ore dalla polizia.",
+        "Tra i sospetti c'è anche un ex dipendente dell'azienda."
+      ],
+      "nota": "In questo senso, il termine è spesso usato in contesti giuridici o investigativi."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che desta dubbi o perplessità per la sua natura o provenienza, spesso con una connotazione negativa.",
+      "examples": [
+        "Quella transazione finanziaria sembra un po' sospetta.",
+        "Ho ricevuto una mail sospetta che potrebbe essere un tentativo di phishing."
+      ],
+      "nota": "Può riferirsi a oggetti, situazioni o comportamenti che appaiono poco chiari o potenzialmente pericolosi."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che prova diffidenza o sfiducia verso qualcuno o qualcosa.",
+      "examples": [
+        "Dopo quello che è successo, sono diventato sospetto nei confronti di tutti.",
+        "Era sospetto di ogni nuova proposta che gli veniva fatta."
+      ],
+      "nota": "In questo senso, descrive un atteggiamento di cautela o prevenzione."
+    }
+  ]
+}

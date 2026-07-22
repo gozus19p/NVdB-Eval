@@ -1,0 +1,170 @@
+{
+  "lemma": "spiegazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5669ad0a50d065ea85"
+    },
+    "source": "paraviaXML/112951.xml",
+    "lemma": "spiegazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lo spiegare qualcosa che è oscuro o non immediatamente e facilmente comprensibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ti chiederò ulteriori spiegazioni",
+              "la sua spiegazione non mi ha convinto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esposizione, scritta od orale, con cui si chiarisce un concetto, un argomento e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la spiegazione di una teoria",
+              "ascolta la spiegazione del maestro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Istruzione, specialmente scritta, per l’uso di uno strumento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le spiegazioni del manuale non sono chiare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Motivo, motivazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vorrei una spiegazione che giustifichi il suo comportamento"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Causa, ragione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la spiegazione dei fatti",
+              "un delitto apparentemente senza spiegazioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Discussione chiarificatrice tra persone in disaccordo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esigere, pretendere una spiegazione",
+              "venire a una spiegazione con qcn."
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme di informazioni fornite per rendere comprensibile qualcosa di oscuro, complesso o sconosciuto; chiarimento di un concetto, fenomeno o testo.",
+      "examples": [
+        "L'insegnante ha dato una spiegazione molto chiara della teoria della relatività.",
+        "Ho riletto il manuale tre volte ma la spiegazione non mi convince ancora."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Ragione o causa addotta per giustificare un comportamento, un evento o una situazione; motivazione offerta a qualcuno che chiede conto di qualcosa.",
+      "examples": [
+        "Non ha ancora dato una spiegazione per il suo ritardo di due ore.",
+        "La direzione pretende una spiegazione scritta sull'accaduto."
+      ],
+      "nota": "In questo senso si avvicina a 'giustificazione' e 'motivazione', ma conserva una sfumatura più neutra, riferendosi alla semplice dichiarazione delle ragioni senza implicare necessariamente una scusa."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Chiarimento cercato o richiesto nel contesto di un conflitto o di un malinteso interpersonale; confronto diretto tra persone per risolvere una questione controversa.",
+      "examples": [
+        "Dopo quella discussione, i due colleghi hanno avuto una spiegazione in privato.",
+        "Voglio una spiegazione con te: non puoi comportarti così senza dirmi nulla."
+      ],
+      "nota": "In questo uso il termine ha spesso valore di 'chiarimento risolutivo' e si usa tipicamente nelle costruzioni 'avere una spiegazione con qualcuno' o 'chiedere una spiegazione a qualcuno'."
+    }
+  ]
+}

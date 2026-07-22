@@ -1,0 +1,140 @@
+{
+  "lemma": "opinione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0c69ad0a50d065ae52"
+    },
+    "source": "paraviaXML/76480.xml",
+    "lemma": "opinione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che si pensa di qualcuno o di qualcosa , idea, convincimento soggettivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "opinione arbitraria",
+              "fondata",
+              "infondata",
+              "cambiare opinione",
+              "farsi",
+              "formarsi un’opinione",
+              "rimanere della propria opinione",
+              "avere il coraggio delle proprie opinioni | essere dell’opinione"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ritenere",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 7,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quella della maggior parte della gente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "opinione corrente",
+              "prevalente"
+            ]
+          },
+          {
+            "number": 8,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "O. che ha preso vigore, radicata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "opinione invalsa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Considerazione o stima sia pubblica sia privata: reputarsi di grande valore, stimarsi oltremodo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere una buona",
+              "una cattiva opinione di qcn.",
+              "avere alta opinione di sé"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Giudizio soggettivo su una questione, basato su convinzioni personali o informazioni parziali.",
+      "examples": [
+        "Secondo la mia opinione, dovremmo partire prima dell'alba.",
+        "Il dibattito ha mostrato opinioni molto diverse tra i partecipanti."
+      ],
+      "nota": "Spesso usato in contesti di discussione o confronto, può implicare una mancanza di certezza oggettiva. Sinonimo parziale: 'parere'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Reputazione o considerazione che una persona gode presso gli altri.",
+      "examples": [
+        "Quel politico ha perso l'opinione pubblica dopo lo scandalo.",
+        "Ha sempre avuto una buona opinione di te, non deluderla."
+      ],
+      "nota": "In questa accezione, spesso usato con aggettivi come 'buona', 'cattiva', 'alta', 'bassa'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme delle convinzioni diffuse in un gruppo sociale su un determinato argomento.",
+      "examples": [
+        "L'opinione prevalente tra gli esperti è che il progetto non sia realizzabile.",
+        "La campagna elettorale mira a influenzare l'opinione degli elettori indecisi."
+      ],
+      "nota": "Frequente in espressioni come 'opinione pubblica', 'opinione comune', 'opinione dominante'."
+    }
+  ]
+}

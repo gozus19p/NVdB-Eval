@@ -1,0 +1,123 @@
+{
+  "lemma": "provenire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc969ad0a50d06646db"
+    },
+    "source": "paraviaXML/88244.xml",
+    "lemma": "provenire",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Venire, giungere da un luogo o da una direzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il treno proviene da Mantova",
+              "l’auto proveniva da destra",
+              "un carico di banane che proviene dal Brasile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Derivare, avere origine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la notizia proviene da fonte attendibile"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Discendere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "provenire da famiglia nobile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Derivare, risultare: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "da questo affare proverranno lauti guadagni",
+              "da te proviene solo male"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Avere origine in un luogo determinato, appartenere a un gruppo sociale o collocarsi in un'epoca specifica, con riferimento alla collocazione geografica o identitaria iniziale.",
+      "examples": [
+        "La merce proviene direttamente dalle piccole aziende agricole toscane.",
+        "Molti partecipanti al convegno provengono da università dell'Europa settentrionale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Configurarsi come conseguenza, risultato o derivazione diretta di una causa, un principio, un'azione o una condizione precedente.",
+      "examples": [
+        "Il successo dell'iniziativa proviene dalla capacità di adattamento del gruppo.",
+        "Le attuali difficoltà burocratiche provengono da norme obsolete non ancora aggiornate."
+      ],
+      "nota": null
+    }
+  ]
+}

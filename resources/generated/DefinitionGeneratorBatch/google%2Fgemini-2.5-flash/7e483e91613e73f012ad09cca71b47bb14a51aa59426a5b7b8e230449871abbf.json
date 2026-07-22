@@ -1,0 +1,212 @@
+{
+  "lemma": "terminare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe769ad0a50d0665ee9"
+    },
+    "source": "paraviaXML/119659.xml",
+    "lemma": "terminare",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Portare a compimento, concludere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "terminare un’opera",
+              "gli studi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "scherzoso"
+            ],
+            "definitions": [
+              {
+                "glossa": "Morire, anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "terminare i propri giorni",
+              "quest’auto ha terminato i suoi giorni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Delimitare ponendo un confine",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giungere alla fine, non procedere oltre nello spazio, finire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la strada termina qui"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non procedere nel tempo, concludersi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo spettacolo è terminato a mezzanotte"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Un complemento, finire con un dato elemento, una data forma: concludersi in un dato modo: di strada o corso d’acqua, sboccare, immettersi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il bastone termina a punta",
+              "le favole terminano con la morale",
+              "la strada termina in una piazza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di parole o versi, avere come desinenza o parte finale un certo elemento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’esametro termina con uno spondeo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Portare a compimento un'attività o un processo, giungendo alla sua fase finale.",
+      "examples": [
+        "Ho terminato il mio lavoro prima del previsto.",
+        "Dobbiamo terminare il progetto entro la prossima settimana."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Giungere al proprio limite o alla propria conclusione, cessando di esistere o di svolgersi.",
+      "examples": [
+        "La strada termina in un vicolo cieco.",
+        "Il corso terminerà a fine mese."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Avere come esito o risultato finale un determinato evento o situazione.",
+      "examples": [
+        "La discussione è terminata in un accordo unanime.",
+        "La partita è terminata con la vittoria della nostra squadra."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Arrivare al proprio compimento o alla propria fine, detto di un'azione o un compito.",
+      "examples": [
+        "Il suo intervento si è terminato con un applauso scrosciante.",
+        "La costruzione dell'edificio si è terminata in meno di un anno."
+      ],
+      "nota": "Questo senso è meno comune nell'uso corrente rispetto all'uso transitivo o intransitivo."
+    }
+  ]
+}

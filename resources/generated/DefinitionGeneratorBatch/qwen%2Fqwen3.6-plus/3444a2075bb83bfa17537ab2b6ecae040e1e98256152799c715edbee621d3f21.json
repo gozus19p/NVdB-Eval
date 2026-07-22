@@ -1,0 +1,171 @@
+{
+  "lemma": "sport",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6c69ad0a50d06528e9"
+    },
+    "source": "paraviaXML/113474.xml",
+    "lemma": "sport",
+    "grammar": [
+      "s.m.inv.",
+      "agg.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Attività fisica volta a mantenere in efficienza il corpo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "praticare dello sport"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle discipline sportive ( e l’insieme degli esercizi atletici e delle gare che le contraddistinguono) praticate individualmente o in gruppo nel rispetto di regole codificate, con intenti ludici o agonistici",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sport dilettantistico",
+              "professionistico",
+              "sport individuale",
+              "a squadre",
+              "lo sport del calcio",
+              "del tennis",
+              "del nuoto"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "esempio",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Quelli praticati a contatto con l’acqua, come ad esempio nuoto, vela, sci d’acqua, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sport acquatici"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "esempio",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Quelli praticati sulla neve o sul ghiaccio, come ad esempio sci, bob, pattinaggio, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sport invernali"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quelli praticati su auto o moto da corsa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sport motoristici"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di vettura, che ha prestazioni tecniche più brillanti rispetto alla versione normale e una linea che richiama quella delle auto da corsa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "modello sport"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Attività fisica, individuale o di squadra, esercitata secondo regole prestabilite per svago, competizione o professione, richiedendo impegno, destrezza e allenamento.",
+      "examples": [
+        "Ogni volta che può, pratica attività agonistica all'aria aperta per ricaricarsi dopo il lavoro.",
+        "L'evento ha riunito atleti professionisti e amatori appassionati di diverse discipline motorie."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Passatempo, hobby o attività ricorrente che una persona pratica o coltiva con particolare assiduità e interesse personale, anche al di fuori dell'ambito fisico.",
+      "examples": [
+        "Il giardinaggio del fine settimana è diventato il suo sport preferito dopo la pensione.",
+        "Per quella testata giornalistica, stroncare i libri di esordienti è ormai un esercizio abituale."
+      ],
+      "nota": "Usato prevalentemente in senso figurato o ironico per indicare un'abitudine consolidata o una passione ripetitiva."
+    },
+    {
+      "pos": "aggettivo (invariabile)",
+      "definition": "Riferito a un abbigliamento, uno stile o un articolo caratterizzati da praticità, informalità e comodità, adatti al tempo libero o alle attività ricreative.",
+      "examples": [
+        "Per la gita di domenica indossiamo scarpe e giacche comode, senza pretese di eleganza formale.",
+        "Il marchio ha appena presentato una nuova collezione casual, con tagli rilassati e tessuti tecnici."
+      ],
+      "nota": "Termine diffuso nel lessico commerciale e della moda, invariabile per genere e numero, spesso utilizzato in apposizione con valore attributivo."
+    }
+  ]
+}

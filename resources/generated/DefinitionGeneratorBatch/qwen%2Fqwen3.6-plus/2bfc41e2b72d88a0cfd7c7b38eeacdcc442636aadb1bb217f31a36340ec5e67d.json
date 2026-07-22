@@ -1,0 +1,168 @@
+{
+  "lemma": "copia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaea569ad0a50d065586c"
+    },
+    "source": "paraviaXML/27505.xml",
+    "lemma": "copia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trascrizione fedele di una scrittura, di un testo originale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Disegno, pittura o scultura che riproduce più o meno fedelmente un originale, talvolta a scopo di contraffazione, o a scopo di esercitazione o di diffusione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una copia di un acquerello di Klee"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Duplicato di un originale ottenuto da una matrice o per riproduzione fotomeccanica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "copie fotostatiche di un testo",
+              "copia eliografica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In fotografia, esemplare ricavato dal negativo tramite la stampa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esemplare a stampa di un libro, una rivista, un giornale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la tiratura di questo quotidiano è di 30.000 copie"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona molto somigliante a un’altra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il bambino è la copia di suo padre"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Oggetto, documento o file realizzato per essere identico o molto simile a un originale.",
+      "examples": [
+        "Per sicurezza, conserva sempre una copia digitale delle fatture più importanti.",
+        "Ho chiesto alla segreteria una copia autenticata del mio diploma di maturità."
+      ],
+      "nota": "In ambito informatico e amministrativo indica prevalentemente duplicati di dati o documenti."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Persona o cosa che presenta caratteristiche o sembianze quasi identiche a quelle di un modello di riferimento.",
+      "examples": [
+        "Quel ragazzo è la copia sputata di suo nonno da giovane.",
+        "Spesso si dice che i figli piccoli siano una copia perfetta dei genitori nei gesti e nelle espressioni."
+      ],
+      "nota": "Uso figurato e colloquiale, frequentemente accompagnato da avverbi o aggettivi di grado elevato."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Singolo esemplare di un'opera a stampa o di una pubblicazione periodica, considerato come unità commerciale o di distribuzione.",
+      "examples": [
+        "L'ultimo numero della rivista ha superato le cinquantamila copie vendute.",
+        "Ogni copia del romanzo reca apposto un timbro di autenticità sulla prima pagina."
+      ],
+      "nota": null
+    }
+  ]
+}

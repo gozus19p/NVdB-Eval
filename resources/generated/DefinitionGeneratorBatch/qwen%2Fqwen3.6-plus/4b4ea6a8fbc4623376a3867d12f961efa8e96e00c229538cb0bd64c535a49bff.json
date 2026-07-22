@@ -1,0 +1,124 @@
+{
+  "lemma": "coinvolgere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa969ad0a50d0662cad"
+    },
+    "source": "paraviaXML/23996.xml",
+    "lemma": "coinvolgere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Implicare, trascinare in una situazione che comporta rischi o gravi responsabilità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coinvolgere qcn. in un’impresa",
+              "in un’avventura",
+              "è coinvolto nello scandalo delle tangenti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indurre a una partecipazione attiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coinvolgere qcn. nei preparativi della festa",
+              "è in grado di coinvolgere tutti nel gioco",
+              "coinvolgere in una discussione politica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rendere emotivamente partecipe: interessare suscitando emozioni: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la sua gioia mi coinvolge",
+              "la vicenda del film mi ha coinvolto",
+              "la musica la coinvolge",
+              "lasciarsi coinvolgere",
+              "è un romanzo che coinvolge"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Far partecipare attivamente una o più persone a un'iniziativa, a un processo decisionale o a una situazione collettiva.",
+      "examples": [
+        "Il responsabile del progetto ha deciso di coinvolgere tutti i reparti nella fase di pianificazione.",
+        "L'amministrazione comunale vuole coinvolgere i residenti nelle scelte di riqualificazione del quartiere."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Suscitare in qualcuno un vivo interesse, adesione emotiva o intellettuale, catturandone l'attenzione in modo profondo.",
+      "examples": [
+        "La narrazione è così incalzante da coinvolgere lo spettatore fin dai primi minuti del film.",
+        "Le sue argomentazioni hanno finito per coinvolgere anche i colleghi più scettici sulla necessità del cambiamento."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Comportare, richiedere o avere come conseguenza necessaria la presenza di determinati elementi, passaggi o condizioni operative.",
+      "examples": [
+        "L'acquisto dell'immobile coinvolge una serie di spese accessorie che non erano state preventivate.",
+        "La digitalizzazione del reparto amministrativo coinvolge inevitabilmente la riconversione delle figure professionali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Tirare in mezzo o rendere partecipe, spesso contro volontà o a insaputa, di vicende complicate, illecite o potenzialmente rischiose.",
+      "examples": [
+        "Le indagini della procura hanno coinvolto anche figure istituzionali precedentemente non indagate.",
+        "Preferisco non coinvolgerti in questa disputa legale, visto che non ne conosci i retroscena."
+      ],
+      "nota": "Frequentemente impiegato in ambiti giudiziari, investigativi o relazionali; porta una connotazione pragmatica negativa che implica perdita di neutralità o esposizione a rischi."
+    }
+  ]
+}

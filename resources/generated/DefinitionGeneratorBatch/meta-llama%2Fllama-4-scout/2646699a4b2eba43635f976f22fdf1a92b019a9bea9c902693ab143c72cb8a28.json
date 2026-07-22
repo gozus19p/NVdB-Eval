@@ -1,0 +1,191 @@
+{
+  "lemma": "pena",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1769ad0a50d065b75f"
+    },
+    "source": "paraviaXML/80923.xml",
+    "lemma": "pena",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , sanzione punitiva prevista per legge a carico di chi abbia commesso un reato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "infliggere",
+              "scontare una pena",
+              "pena corporale",
+              "dell’ergastolo",
+              "condannare al massimo",
+              "al minimo della pena"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che colpisce la libertà personale del reo; che ne colpisce il patrimonio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pena detentiva",
+              "pena pecuniaria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Danno fisico o morale che si subisce come conseguenza di una mancanza commessa; punizione, castigo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Patimento, sofferenza fisica o morale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "patire pene d’amore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sentimento di pietà provato per qualcuno qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "provare pena per qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Preoccupazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere in pena per qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "religione",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Religione , castigo inflitto all’anima dopo la morte per i peccati commessi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Sanzione o punizione inflitta per una colpa o un'infrazione",
+      "examples": [
+        "La pena per il furto è di cinque anni di reclusione.",
+        "La pena capitale è discussa in molti paesi"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Sofferenza, dolore o afflizione",
+      "examples": [
+        "La pena della solitudine è molto grande.",
+        "La perdita del lavoro è stata una grande pena per lui"
+      ],
+      "nota": null
+    }
+  ]
+}

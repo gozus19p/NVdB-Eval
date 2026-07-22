@@ -1,0 +1,61 @@
+{
+  "lemma": "causare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa869ad0a50d0662bbc"
+    },
+    "source": "paraviaXML/20209.xml",
+    "lemma": "causare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "causare-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far succedere, provocare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "causare un danno",
+              "causare uno scandalo",
+              "la grandinata ha causato danni alle colture"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "Essere la causa di qualcosa",
+      "examples": [
+        "Il suo ritardo ha causato il ritardo di tutta la riunione.",
+        "La pioggia ha causato un'alluvione in città."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Provocare un effetto o una conseguenza",
+      "examples": [
+        "Il suo comportamento ha causato molto dolore alla sua famiglia.",
+        "La sua negligenza ha causato problemi sul lavoro."
+      ],
+      "nota": null
+    }
+  ]
+}

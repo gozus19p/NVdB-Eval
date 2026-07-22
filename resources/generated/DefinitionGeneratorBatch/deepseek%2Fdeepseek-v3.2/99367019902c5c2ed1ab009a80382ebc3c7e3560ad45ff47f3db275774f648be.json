@@ -1,0 +1,158 @@
+{
+  "lemma": "adulto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0369ad0a50d064a4f9"
+    },
+    "source": "paraviaXML/2273.xml",
+    "lemma": "adulto",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi ha raggiunto il completo sviluppo fisico e psichico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "persona adulta",
+              "il mondo, le responsabilità degli adulti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di piante o animali, completamente sviluppato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Tipico di una persona matura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comportamento adulto",
+              "scelta adulta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Perfezionato, progredito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stile adulto",
+              "società adulta"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Persona che ha raggiunto la maturità fisica e di solito anche l'età legale, assumendo i diritti e le responsabilità corrispondenti.",
+      "examples": [
+        "Gli adulti erano seduti a discutere, mentre i bambini giocavano in giardino.",
+        "È importante che un adulto accompagni i minori in gita."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Persona che ha raggiunto la maturità fisica e di solito anche l'età legale, assumendo i diritti e le responsabilità corrispondenti.",
+      "examples": [
+        "L'adulta si è assunta la responsabilità dell'accaduto.",
+        "Per partecipare al corso bisogna essere un'adulta."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo a una persona o a un animale che ha raggiunto la piena crescita fisica e la maturità.",
+      "examples": [
+        "È un individuo adulto, perfettamente in grado di badare a sé stesso.",
+        "La leonessa adulta proteggeva i suoi cuccioli."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito a contenuti, comportamenti o attività, indicante che sono destinati o appropriati per persone mature, non per bambini.",
+      "examples": [
+        "Il film è classificato come contenuto per un pubblico adulto.",
+        "Il dibattito ha assunto toni molto adulti e costruttivi."
+      ],
+      "nota": "In questa accezione l'aggettivo può riferirsi a film, libri, temi o comportamenti."
+    }
+  ]
+}

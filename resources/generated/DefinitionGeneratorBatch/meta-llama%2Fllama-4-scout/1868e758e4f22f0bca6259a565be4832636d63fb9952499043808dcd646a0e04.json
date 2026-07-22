@@ -1,0 +1,146 @@
+{
+  "lemma": "latte",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3c69ad0a50d065d4a9"
+    },
+    "source": "paraviaXML/62445.xml",
+    "lemma": "latte",
+    "grammar": [
+      "s.m.",
+      "s.m.inv.",
+      "agg.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Liquido bianco, opaco, altamente nutritivo, prodotto dalla secrezione delle ghiandole mammarie subito dopo il parto, destinato all’alimentazione della prole dei mammiferi nei primi mesi di vita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "succhiare il latte"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Allattare; divezzare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare il latte",
+              "levare il latte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alimento di grande valore dietetico ottenuto dalla mungitura delle femmine di alcuni mammiferi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "latte di mucca",
+              "di capra"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Colore bianco simile a quello del latte",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di tale colore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bianco latte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Liquido bianco secreto dalle ghiandole mammarie delle femmine dei mammiferi, costituito da acqua, proteine, grassi, carboidrati e sali minerali",
+      "examples": [
+        "Il bambino beve il latte dal biberon.",
+        "Il latte è una fonte importante di calcio per l'organismo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Prodotto alimentare ottenuto dal latte di varie specie animali, come vacca, pecora, capra, destinato al consumo umano",
+      "examples": [
+        "Il latte intero contiene più grassi del latte scremato.",
+        "Il latte di mandorla è una bevanda vegetale."
+      ],
+      "nota": null
+    }
+  ]
+}

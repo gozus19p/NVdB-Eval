@@ -1,0 +1,90 @@
+{
+  "lemma": "insegnante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6269ad0a50d06520ec"
+    },
+    "source": "paraviaXML/57710.xml",
+    "lemma": "insegnante",
+    "grammar": [
+      "p.pres.",
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio presente",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi insegna, specialmente per professione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "insegnante di lettere",
+              "insegnante di nuoto",
+              "di liceo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Persona che insegna una materia in un istituto scolastico",
+      "examples": [
+        "L'insegnante di matematica è molto brava.",
+        "La mia insegnante di italiano è severa."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Persona che insegna in generale, anche al di fuori di un contesto scolastico",
+      "examples": [
+        "Mio padre è stato un insegnante di vita.",
+        "L'insegnante di yoga ha aiutato gli allievi a rilassarsi."
+      ],
+      "nota": null
+    }
+  ]
+}

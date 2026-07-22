@@ -1,0 +1,142 @@
+{
+  "lemma": "ottenere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc669ad0a50d06643bb"
+    },
+    "source": "paraviaXML/77762.xml",
+    "lemma": "ottenere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Riuscire ad avere ciò che si desidera o si richiede, conseguire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ottenere un incarico",
+              "un premio",
+              "un permesso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conseguire come effetto, come risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cosa hai ottenuto comportandoti così?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ricavare mediante determinati procedimenti, operazioni, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mescolare fino a ottenere un composto omogeneo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Far prevalere, far accettare una proposta, un’opinione, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con questi et altri più efficaci detti | fece Sobrin sì, che ’l partito ottenne"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Ariosto)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Raggiungere uno scopo o acquisire qualcosa che si desiderava o per cui si è lavorato, come risultato di un'azione, uno sforzo o una richiesta.",
+      "examples": [
+        "Dopo anni di studio, è riuscito a ottenere la laurea con il massimo dei voti.",
+        "Il governo ha promesso di ottenere nuovi finanziamenti per il progetto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Ricavare o produrre qualcosa da una fonte o attraverso un processo specifico.",
+      "examples": [
+        "È possibile ottenere energia dalle risorse rinnovabili.",
+        "Abbiamo ottenuto campioni significativi dalle ultime analisi."
+      ],
+      "nota": null
+    }
+  ]
+}

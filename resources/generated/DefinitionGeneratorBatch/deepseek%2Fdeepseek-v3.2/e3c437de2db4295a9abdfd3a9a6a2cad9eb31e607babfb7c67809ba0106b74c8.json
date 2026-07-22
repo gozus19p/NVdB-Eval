@@ -1,0 +1,282 @@
+{
+  "lemma": "civile",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a8ae"
+    },
+    "source": "paraviaXML/23229.xml",
+    "lemma": "civile",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Del cittadino, dei cittadini, in quanto membri di una collettività, di uno stato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "società civile",
+              "istituzioni civili",
+              "libertà civili",
+              "virtù civili"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In contrapposizione a militare o religioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "autorità civili",
+              "abito civile",
+              "ospedale",
+              "aeroporto civile",
+              "festa",
+              "solennità",
+              "celebrazione civile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che si ispira ai valori propri della comunità dei cittadini",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "poesia",
+              "letteratura civile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Educato, perbene",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "persona civile"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , decente, dignitoso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mettiti un vestito civile per andare a teatro",
+              "pettinarsi in modo civile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha raggiunto, che manifesta un alto grado di civiltà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "popolo civile",
+              "mondo civile"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo al grado di civiltà di un popolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "progresso civile di una nazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , relativo al diritto civile: che si occupa di cause civili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "illecito civile",
+              "tribunale civile",
+              "giudice civile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Privato cittadino, non militare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i civili sono stati allontanati dalla zona dei combattimenti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "dialettale",
+              "siciliano"
+            ],
+            "definitions": [
+              {
+                "glossa": "Siciliano , chi appartiene a un ceto sociale elevato, nobile o ricco borghese",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo alla cittadinanza o alla convivenza organizzata all'interno di una società.",
+      "examples": [
+        "Il matrimonio civile viene celebrato in municipio.",
+        "La guerra civile divise il paese in due fazioni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che rispetta le norme di convivenza, educato e cortese.",
+      "examples": [
+        "Ha sempre un tono di voce molto civile anche quando discute.",
+        "Sarebbe stato più civile chiedere scusa per l'errore."
+      ],
+      "nota": "In questo senso è spesso opposto a 'maleducato' o 'scortese'."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Non militare o religioso.",
+      "examples": [
+        "Indossava abiti civili dopo aver lasciato l'esercito.",
+        "L'ospedale è gestito da personale civile."
+      ],
+      "nota": "Usato spesso in contrapposizione a 'militare' o 'ecclesiastico'."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Persona non appartenente alle forze armate o al clero.",
+      "examples": [
+        "Durante la parata, i militari marciavano separati dai civili.",
+        "L'edificio fu requisito per alloggiare i civili sfollati."
+      ],
+      "nota": null
+    }
+  ]
+}

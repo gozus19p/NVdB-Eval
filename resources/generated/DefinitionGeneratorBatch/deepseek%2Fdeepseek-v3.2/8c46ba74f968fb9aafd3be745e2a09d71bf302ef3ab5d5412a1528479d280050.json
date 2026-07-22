@@ -1,0 +1,209 @@
+{
+  "lemma": "sorella",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5269ad0a50d065e78d"
+    },
+    "source": "paraviaXML/111119.xml",
+    "lemma": "sorella",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Persona di sesso femminile che ha in comune con un’altra l’essere nata dagli stessi genitori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mia sorella",
+              "la sorella di Piera",
+              "sorella gemella",
+              "sorella maggiore",
+              "sorella minore",
+              "sorella mezzana",
+              "è andato con sua sorella",
+              "è andato con la sorella",
+              "essere sorelle",
+              "essere fratello e sorella"
+            ]
+          },
+          {
+            "number": 7,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere molto amiche, essere cresciute insieme",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere come sorelle"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cosa, rappresentata da un sostantivo di genere femminile, simile o collegata a un’altra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’ingiustizia è sorella della violenza"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha le stesse origini, che risulta strettamente affine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lingue",
+              "nazioni sorelle"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "termine ecclesiastico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Termine ecclesiastico , appellativo di membri affiliati a confraternite o congregazioni femminili religiose o laiche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sorella Domenica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Appellati- vo delle infermiere della Croce Rossa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina specialmente al , gemelle malformate unite per una o più parti del corpo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Amica con cui si ha una straordinaria affinità di gusti.",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Figlia degli stessi genitori rispetto ad un'altra persona, con cui condivide almeno un genitore.",
+      "examples": [
+        "Mia sorella maggiore vive all'estero.",
+        "Ho una sorella gemella con cui condivido tutto."
+      ],
+      "nota": "Può riferirsi anche a una persona legata da sola consanguineità materna o paterna (sorellastra)."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Donna che fa parte di un ordine religioso femminile e conduce una vita consacrata.",
+      "examples": [
+        "La sorella che gestisce l'infermeria è molto gentile.",
+        "Le sorelle del convento cantano in coro."
+      ],
+      "nota": "È spesso usato come forma di indirizzo o appellativo rispettoso."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Donna membro di un'associazione, un sindacato o un movimento, con cui si condivide un ideale o una condizione.",
+      "examples": [
+        "Le sorelle di partito si sono mobilitate per la campagna elettorale.",
+        "Una solidarietà speciale lega le sorelle in lotta per i diritti."
+      ],
+      "nota": "Uso figurato e solidale, comune in contesti politici o associativi."
+    }
+  ]
+}

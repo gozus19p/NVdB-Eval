@@ -1,0 +1,241 @@
+{
+  "lemma": "confermare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafaa69ad0a50d0662d86"
+    },
+    "source": "paraviaXML/25764.xml",
+    "lemma": "confermare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Provare, dimostrare l’esattezza di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "confermare l’esattezza di un fatto",
+              "confermare un’ipotesi",
+              "una teoria",
+              "una scelta",
+              "l’eccezione conferma la regola"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ribadire la validità di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il tribunale ha confermato la sentenza del pretore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mantenere la validità di qualcosa precedentemente detto, fatto eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "confermare un invito",
+              "un impegno",
+              "una promessa",
+              "confermare la parola data",
+              "confermare la propria presenza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rafforzare: rendere più saldo in una determinata condizione dello spirito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "confermare un sentimento",
+              "una speranza",
+              "un sospetto",
+              "confermare qcn. nella fede",
+              "nella speranza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mantenere qualcuno in una carica, in una posizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "confermare qcn. ministro",
+              "è stato confermato nel suo incarico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "banca",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Banca , di banca, impegnarsi unitamente alla banca accreditante, ad assolvere al pagamento, in un’apertura di credito a favore di terzi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "religione"
+            ],
+            "definitions": [
+              {
+                "glossa": "Religione , cresimare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Dichiarare o attestare che qualcosa corrisponde al vero, che una notizia o un'informazione è esatta.",
+      "examples": [
+        "Il portavoce ha confermato le voci che circolavano da giorni.",
+        "La polizia ha confermato che l'incidente è avvenuto intorno alle tre di notte."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rendere definitivo o ufficiale un accordo, un appuntamento, una prenotazione o una decisione già presa in via provvisoria.",
+      "examples": [
+        "Ti chiedo di confermare la tua presenza entro venerdì.",
+        "Ho confermato la prenotazione dell'albergo con una e-mail."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rafforzare o avvalorare una credenza, un'ipotesi o un principio già esistente, fornendo ulteriori elementi a sostegno.",
+      "examples": [
+        "I nuovi dati confermano la teoria elaborata anni fa dal ricercatore.",
+        "Il suo comportamento non fa che confermare i miei sospetti."
+      ],
+      "nota": "Spesso usato nell'espressione proverbiale 'l'eccezione che conferma la regola'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Mantenere qualcuno in una carica, in un ruolo o in un contratto già ricoperto, rinnovandone l'incarico.",
+      "examples": [
+        "Il consiglio di amministrazione ha confermato il direttore per un altro mandato.",
+        "La società ha confermato tutti i giocatori in rosa per la prossima stagione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Dimostrarsi all'altezza delle aspettative o delle prestazioni precedenti, mantenendo o ribadendo le proprie qualità.",
+      "examples": [
+        "L'atleta si è confermata campionessa anche in questa edizione del torneo.",
+        "Il ristorante si conferma uno dei migliori della città."
+      ],
+      "nota": null
+    }
+  ]
+}

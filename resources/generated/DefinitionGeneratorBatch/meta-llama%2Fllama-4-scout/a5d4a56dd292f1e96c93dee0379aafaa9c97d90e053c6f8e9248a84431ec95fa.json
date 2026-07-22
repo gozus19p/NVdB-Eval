@@ -1,0 +1,239 @@
+{
+  "lemma": "cinquanta",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0a69ad0a50d064cee9"
+    },
+    "source": "paraviaXML/22711.xml",
+    "lemma": "cinquanta",
+    "grammar": [
+      "agg.num.card.inv.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo numerale cardinale",
+          "sostantivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è pari a cinque decine ( nella numerazione araba rappresentato con 50, in quella romana con L)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pesare cinquanta chili",
+              "percorrere cinquanta metri",
+              "cinquanta chilometri",
+              "cinquanta lire",
+              "cinquanta per volta"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cinquantuno",
+              "cinquantamila",
+              "centocinquanta"
+            ]
+          },
+          {
+            "number": 7,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con sottinteso: i cinquanta chilometri; le cinquanta lire; i cinquant’anni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non si possono superare i cinquanta all’ora",
+              "ho le cinquanta di resto",
+              "ha compiuto i cinquanta da poco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo numerale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Card. inv. con valore , per indicare un gran numero o una gran quantità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "te l’ho detto cinquanta volte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo numerale cardinale",
+          "sostantivo",
+          "sostantivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "numerale ordinale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Posposto al con valore di numerale ordinale , cinquantesimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pagina",
+              "paragrafo cinquanta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sottinteso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la mia casa è al cinquanta di questa via"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Numero pari a cinque decine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "contare fino a cinquanta",
+              "i multipli di cinquanta"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il segno che rappresenta tale numero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 4,
+            "marks": [
+              "specialmente",
+              "secolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il quinto decennio di un secolo, specialmente in riferimento al XX secolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli anni C."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Motociclo con cilindrata di circa cc",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "numero",
+      "definition": "numero naturale che segue il quarantanove e precede il cinquantuno",
+      "examples": [
+        "Ho cinquanta anni.",
+        "Il capitolo cinquanta del libro è molto interessante."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "quantità di cinquanta unità",
+      "examples": [
+        "Cinquanta persone hanno partecipato alla festa.",
+        "Il pacco contiene cinquanta fogli di carta."
+      ],
+      "nota": null
+    }
+  ]
+}

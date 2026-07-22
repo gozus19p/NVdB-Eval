@@ -1,0 +1,214 @@
+{
+  "lemma": "politica",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2169ad0a50d065bec8"
+    },
+    "source": "paraviaXML/84565.xml",
+    "lemma": "politica",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Teoria e pratica che ha come oggetto l’organizzazione e il governo dello stato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il complesso dei fini cui tende uno stato e l’insieme dei mezzi impiegati per ottenerli",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’attività svolta da un governo, specialmente in rapporto a determinati settori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "politica sociale",
+              "dei trasporti",
+              "delle pensioni",
+              "industriale",
+              "finanziaria"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Modo di governare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "politica interna",
+              "estera",
+              "politica saggia",
+              "sbagliata",
+              "efficace"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’attività di chi prende parte alla vita pubblica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "darsi alla politica",
+              "entrare in politica",
+              "fare politica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’insieme delle questioni, dei fatti che riguardano la vita pubblica, la gestione dello stato, i rapporti tra gli esponenti politici, eccetera , in quanto oggetto di conversazione e commento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "occuparsi",
+              "intendersi",
+              "parlare di politica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Comportamento, modo di agire o di procedere in determinate attività o situazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "di fronte alla crisi l’azienda ha adottato una politica di risparmio",
+              "la sua politica è quella di non tirarsi mai indietro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Diplomazia, astuzia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bisogna agire con un po’ di politica",
+              "avere molta politica"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Attività o insieme di attività concernenti la gestione e l'amministrazione di un ente, un'organizzazione o uno stato.",
+      "examples": [
+        "La politica estera del governo è molto criticata.",
+        "La politica economica dell'Unione Europea ha subito diverse modifiche negli anni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Insieme di idee, opinioni e atteggiamenti che guidano le scelte e le azioni di un individuo o di un gruppo in ambito pubblico.",
+      "examples": [
+        "La sua politica è sempre stata orientata alla difesa dell'ambiente.",
+        "La politica di partito spesso prevale sulla politica di governo."
+      ],
+      "nota": null
+    }
+  ]
+}

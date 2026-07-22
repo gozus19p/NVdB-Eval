@@ -1,0 +1,185 @@
+{
+  "lemma": "risultato",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae4d69ad0a50d0650f5e"
+    },
+    "source": "paraviaXML/98247.xml",
+    "lemma": "risultato",
+    "grammar": [
+      "p.pass.",
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio passato",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Risultare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che risulta come conclusione o come esito finale di un processo, di un’attività o simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attendere i risultati delle indagini",
+              "delle elezioni"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Profitto, livello di preparazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’impegno è migliorato ma il risultato è ancora scarso"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Punteggio parziale o finale di un incontro sportivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ascoltare i risultati delle partite alla radio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il numero o la formula ottenuti al termine dello svolgimento di un calcolo, di un’operazione matematica, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il risultato della divisione",
+              "dell’equazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2,3",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Esito concreto di un processo, un'azione o un'attività; ciò che si ottiene al termine di uno sforzo o di una serie di operazioni.",
+      "examples": [
+        "Dopo mesi di lavoro, i risultati sono finalmente visibili.",
+        "Il progetto ha dato risultati migliori del previsto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In ambito matematico o scientifico, il valore numerico o la soluzione ottenuta al termine di un calcolo o di un'operazione.",
+      "examples": [
+        "Il risultato della divisione tra 144 e 12 è 12.",
+        "Controlla il risultato dell'equazione prima di procedere."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Punteggio o esito finale di una competizione sportiva o di una gara.",
+      "examples": [
+        "Il risultato della partita è stato tre a uno per la squadra ospite.",
+        "Segui con noi i risultati in tempo reale della giornata di campionato."
+      ],
+      "nota": "In questo senso è frequente al plurale per riferirsi all'insieme degli esiti di più incontri o gare."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Responso di un esame diagnostico, di un test o di un'analisi medica o scientifica.",
+      "examples": [
+        "I risultati delle analisi del sangue saranno pronti domani.",
+        "Il medico ha comunicato che i risultati della biopsia sono negativi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m. (uso figurato)",
+      "definition": "Conseguenza o effetto prodotto da una situazione, da un comportamento o da una catena di eventi, spesso con valenza valutativa positiva o negativa.",
+      "examples": [
+        "La sua ostinazione è il risultato di anni di delusioni.",
+        "Quello che vedi adesso è il risultato delle tue scelte."
+      ],
+      "nota": "In questo uso figurato il termine è semanticamente vicino a 'conseguenza' o 'frutto', con enfasi sul nesso causale tra eventi."
+    }
+  ]
+}

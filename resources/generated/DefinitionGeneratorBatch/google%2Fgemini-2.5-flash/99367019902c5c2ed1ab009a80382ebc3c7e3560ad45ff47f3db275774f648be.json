@@ -1,0 +1,149 @@
+{
+  "lemma": "adulto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0369ad0a50d064a4f9"
+    },
+    "source": "paraviaXML/2273.xml",
+    "lemma": "adulto",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi ha raggiunto il completo sviluppo fisico e psichico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "persona adulta",
+              "il mondo, le responsabilità degli adulti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di piante o animali, completamente sviluppato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Tipico di una persona matura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comportamento adulto",
+              "scelta adulta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Perfezionato, progredito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stile adulto",
+              "società adulta"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha raggiunto il pieno sviluppo fisico e mentale tipico della sua specie, non essendo più bambino o adolescente.",
+      "examples": [
+        "Un individuo adulto deve assumersi le proprie responsabilità.",
+        "Mia figlia ormai è adulta, è andata a vivere da sola."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito a contenuti o prodotti, destinato a un pubblico maturo e non ai minori, spesso per la presenza di argomenti complessi o scene esplicite.",
+      "examples": [
+        "Questo film è categorizzato per un pubblico adulto a causa delle scene violente.",
+        "Il contenuto di questa rivista è per soli adulti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile/femminile",
+      "definition": "Persona che ha completato la fase dello sviluppo e ha acquisito la piena maturità fisica e intellettuale.",
+      "examples": [
+        "Gli adulti hanno il diritto di voto.",
+        "Il parco giochi è frequentato da bambini e i loro accompagnatori adulti."
+      ],
+      "nota": null
+    }
+  ]
+}

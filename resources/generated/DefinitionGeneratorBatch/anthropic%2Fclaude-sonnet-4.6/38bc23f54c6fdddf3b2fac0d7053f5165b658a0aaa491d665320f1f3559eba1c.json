@@ -1,0 +1,211 @@
+{
+  "lemma": "urlare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe969ad0a50d06660ea"
+    },
+    "source": "paraviaXML/125203.xml",
+    "lemma": "urlare",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") emettere urla, grida acute e prolungate",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "urlare di dolore",
+              "urlare per la paura",
+              "per lo spavento",
+              "urlare come un ossesso",
+              "come un’aquila"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Parlare concitatamente e con tono di voce eccessivamente alto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non u., ho capito!",
+              "non c’è bisogno di urlare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di lupi, cani e simile , ululare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Produrre un suono acuto e prolungato, simile a un urlo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "si sentiva urlare la sirena dell’ambulanza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dire, proferire a voce molto alta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "urlare minacce",
+              "ingiurie",
+              "urlare il nome del vincitore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cantare a voce spiegata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "urlare una canzone"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Emettere grida acute e forti, alzando molto la voce per dolore, paura, rabbia o grande agitazione.",
+      "examples": [
+        "Il bambino ha cominciato a urlare appena ha visto il cane avvicinarsi.",
+        "Urlava dal dolore mentre aspettava i soccorsi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Dire qualcosa ad altissima voce, gridando con forza.",
+      "examples": [
+        "Gli urlò in faccia tutte le sue frustrazioni accumulate negli anni.",
+        "La folla urlava il nome del cantante a squarciagola."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Produrre un suono forte, acuto e prolungato, detto di animali o fenomeni naturali.",
+      "examples": [
+        "I lupi urlavano nella notte fredda.",
+        "Il vento urlava tra i rami degli alberi durante la tempesta."
+      ],
+      "nota": "Estensione del senso primario a soggetti non umani; il soggetto animale prototipico è il lupo o il cane."
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Stridere visivamente in modo fastidioso, detto di colori o elementi grafici che non si armonizzano tra loro.",
+      "examples": [
+        "Quel rosso acceso urla con il verde del divano.",
+        "I due motivi geometrici urlano e rendono il design caotico."
+      ],
+      "nota": "Uso figurato per indicare un contrasto estetico stridente; comune nel linguaggio della moda, del design e dell'arredamento."
+    }
+  ]
+}

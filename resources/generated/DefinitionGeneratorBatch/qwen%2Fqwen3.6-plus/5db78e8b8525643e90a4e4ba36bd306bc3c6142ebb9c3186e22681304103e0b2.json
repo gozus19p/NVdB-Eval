@@ -1,0 +1,199 @@
+{
+  "lemma": "capacità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae8f69ad0a50d065465e"
+    },
+    "source": "paraviaXML/18382.xml",
+    "lemma": "capacità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Attitudine a contenere, capienza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la capacità di un recipiente",
+              "di un’aula"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Possibilità di carico di un mezzo di trasporto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Attitudine, abilità a fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "capacità di organizzare un lavoro",
+              "capacità di sintesi",
+              "un ragazzo di grandi capacità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , nome di determinate grandezze variamente qualificate",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Volume interno di un corpo cavo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica ; capacità di memoria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , complesso di qualità mentali innate o acquisite mediante appositi esercizi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "medicina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina , in medicina legale, complesso di qualità fisiche o psichiche caratteristiche di un individuo che consentono la valutazione e la prevedibilità di azioni o eventi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Misura dello spazio interno disponibile o della quantità massima di materiale, energia o dati che un oggetto o un sistema può contenere o gestire.",
+      "examples": [
+        "Il serbatoio dell'auto ha una capacità di cinquanta litri.",
+        "Il nuovo server offre una capacità di archiviazione espandibile fino a dieci terabyte."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Complesso di doti intellettive, pratiche o psicologiche che consentono a una persona di svolgere compiti, gestire situazioni o raggiungere obiettivi con efficacia.",
+      "examples": [
+        "Durante il colloquio ha dimostrato spiccate capacità organizzative.",
+        "Il ruolo richiede una notevole capacità di ascolto e mediazione tra le parti."
+      ],
+      "nota": "Ricorre frequentemente al plurale quando si intendono competenze specifiche o attitudini multiple."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Idoneità prevista dall'ordinamento a essere titolare di diritti e obblighi o a compiere atti giuridici validi.",
+      "examples": [
+        "In Italia la capacità giuridica si acquiste con la nascita.",
+        "La sentenza ha dichiarato l'interdizione, limitando di fatto la possibilità di stipulare contratti autonomamente."
+      ],
+      "nota": "Nel diritto privato si articola in idoneità alla titolarità di diritti e doveri e idoneità all'esercizio autonomo di essi."
+    }
+  ]
+}

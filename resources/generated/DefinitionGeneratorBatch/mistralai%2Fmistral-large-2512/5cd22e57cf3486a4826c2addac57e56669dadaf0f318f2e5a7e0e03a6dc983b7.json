@@ -1,0 +1,130 @@
+{
+  "lemma": "ricerca",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3469ad0a50d065ce2f"
+    },
+    "source": "paraviaXML/94070.xml",
+    "lemma": "ricerca",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il ricercare e il suo risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la ricerca di un documento perso",
+              "di un lavoro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Attività intellettuale che mira a informarsi su un argomento o a estendere e ad approfondire la conoscenza in modo sistematico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ricerca filologica",
+              "storica",
+              "linguistica",
+              "laboratorio di ricerca"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il risultato di tale indagine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicare",
+              "presentare una ricerca sul nucleare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’insieme delle indagini scientifiche prodotte in un dato periodo, disciplina o paese",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività sistematica volta a scoprire o approfondire conoscenze in un determinato campo, spesso condotta con metodi scientifici.",
+      "examples": [
+        "Il team di scienziati ha pubblicato i risultati della sua ricerca sulla rivista specializzata.",
+        "La ricerca di nuovi farmaci richiede anni di sperimentazione."
+      ],
+      "nota": "Spesso usato in ambito accademico, scientifico o tecnologico. Può riferirsi sia al processo che ai suoi risultati."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Azione di cercare qualcosa o qualcuno con attenzione e impegno.",
+      "examples": [
+        "La polizia ha avviato una ricerca approfondita del fuggitivo.",
+        "Dopo la ricerca delle chiavi per tutta la casa, le ho trovate in tasca."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Indagine o studio approfondito su un argomento specifico, spesso con finalità pratiche o applicative.",
+      "examples": [
+        "Il comune ha commissionato una ricerca sul traffico urbano per migliorare la viabilità.",
+        "La ricerca di mercato ha rivelato una domanda crescente per prodotti biologici."
+      ],
+      "nota": "In questo senso, può essere usato in contesti aziendali, amministrativi o sociali."
+    }
+  ]
+}

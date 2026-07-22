@@ -1,0 +1,141 @@
+{
+  "lemma": "droga",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb769ad0a50d06567a5"
+    },
+    "source": "paraviaXML/36843.xml",
+    "lemma": "droga",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , sostanza vegetale secca ( cannella, vaniglia, pepe, eccetera ) usata per dare aroma alle vivande",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "farmacia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Farmacia , prodotto o sostanza di origine naturale contenente uno o più principi attivi con azione terapeutica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Denominazione generica di sostanze naturali o di sintesi con proprietà stupefacenti, eccitanti o allucinogene",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare uso di droga",
+              "spaccio",
+              "detenzione",
+              "traffico di droga"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Abitudine o vizio di cui non si può fare a meno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le sigarette sono la mia droga",
+              "la televisione è la droga di mio figlio"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sostanza psicoattiva naturale o sintetica che altera le funzioni mentali e fisiche, spesso con effetti euforizzanti, e il cui uso abituale può creare dipendenza.",
+      "examples": [
+        "Il traffico di droga è uno dei principali business della criminalità organizzata.",
+        "Molti giovani si avvicinano alla droga per curiosità o pressione sociale."
+      ],
+      "nota": "In questo senso include sia sostanze illegali (cocaina, eroina, cannabis, ecc.) sia, nell'uso esteso, farmaci soggetti ad abuso."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Qualsiasi cosa che crea una forte dipendenza psicologica o un'attrazione irresistibile, paragonabile all'effetto di una sostanza stupefacente.",
+      "examples": [
+        "Per lui il gioco d'azzardo è diventato una vera droga.",
+        "I social network sono la droga del ventunesimo secolo."
+      ],
+      "nota": "Uso figurato e metaforico, applicato ad abitudini, attività o comportamenti che generano dipendenza."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Spezia o sostanza aromatica usata per insaporire o conservare gli alimenti; accezione propria del commercio antico delle spezie.",
+      "examples": [
+        "Le rotte commerciali medievali erano dominate dal commercio delle droghe orientali come pepe e cannella.",
+        "Il termine 'drogheria' deriva proprio dall'antico commercio delle droghe, cioè delle spezie."
+      ],
+      "nota": "Accezione storica e specialistica, oggi quasi esclusivamente presente nel termine derivato 'drogheria' e nelle trattazioni storiche sul commercio delle spezie."
+    }
+  ]
+}

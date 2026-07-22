@@ -1,0 +1,139 @@
+{
+  "lemma": "pericolo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1969ad0a50d065b873"
+    },
+    "source": "paraviaXML/81511.xml",
+    "lemma": "pericolo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "interiezione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Circostanza o situazione da cui può derivare un grave danno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "trovarsi",
+              "sentirsi in pericolo",
+              "in caso di pericolo sfondare il vetro!",
+              "correre un pericolo",
+              "scongiurare un pericolo"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "I per avvertire di un rischio, segnalare un’emergenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "p.!",
+              "attenzione, p.!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Persona o cosa che può causare danni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il pericolo dell’inquinamento",
+              "del traffico sulle autostrade"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale",
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Probabilità, possibilità: nelle risposte, con valore negativo: assolutamente no, niente affatto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non c’è pericolo che obbedisca",
+              "non c’è pericolo che faccia complimenti",
+              "non c’è p.!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Situazione o condizione concreta in cui esiste una probabilità significativa che si verifichi un danno, una lesione o un evento negativo per persone o cose.",
+      "examples": [
+        "I vigili del fuoco hanno messo in salvo i bambini in pericolo.",
+        "Attraversare quella strada di notte è un pericolo reale.",
+        "Il medico ha detto che il paziente è fuori pericolo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona, cosa o circostanza che costituisce una minaccia o un rischio per qualcuno o qualcosa.",
+      "examples": [
+        "Quell'automobilista è un pericolo per tutti gli altri utenti della strada.",
+        "L'inquinamento atmosferico rappresenta un pericolo per la salute pubblica."
+      ],
+      "nota": "In questo senso il sostantivo è usato predicativamente o in apposizione per indicare la fonte stessa del rischio, non la situazione in cui esso si manifesta."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Uso iperbolico o scherzoso per indicare una persona molto vivace, irrequieta o capace di combinare guai.",
+      "examples": [
+        "Quel bambino è un vero pericolo: non sta fermo un secondo.",
+        "Con lei in cucina siamo tutti in pericolo, distrugge tutto quello che tocca."
+      ],
+      "nota": "Uso colloquiale e affettivo, generalmente privo di connotazione negativa vera e propria."
+    }
+  ]
+}

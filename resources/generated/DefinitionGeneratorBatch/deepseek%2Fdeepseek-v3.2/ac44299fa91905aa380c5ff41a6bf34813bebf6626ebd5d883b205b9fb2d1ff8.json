@@ -1,0 +1,178 @@
+{
+  "lemma": "accompagnare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf9f69ad0a50d066242e"
+    },
+    "source": "paraviaXML/1163.xml",
+    "lemma": "accompagnare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Seguire, scortare per tenere compagnia, dare protezione e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare qcn. a casa",
+              "accompagnare la sposa all’altare",
+              "accompagnare gli ospiti alla porta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Seguirne il feretro al funerale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare un defunto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Seguire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare qcn. con lo sguardo",
+              "col pensiero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trattenerla con la mano per non farla sbattere chiudendola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare la porta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mettere insieme, accordare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare una pietanza col vino",
+              "accompagnare lo studio con la riflessione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , seguire con l’accompagnamento di uno strumento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare la cantante al",
+              "con il pianoforte"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Muoversi con qualcuno verso una meta, rimanendo al suo fianco per parte del percorso.",
+      "examples": [
+        "Mi ha offerto di accompagnarmi alla stazione.",
+        "Il nonno accompagna sempre il nipote a scuola."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Unire a qualcosa, aggiungere come elemento accessorio o complementare.",
+      "examples": [
+        "La torta era accompagnata da una salsa al cioccolato.",
+        "Decise di accompagnare la lettera con una fotografia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Fornire un supporto musicale a una voce o a uno strumento solista.",
+      "examples": [
+        "Il pianista accompagnerà il soprano durante l'aria.",
+        "Nella canzone, la chitarra accompagna il cantante."
+      ],
+      "nota": "Uso specializzato in ambito musicale."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Fornire assistenza o guida a una persona durante un'attività o un percorso.",
+      "examples": [
+        "L'istruttore accompagna i principianti nelle prime discese.",
+        "Un tutor accompagna gli studenti nel progetto di ricerca."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "lemma": "registrazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3169ad0a50d065cc00"
+    },
+    "source": "paraviaXML/92288.xml",
+    "lemma": "registrazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il registrare, l’annotare e il loro risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "registrazione di dati",
+              "registrazione delle spese",
+              "degli incassi",
+              "registrazione delle assenze"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , annotazione di atti, dichiarazioni e simile su pubblici registri",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rilevamento di un dato fenomeno per mezzo di appositi strumenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "registrazione istantanea",
+              "continua",
+              "registrazione grafica",
+              "fotografica",
+              "ottica",
+              "magnetica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Operazione con cui si raccolgono e si fissano su supporti magnetici suoni o immagini",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "registrazione dal vivo",
+              "registrazione su nastro",
+              "sala",
+              "studio di registrazione"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il prodotto di tale operazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "possedere una preziosa registrazione della Tosca"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Programma radiofonico o televisivo trasmesso non in diretta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la registrazione della partita sarà trasmessa domani"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , trasferimento di dati da un supporto a un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "tecnica, tecnologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , regolazione, messa a punto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "registrazione dei freni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , arte e tecnica del mettere a punto e combinare fra loro i registri dell’organo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , impressione nel sistema nervoso dell’evento percettivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "azione di registrare o il risultato di tale azione",
+      "examples": [
+        "La registrazione del contratto è obbligatoria.",
+        "La registrazione della riunione è stata molto utile."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "documento o supporto che contiene la registrazione di suoni o immagini",
+      "examples": [
+        "Ho comprato la registrazione del concerto live.",
+        "La registrazione del film è stata distribuita in DVD."
+      ],
+      "nota": null
+    }
+  ]
+}

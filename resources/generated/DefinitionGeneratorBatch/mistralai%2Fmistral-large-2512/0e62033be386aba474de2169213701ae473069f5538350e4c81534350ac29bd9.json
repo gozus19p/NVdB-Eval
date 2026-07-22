@@ -1,0 +1,129 @@
+{
+  "lemma": "sensazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4969ad0a50d065dfe6"
+    },
+    "source": "paraviaXML/106187.xml",
+    "lemma": "sensazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Percezione cosciente prodotta sugli organi di senso da stimoli esterni o interni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sensazione tattile",
+              "uditiva",
+              "gustativa",
+              "sensazione di freddo",
+              "di caldo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "La coscienza di una modificazione dello stato psichico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere la sensazione di un grave perdita",
+              "provare una sensazione piacevole"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impressione indefinibile o incerta, percezione indeterminata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere la sensazione di cadere",
+              "ho la sensazione che non verrà promossa"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Percezione fisica prodotta da uno stimolo esterno o interno al corpo, avvertita attraverso i sensi.",
+      "examples": [
+        "Dopo la corsa, ho avvertito una piacevole sensazione di calore in tutto il corpo.",
+        "Il medico mi ha chiesto se provavo qualche sensazione di dolore al petto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Impressione soggettiva o presentimento, spesso non basato su prove concrete, riguardo a qualcosa che sta per accadere o che è vero.",
+      "examples": [
+        "Ho la sensazione che oggi non andrà tutto liscio come previsto.",
+        "Mi dà la sensazione di non essere del tutto sincero con me."
+      ],
+      "nota": "Spesso usato in contesti informali per esprimere un'intuizione o un sospetto."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Effetto o reazione emotiva intensa suscitata da un'esperienza, un'opera d'arte o un evento.",
+      "examples": [
+        "Il film mi ha lasciato una sensazione di malinconia per giorni.",
+        "La musica di quel concerto mi ha trasmesso una sensazione di energia pura."
+      ],
+      "nota": "Può riferirsi a stati d'animo positivi o negativi, spesso con una connotazione di intensità."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Condizione di successo o popolarità, spesso temporanea, legata a un evento, una persona o un fenomeno culturale.",
+      "examples": [
+        "Quel gruppo musicale è diventato una vera sensazione dopo l'uscita del loro ultimo album.",
+        "Il nuovo modello di smartphone ha fatto sensazione alla fiera tecnologica."
+      ],
+      "nota": "Usato soprattutto in contesti mediatici o di intrattenimento per indicare un fenomeno di grande impatto."
+    }
+  ]
+}

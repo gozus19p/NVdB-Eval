@@ -1,0 +1,100 @@
+{
+  "lemma": "comunista",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0869ad0a50d064bfae"
+    },
+    "source": "paraviaXML/25291.xml",
+    "lemma": "comunista",
+    "grammar": [
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo al comunismo, ai comunisti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "movimento",
+              "paese comunista",
+              "idee comuniste",
+              "principi comunisti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi crede, aderisce alla teoria del comunismo o chi fa parte di un partito che vi si ispira",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un militante",
+              "un simpatizzante comunista"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona che aderisce al comunismo, ideologia politica che promuove la proprietà collettiva dei mezzi di produzione e l'abolizione delle classi sociali.",
+      "examples": [
+        "Mio nonno era un comunista convinto e partecipava alle manifestazioni degli anni Settanta.",
+        "Durante la Guerra Fredda, molti intellettuali si dichiaravano comunisti."
+      ],
+      "nota": "Spesso associato a partiti politici di sinistra radicale o storicamente legati all'Unione Sovietica. Può avere connotazioni positive o negative a seconda del contesto politico e culturale."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo al comunismo o ai suoi sostenitori.",
+      "examples": [
+        "Il partito ha adottato una linea politica di ispirazione comunista.",
+        "Negli anni Cinquanta, molti paesi dell'Europa orientale avevano governi comunisti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che manifesta idee o comportamenti considerati tipici dei comunisti, come l'uguaglianza sociale o la critica al capitalismo.",
+      "examples": [
+        "Ha fatto un discorso molto comunista sulla necessità di redistribuire la ricchezza.",
+        "La sua proposta di tassare i ricchi è stata definita troppo comunista da alcuni colleghi."
+      ],
+      "nota": "In questo senso, può essere usato in modo critico o ironico, anche al di fuori di un contesto strettamente politico."
+    }
+  ]
+}

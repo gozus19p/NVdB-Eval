@@ -1,0 +1,193 @@
+{
+  "lemma": "ricordare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafcf69ad0a50d0664bc0"
+    },
+    "source": "paraviaXML/94465.xml",
+    "lemma": "ricordare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conservare, avere presente nella memoria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ricordo che eravamo in pochi quella volta",
+              "ti ricordo bene",
+              "ricordo quel film",
+              "ricordare a memoria un numero telefonico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Richiamare alla memoria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sto cercando di ricordare dove l’ho visto",
+              "ti ricordo che la cena è fissata per le no-ve"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In espressioni di ammonizione o esortazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vi ricordo il dovere dell’onestà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Menzionare, nominare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "conversando abbiamo ricordato i cugini"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Commemorare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il sindaco ha ricordato i caduti per la libertà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Far venire in mente per affinità, somiglianza, associazione di idee",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nei tratti del viso ricordo mia madre"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Richiamare alla mente un'informazione, un evento o una persona del passato.",
+      "examples": [
+        "Non ricordo il nome di quel ristorante dove abbiamo mangiato l'anno scorso.",
+        "Mi ricordo ancora la prima volta che ho guidato la macchina."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Menzionare o fare riferimento a qualcosa o qualcuno in un discorso o scritto.",
+      "examples": [
+        "Nel suo discorso, il presidente ha ricordato i successi dell'anno passato.",
+        "L'articolo ricorda più volte l'importanza della sostenibilità ambientale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Assomigliare a qualcuno o qualcosa per caratteristiche fisiche o comportamentali.",
+      "examples": [
+        "Quel bambino ricorda molto suo padre da giovane.",
+        "La trama di questo film ricorda un po' quella di un romanzo che ho letto anni fa."
+      ],
+      "nota": "Spesso usato per indicare somiglianze fisiche o di personalità, ma anche per analogie tra situazioni o opere."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Rimanere nella memoria di qualcuno.",
+      "examples": [
+        "Quell'insegnante mi è sempre ricordato con affetto.",
+        "Il viaggio in Giappone mi ricorderà per sempre."
+      ],
+      "nota": "Usato spesso in forma passiva o con valore riflessivo implicito."
+    },
+    {
+      "pos": "verbo riflessivo (ricordarsi)",
+      "definition": "Avere memoria di qualcosa o qualcuno, spesso con un'enfasi sull'atto volontario di richiamare alla mente.",
+      "examples": [
+        "Mi sono ricordato all'ultimo momento di comprare il pane.",
+        "Ti ricordi dove abbiamo parcheggiato la macchina?"
+      ],
+      "nota": "La forma riflessiva enfatizza lo sforzo o l'atto consapevole di richiamare alla memoria."
+    }
+  ]
+}

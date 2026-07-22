@@ -1,0 +1,191 @@
+{
+  "lemma": "dichiarazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb069ad0a50d06561c9"
+    },
+    "source": "paraviaXML/32667.xml",
+    "lemma": "dichiarazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il dichiarare, il dichiararsi; il discorso o lo scritto con cui si dichiara",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare una dichiarazione",
+              "raccogliere le dichiarazioni dei testimoni",
+              "firmare",
+              "sottoscrivere una dichiarazione",
+              "rilasciare una dichiarazione ai giornalisti",
+              "chiedere di fare una dichiarazione",
+              "dichiarazioni di stima",
+              "di amicizia",
+              "dichiarazione d’amore",
+              "dichiarazione amorosa"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dichiarare il proprio amore a qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare la dichiarazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "estensivo",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , contenuto di un provvedimento dichiarativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il provvedimento stesso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "diritto internazionale",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto internazionale , documento diplomatico con cui uno o più stati esprimono la propria posizione su determinati punti di interesse internazionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dichiarazione di intervento in guerra",
+              "dichiarazione di neutralità",
+              "di non belligeranza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, in alcuni giochi di carte, annuncio del possesso di determinate combinazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel bridge, annuncio del numero di prese che ci si impegna a realizzare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Spiegazione, chiarimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dichiarazione di un passo oscuro"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Atto formale o informale con cui si rende nota o si afferma in modo esplicito una volontà, un'intenzione, un fatto, una convinzione, o un sentimento.",
+      "examples": [
+        "Ho rilasciato una dichiarazione alla stampa riguardante la mia posizione sul progetto.",
+        "La sua dichiarazione d'amore fu inaspettata ma commovente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Documento ufficiale o atto amministrativo con cui un soggetto rende edotta un'autorità su determinati dati, informazioni o fatti di sua pertinenza, spesso a fini fiscali o legali.",
+      "examples": [
+        "Ogni anno devo presentare la dichiarazione dei redditi entro la scadenza prevista.",
+        "La dichiarazione di inizio attività è un passaggio obbligato per chi avvia una nuova impresa."
+      ],
+      "nota": "Spesso usata in contesti burocratici o legali con specificazioni come 'dichiarazione dei redditi', 'dichiarazione sostitutiva di atto di notorietà'."
+    }
+  ]
+}

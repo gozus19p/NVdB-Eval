@@ -1,0 +1,85 @@
+{
+  "lemma": "telefonare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe769ad0a50d0665eb5"
+    },
+    "source": "paraviaXML/118997.xml",
+    "lemma": "telefonare",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") mettersi in contatto, parlare per mezzo del telefono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "telefonare a qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Comunicare telefonicamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi telefonò la notizia"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Stabilire una comunicazione a distanza con una o più persone mediante l'uso della rete telefonica.",
+      "examples": [
+        "Devo telefonare a Lucia per chiederle se ha finito il progetto.",
+        "Da quando è all'estero, telefona alla sua famiglia almeno una volta a settimana."
+      ],
+      "nota": "Richiede ausiliare 'avere' e si costruisce prevalentemente con il complemento di termine introdotto dalla preposizione 'a'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Trasmettere a qualcuno un messaggio, una notizia o un'informazione utilizzando la rete telefonica.",
+      "examples": [
+        "Appena saprò l'orario del treno, ti telefono le modifiche.",
+        "Il medico mi ha telefonato i risultati delle analisi stamattina."
+      ],
+      "nota": "Il complemento diretto è costituito dall'informazione o dal messaggio comunicato."
+    }
+  ]
+}

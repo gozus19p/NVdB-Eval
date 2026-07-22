@@ -1,0 +1,68 @@
+{
+  "lemma": "luglio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef069ad0a50d0659755"
+    },
+    "source": "paraviaXML/64859.xml",
+    "lemma": "luglio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "luglio-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Settimo mese dell’anno, di trentuno giorni nel calendario gregoriano e giuliano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire in luglio",
+              "un luglio molto caldo | farsi bello al sole di luglio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Vantarsi di qualcosa di cui non si ha alcun merito; far apparire raro o prezioso qualcosa di insignificante e che c’è in abbondanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vendere il sole di luglio"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Settimo mese dell'anno nel calendario gregoriano, composto di trentuno giorni, collocato tra giugno e agosto.",
+      "examples": [
+        "Le scuole chiudono di solito alla fine di giugno e riaprono a settembre, lasciando luglio e agosto come mesi estivi.",
+        "Siamo partiti per le vacanze il tre luglio e siamo tornati a fine mese.",
+        "In luglio le temperature in molte città italiane superano spesso i trentacinque gradi."
+      ],
+      "nota": "Il nome deriva dal latino 'Iulius', in onore di Giulio Cesare. Nell'uso comune è frequente sia la forma 'a luglio' sia 'in luglio' per indicare il periodo temporale."
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "lemma": "insistere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafbf69ad0a50d0663e0e"
+    },
+    "source": "paraviaXML/57844.xml",
+    "lemma": "insistere",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Perseverare ostinatamente in un’azione, un comportamento, una richiesta e simile ; anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "insistere in",
+              "su qcs.",
+              "insistere a dire",
+              "a fare qcs.",
+              "è inutile che insistiate, ormai ho deciso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dilungarsi nella trattazione di un argomento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il conferenziere ha insistito su pochi punti fondamentali"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stare sopra, poggiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sopra la galea | del vinto insisti fiera co ’l poplite"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Carducci)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Burocrazia diritto , di costruzione, innalzarsi, sorgere su un determinato terreno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "campo su cui insiste un edificio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "geometria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geometria , di angolo, avere i lati passanti per gli estremi di un segmento rettilineo o di un arco di curva contenuto nell’angolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "continuare a fare qualcosa con insistenza, ostinazione",
+      "examples": [
+        "Il coach insistette sull'importanza della difesa.",
+        "Insiste sempre per avere ragione"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "continuare a sostenere o a proporre qualcosa con fermezza",
+      "examples": [
+        "Insiste per andare al cinema stasera.",
+        "Il politico insistette sulla necessità di cambiare la legge"
+      ],
+      "nota": null
+    }
+  ]
+}

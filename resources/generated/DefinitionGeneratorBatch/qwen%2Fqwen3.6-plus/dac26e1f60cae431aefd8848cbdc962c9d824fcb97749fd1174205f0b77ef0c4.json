@@ -1,0 +1,128 @@
+{
+  "lemma": "artistico",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a632"
+    },
+    "source": "paraviaXML/8870.xml",
+    "lemma": "artistico",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che riguarda l’arte o gli artisti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "corrente",
+              "scuola artistica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fatto con abilità e buongusto: esteticamente valido",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavorazione artistica",
+              "composizione artistica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Liceo artistico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frequentare l’artistico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo alla creazione estetica, alle opere dell'ingegno e alla professione di chi le produce, le studia o le coordina.",
+      "examples": [
+        "La nuova direttrice ha rivoluzionato la programmazione artistica del teatro, puntando su autori contemporanei.",
+        "Il museo ha rinnovato l'intero percorso artistico per valorizzare le collezioni del Novecento."
+      ],
+      "nota": "Frequentemente impiegato in contesti istituzionali o organizzativi (es. direzione artistica, comitato artistico) per indicare la supervisione sulla parte creativa, in opposizione alla gestione amministrativa, tecnica o commerciale."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che si distingue per notevole abilità, eleganza o armonia nell'esecuzione, conferendo un pregio estetico a un'azione, un movimento o un manufatto anche al di fuori della sfera creativa.",
+      "examples": [
+        "Il tennista ha chiuso il set con un colpo artistico che ha fatto esultare l'intero stadio.",
+        "Ha assemblato il modellino in scala con una cura dei dettagli e una pazienza davvero sorprendenti."
+      ],
+      "nota": null
+    }
+  ]
+}

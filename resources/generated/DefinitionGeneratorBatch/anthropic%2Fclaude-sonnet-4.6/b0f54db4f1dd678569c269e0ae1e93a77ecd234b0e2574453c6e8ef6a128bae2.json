@@ -1,0 +1,61 @@
+{
+  "lemma": "papà",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1369ad0a50d065b3a0"
+    },
+    "source": "paraviaXML/79015.xml",
+    "lemma": "papà",
+    "grammar": [
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "papà-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Padre, babbo: pappà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il papà e la mamma",
+              "quando torna p.?"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Genitore maschile di una persona; termine affettivo e familiare per indicare il padre.",
+      "examples": [
+        "Il mio papà mi ha insegnato ad andare in bicicletta.",
+        "Stasera papà torna tardi dal lavoro.",
+        "I bambini correvano incontro al loro papà appena entrato in casa."
+      ],
+      "nota": "È la forma familiare e affettiva corrispondente al termine più formale 'padre'. Usato prevalentemente nel parlato e nello scritto informale. L'accento cade sull'ultima sillaba e la parola è invariabile al plurale (i papà)."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In senso figurato, persona che svolge un ruolo di guida, protezione o sostegno analogo a quello paterno, oppure fondatore o figura capostipite di un movimento, disciplina o istituzione.",
+      "examples": [
+        "Freud è considerato il papà della psicoanalisi.",
+        "Quel vecchio imprenditore era il papà di tutta la squadra, sempre pronto ad aiutare i più giovani."
+      ],
+      "nota": "Uso metaforico che trasferisce il valore affettivo e di autorità del genitore a figure emblematiche o fondatrici in ambito culturale, scientifico o sociale."
+    }
+  ]
+}

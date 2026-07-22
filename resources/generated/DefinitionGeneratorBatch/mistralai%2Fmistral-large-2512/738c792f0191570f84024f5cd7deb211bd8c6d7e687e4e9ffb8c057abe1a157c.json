@@ -1,0 +1,123 @@
+{
+  "lemma": "bottiglia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae8769ad0a50d0653f4b"
+    },
+    "source": "paraviaXML/15360.xml",
+    "lemma": "bottiglia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Recipiente di vetro, plastica o altro materiale, di forma specialmente cilindrica e collo stretto e allungato, usato per contenere liquidi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "riempire una bottiglia di acqua",
+              "bottiglia del latte",
+              "bottiglia da spumante",
+              "stappare",
+              "sturare una bottiglia",
+              "bottiglia da un litro",
+              "da cinque litri"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Venduto imbottigliato anziché sfuso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vino in bottiglia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "La quantità di liquido in essa contenuta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bere una bottiglia di vino",
+              "di acqua"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Contenitore di vetro, plastica o altro materiale, di forma allungata e con collo stretto, usato per conservare e trasportare liquidi, soprattutto bevande.",
+      "examples": [
+        "Ho comprato una bottiglia di vino rosso per la cena.",
+        "Raccogliamo le bottiglie di plastica per riciclarle."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Quantità di liquido contenuta in tale recipiente.",
+      "examples": [
+        "Abbiamo bevuto un'intera bottiglia di spumante durante il brindisi.",
+        "Mi passi mezza bottiglia d'acqua? Ho molta sete."
+      ],
+      "nota": "Spesso usato in contesti informali per indicare la quantità standard di una bevanda (es. 'una bottiglia di vino' = circa 750 ml)."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In senso figurato, persona che beve alcolici in modo eccessivo e abituale.",
+      "examples": [
+        "Da quando ha perso il lavoro, è diventato una vera bottiglia.",
+        "Non invitarlo alla festa, è una bottiglia e rovinerà l'atmosfera."
+      ],
+      "nota": "Uso colloquiale e spesso dispregiativo. Sinonimo di 'beone' o 'alcolizzato'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Nel linguaggio giornalistico o politico, situazione di stallo o blocco decisionale, spesso riferita a trattative o negoziati.",
+      "examples": [
+        "Le trattative sindacali sono finite in una bottiglia dopo ore di discussione.",
+        "Il governo rischia di finire in una bottiglia se non trova un accordo sulla riforma."
+      ],
+      "nota": "Deriva dall'espressione 'essere in una bottiglia' (o 'finire in bottiglia'), che indica una situazione senza via d'uscita. Uso prevalentemente metaforico."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "lemma": "prevedere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc969ad0a50d0664644"
+    },
+    "source": "paraviaXML/86832.xml",
+    "lemma": "prevedere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Conoscere o annunciare qualcosa prima che accada, specialmente in base a eventi considerati segni premonitori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prevedere il futuro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Congetturare, supporre in anticipo, specialmente in base a indizi concreti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non è possibile prevedere la sua reazione",
+              "è necessario prevedere le mosse dell’avversario"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ritenere possibile, probabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "per domani prevediamo una bella giornata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prendere in considerazione, contemplare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo comportamento non è previsto dal regolamento",
+              "il caso non è previsto dalla legge"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "avere una previdenza, un'idea anticipata di qualcosa che sta per accadere",
+      "examples": [
+        "Il meteorologo ha previsto una settimana di pioggia.",
+        "Non avevo previsto che sarebbe arrivato così presto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "pensare che qualcosa avverrà o esisterà in futuro",
+      "examples": [
+        "Prevedo che il prezzo dell'immobile aumenterà nel prossimo anno.",
+        "Prevede di finire il progetto entro la fine del mese."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "avere capacità di previsione",
+      "examples": [
+        "Chi ha la capacità di prevedere il futuro è molto ambito.",
+        "Non tutti hanno la capacità di prevedere le conseguenze delle loro azioni."
+      ],
+      "nota": null
+    }
+  ]
+}

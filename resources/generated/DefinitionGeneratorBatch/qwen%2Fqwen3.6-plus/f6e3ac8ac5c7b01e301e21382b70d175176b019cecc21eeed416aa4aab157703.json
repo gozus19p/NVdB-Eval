@@ -1,0 +1,159 @@
+{
+  "lemma": "avanzare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa569ad0a50d066294d"
+    },
+    "source": "paraviaXML/10924.xml",
+    "lemma": "avanzare",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") essere in sovrabbondanza: essere d’avanzo, restare inutilizzato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il vino basta e avanza",
+              "è avanzato del pane"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sopravvivere, scamparla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avanzare a una catastrofe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere in credito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avanzare diecimila lire da qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere in più, avere risparmiato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avanzare una piccola somma"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "muoversi o procedere in avanti nello spazio, oppure compiere progressi nello svolgimento di un'attività o di un fenomeno temporale",
+      "examples": [
+        "Il corteo ha continuato a procedere in modo ordinato verso la piazza principale.",
+        "Le trattative diplomatiche stanno progredendo più velocemente del previsto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "restare disponibile o non essere completamente impiegato rispetto a quanto necessario o consumato, con riferimento a denaro, tempo, beni materiali o alimenti",
+      "examples": [
+        "Dopo aver coperto tutte le spese fisse, a fine mese gli resta poco per lo svago.",
+        "A fine progetto le sono rimaste diverse giornate di ferie non godute."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "presentare formalmente a un interlocutore o a un'autorità una richiesta, un'ipotesi, un dubbio o una candidatura",
+      "examples": [
+        "I dipendenti hanno sottoposto una richiesta di revisione dell'orario durante l'assemblea aziendale.",
+        "Prima di firmare il contratto, il legale ha espresso alcune riserve sulle clausole di riservatezza."
+      ],
+      "nota": null
+    }
+  ]
+}

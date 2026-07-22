@@ -1,0 +1,51 @@
+{
+  "lemma": "papà",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1369ad0a50d065b3a0"
+    },
+    "source": "paraviaXML/79015.xml",
+    "lemma": "papà",
+    "grammar": [
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "papà-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Padre, babbo: pappà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il papà e la mamma",
+              "quando torna p.?"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Genitore di sesso maschile nella relazione parentale.",
+      "examples": [
+        "Il papà del bambino lo accompagna a scuola ogni mattina.",
+        "Ho chiamato mio papà per raccontargli la buona notizia."
+      ],
+      "nota": null
+    }
+  ]
+}

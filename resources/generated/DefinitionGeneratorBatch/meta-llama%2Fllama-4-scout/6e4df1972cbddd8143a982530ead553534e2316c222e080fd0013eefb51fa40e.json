@@ -1,0 +1,939 @@
+{
+  "lemma": "basso",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a67b"
+    },
+    "source": "paraviaXML/12601.xml",
+    "lemma": "basso",
+    "grammar": [
+      "agg.",
+      "s.m.",
+      "avv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha un’altezza inferiore alla norma: piccolo di statura; anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un albero basso",
+              "una casa bassa",
+              "scarpe con i tacchi bassi",
+              "un uomo basso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che si trova in posizione non elevata rispetto al suolo, specialmente in rapporto ad altre parti o elementi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la parte bassa di un edificio",
+              "il libro è sul ripiano più basso"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di territorio, che ha un’altitudine minore delle zone circostanti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bassa Langa",
+              "Bergamo bassa"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di un corso d’acqua, vicino alla foce",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "basso Tevere",
+              "basso Nilo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di acqua, poco profonda",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di una parte del corpo, abbassata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tenere la testa bassa",
+              "gli occhi bassi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che si colloca nei ranghi inferiori di una gerarchia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bassa estrazione sociale",
+              "persona di basso rango",
+              "bassa manovalanza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ignobile, abietto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "basse azioni",
+              "avere basse mire su qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In una scala di intensità, di grado o livello non elevato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "temperatura bassa",
+              "pressione bassa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato",
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Opprimente, soffocante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tempo basso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di voce, suono, eccetera , non acuto, grave",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "note basse",
+              "toni bassi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Poco intenso, debole, fioco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare a bassa voce"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di strumento musicale, che ha estensione approssimativamente analoga a quella della voce di basso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "flauto basso",
+              "sassofono basso"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di luce, smorzata",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insufficiente, scarso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rendimento basso",
+              "voti bassi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Essere triste",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere il morale basso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Poco rilevante economicamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stipendio basso",
+              "prezzi",
+              "costi bassi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di una regione geografica, meridionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bassa Italia",
+              "bassa Sassonia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di ricorrenza, che cade in anticipo rispetto al solito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Pasqua bassa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di un’epoca o un periodo storico, più lontano dall’origine, più recente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "basso Medioevo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quella medioevale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bassa latinità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "retorica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Retorica , di stile letterario, umile, dimesso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "La parte inferiore di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comincia a verniciare la porta dal basso"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "I gradi inferiori di una gerarchia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il malcontento parte dal basso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica specialmente al , note gravi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "regolare i bassi dell’impianto stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Abitazione popolare tipica del napoletano, costituita da un solo vano aperto sulla strada",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipografia specialmente al , le minuscole",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , la voce maschile di registro più grave",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cantante che ha tale voce ( abbr. B)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , la parte più grave, vocale o strumentale, di un brano musicale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La voce cui è affidata tale parte ( abbr. B)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con funzione appositiva, indica uno strumento che, tra quelli di una stessa famiglia, ha un’estensione corrispondente approssimativamente a quella della voce di basso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "clarinetto basso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5c",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica specialmente al , in un’orchestra, l’insieme dei violoncelli, dei contrabbassi o dei fagotti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nella musica jazz, contrabbasso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5d",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , contrabbasso a forma di chitarra, in cui le vibrazioni delle corde sono convertite in impulsi elettrici e fatti poi passare attraverso un amplificatore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "tessile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tessile , fibra di canapa grezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "comune",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , non ; bottom",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In giù, verso il basso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colpire",
+              "mirare basso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con voce sommessa, piano",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Poco",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Carne di qualità scadente, specialmente di animali abbattuti per necessità",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Operazione o procedura caratterizzata da una certa rozzezza o anche da superficialità o faciloneria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "di altezza ridotta",
+      "examples": [
+        "Un tavolo basso è più comodo per i bambini.",
+        "La cantante ha una voce bassa e melodiosa."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo:m",
+      "definition": "strato inferiore di qualcosa",
+      "examples": [
+        "Il basso della scala è più buio dell'alto.",
+        "Il basso dell'armadio è pieno di scatole."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo:m",
+      "definition": "persona di bassa statura",
+      "examples": [
+        "Il mio amico è un basso, ma gioca a pallacanestro lo stesso.",
+        "I bassi della classe sono sempre gli ultimi a essere scelti per le squadre."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "avverbio",
+      "definition": "in modo basso, con voce bassa",
+      "examples": [
+        "Parla basso, il bambino sta dormendo.",
+        "Il professore parla sempre basso durante le lezioni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo:m",
+      "definition": "registro musicale basso",
+      "examples": [
+        "Il basso è un registro difficile da cantare.",
+        "Il musicista suona il basso elettrico nella band."
+      ],
+      "nota": null
+    }
+  ]
+}

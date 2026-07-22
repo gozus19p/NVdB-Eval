@@ -1,0 +1,98 @@
+{
+  "lemma": "fidarsi",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb569ad0a50d0663651"
+    },
+    "source": "paraviaXML/43520.xml",
+    "lemma": "fidarsi",
+    "grammar": [
+      "v.pronom.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere fiducia in qualcuno o qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fidarsi di un amico",
+              "non mi fido della mia memoria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere il coraggio, la sicurezza di fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non mi fido a tuffarmi",
+              "il trampolino è troppo alto"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo pronominale (ausiliare essere)",
+      "definition": "Avere fiducia in qualcuno o qualcosa, ritenere affidabile una persona, un'istituzione o un'informazione senza bisogno di ulteriori verifiche.",
+      "examples": [
+        "Mi fido ciecamente di mio fratello quando si tratta di questioni finanziarie.",
+        "Non ti fidare troppo delle promesse che fa, spesso non le mantiene."
+      ],
+      "nota": "Può essere seguito da preposizioni come 'di' (fidarsi di qualcuno) o 'a' (fidarsi a fare qualcosa). Spesso implica una valutazione positiva basata su esperienze pregresse."
+    },
+    {
+      "pos": "verbo intransitivo pronominale (ausiliare essere)",
+      "definition": "Affidarsi a qualcosa o qualcuno in una situazione di rischio o incertezza, accettando implicitamente le conseguenze.",
+      "examples": [
+        "Si è fidato del navigatore e ha finito per perdersi in mezzo alla campagna.",
+        "Non mi fido a lasciare i bambini da soli in casa per troppo tempo."
+      ],
+      "nota": "In questo senso, può implicare una componente di rischio o di mancanza di alternative. Spesso usato in contesti in cui si delega una responsabilità."
+    },
+    {
+      "pos": "verbo intransitivo pronominale (ausiliare essere)",
+      "definition": "Sentirsi sicuro o a proprio agio in una determinata situazione, spesso per abitudine o familiarità.",
+      "examples": [
+        "Dopo tanti anni, si fida ancora a guidare di notte nonostante la vista non sia più quella di una volta.",
+        "Non mi fido a dormire con la finestra aperta, anche se fa caldo."
+      ],
+      "nota": "In questo caso, il verbo esprime una sensazione di sicurezza personale, spesso legata a comportamenti abituali."
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "lemma": "fastidio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec369ad0a50d06571dd"
+    },
+    "source": "paraviaXML/42555.xml",
+    "lemma": "fastidio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sensazione di disturbo, insofferenza o disagio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare fastidio",
+              "ti dà fastidio la finestra aperta?"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Noia, avversione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "provare",
+              "sentire fastidio per qcn.",
+              "per qcs."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che provoca disturbo o disagio; dispiacere, seccatura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "creare dei fastidi a qcn."
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Contrasto, screzio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere dei fastidi con qcn."
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "eufemistico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Guaio giudiziario",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere dei fastidi con la giustizia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Malessere, lieve disturbo fisico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere dei fastidi al cuore",
+              "al fegato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nausea",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Superbia, distacco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la donna ch’avea seco era assai bella, | ma... | tutta d’orgoglio e di fastidio piena"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Ariosto)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "toscano",
+              "eufemistico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale toscano , infestazione di pidocchi o altri parassiti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere addosso del fastidio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sporcizia, immondizia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Sensazione di disagio, irritazione o insofferenza provocata da qualcosa o qualcuno che disturba o infastidisce.",
+      "examples": [
+        "Il rumore continuo dei vicini mi dà un fastidio enorme.",
+        "Provo fastidio ogni volta che qualcuno mi interrompe mentre parlo."
+      ],
+      "nota": "È il senso centrale e più frequente. Si costruisce spesso con i verbi 'dare', 'provare', 'sentire' e con la preposizione 'a' (dare fastidio a qualcuno)."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Senso di nausea o di repulsione fisica, specialmente verso un odore, un sapore o una sostanza.",
+      "examples": [
+        "Quel profumo intenso mi dà fastidio allo stomaco.",
+        "Sentì un fastidio alla gola appena assaggiò il medicinale."
+      ],
+      "nota": "Uso con sfumatura fisica, distinto dal disagio psicologico o emotivo."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Problema, seccatura o contrattempo che causa preoccupazione o difficoltà pratiche.",
+      "examples": [
+        "Ho avuto un sacco di fastidi con la burocrazia per ottenere quel documento.",
+        "Non voglio creare fastidi a nessuno con le mie richieste."
+      ],
+      "nota": "Usato spesso al plurale ('fastidi') per indicare una serie di problemi o seccature concrete. Sinonimo parziale di 'grattacapo' e 'seccatura'."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "lemma": "soggiorno",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5169ad0a50d065e5ee"
+    },
+    "source": "paraviaXML/110094.xml",
+    "lemma": "soggiorno",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il soggiornare temporaneamente in un luogo per turismo, svago, riposo e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "località di soggiorno",
+              "soggiorno estivo",
+              "invernale",
+              "fare un lungo soggiorno in montagna",
+              "vincere in premio un soggiorno negli Stati Uniti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Luogo, località in cui si soggiorna",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dimora, residenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Breve sosta, breve fermata",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indugio, ritardo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In un’abitazione, stanza accogliente e di dimensioni relativamente ampie in cui si sta abitualmente nel tempo libero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere",
+              "conversare",
+              "ricevere gli ospiti in soggiorno"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’arredamento destinato a tale ambiente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un soggiorno in noce"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Soggiorno di una persona in un luogo.",
+      "examples": [
+        "Il suo soggiorno a Parigi è durato due settimane.",
+        "Il permesso di soggiorno è scaduto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Stanza principale di un'abitazione, utilizzata per ricevere ospiti e per le attività di svago.",
+      "examples": [
+        "Abbiamo arredato il soggiorno con un divano e una libreria.",
+        "Tutta la famiglia si riunisce in soggiorno per guardare la televisione."
+      ],
+      "nota": "Sinonimo comune di 'salotto'."
+    }
+  ]
+}

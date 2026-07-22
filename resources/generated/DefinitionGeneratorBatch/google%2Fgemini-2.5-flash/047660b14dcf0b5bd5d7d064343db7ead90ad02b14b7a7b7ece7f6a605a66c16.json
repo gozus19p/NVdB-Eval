@@ -1,0 +1,186 @@
+{
+  "lemma": "quantità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2c69ad0a50d065c787"
+    },
+    "source": "paraviaXML/89460.xml",
+    "lemma": "quantità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Proprietà di ciò che può essere misurato o contato; numero, massa, grandezza di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quantità di denaro",
+              "di merci",
+              "di energia",
+              "produrre in quantità eccessiva",
+              "in gran quantità",
+              "una grande, una piccola quantità di cibo",
+              "bado alla qualità più che alla quantità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "filosofia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , nella filosofia aristotelica, categoria fondamentale dell’essere corrispondente alla misura della sostanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In Kant, prima classe dei giudizi, cui corrispondono le categorie della totalità, della pluralità e dell’unità",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Gran numero, grande abbondanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’era una quantità di gente alla festa",
+              "ho trovato una quantità di funghi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica fisica , qualsiasi grandezza misurabile o numerabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quantità positiva, negativa",
+              "quantità finita",
+              "quantità geometrica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "esempio",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , proprietà di una vocale o di una sillaba di essere breve o lunga, che sta alla base della metrica quantitativa e in alcune lingue ( ad esempio latino, friulano, inglese, tedesco) ha valore distintivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quantità vocalica",
+              "sillabica"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Grandezza misurabile o numero che esprime l'estensione o la misura di qualcosa, considerata in termini numerici o di volumi.",
+      "examples": [
+        "Abbiamo comprato una grande quantità di frutta al mercato.",
+        "La quantità di lavoro da svolgere è davvero impressionante."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Importo o somma di denaro stabilita per un acquisto, un pagamento o un risarcimento.",
+      "examples": [
+        "Ho pagato una discreta quantità per quel pezzo d'antiquariato.",
+        "La banca gli ha concesso una certa quantità per avviare la sua attività."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Indicazione della durata o estensione di suoni vocalici o sillabici all'interno di una parola, rilevante nella fonologia di alcune lingue.",
+      "examples": [
+        "Nella prosodia latina, la quantità delle vocali era distinzione fondamentale.",
+        "La quantità di una sillaba può influenzare l'accento di una parola."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In matematica e fisica, attributo o proprietà di un ente che può essere aumentata o diminuita, misurata e confrontata con altre dello stesso tipo.",
+      "examples": [
+        "La velocità è una quantità vettoriale, definita da modulo, direzione e verso.",
+        "Le quantità scalari, come la massa, sono descritte solo da un valore numerico."
+      ],
+      "nota": "Spesso si usa in combinazione con aggettivi o altri sostantivi per specificare il tipo di grandezza."
+    }
+  ]
+}

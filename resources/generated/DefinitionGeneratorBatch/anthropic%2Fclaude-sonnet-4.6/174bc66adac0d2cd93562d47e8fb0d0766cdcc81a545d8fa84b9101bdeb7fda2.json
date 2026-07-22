@@ -1,0 +1,805 @@
+{
+  "lemma": "verde",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0669ad0a50d064b5d5"
+    },
+    "source": "paraviaXML/126728.xml",
+    "lemma": "verde",
+    "grammar": [
+      "agg.",
+      "s.m.",
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Del colore dell’erba e della maggior parte delle foglie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un libro con la copertina verde",
+              "un pullover verde",
+              "occhi verdi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di cibo, che per effetto di verdure o di aromi, specialmente prezzemolo o basilico, assume una colorazione verde",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gnocchetti verdi",
+              "pasta verde"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di frutta, non maturo, acerbo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pesche ancora verdi",
+              "limone verde",
+              "pomodori verdi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di vegetale o seme specialmente commestibile, fresco, non lasciato seccare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fieno verde",
+              "mandorle",
+              "nocciole verdi",
+              "pigna verde"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tagliata da poco e quindi non adatta a essere bruciata o lavorata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "legna verde"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Riferito a emozioni o sentimenti, intenso, forte: Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "per far sempre mai verdi i mei desiri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di territorio, coperto di abbondante vegetazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una regione molto verde",
+              "colline verdi",
+              "la verde Umbria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di area cittadina, destinata a parco o giardino: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i pochi spazi verdi del centro",
+              "salvaguardare il verde delle città"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non inquinante; ecologico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "energia verde",
+              "veicoli verdi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di persona, dal colorito livido per poca salute o per una forte emozione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un volto smagrito e verde per la lunga malattia",
+              "essere verde per la bile",
+              "verde dalla paura"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rodersi per l’invidia, per la rabbia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere verde di invidia",
+              "per la rabbia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "economia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Agricoltura, agraria, agronomia economia , relativo all’agricoltura e agli agricoltori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "piani verdi",
+              "Europa verde"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Valore convenzionale di una moneta che nell’ambito della CEE determina il prezzo dei prodotti agricoli",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "moneta verde"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il colore dell’erba e della maggior parte foglie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quest’anno va di moda il verde",
+              "il verde le sta molto bene",
+              "vestirsi di verde"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Un sostantivo che indica una cosa o un animale di tale colore che ne individua la tonalità: anche seguito da un aggettivo o da un altro colore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "verde smeraldo",
+              "verde pavone",
+              "verde oliva",
+              "verde salvia",
+              "verde mela",
+              "verde tenue",
+              "verde chiaro",
+              "verde scuro",
+              "verde brillante",
+              "verde giallo",
+              "verde azzurro"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , uno dei sette colori primari fondamentali dell’iride compreso fra il giallo e l’azzurro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , la parte verde di taluni vegetali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "utilizzare solo il verde degli asparagi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , zona coperta di vegetazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una scampagnata in mezzo al verde"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , foglie o ramoscelli verdeggianti utilizzati nella confezione di composizioni floreali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nei semafori, luce verde che negli incroci o negli attraversamenti pedonali dà via libera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha ragione lui, è passato col v.!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "politica",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Politica , simpatizzante o appartenente a un gruppo politico o d’opinione particolarmente sensibile alle problematiche ambientali: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le battaglie dei verdi contro il degrado ambientale",
+              "deputati verdi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Appartenente o tifoso di una squadra o di una fazione che ha per insegna il colore verde: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i verdi hanno vinto senza difficoltà",
+              "la prima sconfitta verde"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Vigore e freschezza giovanile, rigoglio: Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mentre che la speranza ha fior del verde"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , nome di diversi composti organici o inorganici di colore verde",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "verde aldeide",
+              "verde di cobalto",
+              "verde metile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "edilizia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geologia edilizia , nome di vari tipi di rocce di colore verde utilizzate come materiale decorativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "verde antico",
+              "verde del Bracco",
+              "verde della Roia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "tecnica ceramica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica ceramica , il primo impasto argilloso modellato ed essiccato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "settentrionale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale settentrionale , avaro, tirchio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Benzina verde",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale",
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Senza denaro, in bolletta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ritrovarsi",
+              "ridursi al verde"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cucinato con salsa a base di erbe aromatiche, specialmente prezzemolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "acciughe al verde",
+              "lingua al verde",
+              "tomini al verde"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "II 1,4–11",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha il colore intermedio tra il giallo e il blu, tipico della vegetazione.",
+      "examples": [
+        "Il prato era di un verde intenso dopo le piogge primaverili.",
+        "Preferisce le magliette verdi a quelle blu."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Detto di frutto o vegetale non ancora maturo, raccolto prima del tempo.",
+      "examples": [
+        "Queste pesche sono ancora verdi, aspetta qualche giorno prima di mangiarle.",
+        "Le olive verdi vengono raccolte prima che raggiungano la piena maturazione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Privo di esperienza, inesperto, alle prime armi.",
+      "examples": [
+        "È ancora un ragazzo verde, non aspettarti decisioni difficili da lui.",
+        "Quando ero verde di questo mestiere, commettevo molti errori."
+      ],
+      "nota": "Uso figurato, spesso riferito a persone giovani o neofite in un ambito lavorativo o professionale."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo alla tutela dell'ambiente e all'ecologia; rispettoso dell'ecosistema.",
+      "examples": [
+        "La nuova amministrazione ha adottato una politica verde per ridurre le emissioni.",
+        "Molte aziende si presentano come realtà verdi per attrarre consumatori sensibili all'ambiente."
+      ],
+      "nota": "Uso diffusosi a partire dagli anni Ottanta in parallelo con la nascita dei movimenti ecologisti e dei partiti Verdi."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Detto di persona, pallido o con colorito del viso alterato per nausea, malessere o forte emozione.",
+      "examples": [
+        "Dopo il giro sulle montagne russe era verde dalla nausea.",
+        "Lo guardò verde di rabbia, senza riuscire a proferire parola."
+      ],
+      "nota": "Si usa nelle locuzioni 'verde dalla nausea', 'verde di rabbia', 'verde di invidia'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Il colore corrispondente alla lunghezza d'onda intermedia tra il giallo e il blu nello spettro visibile.",
+      "examples": [
+        "Il verde è il colore simbolo della speranza in molte culture.",
+        "Ha tinteggiato le pareti del salotto con un verde salvia molto elegante."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Spazio naturale caratterizzato da vegetazione, area con alberi, erba e piante, specialmente in contesto urbano.",
+      "examples": [
+        "Il quartiere è ricco di verde pubblico e i residenti ne sono molto soddisfatti.",
+        "I bambini hanno bisogno di spazi di verde dove giocare all'aperto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Nella segnaletica stradale e nei semafori, il segnale luminoso che autorizza il passaggio o la circolazione.",
+      "examples": [
+        "Aspetta il verde prima di attraversare la strada.",
+        "Il semaforo è passato al verde e le macchine sono ripartite."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Insieme di piante, erbe o fogliame usato come decorazione o ornamento.",
+      "examples": [
+        "Il fioraio ha aggiunto del verde per completare il bouquet.",
+        "Ha decorato la tavola con del verde fresco e qualche fiore bianco."
+      ],
+      "nota": null
+    }
+  ]
+}

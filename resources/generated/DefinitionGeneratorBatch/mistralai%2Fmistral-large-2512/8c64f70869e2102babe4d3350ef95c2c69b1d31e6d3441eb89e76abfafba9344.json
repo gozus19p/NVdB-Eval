@@ -1,0 +1,169 @@
+{
+  "lemma": "russo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0669ad0a50d064b5a2"
+    },
+    "source": "paraviaXML/99864.xml",
+    "lemma": "russo",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Della Russia, dei suoi abitanti, della loro cultura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "territorio russo",
+              "letteratura russa",
+              "danze popolari russe"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "improprio"
+            ],
+            "definitions": [
+              {
+                "glossa": "Improprio , dell’Unione Sovietica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante della Russia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "improprio"
+            ],
+            "definitions": [
+              {
+                "glossa": "Improprio , nativo o abitante dell’Unione Sovietica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "secolo",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , la più importante delle lingue slave, scritta in cirillico, parlata in Russia e resa ufficiale in tutto il territorio dell’Unione Sovietica accanto alle lingue locali, rispetto alle quali è in larga misura l’effettiva prima lingua, appartenente al ramo orientale delle lingue slave e documentata, in modo distinto da ucraino e bielorusso, a partire dal secolo XIV",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "relativo alla Russia, paese dell'Europa orientale e dell'Asia settentrionale, o ai suoi abitanti.",
+      "examples": [
+        "Ha studiato la letteratura russa all'università.",
+        "Il balletto russo è famoso in tutto il mondo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "relativo alla lingua parlata in Russia e in alcune ex repubbliche sovietiche.",
+      "examples": [
+        "Devo imparare l'alfabeto russo per il mio viaggio.",
+        "Ha tradotto un romanzo dal russo all'italiano."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "abitante o nativo della Russia.",
+      "examples": [
+        "Un russo ha vinto la medaglia d'oro alle Olimpiadi.",
+        "I russi celebrano il Capodanno con grande entusiasmo."
+      ],
+      "nota": "Può essere usato anche al femminile: 'una russa'."
+    },
+    {
+      "pos": "sostantivo m. sing.",
+      "definition": "la lingua ufficiale della Russia e di alcune ex repubbliche sovietiche.",
+      "examples": [
+        "Il russo è una lingua slava difficile da imparare.",
+        "Parla fluentemente il russo dopo anni di studio."
+      ],
+      "nota": null
+    }
+  ]
+}

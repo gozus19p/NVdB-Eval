@@ -1,0 +1,209 @@
+{
+  "lemma": "pena",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1769ad0a50d065b75f"
+    },
+    "source": "paraviaXML/80923.xml",
+    "lemma": "pena",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , sanzione punitiva prevista per legge a carico di chi abbia commesso un reato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "infliggere",
+              "scontare una pena",
+              "pena corporale",
+              "dell’ergastolo",
+              "condannare al massimo",
+              "al minimo della pena"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che colpisce la libertà personale del reo; che ne colpisce il patrimonio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pena detentiva",
+              "pena pecuniaria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Danno fisico o morale che si subisce come conseguenza di una mancanza commessa; punizione, castigo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Patimento, sofferenza fisica o morale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "patire pene d’amore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sentimento di pietà provato per qualcuno qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "provare pena per qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Preoccupazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere in pena per qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "religione",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Religione , castigo inflitto all’anima dopo la morte per i peccati commessi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Sanzione prevista dall'ordinamento giuridico e inflitta da un'autorità giudiziaria a chi commette un illecito penale.",
+      "examples": [
+        "Il tribunale ha comminato una pena detentiva di cinque anni per il reato di truffa.",
+        "Dopo anni di latitanza, è finalmente andato a scontare la sua pena."
+      ],
+      "nota": "In ambito giuridico si articola in base alla natura del reato (es. detentiva, pecuniaria, accessoria)."
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Stato d'animo caratterizzato da profonda tristezza, sofferenza interiore o angoscia.",
+      "examples": [
+        "La notizia del licenziamento lo ha gettato in una tristezza che non riusciva a placare.",
+        "Nonostante gli anni trascorsi, portava ancora dentro di sé il dolore per quella perdita improvvisa."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Sentimento di commiserazione o pietà, talvolta con sfumatura di disprezzo, suscitato da una persona, un animale o una situazione considerata miserevole, patetica o sfortunata.",
+      "examples": [
+        "Che pena vederlo cercare di giustificare una bugia così evidente!",
+        "Quel cane randagio abbandonato sul ciglio della strada ci ha suscitato un'immediata commozione."
+      ],
+      "nota": "Nell'uso colloquiale assume frequentemente un tono ironico o spregiativo quando si giudica un comportamento o un aspetto grottesco."
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Fatica, difficoltà o impegno richiesto dallo svolgimento di un'attività; convenienza o utilità percepita nel compiere un'azione.",
+      "examples": [
+        "Considerato il costo elevato del biglietto, non vale la pena andare a quel concerto.",
+        "A mala pena siamo riusciti a trovare posto per i bagagli nell'auto già stracolma."
+      ],
+      "nota": "Nella lingua contemporanea sopravvive quasi esclusivamente in locuzioni cristallizzate come «valere la», «non valere la» (in senso di convenienza) o «a mala» (in senso di difficoltà)."
+    }
+  ]
+}

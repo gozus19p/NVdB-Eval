@@ -1,0 +1,309 @@
+{
+  "lemma": "parco",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1469ad0a50d065b472"
+    },
+    "source": "paraviaXML/79480.xml",
+    "lemma": "parco",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Grande spazio boschivo, di solito recintato e con divieto o riserva di caccia, in cui si alleva selvaggina",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Territorio di notevole interesse dal punto di vista del paesaggio e in cui vivono particolari e spesso rare forme di piante e animali, specialmente posto sotto la tutela giuridica di uno stato o di una o più regioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parco naturale",
+              "parco nazionale",
+              "regionale",
+              "interregionale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Grande giardino pubblico o privato, di solito recintato, comprendente boschi o prati, piante ad alto fusto e aiuole inframezzate da vialetti e stradine, per lo svago e la ricreazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare una passeggiata nel parco della città",
+              "una villa con parco",
+              "parco pubblico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Spazio recintato o costituito da un capannone in cui si custodisce materiale vario",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il materiale stesso raccolto in tale spazio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Eno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parco rottami"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il complesso degli automezzi adibiti a un servizio o a disposizione di un ente, di una società, eccetera ; anche come aggettivogeno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il parco di autovetture di un ministero",
+              "parco auto",
+              "parco macchine",
+              "parco vetture"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’insieme degli autoveicoli circolanti in una città, in una regione, in uno stato, eccetera in un determinato periodo storico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’attuale parco automobilistico europeo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "ferrovia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ferrovia , l’insieme del materiale rotabile in dotazione a una determinata rete",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "agricoltura, agraria, agronomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Agricoltura, agraria, agronomia ; stabbio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "termine ecclesiastico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Termine ecclesiastico , ciascuna delle due parti, una più grande dell’altra, in cui la cancelleria pontificia era divisa tramite una balaustra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parco maggiore",
+              "parco minore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parcheggio destinato alle autovetture",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Area di terreno, spesso di grandi dimensioni, destinata alla conservazione della natura, al divertimento, al riposo o ad altre attività ricreative, generalmente dotata di vegetazione e talvolta di infrastrutture specifiche.",
+      "examples": [
+        "Ho portato i bambini al parco giochi per farli divertire un po'.",
+        "Il Parco Nazionale d'Abruzzo offre paesaggi mozzafiato e una ricca fauna selvatica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Insieme di veicoli, macchinari o attrezzature di una determinata categoria posseduti da un'azienda, un'organizzazione o una nazione.",
+      "examples": [
+        "L'azienda ha rinnovato il suo parco mezzi con l'acquisto di nuovi furgoni elettrici.",
+        "Il parco auto circolante in Italia è tra i più anziani d'Europa."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Un'area recintata, tipicamente destinata a contenere animali, specialmente in contesti zoologici o per la loro protezione.",
+      "examples": [
+        "Gli orsi sono stati trasferiti in un parco più grande per garantire loro maggiore spazio.",
+        "Il parco faunistico ospita diverse specie in pericolo di estinzione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "In economia e finanza, l'insieme dei titoli, degli investimenti o dei beni posseduti da un individuo o un'istituzione.",
+      "examples": [
+        "Il gestore del fondo ha diversificato il parco titoli per minimizzare i rischi.",
+        "Il parco immobiliare dell'ente è stato messo in vendita per risanare i bilanci."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che si caratterizza per una moderazione estrema nell'uso o nel consumo di risorse materiali, denaro o cibo; misurato, contenuto.",
+      "examples": [
+        "È sempre stato molto parco con le parole, preferendo i fatti ai discorsi.",
+        "Il sindaco ha chiesto ai cittadini di essere parchi nell'uso dell'acqua a causa della siccità."
+      ],
+      "nota": "Spesso usato in contesti formali o letterari per indicare una restrizione consapevole o saggia."
+    }
+  ]
+}

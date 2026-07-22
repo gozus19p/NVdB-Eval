@@ -1,0 +1,90 @@
+{
+  "lemma": "insegnante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6269ad0a50d06520ec"
+    },
+    "source": "paraviaXML/57710.xml",
+    "lemma": "insegnante",
+    "grammar": [
+      "p.pres.",
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio presente",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi insegna, specialmente per professione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "insegnante di lettere",
+              "insegnante di nuoto",
+              "di liceo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m. e f.",
+      "definition": "Persona che ha come professione quella di istruire o educare altri in una materia o disciplina, tipicamente in un contesto istituzionale.",
+      "examples": [
+        "L'insegnante di matematica ha spiegato molto chiaramente il teorema.",
+        "Gli insegnanti della scuola primaria hanno organizzato una gita."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha la funzione o l'effetto di impartire conoscenze o competenze.",
+      "examples": [
+        "Quel libro ha un valore principalmente insegnante per chi si avvicina alla materia.",
+        "La sua esperienza di vita è stata molto insegnante per i più giovani."
+      ],
+      "nota": "Uso meno comune rispetto al sostantivo; spesso si preferiscono sinonimi come 'istruttivo', 'educativo'."
+    }
+  ]
+}

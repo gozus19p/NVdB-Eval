@@ -1,0 +1,389 @@
+{
+  "lemma": "elemento",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb969ad0a50d0656978"
+    },
+    "source": "paraviaXML/37967.xml",
+    "lemma": "elemento",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parte di un tutto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scomporre qcs. nei suoi elementi costitutivi",
+              "smontare gli elementi di un congegno"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Componente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "elemento stilistico"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente",
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , dati, informazioni, aspetti della realtà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ci sono già elementi per giudicare",
+              "la situazione presenta elementi positivi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona considerata rispetto a un gruppo di appartenenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è il miglior elemento dell’équipe",
+              "tra loro ci sono degli elementi sovversivi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "colloquiale",
+              "scherzoso",
+              "spregiativo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con connotazione o , individuo, bel tipo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sei un bell’e.!",
+              "che elemento quello!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Funziona da aggettivogeno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "elemento base",
+              "elemento chiave",
+              "elemento sorpresa",
+              "elemento novità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "filosofia",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , nella filosofia antica, principio di tutte le cose, costituente semplice e indivisibile della materia e dei corpi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i 4 elementi: aria, acqua, terra e fuoco"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il mare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il liquido elemento"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , forze naturali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la furia degli elementi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , rudimenti di scienza, dottrina o arte",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica ; elemento chimico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "metrica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , parte di parola o frase individuata attraverso un’analisi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "elemento vocalico",
+              "elemento grammaticale",
+              "elemento compositivo di una parola",
+              "scomporre un periodo nei suoi elementi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Metrica , nello schema metrico classico, sede di una determinata quantità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "elemento breve",
+              "elemento ancipite"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lettera dell’alfabeto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , indica un ente appartenente a un dato insieme; parte infinitamente piccola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "elemento d’arco",
+              "elemento di superficie"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "ecologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ecologia , ambiente di sviluppo degli esseri viventi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Condizione di agio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sentirsi nel proprio elemento"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Ciascuna delle parti costitutive fondamentali di un insieme, un oggetto o un sistema.",
+      "examples": [
+        "Ogni elemento del puzzle era necessario per completare l'immagine.",
+        "I singoli elementi del gruppo devono collaborare per il successo comune."
+      ],
+      "nota": "Con questa accezione, 'elemento' si riferisce a una componente il cui contributo è rilevante per il tutto."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Sostanza semplice che non può essere scomposta in altre sostanze mediante reazioni chimiche ordinarie.",
+      "examples": [
+        "Il ferro è un elemento chimico con simbolo Fe.",
+        "L'ossigeno è un elemento essenziale per la vita."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Condizione o fattore che contribuisce a caratterizzare una situazione o un ambiente.",
+      "examples": [
+        "L'elemento di sorpresa fu determinante per il successo dell'operazione.",
+        "Nel loro rapporto c'era sempre stato un elemento di competitività."
+      ],
+      "nota": "Si tratta di un uso prevalentemente figurato."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Dispositivo che produce calore in un elettrodomestico.",
+      "examples": [
+        "L'elemento riscaldante del forno si è rotto.",
+        "Bisogna sostituire l'elemento della stufa elettrica."
+      ],
+      "nota": "Utilizzo tecnico specifico, spesso per strumenti di cottura o riscaldamento."
+    }
+  ]
+}

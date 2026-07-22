@@ -1,0 +1,211 @@
+{
+  "lemma": "operazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0c69ad0a50d065ae46"
+    },
+    "source": "paraviaXML/76451.xml",
+    "lemma": "operazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’operare e il suo risultato, azione, procedimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "infilare un ago non è un’operazione facilissima"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di atti volti a un fine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’abile operazione di marketing",
+              "operazione finanziaria",
+              "economica",
+              "commerciale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "medicina"
+            ],
+            "definitions": [
+              {
+                "glossa": "Medicina ; intervento chirurgico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "linguaggio militare",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguaggio militare , insieme di attività e avvenimenti militari sia in tempo bellico che in tempo di pace",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operazione navale",
+              "aerea",
+              "operazione difensiva",
+              "offensiva"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Serie di azioni o iniziative coordinate di vasta portata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operazione mare pulito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , processo che da uno o più enti noti permette di ottenerne un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Operazione aritmetica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Azionamento su qualcosa secondo un procedimento strutturato e pianificato, per raggiungere uno scopo specifico o per risolvere un problema.",
+      "examples": [
+        "L'operazione di smistamento della posta richiede molta attenzione.",
+        "Le operazioni di scarico merci dal camion sono state completate in breve tempo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Intervento chirurgico, di diversa entità e complessità, eseguito su un essere vivente per curare una patologia, riparare un danno o migliorare una condizione fisica.",
+      "examples": [
+        "Il paziente ha subito un'operazione delicata al cuore e ora è in fase di recupero.",
+        "Prima dell'operazione, il medico ha spiegato tutti i rischi e i benefici."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività militare o di polizia, pianificata e attuata per compiti specifici, spesso con elementi di rischio o segretezza.",
+      "examples": [
+        "L'operazione anti-terrorismo si è conclusa con l'arresto dei sospettati.",
+        "Le forze speciali hanno condotto un'operazione di salvataggio in territorio ostile."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Ciascuno dei procedimenti logico-matematici che permettono di combinare o trasformare numeri o quantità, o di compiere calcoli.",
+      "examples": [
+        "Le quattro operazioni fondamentali dell'aritmetica sono addizione, sottrazione, moltiplicazione e divisione.",
+        "Questa calcolatrice esegue operazioni complesse con facilità."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Transazione economica o commerciale, spesso di carattere finanziario, che implica lo scambio di beni, servizi o denaro tra due o più parti.",
+      "examples": [
+        "La banca ha registrato numerose operazioni di compravendita di valuta estera.",
+        "Ogni operazione di prelievo al bancomat è soggetta a una commissione."
+      ],
+      "nota": "Spesso usata al plurale per indicare l'insieme di attività commerciali o finanziarie."
+    }
+  ]
+}

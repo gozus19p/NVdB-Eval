@@ -1,0 +1,170 @@
+{
+  "lemma": "calcio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae8c69ad0a50d06543c2"
+    },
+    "source": "paraviaXML/17292.xml",
+    "lemma": "calcio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Colpo dato con il piede",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare un calcio a qcs.",
+              "a qcn.",
+              "prendere a calci qcn.",
+              "qcs.",
+              "tirare calci"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Molto bruscamente, in malo modo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mandare via",
+              "cacciare via qcn. a calci"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non coglierla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare un calcio alla fortuna",
+              "a una buona occasione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Colpo dato da un animale, specialmente un cavallo, un asino e simile , con la zampa posteriore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mulo tira calci"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , gioco disputato da due squadre di undici giocatori su un campo erboso, che consiste nel cercare di mandare il pallone nella rete avversaria colpendolo con i piedi o con la testa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giocare a calcio",
+              "squadra",
+              "campo",
+              "partita",
+              "campionato di calcio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Colpo dato con il piede, con il ginocchio o con la parte inferiore della gamba.",
+      "examples": [
+        "Il bambino diede un calcio alla palla, mandandola lontano.",
+        "Per sbaglio mi ha dato un calcio allo stinco mentre camminavamo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Sport di squadra in cui due formazioni di undici giocatori ciascuna cercano di far entrare un pallone nella porta avversaria, usando principalmente i piedi.",
+      "examples": [
+        "La domenica pomeriggio guardiamo sempre una partita di calcio in televisione.",
+        "Gioca a calcio in una squadra dilettantistica da quando aveva sei anni."
+      ],
+      "nota": "In questo senso è spesso usato come sinonimo di 'football'."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Elemento chimico metallico (simbolo Ca), di colore grigio-argenteo, molto diffuso in natura.",
+      "examples": [
+        "Il latte è una fonte importante di calcio per la salute delle ossa.",
+        "Il calcio è un componente fondamentale delle rocce calcaree."
+      ],
+      "nota": "In ambito scientifico o nutrizionale."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Parte posteriore e ricurva dell'arma da fuoco portatile, che viene appoggiata alla spalla per mirare e sparare.",
+      "examples": [
+        "Il cacciatore incassò il calcio del fucile contro la spalla prima di premere il grilletto.",
+        "Il militare puliva con cura il calcio del suo fucile d'assalto."
+      ],
+      "nota": null
+    }
+  ]
+}

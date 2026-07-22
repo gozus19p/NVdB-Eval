@@ -1,0 +1,179 @@
+{
+  "lemma": "risorsa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3869ad0a50d065d1a5"
+    },
+    "source": "paraviaXML/97952.xml",
+    "lemma": "risorsa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mezzo, espediente con cui è possibile provvedere a un bisogno, a una necessità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "risorse abbondanti",
+              "scarse",
+              "risorse materiali",
+              "economiche",
+              "disporre di molte risorse"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dote, morale o intellettuale, o abilità a cui una persona può fare ricorso nell’affrontare le situazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "risorse dell’ingegno",
+              "della fantasia",
+              "dell’esperienza"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha grandi capacità e spirito d’iniziativa o è molto abile nel trarsi d’impaccio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "persona di grandi risorse",
+              "piena di risorse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme dei mezzi e delle disponibilità produttive, che costituiscono fonte di ricchezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il turismo è la principale risorsa della regione",
+              "questo podere è una grande risorsa",
+              "risorse alimentari",
+              "energetiche",
+              "petrolifere",
+              "un paese dalle enormi risorse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia specialmente al , in un ambiente naturale, disponibilità di energia biologica che, assunta dalle singole specie sotto forma di cibo, soddisfa le loro esigenze alimentari",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , ciascuno degli elementi che costituiscono un sistema, come per esempio l’unità centrale, le memorie, le periferiche, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Insieme di beni materiali, finanziari o umani disponibili per il sostentamento, la produzione o lo svolgimento di un'attività.",
+      "examples": [
+        "Lo sfruttamento intensivo delle fonti idriche ha provocato gravi squilibri ecologici nella regione.",
+        "L'impresa ha dovuto ottimizzare le disponibilità economiche per affrontare la stagione turistica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Strategia, espediente o mezzo utile per superare una difficoltà, risolvere un problema o trovare conforto emotivo.",
+      "examples": [
+        "La flessibilità negli orari di lavoro si è rivelata una soluzione fondamentale per conciliare vita privata e professionale.",
+        "Di fronte alla perdita improvvisa, ha trovato conforto soltanto nella scrittura quotidiana."
+      ],
+      "nota": "In questa accezione il termine assume una sfumatura soggettiva o psicologica, indicando ciò a cui si ricorre in situazioni di bisogno, incertezza o stress."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "(informatica) Componente fisica o logica di un sistema informatico utilizzabile da programmi o utenti per elaborare dati, eseguire operazioni o memorizzare informazioni.",
+      "examples": [
+        "L'installazione dell'aggiornamento richiede una notevole quantità di memoria e capacità di calcolo.",
+        "Chiudere le applicazioni in background permette di liberare spazio di archiviazione e potenza di elaborazione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "(estensione) Persona particolarmente abile, affidabile o di grande valore all'interno di un gruppo o di un contesto professionale o sociale.",
+      "examples": [
+        "Grazie alla sua esperienza e alla capacità di mediare i conflitti, è diventata un elemento insostituibile per l'azienda.",
+        "Il dirigente sportivo considera il giovane centrocampista un punto di riferimento tattico per la squadra."
+      ],
+      "nota": "Uso metaforico derivato dal primo senso, tipicamente impiegato in contesti organizzativi con forte connotazione positiva e valutativa."
+    }
+  ]
+}

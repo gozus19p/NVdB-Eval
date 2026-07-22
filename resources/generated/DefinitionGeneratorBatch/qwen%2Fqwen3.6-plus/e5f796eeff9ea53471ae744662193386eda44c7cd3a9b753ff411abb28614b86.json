@@ -1,0 +1,245 @@
+{
+  "lemma": "pressione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2669ad0a50d065c2ae"
+    },
+    "source": "paraviaXML/86644.xml",
+    "lemma": "pressione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il premere su una superficie o su un oggetto con la mano, con un arto, col corpo, in modo da provocarne una deformazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare una leggera pressione con un dito",
+              "esercitare una forte pressione su qcs."
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Forza, spinta esercitata da un corpo solido col proprio peso o da una macchina, un’apparecchiatura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la pressione esercitata dalla neve sul tetto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina , nel massaggio, movimento eseguito premendo una zona del corpo, specialmente con la punta delle dita o col pugno chiuso, per attivare la circolazione sanguigna e linfatica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , rapporto tra l’intensità di una forza che si esercita perpendicolarmente su una superficie e l’area della superficie stessa interessata ( simb. P, None p)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento a fluidi, liquidi o gassosi, grandezza che rappresenta macroscopicamente le interazioni microscopiche tra le particelle del fluido stesso ( simb. P, None p)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Variabile che, con il volume e la temperatura, definisce lo stato termodinamico di un fluido ( simb. P, None p)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "fisica"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fisica ; pressione atmosferica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "medicina"
+            ],
+            "definitions": [
+              {
+                "glossa": "Medicina ; pressione arteriosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "linguaggio militare",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguaggio militare , azione offensiva prolungata, esercitata su un fronte esteso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "resistere alla pressione nemica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Azione di convincimento, per lo più esercitata da chi ha autorità, per indurre qualcuno a fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono state esercitate pressioni dall’alto tali da indurmi a dare le dimissioni",
+              "dovremo fare pressione presso gli organi competenti per cercare di ottenere un finanziamento"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Forza esercitata in modo uniforme per unità di superficie su un corpo solido, un fluido o un gas.",
+      "examples": [
+        "La pressione dell'aria nelle gomme dell'auto va controllata prima di un lungo viaggio.",
+        "La pressione atmosferica è prevista in calo per domani a causa dell'arrivo di una perturbazione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Forza esercitata dal sangue contro le pareti dei vasi durante la circolazione.",
+      "examples": [
+        "Il medico gli ha prescritto un farmaco per tenere sotto controllo la pressione.",
+        "Quando ho l'emicrania la pressione tende ad alzarsi notevolmente."
+      ],
+      "nota": "Nell'uso comune indica frequentemente, per ellissi, la pressione arteriosa o sanguigna."
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Atto di applicare una forza manuale o strumentale contro un oggetto o una superficie per attivarlo, modellarlo o spostarlo.",
+      "examples": [
+        "Basta una leggera pressione del dito per sbloccare lo smartphone.",
+        "La pressione prolungata sul tasto ha causato il riavvio del computer."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Influenza psicologica o sociale, spesso insistente o coercitiva, esercitata per indurre qualcuno a compiere una determinata azione o ad accettare una condizione.",
+      "examples": [
+        "Ha accettato l'incarico solo dopo diverse pressioni da parte dei colleghi.",
+        "Il gruppo di lavoro era sotto una forte pressione emotiva per rispettare la scadenza."
+      ],
+      "nota": "Spesso usato al plurale o in locuzioni come \"mettere/essere sotto pressione\"."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "lemma": "ma",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae2369ad0a50d064eba0"
+    },
+    "source": "paraviaXML/65169.xml",
+    "lemma": "ma",
+    "grammar": [
+      "cong.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vversativo, contrappone due elementi di una proposizione che hanno la stessa funzione sintattica o due proposizioni della stessa specie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli ho telefonato, ma non l’ho trovato",
+              "è intelligente ma svogliato",
+              "la salsa era buona, ma un po’ salata",
+              "è stato molto male, ma poi si è ripreso",
+              "pensavo di riuscire, ma non ce l’ho fatta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "familiare",
+              "intensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non è bella, ma bellissima",
+              "sono stanco, ma proprio stanco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Posto all’inizio di un periodo indica il passaggio da un argomento a un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ma torniamo al problema principale",
+              "ma riprendiamo il racconto dall’inizio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nfatico o in espressioni interrogative o esclamative",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ma certo!",
+              "ma tu ci credi?",
+              "ma non scherzare!",
+              "ma che bella notizia!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dubbio, incertezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dopo tanti ma e se, si decisero",
+              "con lui ci sono sempre dei ma",
+              "non c’è ma che tenga!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione",
+      "definition": "Congiunzione avversativa che introduce una contrapposizione o una limitazione rispetto a quanto affermato in precedenza.",
+      "examples": [
+        "Avevamo deciso di uscire, ma alla fine siamo rimasti a casa.",
+        "È un lavoro impegnativo, ma molto gratificante."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "congiunzione",
+      "definition": "Particella che introduce un'inversione di tono o di argomento, spesso per esprimere stupore o per prendere la parola.",
+      "examples": [
+        "Ma che bella sorpresa!",
+        "Ma guarda chi si vede!"
+      ],
+      "nota": "Nell'uso colloquiale, spesso in posizione iniziale."
+    },
+    {
+      "pos": "interiezione",
+      "definition": "Espressione che segnala incredulità, dubbio o richiesta di ripetizione.",
+      "examples": [
+        "Ma? Che cosa hai detto?",
+        "Ma? Non capisco."
+      ],
+      "nota": "Di solito pronunciata con intonazione ascendente e in forma isolata."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "avvenire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa569ad0a50d0662965"
+    },
+    "source": "paraviaXML/11088.xml",
+    "lemma": "avvenire",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "avvenire-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "proposizione",
+          "locuzione congiuntivale",
+          "locuzione congiuntivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accadere, succedere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvenne l’imprevisto",
+              "sono avvenuti fatti terribili",
+              "andrò, avvenga quel che vuole"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "impersonale",
+              "variante",
+              "variante"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impersonale , introduce soggettive: variante ; avvegnaché None variante ; avvegnaché.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avviene di incontrare per caso qcn."
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo impersonale",
+      "definition": "Accadere, verificarsi: indica il prodursi di un fatto o di un evento nel tempo.",
+      "examples": [
+        "Non so cosa avverrà nei prossimi mesi.",
+        "Il cambiamento è avvenuto in modo graduale e quasi impercettibile.",
+        "Nessuno poteva prevedere ciò che sarebbe avvenuto quella notte."
+      ],
+      "nota": "Si usa prevalentemente alla terza persona singolare o plurale. Sinonimo di 'accadere', 'succedere', 'capitare', con registro leggermente più formale."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Il tempo che deve ancora venire; l'insieme degli eventi e delle condizioni che si realizzeranno dopo il momento presente.",
+      "examples": [
+        "I giovani rappresentano il futuro e l'avvenire del paese.",
+        "Nessuno conosce l'avvenire con certezza.",
+        "Ha investito molto per garantirsi un avvenire sereno."
+      ],
+      "nota": "Sostantivo derivato per conversione dall'infinito del verbo. Sostanzialmente sinonimo di 'futuro', rispetto al quale ha registro leggermente più formale o letterario. Spesso usato in contesti in cui si sottolinea la prospettiva personale o collettiva di progresso."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "lemma": "dunque",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae2369ad0a50d064eb9d"
+    },
+    "source": "paraviaXML/37033.xml",
+    "lemma": "dunque",
+    "grammar": [
+      "cong.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Onclusivo, perciò, pertanto, quindi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho perso la scommessa, dunque pagherò"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per concludere, riprendere o iniziare un discorso: che .",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dicevate dunque"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nelle interrogazioni e nelle esclamazioni, per esortare, invitare, sollecitare a parlare, a rispondere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "d., parla!",
+              "perché dunque non decidi?",
+              "d.! andiamo?",
+              "e d.?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , conclusione, punto critico, risolutivo di una questione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giungere al dunque",
+              "passare",
+              "trovarsi al dunque"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione logica",
+      "definition": "Indica l'esito o la conseguenza logica di un ragionamento o una premessa.",
+      "examples": [
+        "Tutte le prove lo accusano, dunque è colpevole.",
+        "Non hai studiato per l'esame, dunque è normale che tu sia in ansia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "avverbio (nelle interrogative dirette e indirette)",
+      "definition": "Introduce una domanda che chiede una spiegazione o una conclusione, spesso con una sfumatura di impazienza o sollecitazione.",
+      "examples": [
+        "Dunque, che cosa hai deciso?",
+        "Mi chiedo dunque come intendano procedere."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "avverbio discorsivo",
+      "definition": "Segnala una transizione nel discorso, per riprendere un argomento, introdurre una conclusione pratica o riassumere.",
+      "examples": [
+        "Dunque, per concludere, vi ringrazio tutti per la collaborazione.",
+        "Abbiamo analizzato i pro e i contro. Dunque, la scelta migliore sembra la seconda opzione."
+      ],
+      "nota": "In questa funzione, spesso si trova in posizione iniziale e serve a strutturare il parlato."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "lemma": "zio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8969ad0a50d06612fd"
+    },
+    "source": "paraviaXML/129563.xml",
+    "lemma": "zio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fratello di uno dei genitori, considerato rispetto ai loro figli; marito della zia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo zio di Carlo",
+              "mio zio"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Può precedere un nome proprio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha visto suo zio",
+              "ha visto lo zio",
+              "lo",
+              "zio Franco"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fratello rispettivamente della madre o del padre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "zio materno",
+              "paterno"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , lo z. e la zia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli zii"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "meridionale",
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale meridionale , titolo di rispetto che si dà a uomini anziani o a religiosi: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo zi’ prete"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eufemistico",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente in imprecazioni, Dio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Il fratello del proprio padre o della propria madre, o il marito della propria zia.",
+      "examples": [
+        "Mio zio materno mi ha insegnato a giocare a scacchi fin da bambino.",
+        "Ogni estate trascorro le vacanze nella casa al mare di mio zio e mia zia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Termine informale e affettuoso usato per rivolgersi a un uomo anziano o a una persona di età considerevolmente maggiore, non necessariamente imparentata, a cui si porta rispetto o affetto, o in segno di familiarità.",
+      "examples": [
+        "Ciao zio, come stai? È tanto che non ci vediamo!",
+        "Il mio vicino di casa è un vecchio zio simpatico che racconta sempre barzellette."
+      ],
+      "nota": "Questo uso è colloquiale e può variare regionalmente."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Al plurale, 'gli zii' si riferisce ai fratelli dei genitori a prescindere dal sesso, o alla coppia formata dallo zio e dalla zia.",
+      "examples": [
+        "Durante le festività natalizie andiamo sempre a trovare tutti i nostri zii e i cugini.",
+        "Gli zii di Marco gli hanno regalato una bicicletta nuova per il suo compleanno."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "lemma": "indagine",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaede69ad0a50d065886a"
+    },
+    "source": "paraviaXML/55470.xml",
+    "lemma": "indagine",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ricerca sistematica per conoscere, scoprire qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "indagine demoscopica",
+              "statistica",
+              "storica",
+              "filologica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , investigazione giudiziaria o degli organi di polizia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziare",
+              "concludere un’indagine",
+              "depistare le indagini",
+              "dare un nuovo corso alle indagini"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme di attività svolte da autorità inquirenti o investigatori per accertare fatti illeciti, identificare responsabili e raccogliere prove.",
+      "examples": [
+        "La polizia ha aperto un'indagine sul furto avvenuto nella notte.",
+        "I magistrati hanno condotto un'indagine durata oltre tre anni prima di rinviare a giudizio gli imputati."
+      ],
+      "nota": "In ambito giuridico-procedurale si distinguono le indagini preliminari, condotte dal pubblico ministero prima dell'eventuale esercizio dell'azione penale."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Ricerca sistematica e metodica volta a raccogliere dati, informazioni o conoscenze su un determinato fenomeno, questione o argomento.",
+      "examples": [
+        "Il giornalista ha pubblicato un'indagine approfondita sulle condizioni di lavoro nelle fabbriche del distretto.",
+        "L'università ha commissionato un'indagine sulla qualità della vita degli studenti fuori sede."
+      ],
+      "nota": "In questo senso si sovrappone parzialmente a 'ricerca' e 'studio', ma conserva l'idea di un'attività esplorativa orientata a scoprire qualcosa di non ancora noto o chiarito."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Rilevazione statistica condotta su un campione o su una popolazione per misurare opinioni, comportamenti o caratteristiche sociali.",
+      "examples": [
+        "Secondo un'indagine demoscopica recente, il 60% degli italiani è favorevole alla proposta.",
+        "L'indagine Istat sui consumi delle famiglie mostra un calo della spesa alimentare."
+      ],
+      "nota": "In questo uso è spesso accompagnato da aggettivi come 'statistica', 'demoscopica', 'campionaria'; si avvicina al significato di 'sondaggio' o 'rilevazione'."
+    }
+  ]
+}

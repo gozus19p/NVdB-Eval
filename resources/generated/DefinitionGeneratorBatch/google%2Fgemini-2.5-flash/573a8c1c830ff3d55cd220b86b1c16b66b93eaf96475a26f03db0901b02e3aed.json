@@ -1,0 +1,84 @@
+{
+  "lemma": "pomeriggio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2169ad0a50d065bf49"
+    },
+    "source": "paraviaXML/84777.xml",
+    "lemma": "pomeriggio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "pomeriggio-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parte del giorno compresa fra il mezzogiorno e la sera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un pomeriggio afoso",
+              "le ore del pomeriggio",
+              "sabato pomeriggio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Un’ora, due ore dopo mezzogiorno; durante il pomeriggio; nelle prime ore dopo mezzogiorno; nel pomeriggio inoltrato; quello dell’altro ieri; quello del giorno successivo; il pomeriggio di oggi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’una",
+              "le due di pomeriggio",
+              "del pomeriggio",
+              "di pomeriggio",
+              "il pomeriggio",
+              "nel primo pomeriggio",
+              "nel tardo pomeriggio",
+              "l’altro pomeriggio",
+              "il pomeriggio dopo",
+              "il pomeriggio seguente",
+              "questo pomeriggio"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "La parte del giorno che segue il mezzogiorno e precede la sera, caratterizzata dal declino del sole sull'orizzonte.",
+      "examples": [
+        "Ho un appuntamento dal medico questo pomeriggio.",
+        "Passeremo il pomeriggio al parco a giocare con i bambini."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Un periodo di tempo indefinito nel corso della giornata, successivo al mattino, spesso utilizzato per indicare un momento di riposo o di attività svolte al di fuori degli orari lavorativi o scolastici del mattino.",
+      "examples": [
+        "Ogni pomeriggio, dopo la scuola, fa i compiti.",
+        "Il caffè del pomeriggio è diventato una piacevole abitudine."
+      ],
+      "nota": "Questo senso si riferisce più all'intervallo temporale percepito culturalmente come 'pomeriggio' che al rigido intervallo astronomico."
+    }
+  ]
+}

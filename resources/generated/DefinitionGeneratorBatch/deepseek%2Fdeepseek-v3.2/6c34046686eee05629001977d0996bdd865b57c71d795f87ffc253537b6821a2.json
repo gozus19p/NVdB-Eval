@@ -1,0 +1,263 @@
+{
+  "lemma": "continuare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafab69ad0a50d0662e18"
+    },
+    "source": "paraviaXML/26724.xml",
+    "lemma": "continuare",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo",
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Seguitare, proseguire un’attività, un lavoro e simile ; riprendere dopo un’interruzione: con la e l’infinito, seguitare a fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "continuare un lavoro",
+              "una lettura",
+              "una cura",
+              "una tradizione",
+              "gli studi",
+              "a",
+              "continuare a scrivere",
+              "a parlare",
+              "la neve ha continuato a cadere per tutta la notte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Usare di continuo qualcosa ; frequentare un luogo o qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Unire, congiungere qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Durare, non smettere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "continua il maltempo",
+              "la pioggia è continuata per tutta la notte"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insistere, perseverare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "continuare in qcs.",
+              "per la propria strada",
+              "Mario continua nella sua impresa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Andare avanti, proseguire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non si può più continuare così!"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nei giornali, riviste e simile , annotazione che segnala che un articolo, un racconto e simile prosegue nelle pagine o nei numeri successivi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "continua"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche , continuazione di un racconto, d’un film e simili",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Procedere, prolungarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la strada continua oltre il muro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Prorogare la durata o l'attività di qualcosa senza interruzioni.",
+      "examples": [
+        "Ha deciso di continuare gli studi universitari dopo la triennale.",
+        "Il comitato ha votato per continuare il progetto nonostante le difficoltà."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Persistere nel tempo o nello spazio senza fermarsi o interrompersi.",
+      "examples": [
+        "La pioggia continuò per tutta la notte.",
+        "La strada continua oltre il bosco, diventando una pista sterrata."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (con complemento)",
+      "definition": "Proseguire un'azione, un discorso o un comportamento già in corso.",
+      "examples": [
+        "Nonostante i nostri consigli, continua a fumare.",
+        "L'avvocato continuò con la sua arringa, ignorando le obiezioni."
+      ],
+      "nota": "In questa accezione è spesso seguito da 'a' più infinito, da 'con', o impiegato assolutamente."
+    }
+  ]
+}

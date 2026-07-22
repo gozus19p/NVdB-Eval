@@ -1,0 +1,128 @@
+{
+  "lemma": "ospedale",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0e69ad0a50d065afe1"
+    },
+    "source": "paraviaXML/77363.xml",
+    "lemma": "ospedale",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Istituto, specialmente pubblico, dotato di apposite strutture e apparecchiature che lo rendono atto al ricovero e alla cura medica o chirurgica di quanti necessitano di assistenza sanitaria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le corsie di un ospedale",
+              "ospedale specializzato",
+              "ortopedico",
+              "oftalmico",
+              "militare",
+              "finire all’ospedale"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Periodo di degenza ospedaliera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dopo l’incidente si è fatto 10 giorni di ospedale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ospizio destinato a persone anziane o prive di mezzi di sussistenza; asilo per pellegrini",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Orfanotrofio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Negozio o laboratorio specializzato nella riparazione o nel restauro di determinati oggetti, specialmente nella denominazione di imprese artigianali o commerciali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ospedale delle bambole"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Struttura pubblica o privata attrezzata per la diagnosi, il trattamento e la degenza dei malati.",
+      "examples": [
+        "Dopo l'incidente, l'ha trasportato immediatamente all'ospedale più vicino.",
+        "L'ospedale universitario è un centro di eccellenza per la ricerca medica."
+      ],
+      "nota": null
+    }
+  ]
+}

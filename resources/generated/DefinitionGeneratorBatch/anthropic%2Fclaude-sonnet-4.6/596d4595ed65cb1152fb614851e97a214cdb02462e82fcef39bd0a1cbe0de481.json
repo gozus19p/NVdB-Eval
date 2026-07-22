@@ -1,0 +1,135 @@
+{
+  "lemma": "spaventare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe269ad0a50d0665ab2"
+    },
+    "source": "paraviaXML/112301.xml",
+    "lemma": "spaventare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Riempire di spavento, di timore, impaurire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "credeva di spaventarlo con le sue minacce",
+              "il buio spaventa molti bambini"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettere in apprensione, preoccupare, impensierire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il pensiero di dover viaggiare con la nebbia mi spaventa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Distogliere, scoraggiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la vostra sconcia e fastidiosa pena | di palesarvi a me non vi spaventi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Provocare in qualcuno un senso improvviso e intenso di paura o terrore.",
+      "examples": [
+        "Il cane ha spaventato il bambino abbaiando all'improvviso.",
+        "Quel film dell'orrore mi ha spaventato così tanto che non riuscivo a dormire."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Destare preoccupazione o apprensione per qualcosa di temuto o ritenuto pericoloso, senza necessariamente provocare un terrore immediato.",
+      "examples": [
+        "L'idea di dover parlare in pubblico la spaventa enormemente.",
+        "Le previsioni economiche spaventano gli investitori più prudenti."
+      ],
+      "nota": "Questo senso si distingue dal precedente per l'assenza di immediatezza: si tratta di una paura proiettata nel futuro o legata a una situazione astratta, più vicino al significato di 'preoccupare' o 'intimorire'."
+    },
+    {
+      "pos": "verbo riflessivo (spaventarsi)",
+      "definition": "Provare improvvisamente paura o terrore in risposta a qualcosa di percepito come minaccioso o inatteso.",
+      "examples": [
+        "Si è spaventata sentendo dei rumori strani in casa.",
+        "Non spaventarti, è solo un piccolo topo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo (spaventarsi)",
+      "definition": "Lasciarsi scoraggiare o intimidire di fronte a una difficoltà, una sfida o una prospettiva impegnativa.",
+      "examples": [
+        "Non bisogna spaventarsi davanti ai primi ostacoli della vita.",
+        "Si è spaventato vedendo la mole di lavoro che lo aspettava e ha rinunciato."
+      ],
+      "nota": "In questo senso figurato, 'spaventarsi' si avvicina a 'scoraggiarsi' o 'tirarsi indietro per timore', con un'accezione spesso connotata negativamente sul piano valutativo."
+    }
+  ]
+}

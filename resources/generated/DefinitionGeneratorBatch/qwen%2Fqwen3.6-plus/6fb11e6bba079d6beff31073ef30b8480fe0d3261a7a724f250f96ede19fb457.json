@@ -1,0 +1,199 @@
+{
+  "lemma": "gas",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaecf69ad0a50d0657bc1"
+    },
+    "source": "paraviaXML/47452.xml",
+    "lemma": "gas",
+    "grammar": [
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ogni sostanza che, a temperatura e pressione normale, è allo stato aeriforme, in contrapposizione ai solidi e ai liquidi, e non presenta forma e volume propri",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica chimica , sostanza aeriforme che si trova al di sopra della propria temperatura critica, in condizioni in cui non può essere condensata allo stato liquido con il solo aumento di pressione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Miscela combustibile, specialmente di idrogeno, metano, idrocarburi e ossido di carbonio, erogata per usi domestici o industriali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "contatore",
+              "bolletta del gas",
+              "cucina",
+              "scaldabagno a gas",
+              "è finita la bombola del gas",
+              "una fuga di gas"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Flusso di tale miscela erogato da un impianto domestico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accendere",
+              "spegnere",
+              "regolare il g.|"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Gas tossico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "settentrionale",
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale settentrionale , fornello",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "metti la pentola sul gas per far bollire l’acqua"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Miscela di benzina vaporizzata e aria che forma il carburante dei motori a scoppio; regolarne l’afflusso con l’acceleratore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "aumentare",
+              "togliere gas"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Stato di aggregazione della materia privo di forma e volume propri, i cui costituenti si muovono in modo caotico riempiendo interamente lo spazio disponibile.",
+      "examples": [
+        "Il biossido di carbonio è un fluido incolore e inodore presente naturalmente nell'atmosfera terrestre.",
+        "L'azoto liquido evapora rapidamente a temperatura ambiente trasformandosi in un aeriforme che occupa un volume molto maggiore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Miscela di idrocarburi, come il metano, impiegata come fonte di calore per la cottura dei cibi, il riscaldamento degli ambienti o la produzione di energia, e distribuita tramite condutture o bombole.",
+      "examples": [
+        "Dopo il blackout in città abbiamo dovuto cucinare usando la bombola del combustibile.",
+        "Con l'arrivo dell'inverno, i costi per il riscaldamento domestico sono aumentati notevolmente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Aria o miscele ariose prodotte e accumulate nel tratto gastrointestinale durante la digestione, che causano gonfiore addominale e possono essere espulse.",
+      "examples": [
+        "Dopo aver mangiato un pasto troppo abbondante, mi sento molto gonfio e devo espellere l'aria accumulata.",
+        "Il medico mi ha consigliato di evitare le acque frizzanti e i cibi fermentati per ridurre il meteorismo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Pedale o dispositivo equivalente montato su un veicolo a motore, utilizzato dal guidatore per regolare la potenza e la velocità della macchina agendo sull'erogazione di carburante.",
+      "examples": [
+        "Per superare quel trattore agricolo, ho dovuto tenere il pedale a fondo per qualche secondo.",
+        "L'istruttore di guida continua a ripetermi di staccare il piede dall'acceleratore quando cambio marcia."
+      ],
+      "nota": null
+    }
+  ]
+}

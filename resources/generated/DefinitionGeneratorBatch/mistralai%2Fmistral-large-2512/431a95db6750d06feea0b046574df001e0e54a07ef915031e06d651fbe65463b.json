@@ -1,0 +1,440 @@
+{
+  "lemma": "persona",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1a69ad0a50d065b90f"
+    },
+    "source": "paraviaXML/81852.xml",
+    "lemma": "persona",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere umano senza distinzione di sesso, età e condizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’erano tre",
+              "cinque persone nella stanza",
+              "ha telefonato una persona per te",
+              "una persona educata",
+              "colta",
+              "nervosa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Formula adottata per indicare chi non si vuole nominare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una certa persona",
+              "quella certa persona"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Formula adottata per indicare un individuo non direttamente implicato nella situazione o nell’affare di cui si parla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una terza persona"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al con valore collettivo, gente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "allo sciopero hanno partecipato molte persone",
+              "c’erano tante persone in coda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "TS",
+        "field": "filosofia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , l’uomo come essere intelligente e consapevole di sé, dotato di un’identità singola e personale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , secondo il pensiero di C. G. Jung, parte della personalità con cui l’essere umano si presenta agli altri uomini",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Individuo considerato per le funzioni o le cariche che ricopre nella vita sociale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la persona dell’ambasciatore",
+              "del presidente"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi svolge lavori molto faticosi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "persona di fatica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Corpo, fisico umano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quel vestito snellisce la tua persona"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’aspetto fisico esteriore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "curare la propria persona"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "pronome personale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "scherzoso"
+            ],
+            "definitions": [
+              {
+                "glossa": "In contesti formali o anche , preceduto dall’agg. poss. assume il valore del corrispondente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la vostra persona è invitata al ricevimento",
+              "la mia persona non accetta simili scherzi!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "pronome indefinito"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In frasi negative, nessuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non c’è persona che lo capisca"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con funzione di , qualcuno, alcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto ; ente",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "storia del teatro",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Teatro , personaggio di un’azione drammatica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia del teatro , nel teatro latino, maschera che veniva indossata dagli attori",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La parte sostenuta nella rappresentazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "teologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Teologia , nella dottrina cristiana, ciascuna delle tre figure attraverso le quali si configura o si manifesta la Trinità",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "presente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Grammatica , caratteristica morfologica del pronome e del verbo che consente di specificare a quale individuo partecipante all’atto linguistico si riferiscono ( es. è la prima persona dell’ind. presente del verbo parlare)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "io parlo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vita",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "essere umano considerato come individuo, con caratteristiche fisiche e psicologiche proprie",
+      "examples": [
+        "Ogni persona ha diritto alla libertà di espressione.",
+        "Non ho mai incontrato una persona così gentile in vita mia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "corpo o aspetto fisico di un essere umano",
+      "examples": [
+        "Dopo l'incidente, ha dovuto imparare a muovere di nuovo ogni parte della sua persona.",
+        "Si presentò alla festa con una persona impeccabile, come sempre."
+      ],
+      "nota": "Spesso usato in contesti formali o letterari."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "ruolo o carattere interpretato da un attore in un'opera teatrale, cinematografica o letteraria",
+      "examples": [
+        "Nel film, il protagonista interpreta una persona tormentata dal passato.",
+        "Shakespeare ha creato alcune delle persone più memorabili della letteratura."
+      ],
+      "nota": "In questo senso, è sinonimo di 'personaggio'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "forma di cortesia usata per rivolgersi a qualcuno, specialmente in contesti giuridici o amministrativi",
+      "examples": [
+        "La presente comunicazione è indirizzata alla persona interessata.",
+        "Si prega di contattare la persona responsabile per ulteriori informazioni."
+      ],
+      "nota": "Spesso usato in formule burocratiche o legali."
+    },
+    {
+      "pos": "sostantivo f. (plurale: persone)",
+      "definition": "unità di misura per contare gli individui umani",
+      "examples": [
+        "Il ristorante può ospitare fino a cinquanta persone.",
+        "Ci sono troppe persone in questa stanza, non si respira."
+      ],
+      "nota": "In questo senso, è spesso usato in contesti quantitativi."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "lemma": "meccanismo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef869ad0a50d0659dcf"
+    },
+    "source": "paraviaXML/67999.xml",
+    "lemma": "meccanismo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Complesso di organi meccanici, fra loro collegati e articolati, in modo da trasmettere un movimento e che da solo o in unione con altri, costituisce una macchina o un congegno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il meccanismo di un orologio",
+              "di una serratura",
+              "un meccanismo molto delicato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il modo in cui funziona tale dispositivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "capire",
+              "spiegare il meccanismo di un motore",
+              "di un telaio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il modo in cui avviene un processo fisico o mentale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il meccanismo della digestione",
+              "i complessi meccanismi della memoria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il modo in cui funziona un’organizzazione rigidamente preordinata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "meccanismo aziendale",
+              "i meccanismi dello Stato",
+              "i complicati meccanismi processuali"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "meccanica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica meccanica , in meccanica applicata, ogni catena cinematica in cui uno dei membri sia fisso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "comune",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , non ; meccanicismo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Insieme di organi o elementi interconnessi che funzionano in modo coordinato per produrre un movimento, un'azione o un risultato specifico, tipico di macchine o dispositivi.",
+      "examples": [
+        "Il meccanismo dell'orologio è molto delicato e preciso.",
+        "Ha studiato il meccanismo interno del motore per capire il guasto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Un processo, una struttura o un sistema di regole e interazioni che governano il funzionamento di qualcosa di astratto, come un'organizzazione, un fenomeno sociale o un evento psicologico.",
+      "examples": [
+        "Il meccanismo della burocrazia rallenta ogni decisione importante.",
+        "Ha analizzato il meccanismo psicologico alla base della dipendenza."
+      ],
+      "nota": "Questo senso estende il concetto di funzionamento a contesti non fisici o artificiali."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Un modo di agire o di reagire che si ripete in maniera automatica e prevedibile, spesso senza una riflessione consapevole, simile a un'abitudine o un riflesso.",
+      "examples": [
+        "Il suo è un meccanismo di difesa che non gli permette di affrontare i problemi apertamente.",
+        "Cadere nello stesso errore è un meccanismo che deve essere spezzato."
+      ],
+      "nota": null
+    }
+  ]
+}

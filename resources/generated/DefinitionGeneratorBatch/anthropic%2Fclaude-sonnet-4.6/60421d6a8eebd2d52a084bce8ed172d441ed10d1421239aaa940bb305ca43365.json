@@ -1,0 +1,251 @@
+{
+  "lemma": "fase",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec369ad0a50d06571d4"
+    },
+    "source": "paraviaXML/42534.xml",
+    "lemma": "fase",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "astronomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Astronomia , ognuno degli aspetti che assume un astro a seconda della sua posizione rispetto al Sole e alla Terra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le fasi di Venere",
+              "di Mercurio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il novilunio, il primo e l’ultimo quarto, il plenilunio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le fasi lunari"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Periodo, stadio che si differenzia da uno precedente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la crisi è entrata in una fase decisiva",
+              "attraversare una fase delicata"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ognuno dei momenti di una competizione sportiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fasi eliminatorie"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scientifico , nei fenomeni naturali, biologici o psicologici, intervallo di tempo con caratteristiche omogenee",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le varie fasi di un terremoto",
+              "di una malattia",
+              "le fasi di sviluppo della personalità"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , ognuno dei momenti caratteristici del funzionamento di un motore, specialmente a scoppio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fase di aspirazione",
+              "di compressione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "TS",
+        "field": "elettrotecnica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , misura angolare, generalmente espressa in radianti, dell’argomento della funzione sinusoidale che rappresenta un fenomeno periodico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Elettrotecnica , ognuno degli elementi di un sistema o di un circuito polifase",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica fisica , parte fisicamente omogenea e separabile di un sistema eterogeneo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fase liquida",
+              "fase gassosa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "cristallografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cristallografia , nelle sostanze polimorfe, presenza di strutture cristalline diverse che, a parità di composizione chimica, hanno proprietà differenti a seconda della temperatura a cui si sono cristallizzate",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fase di alta temperatura",
+              "fase di bassa temperatura"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Ciascuno dei periodi o stadi successivi in cui si articola un processo, uno sviluppo o un'attività.",
+      "examples": [
+        "Il progetto è entrato nella fase finale e sarà completato entro l'anno.",
+        "La malattia si trova ancora in una fase iniziale, quindi la prognosi è favorevole."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In astronomia, ciascuno degli aspetti della Luna o di un pianeta in relazione alla porzione di superficie illuminata visibile dalla Terra.",
+      "examples": [
+        "La luna piena è la fase in cui il satellite appare completamente illuminato.",
+        "Gli agricoltori tradizionali seminavano in base alle fasi lunari."
+      ],
+      "nota": "Le quattro fasi principali della Luna sono: nuova, primo quarto, piena e ultimo quarto."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In fisica ed elettrotecnica, lo stato istantaneo di un'oscillazione periodica, espresso come valore dell'angolo che determina la posizione nel ciclo; anche ciascuno dei circuiti di un sistema elettrico polifase.",
+      "examples": [
+        "I due segnali sono sfasati di 90 gradi, ovvero sono in quadratura di fase.",
+        "L'impianto industriale è alimentato da corrente trifase a 380 volt."
+      ],
+      "nota": "L'espressione 'in fase' indica due segnali con uguale fase; 'fuori fase' indica segnali sfasati. Entrambe le locuzioni hanno sviluppato usi figurati nel linguaggio comune."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In chimica, ciascuno degli stati fisicamente e chimicamente omogenei presenti in un sistema eterogeneo (ad es. solido, liquido, gassoso).",
+      "examples": [
+        "In un bicchiere con olio e acqua si distinguono chiaramente due fasi separate.",
+        "Il passaggio di fase dall'acqua al ghiaccio avviene a 0 °C a pressione standard."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "locuzione avverbiale / aggettivale: 'in fase (con)'",
+      "definition": "In accordo, in sintonia o in linea con qualcosa o qualcuno; al passo con una tendenza o situazione.",
+      "examples": [
+        "La sua proposta è perfettamente in fase con le esigenze del mercato attuale.",
+        "Non mi sento in fase con i colleghi: abbiamo visioni molto diverse."
+      ],
+      "nota": "Uso figurato derivato dal senso fisico di 'fase'. L'opposto è 'fuori fase', che indica dissonanza o inadeguatezza rispetto a un contesto."
+    }
+  ]
+}

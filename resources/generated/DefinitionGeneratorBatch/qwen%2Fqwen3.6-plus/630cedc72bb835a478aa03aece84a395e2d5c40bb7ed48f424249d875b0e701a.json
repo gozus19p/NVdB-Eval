@@ -1,0 +1,110 @@
+{
+  "lemma": "se",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6569ad0a50d06522eb"
+    },
+    "source": "paraviaXML/105281.xml",
+    "lemma": "se",
+    "grammar": [
+      "pron.pers. di terza pers.m. e f.sing. e pl."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Forma che il pronome assume con i pronomi atoni e la particella , in posizione proclitica o enclitica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "si",
+              "lo",
+              "la",
+              "li",
+              "le",
+              "ne",
+              "se l’è visto davanti",
+              "se lo mise in tasca",
+              "non vuole prendersene cura",
+              "prendersela a cuore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Da solo, specialmente in posizione enclitica, si: Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non pò fermarse"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una proposizione subordinata che stabilisce la condizione necessaria o sufficiente per il verificarsi dell'evento espresso nella frase principale.",
+      "examples": [
+        "Se il treno arriva in orario, riusciremo a cenare insieme.",
+        "Accetterò la proposta se mi garantiscono un margine di flessibilità."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una proposizione che riconosce un fatto potenzialmente contrastante o un ostacolo, senza tuttavia impedire la validità o il compiersi di quanto affermato nella reggente; equivale a anche se o sebbene.",
+      "examples": [
+        "Se ha commesso errori in passato, merita comunque una seconda possibilità.",
+        "Se le previsioni meteorologiche sono sfavorevoli, il torneo si svolgerà ugualmente."
+      ],
+      "nota": "In questa accezione il termine ammette un contrasto dato per vero o plausibile, ma non subordina sintatticamente l'attuazione della frase principale alla sua realizzazione."
+    },
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una proposizione interrogativa indiretta o un dubbio, retta tipicamente da verbi, aggettivi o espressioni che indicano incertezza, verifica, domanda o valutazione.",
+      "examples": [
+        "Non so ancora se partecipare alla conferenza o restare in ufficio.",
+        "Dobbiamo verificare se il software è compatibile con il nuovo sistema operativo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce un'esclamazione autonoma o una proposizione indipendente che manifesta un intenso desiderio, un rimpianto o una forte meraviglia verso un fatto o una situazione.",
+      "examples": [
+        "Se potessi tornare indietro, sceglierei un percorso di studi diverso.",
+        "Se è abile a gestire le crisi, questo nuovo coordinatore!"
+      ],
+      "nota": "La reggenza del congiuntivo segnala desideri o situazioni irreali o ipotetiche, mentre quella dell'indicativo ha funzione intensiva e ammirativa, costrutto molto frequente nel parlato contemporaneo."
+    }
+  ]
+}

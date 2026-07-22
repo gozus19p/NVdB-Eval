@@ -1,0 +1,270 @@
+{
+  "lemma": "respirare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafcd69ad0a50d06649a7"
+    },
+    "source": "paraviaXML/92856.xml",
+    "lemma": "respirare",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") di un organismo vivente, compiere la funzione biologica della respirazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "respirare con il naso",
+              "a pieni polmoni",
+              "i pesci respirano con le branchie"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Morire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cessare di respirare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") godere di una condizione ambientale in cui vi siano aria respirabile o disponibilità di spazio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con la finestra aperta si respira meglio",
+              "l’accalcarsi della folla impedisce di respirare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Provare un senso di sollievo da una fatica, da uno sforzo, da una situazione sgradevole e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dopo lunghe giornate di lavoro finalmente respiro",
+              "la sua insistenza non mi lasciava respirare"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con la specificazione della cosa da cui ci si libera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "assai felice | se respirar ti lice | d’alcun dolor"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Leopardi)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Evaporare all’esterno, sfiatare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esalare un profumo, un odore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Inspirare ed espirare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "respirare aria pura",
+              "un gas",
+              "per curarsi doveva respirare ossigeno",
+              "al mare si respira aria salmastra"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Percepire, avvertire intimamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "qui si respira un’aria familiare",
+              "in quell’ambiente si respira nervosismo",
+              "a Firenze respiravo arte dovunque andassi"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Compiere l'atto fisiologico di inspirare ed espirare aria dai polmoni.",
+      "examples": [
+        "Dopo la corsa, si è fermato a respirare profondamente.",
+        "Il medico ascoltò il paziente mentre respirava."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo figurato",
+      "definition": "Provare sollievo dopo un periodo di tensione, affanno o costrizione.",
+      "examples": [
+        "Concluso il progetto più difficile, tutto l'ufficio poté finalmente respirare.",
+        "Dopo l'interrogazione, la classe respirò."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Inalare una sostanza gassosa o un particolare tipo d'aria.",
+      "examples": [
+        "Respirava a fatica l'aria viziata della stanza.",
+        "I sub devono respirare una miscela di ossigeno e azoto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo figurato",
+      "definition": "Esprimere o possedere una certa qualità in modo percettibile.",
+      "examples": [
+        "Quel dipinto antico respirava un'atmosfera di mistero.",
+        "La sua poesia respira malinconia."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,1175 @@
+{
+  "lemma": "nero",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064b15d"
+    },
+    "source": "paraviaXML/73692.xml",
+    "lemma": "nero",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di colore simile a quello dell’inchiostro, del carbone o della pece, il più scuro che vi sia in natura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "occhi",
+              "capelli neri",
+              "panno nero",
+              "cane nero",
+              "corvi neri"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nerissimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nero come la notte",
+              "come l’ebano"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , di corpo la cui superficie assorbe completamente le radiazioni, senza rifletterne alcuna",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento al lutto, di cui tale colore è segno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "drappi",
+              "paramenti neri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , scuro, specialmente in contrapposizione a varietà più chiare: rosso scuro, fatto con uve scure",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vino nero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con lenti scure, da sole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "occhiali neri"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cupo, fosco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tempo",
+              "cielo nero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di colorito scuro; abbronzato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "come sei diventato n.!"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scuro di capelli",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Silvia è n., sua sorella è bionda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Negro, specialmente come sinonimo eufemistico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la razza nera",
+              "i neri d’America"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Molto sporco, sudicio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mani nere",
+              "collo nero",
+              "polsini neri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Macchiato di colpe, corrotto da vizi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere la coscienza nera"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che costituisce una colpa, un peccato; riprovevole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mostrare la più nera ingratitudine"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che è al di fuori della legalità, specialmente per evitare i controlli dell’autorità, evadere il fisco e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "contabilità nera"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Gestiti clandestinamente da privati anziché dallo stato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lotto",
+              "toto nero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Caratterizzato da numerosi lutti, da sventure: caratterizzato da avversità, da contrarietà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "week–end nero sulle autostrade",
+              "giornata nera",
+              "un periodo nero per l’economia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "intensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Riferito a concetti caratterizzati negativamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la più nera miseria",
+              "avere una fame",
+              "una paura nera",
+              "fa un freddo n.!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che tende a considerare le cose nei loro aspetti più negativi, pessimista",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "funzione",
+              "intensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Furente: anche in funzione , con valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "oggi il capo è nero",
+              "arrabbiato nero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che manifesta tristezza e malinconia, malumore o irritazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "volto nero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere corrucciato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere nero in volto"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Improntato a pessimismo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pensieri neri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Letteratura , di opera o genere letterario che narra vicende inquietanti, macabre, misteriose o che tratta di magia, argomenti demoniaci o simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "romanzo nero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9a",
+        "usage": "TS",
+        "field": "estensivo",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Politica , che nutre simpatie clericali, fautore del clero; reazionario, conservatore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9b",
+        "usage": "TS",
+        "field": "politica",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Politica , relativo a organizzazioni fasciste o neofasciste",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "terrorismo nero",
+              "trame nere"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Appartenente a tali organizzazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "processo contro un nero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , nella Firenze medievale: di fazione politica capeggiata dai Donati, difensori e fautori della politica papale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guelfi di parte nera"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "numismatica"
+            ],
+            "definitions": [
+              {
+                "glossa": "Numismatica , di moneta d’argento erosa o contenente una quantità di fino inferiore all’ordinario",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il colore dell’inchiostro, del carbone, della pece e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un nero corvino",
+              "il nero della notte",
+              "vestirsi sempre di nero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In segno di lutto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "biglietto listato di nero"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , il colore che risulta dall’assorbimento completo di ogni radiazione dello spettro solare; la sensazione visiva prodotta da tale colore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Parte nera di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il nero di uno sfondo",
+              "accentuare il nero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La pupilla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il nero degli occhi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sostanza che colora di nero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare il nero",
+              "dare una mano di nero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , nome di coloranti organici sintetici usati per tingere di nero; nome di pigmenti di colore scuro, che assorbono la quasi totalità delle radiazioni luminose",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "usage": "TS",
+        "field": "petrografia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Petrografia , nome di vari calcari o marmi di colore nero, usati come materiale decorativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nero del Carso",
+              "nero di Valencia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "usage": "TS",
+        "field": "metallurgia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Metallurgia , polvere finissima di carbone vegetale o animale usata per comporre terre argillose adatte alle formature per fonderia e per proteggere le forme",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , nell’industria del mercurio, deposito che si forma nei condensatori, costituito da polvere, fuliggine, catrame e minutissime gocce di mercurio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "In contrapposizione a , per indicare un’idea, un concetto o simile assolutamente opposto a un altro: spacciare una cosa per un’altra; capire una cosa per un’altra; sostiene l’esatto contrario; contraddirsi continuamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bianco",
+              "far credere il bianco per il nero",
+              "prendere nero per bianco",
+              "quando io dico bianco lui dice nero",
+              "dire oggi bianco e domani nero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia ; guelfo nero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "20a",
+        "usage": "TS",
+        "field": "maiuscolo",
+        "grammar": [
+          "sostantivo maschile",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, nella dama e negli scacchi, al , anche con iniziale maiuscolo , i pezzi di colore nero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere i neri"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche con iniziale maiuscolo , il giocatore che gioca con tali pezzi: abbr. N)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il nero muove e vince in tre mosse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20b",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, nella roulette, colore assegnato alla metà dei numeri, su cui si può puntare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giocare centomila sul nero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "usage": "TS",
+        "field": "tipografia",
+        "grammar": [
+          "sostantivo maschile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipografia , carattere tipografico di spessore intermedio tra il chiaro e il neretto; anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "carattere nero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Neretto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "22a",
+        "usage": "TS",
+        "field": "ragioneria",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ragioneria , in contabilità: attivo di un’impresa commerciale o industriale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "22b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Parte di entrate non contabilizzate, non dichiarate specialmente al fine di evadere le tasse",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare del nero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "usage": "TS",
+        "field": "termine generico di botanica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine generico di botanica ; fumaggine",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "usage": "TS",
+        "field": "araldica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Araldica , uno dei quattro colori principali, indicato nel tratteggio con linee orizzontali e verticali incrociate",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Senza un regolare contratto di lavoro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavorare in nero",
+              "essere pagati in nero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "economia",
+        "grammar": [
+          "locuzione aggettivale",
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia ; in attivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–11",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "12–24",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha il colore più scuro, privo di riflessione della luce visibile, opposto al bianco.",
+      "examples": [
+        "Indossava un elegante abito nero alla cerimonia.",
+        "Il gatto nero attraversò la strada davanti a noi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Di carnagione molto scura, riferito a persone di origine africana o afrodiscendente.",
+      "examples": [
+        "Il movimento per i diritti delle persone nere ha radici storiche profonde.",
+        "Nella serie televisiva recitano attori neri e bianchi insieme."
+      ],
+      "nota": "Il termine può essere neutro o connotato a seconda del contesto; in italiano contemporaneo è usato anche come autodefinizione identitaria."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito a situazione, periodo o stato d'animo caratterizzato da angoscia, pessimismo o grave difficoltà.",
+      "examples": [
+        "Sta attraversando un momento nero dopo la perdita del lavoro.",
+        "Le previsioni economiche per il prossimo anno sono piuttosto nere."
+      ],
+      "nota": "Uso figurato, in opposizione a sensi positivi come 'roseo' o 'luminoso'."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che è illegale, clandestino o sottratto al controllo ufficiale.",
+      "examples": [
+        "Molti lavoratori dell'edilizia sono assunti in nero.",
+        "Il mercato nero dei farmaci è un fenomeno preoccupante."
+      ],
+      "nota": "Frequente nelle espressioni 'lavoro in nero', 'mercato nero', 'economia nera'."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo all'ideologia fascista o di estrema destra.",
+      "examples": [
+        "Negli anni Venti si moltiplicarono le organizzazioni nere.",
+        "Alcune frange nere della tifoseria hanno causato disordini."
+      ],
+      "nota": "Deriva dal colore delle camicie fasciste; in italiano ha una connotazione politica specifica riferita al fascismo e ai movimenti neofascisti."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito a umorismo o genere narrativo che tratta temi cupi, violenti o macabri in chiave ironica o distaccata.",
+      "examples": [
+        "Adoro il cinema nero degli anni Quaranta.",
+        "Il suo umorismo nero non è adatto a tutti i palati."
+      ],
+      "nota": "Calco del francese 'humour noir' e dell'inglese 'film noir'; usato nelle espressioni 'film nero', 'romanzo nero', 'umorismo nero'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Il colore più scuro dello spettro cromatico, assenza di luce riflessa.",
+      "examples": [
+        "Il nero di questo vestito è perfetto per l'occasione.",
+        "L'artista usava il nero per creare forti contrasti nella sua pittura."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona di origine africana o afrodiscendente con carnagione molto scura.",
+      "examples": [
+        "La città accoglie da decenni una comunità di neri provenienti dall'Africa subsahariana.",
+        "La storia dei neri negli Stati Uniti è segnata da secoli di segregazione."
+      ],
+      "nota": "Il termine è accettato come neutro nel parlato contemporaneo, ma può risultare offensivo in certi contesti; va calibrato con attenzione pragmatica."
+    }
+  ]
+}

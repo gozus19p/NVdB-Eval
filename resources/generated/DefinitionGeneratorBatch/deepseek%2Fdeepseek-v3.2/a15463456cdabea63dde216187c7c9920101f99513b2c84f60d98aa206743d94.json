@@ -1,0 +1,170 @@
+{
+  "lemma": "risorsa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3869ad0a50d065d1a5"
+    },
+    "source": "paraviaXML/97952.xml",
+    "lemma": "risorsa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mezzo, espediente con cui è possibile provvedere a un bisogno, a una necessità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "risorse abbondanti",
+              "scarse",
+              "risorse materiali",
+              "economiche",
+              "disporre di molte risorse"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dote, morale o intellettuale, o abilità a cui una persona può fare ricorso nell’affrontare le situazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "risorse dell’ingegno",
+              "della fantasia",
+              "dell’esperienza"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha grandi capacità e spirito d’iniziativa o è molto abile nel trarsi d’impaccio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "persona di grandi risorse",
+              "piena di risorse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme dei mezzi e delle disponibilità produttive, che costituiscono fonte di ricchezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il turismo è la principale risorsa della regione",
+              "questo podere è una grande risorsa",
+              "risorse alimentari",
+              "energetiche",
+              "petrolifere",
+              "un paese dalle enormi risorse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia specialmente al , in un ambiente naturale, disponibilità di energia biologica che, assunta dalle singole specie sotto forma di cibo, soddisfa le loro esigenze alimentari",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , ciascuno degli elementi che costituiscono un sistema, come per esempio l’unità centrale, le memorie, le periferiche, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Mezzo materiale, finanziario o umano disponibile e utilizzabile per ottenere un fine.",
+      "examples": [
+        "La società ha investito tutte le sue risorse nel nuovo progetto.",
+        "Il paese deve imparare a gestire le sue risorse naturali in modo sostenibile."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Capacità personale di affrontare situazioni difficili o di risolvere problemi.",
+      "examples": [
+        "Ha trovato in se stesso le risorse per superare quel periodo buio.",
+        "Non avere fretta di arrenderti; hai ancora molte risorse da mettere in campo."
+      ],
+      "nota": "In questo senso, spesso usato al plurale per indicare qualità interiori o capacità di adattamento."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Elemento informativo, documento o servizio a cui si può accedere per ottenere conoscenze o assistenza.",
+      "examples": [
+        "Il sito web del ministero è un'ottima risorsa per trovare i moduli aggiornati.",
+        "La biblioteca mette a disposizione numerose risorse per gli studenti."
+      ],
+      "nota": "Tipico del linguaggio amministrativo, biblioteconomico e informatico."
+    }
+  ]
+}

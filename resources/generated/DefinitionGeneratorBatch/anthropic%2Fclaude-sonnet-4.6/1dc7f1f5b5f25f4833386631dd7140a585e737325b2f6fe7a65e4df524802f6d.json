@@ -1,0 +1,193 @@
+{
+  "lemma": "consegnare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafab69ad0a50d0662dcf"
+    },
+    "source": "paraviaXML/26240.xml",
+    "lemma": "consegnare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dare a un destinatario",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consegnare un pacco",
+              "una lettera"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Affidare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consegnare un ladro alla giustizia",
+              "consegnare i propri beni ad un buon amministratore"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Assegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consegnare un premio"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dare ad opera ultimata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consegnare un lavoro",
+              "una tesi",
+              "un compito in classe"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "figurato",
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Tramandare, specialmente un’opera scritta, d’arte e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consegnare alla memoria",
+              "alla fama"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "linguaggio militare",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguaggio militare , punire con la consegna",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Privare della libera uscita trattenendo in caserma per un eventuale stato d’allarme",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "scherzoso"
+            ],
+            "definitions": [
+              {
+                "glossa": "Assestare: Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "se hanno una coltellata da consegnare a uno, lo vanno ad aspettare fuori"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rimettere fisicamente qualcosa nelle mani di qualcuno, trasferendo il possesso o la custodia di un oggetto, un documento o una merce.",
+      "examples": [
+        "Il corriere ha consegnato il pacco direttamente al piano.",
+        "Devi consegnare i documenti all'ufficio entro venerdì."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Presentare o depositare un elaborato, un compito o un lavoro a chi ha il compito di valutarlo o raccoglierlo, entro un termine stabilito.",
+      "examples": [
+        "Gli studenti devono consegnare la tesina entro la fine del mese.",
+        "Ho consegnato il progetto in ritardo e il professore ha abbassato il voto."
+      ],
+      "nota": "Questo senso è frequente in contesti scolastici, accademici e professionali, dove l'atto di consegna è legato a una scadenza."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Affidare una persona alle autorità o a chi ha la responsabilità di tenerla in custodia, spesso un criminale o un prigioniero.",
+      "examples": [
+        "Il latitante si è consegnato spontaneamente alla polizia.",
+        "Il paese ha accettato di consegnare il sospettato alle autorità straniere."
+      ],
+      "nota": "In questo senso il verbo è spesso usato in forma riflessiva ('consegnarsi') quando il soggetto si arrende volontariamente."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Tramandare qualcosa alle generazioni successive o alla memoria collettiva, affidando un'eredità culturale, morale o storica.",
+      "examples": [
+        "Quell'episodio ci è stato consegnato dalla tradizione orale come un atto eroico.",
+        "I nonni ci hanno consegnato valori che cercheremo di non dimenticare."
+      ],
+      "nota": "Uso figurato, frequente in contesti formali, letterari o retorici."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "lemma": "pistola",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3c69ad0a50d065d515"
+    },
+    "source": "paraviaXML/83441.xml",
+    "lemma": "pistola",
+    "grammar": [
+      "s.f.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "secolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Arma da fuoco portatile corta, di peso e di ingombro limitati, da impugnarsi specialmente con una sola mano contro bersagli ravvicinati, apparsa verso la metà del secolo XVI per poi seguire l’evoluzione tecnica del fucile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è partito un colpo di pistola"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Qualsiasi attrezzo, congegno o strumento simile a tale arma per la forma o per il funzionamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pistola saldatrice"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Membro virile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "settentrionale",
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale settentrionale , persona poco intelligente e facile da ingannare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "aeronautica"
+            ],
+            "definitions": [
+              {
+                "glossa": "Aeronautica , gancio a scatto usato per trattenere un aliante quando si mettono in tensione i cavi di lancio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–3,5",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Arma da fuoco portatile a canna corta, progettata per essere impugnata con una mano e utilizzata a breve distanza.",
+      "examples": [
+        "Il rapinatore estrasse la pistola e intimò alla cassiera di consegnare i soldi.",
+        "I poliziotti erano tutti armati di pistola di ordinanza."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Strumento o dispositivo a forma di pistola, utilizzato per erogare o spruzzare sostanze liquide, gassose o altri materiali.",
+      "examples": [
+        "Il carrozziere ha verniciato il paraurti con la pistola a spruzzo.",
+        "Usa la pistola per il silicone per sigillare i bordi della finestra."
+      ],
+      "nota": "Rientra in questa accezione la pistola per la colla, la pistola sparachiodi, la pistola termica, ecc. Il senso è determinato dall'oggetto erogato o dalla funzione specifica."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In senso figurato e colloquiale, persona stravagante, originale o dal comportamento imprevedibile e bizzarro.",
+      "examples": [
+        "Tuo cugino è proprio una pistola, non si sa mai cosa si inventa.",
+        "Era una pistola, capace di presentarsi a una riunione formale in pigiama."
+      ],
+      "nota": "Uso colloquiale e informale, spesso con connotazione bonaria o affettuata. Equivale approssimativamente a 'tipo strano' o 'originale'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Nel linguaggio gergale giovanile, persona inetta, incapace o poco sveglia.",
+      "examples": [
+        "Non capisce niente di informatica, è proprio una pistola.",
+        "Come fai a sbagliare un compito così semplice? Sei una pistola!"
+      ],
+      "nota": "Questa accezione è opposta per connotazione a quella di 'persona originale': il contesto e l'intonazione permettono di disambiguare i due sensi figurati."
+    }
+  ]
+}

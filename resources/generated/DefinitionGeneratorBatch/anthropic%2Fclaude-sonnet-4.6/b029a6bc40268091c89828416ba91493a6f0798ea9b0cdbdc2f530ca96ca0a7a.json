@@ -1,0 +1,195 @@
+{
+  "lemma": "proseguire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc969ad0a50d06646ba"
+    },
+    "source": "paraviaXML/87918.xml",
+    "lemma": "proseguire",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Continuare senza interruzione l’azione o l’attività intrapresa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "proseguire il viaggio",
+              "l’attività intrapresa |"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Portare avanti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "proseguire un discorso",
+              "un ragionamento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo",
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": ") di qualcuno , andare avanti, procedere nell’azione intrapresa: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "proseguire nel cammino",
+              "negli studi",
+              "nella lettura",
+              "a causa dei fischi del pubblico l’oratore non riuscì a proseguire"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Continuare in un discorso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "«D’altronde siamo nuovi del posto!» proseguì l’amico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "O ) di qualcosa , non cessare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la protesta è proseguita per tutto il giorno",
+              "l’inseguimento dei banditi è proseguito fino al confine"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di mezzo di trasporto, continuare il tragitto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "da qui il treno prosegue per Napoli"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Continuare a muoversi in avanti lungo un percorso già intrapreso, senza fermarsi o cambiare direzione.",
+      "examples": [
+        "Dopo la sosta al bar, i escursionisti hanno proseguito lungo il sentiero di montagna.",
+        "Il treno prosegue per Milano senza fermate intermedie."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Continuare a svolgersi nel tempo senza interruzione, detto di un'attività, un evento o una situazione.",
+      "examples": [
+        "La riunione è proseguita fino a tarda sera senza raggiungere un accordo.",
+        "Nonostante le difficoltà, i lavori di restauro proseguono regolarmente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Portare avanti, continuare a svolgere o a compiere qualcosa che era stato iniziato o interrotto.",
+      "examples": [
+        "Ha deciso di proseguire gli studi universitari dopo una pausa di un anno.",
+        "Il giornalista ha proseguito l'indagine nonostante le pressioni ricevute."
+      ],
+      "nota": "In questo uso transitivo, il verbo è spesso intercambiabile con 'continuare' seguito da complemento oggetto, ma 'proseguire' tende a sottolineare la ripresa o il mantenimento della direzione già intrapresa."
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Riprendere a parlare o a esporre qualcosa dopo una pausa o un'interruzione.",
+      "examples": [
+        "Il professore fece una pausa, poi proseguì spiegando i dettagli del fenomeno.",
+        "«E quindi», proseguì lei, «non ho potuto fare a meno di dirgli la verità»."
+      ],
+      "nota": "Uso frequente nella narrativa e nel parlato per indicare la ripresa del discorso diretto o indiretto."
+    }
+  ]
+}

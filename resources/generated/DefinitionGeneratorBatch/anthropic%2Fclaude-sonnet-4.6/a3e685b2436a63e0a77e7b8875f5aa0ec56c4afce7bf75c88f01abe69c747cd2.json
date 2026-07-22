@@ -1,0 +1,207 @@
+{
+  "lemma": "obiettivo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064b1af"
+    },
+    "source": "paraviaXML/75103.xml",
+    "lemma": "obiettivo",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oggettivo, che si basa su fatti, su dati",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Imparziale, equanime, non influenzato da pregiudizi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giudizio",
+              "parere obiettivo",
+              "un giudice obiettivo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AD TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "ottica"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di alta disponibilità, tecnico- specialistico ottica , sistema ottico convergente, costituito da un gruppo di lenti o da una combinazione di specchi sferici, che fornisce di un oggetto un’immagine reale, rimpicciolita o ingrandita, osservabile direttamente o su una pellicola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "obiettivo per riprese telescopiche"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "AD",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Bersaglio o scopo di un’operazione militare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "centrare",
+              "mancare l’obiettivo",
+              "obiettivo della missione è la conquista della valle"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fine, meta che ci si propone di raggiungere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il suo obiettivo è di vincere il concorso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3,4",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Scopo o fine verso cui si indirizzano le proprie azioni o energie; traguardo da raggiungere.",
+      "examples": [
+        "Il nostro obiettivo è aumentare le vendite del 20% entro l'anno.",
+        "Devi fissarti degli obiettivi chiari se vuoi progredire nella carriera."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Elemento ottico di una fotocamera, telecamera o microscopio rivolto verso il soggetto da riprendere o osservare.",
+      "examples": [
+        "Ha acquistato un obiettivo grandangolare per fotografare i paesaggi.",
+        "Il microscopio è dotato di quattro obiettivi a diverso ingrandimento."
+      ],
+      "nota": "In fotografia, il termine è spesso usato come sinonimo di 'lente' o 'ottica'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In ambito militare o strategico, bersaglio o punto da colpire, conquistare o neutralizzare.",
+      "examples": [
+        "I soldati avanzarono verso l'obiettivo indicato dal comando.",
+        "Il ponte era considerato un obiettivo strategico fondamentale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che giudica o descrive la realtà in modo imparziale, senza lasciarsi influenzare da sentimenti, opinioni personali o pregiudizi.",
+      "examples": [
+        "Cerca di essere obiettivo quando valuti il lavoro dei tuoi colleghi.",
+        "Il giornalista ha offerto un'analisi obiettiva della situazione politica."
+      ],
+      "nota": "Si contrappone a 'soggettivo'. Frequente anche nella forma avverbiale derivata 'obiettivamente'."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che appartiene alla realtà esterna, indipendentemente dalla percezione o dall'interpretazione del soggetto; reale e verificabile.",
+      "examples": [
+        "I dati forniti costituiscono una prova obiettiva dell'accaduto.",
+        "Esistono difficoltà obiettive che non possiamo ignorare."
+      ],
+      "nota": "In questo senso si avvicina a 'oggettivo', con cui è intercambiabile nell'uso corrente."
+    }
+  ]
+}

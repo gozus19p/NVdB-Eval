@@ -1,0 +1,425 @@
+{
+  "lemma": "liquido",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064af3d"
+    },
+    "source": "paraviaXML/64017.xml",
+    "lemma": "liquido",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , di corpo fluido, che ha volume proprio ma assume la forma del recipiente che lo contiene, in contrapposizione a solido e a gassoso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fuso, liquefatto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "oro liquido",
+              "cera liquida"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di sostanza, sciolta, stemperata nell’acqua o in un qualche solvente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colla liquida",
+              "detersivo liquido"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Poco denso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "salsa",
+              "crema liquida"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Limpido, chiaro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "liquido fonte, | che mormorando cade giù dal monte"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Ariosto)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dell’aria, del cielo, sereno, terso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che avvampa, che si diffonde rapidamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un liquido sottile | fuoco che m’ardea la più algente bruma"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di voce, di suono, che ha un timbro puro, armonioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia , di obbligazione, di credito, eccetera , che è determinato nell’ammontare e incontrovertibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di impresa, che è esente da rischi di insolvenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "fonetica",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fonetica ; laterale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vibrante",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , corpo che in normali condizioni di pressione e temperatura si trova allo stato liquido",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "fisiologia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisiologia , fluido organico con funzioni fisiologiche",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "economia",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Economia specialmente al , denaro contante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non ho disponibilità di liquidi",
+              "manco di liquidi",
+              "pagare in liquidi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1–9",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "10–12",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha la capacità di scorrere e adattarsi alla forma del contenitore, senza avere una forma propria definita.",
+      "examples": [
+        "L'acqua è uno stato della materia liquido.",
+        "Versa il detersivo liquido nel secchio prima di aggiungere l'acqua."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che è facilmente convertibile in denaro contante.",
+      "examples": [
+        "Gli investimenti liquidi permettono di avere accesso rapido ai fondi.",
+        "Preferisco avere una parte del mio patrimonio in attività liquide."
+      ],
+      "nota": "Usato soprattutto in ambito finanziario ed economico."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che è chiaro, fluido e privo di ambiguità.",
+      "examples": [
+        "Il suo discorso era così liquido che tutti hanno capito subito il messaggio.",
+        "La spiegazione del professore era liquida e senza incertezze."
+      ],
+      "nota": "Uso figurato, spesso riferito a discorsi, ragionamenti o stili comunicativi."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Sostanza che scorre e si adatta alla forma del contenitore, caratterizzata da volume definito ma forma variabile.",
+      "examples": [
+        "Il bicchiere era pieno di un liquido trasparente.",
+        "Per preparare la soluzione, mescola i due liquidi in parti uguali."
+      ],
+      "nota": "In chimica e fisica, si distingue dai solidi e dai gas."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Denaro disponibile in forma immediatamente utilizzabile, come contanti o depositi bancari facilmente accessibili.",
+      "examples": [
+        "Dopo aver venduto la casa, ha avuto un bel po' di liquido da investire.",
+        "In questo momento non ho abbastanza liquido per pagare l'affitto."
+      ],
+      "nota": "Uso comune in contesti economici e finanziari."
+    }
+  ]
+}

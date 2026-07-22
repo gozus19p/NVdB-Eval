@@ -1,0 +1,119 @@
+{
+  "lemma": "festeggiare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb569ad0a50d066363d"
+    },
+    "source": "paraviaXML/43254.xml",
+    "lemma": "festeggiare",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Celebrare, onorare con una festa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "festeggiare una vittoria",
+              "un successo",
+              "una promozione",
+              "festeggiare un compleanno",
+              "un onomastico",
+              "un anniversario"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Accogliere qualcuno con manifestazioni di gioia e di affetto; fargli festa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "festeggiare un amico",
+              "un ospite",
+              "gli sposi",
+              "festeggiare un personaggio illustre"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") rallegrarsi, gioire, fare festa; divertirsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "oggi è il mio compleanno, bisogna festeggiare"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Celebrare con gioia, manifestazioni di allegria o cerimonie un evento lieto o una persona.",
+      "examples": [
+        "Hanno organizzato una grande cena per festeggiare il loro anniversario di matrimonio.",
+        "Tutta la squadra festeggiò la vittoria in campo con un'esultanza collettiva."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Accogliere o onorare qualcuno con espressioni di gioia e riconoscimento.",
+      "examples": [
+        "La città festeggiò l'eroe con una parata.",
+        "I colleghi lo festeggiarono per la sua promozione con un brindisi."
+      ],
+      "nota": null
+    }
+  ]
+}

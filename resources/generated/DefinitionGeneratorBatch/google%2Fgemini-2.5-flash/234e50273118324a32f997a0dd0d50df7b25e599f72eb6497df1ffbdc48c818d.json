@@ -1,0 +1,224 @@
+{
+  "lemma": "testimone",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf9869ad0a50d0661f4a"
+    },
+    "source": "paraviaXML/120094.xml",
+    "lemma": "testimone",
+    "grammar": [
+      "s.m. e f.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi assiste a un fatto o ne ha una conoscenza diretta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono stato testimone del loro accordo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , chi è chiamato a deporre in un processo su ciò di cui è a conoscenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi assiste a un atto pubblico e lo sottoscrive insieme alle parti e a un pubblico ufficiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere testimone alla firma di un contratto",
+              "fare da testimone alle nozze"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Indizio, documento, prova",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tracce del passato testimoni di una fiorente civiltà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nelle gare a staffetta, il piccolo bastone che i concorrenti si devono passare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "geologia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica mineraria geologia ; carota",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "filologia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filologia , copia di un’opera il cui originale è andato perduto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2a",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2b–5",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile/femminile",
+      "definition": "Persona che ha assistito direttamente o indirettamente a un fatto o a un evento e può riferirne la conoscenza.",
+      "examples": [
+        "Il testimone oculare ha fornito una descrizione dettagliata del veicolo in fuga.",
+        "Prima di firmare il contratto, abbiamo bisogno di due testimoni che attestino la veridicità delle firme."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile/femminile",
+      "definition": "Persona che è chiamata a deporre davanti a un'autorità giudiziaria per riferire fatti pertinenti a un processo.",
+      "examples": [
+        "La corte ha ascoltato la deposizione di tutti i testimoni prima di emettere la sentenza.",
+        "Il pubblico ministero ha convocato diversi testimoni chiave per supportare l'accusa."
+      ],
+      "nota": "Questo senso si riferisce specificamente al ruolo in ambito legale."
+    },
+    {
+      "pos": "sostantivo maschile/femminile",
+      "definition": "Qualcosa che attesta, dimostra o ricorda l'esistenza di un fatto, una persona o un'epoca.",
+      "examples": [
+        "Quelle rovine antiche sono silenziose testimoni di un'antica civiltà scomparsa.",
+        "Il suo diario è un prezioso testimone dei cambiamenti sociali avvenuti in quel periodo storico."
+      ],
+      "nota": "Uso figurato per indicare un oggetto o un documento che serve da prova o ricordo."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Oggetto di forma cilindrica che gli atleti di una staffetta devono passarsi di mano in mano durante la gara.",
+      "examples": [
+        "Il corridore ha ricevuto il testimone con un'ottima transizione, senza perdere velocità.",
+        "La caduta del testimone ha compromesso le possibilità di vittoria della squadra."
+      ],
+      "nota": "Sempre al maschile, anche quando l'oggetto è maneggiato da atlete."
+    }
+  ]
+}

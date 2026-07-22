@@ -1,0 +1,130 @@
+{
+  "lemma": "progetto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2769ad0a50d065c40f"
+    },
+    "source": "paraviaXML/87471.xml",
+    "lemma": "progetto",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Piano organico e dettagliato per l’esecuzione di un lavoro e lo svolgimento di un’attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "progetto di riforma scolastica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Documentazione tecnica di tale piano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esaminare",
+              "approvare un progetto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Elaborato tecnico per l’attuazione di un’opera di ingegneria civile, di urbanistica, di restauro, eccetera , costituito da una relazione descrittiva, dai disegni, dai calcoli e da un preventivo di spesa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "progetto di massima",
+              "definitivo",
+              "il progetto di una villa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Idea, proposito, intenzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che progetti avete per le vacanze?"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Insieme organizzato di idee, piani e azioni finalizzato alla realizzazione di un'opera o al raggiungimento di un obiettivo specifico.",
+      "examples": [
+        "Il comune ha approvato il progetto per la nuova pista ciclabile.",
+        "Stiamo lavorando a un progetto di ricerca sull'intelligenza artificiale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Bozza o disegno tecnico che rappresenta le caratteristiche di un'opera da realizzare.",
+      "examples": [
+        "L'architetto ha presentato il progetto della casa in scala 1:100.",
+        "Prima di costruire, dobbiamo preparare un progetto dettagliato."
+      ],
+      "nota": "Spesso usato in ambito tecnico, ingegneristico o architettonico."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Intenzione o proposito di fare qualcosa in futuro.",
+      "examples": [
+        "Ho il progetto di trasferirmi all'estero entro l'anno prossimo.",
+        "I suoi progetti per le vacanze estive includono un viaggio in Giappone."
+      ],
+      "nota": "In questo senso, può essere usato anche al plurale per indicare piani generali o aspirazioni."
+    }
+  ]
+}

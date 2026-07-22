@@ -1,0 +1,160 @@
+{
+  "lemma": "determinare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafae69ad0a50d066309d"
+    },
+    "source": "paraviaXML/32167.xml",
+    "lemma": "determinare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stabilire, definire con precisione ed esattezza: calcolare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "determinare i confini di un campo",
+              "determinare le tappe di un viaggio",
+              "determinare il nocciolo della questione",
+              "determinare l’area del poligono",
+              "il prezzo di un prodotto",
+              "determinare il tasso di glicemia nel sangue"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fissare in base a un accordo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "determinare le modalità di un contratto"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Classificare in base a categorie sistematiche: identificare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "determinare il genere di una pianta",
+              "di un animale",
+              "con l’ecografia si può determinare il sesso del nascituro",
+              "determinare il gruppo sanguigno di un individuo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Causare, provocare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la crisi sta determinando un aumento della disoccupazione",
+              "il maltempo ha determinato il rinvio del viaggio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indurre a prendere una decisione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le buone prospettive di lavoro ci hanno determinati a trasferirci all’estero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Decidere, deliberare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "hanno determinato di rivolgersi a un avvocato"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "stabilire con certezza, decidere",
+      "examples": [
+        "La giuria deve determinare il vincitore del premio.",
+        "Il test determinerà se sei idoneo per il lavoro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "individuare, identificare",
+      "examples": [
+        "Gli scienziati hanno determinato la causa del fenomeno.",
+        "La perizia determinerà l'origine dell'artefatto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "prendere una decisione, risolversi",
+      "examples": [
+        "Dopo lunga riflessione, ha determinato di cambiare lavoro.",
+        "Il team ha determinato di procedere con il progetto."
+      ],
+      "nota": null
+    }
+  ]
+}

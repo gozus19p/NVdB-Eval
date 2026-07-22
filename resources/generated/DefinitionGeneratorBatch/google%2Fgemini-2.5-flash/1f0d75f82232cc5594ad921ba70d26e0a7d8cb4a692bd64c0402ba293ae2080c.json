@@ -1,0 +1,90 @@
+{
+  "lemma": "insegnante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6269ad0a50d06520ec"
+    },
+    "source": "paraviaXML/57710.xml",
+    "lemma": "insegnante",
+    "grammar": [
+      "p.pres.",
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio presente",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi insegna, specialmente per professione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "insegnante di lettere",
+              "insegnante di nuoto",
+              "di liceo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona che svolge la professione di trasmettere conoscenze e competenze, educando gli altri, specialmente in un contesto scolastico o accademico.",
+      "examples": [
+        "La sua insegnante di matematica era molto apprezzata dagli studenti per la sua chiarezza.",
+        "Mio fratello aspira a diventare un insegnante di storia all'università."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha la funzione o lo scopo di trasmettere nozioni e abilità.",
+      "examples": [
+        "Ha un ruolo insegnante all'interno della comunità, guidando i più giovani.",
+        "Il suo atteggiamento insegnante ha aiutato molti a superare le proprie difficoltà."
+      ],
+      "nota": null
+    }
+  ]
+}

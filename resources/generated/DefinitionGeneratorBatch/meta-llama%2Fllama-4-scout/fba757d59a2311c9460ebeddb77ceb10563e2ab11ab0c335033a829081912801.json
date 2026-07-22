@@ -1,0 +1,132 @@
+{
+  "lemma": "stipendio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5a69ad0a50d065ee35"
+    },
+    "source": "paraviaXML/115073.xml",
+    "lemma": "stipendio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Retribuzione fissa, per lo più mensile corrisposta a chi presta subordinatamente un lavoro di concetto o, impropriamente, un lavoro manuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo stipendio viene pagato il 27 del mese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’ammontare della retribuzione stessa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con il suo stipendio non arriva alla fine del mese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , in Roma antica, la paga corrisposta alle truppe mercenarie",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , compenso che un signore o un principe concedeva a chi lavorava alle sue dipendenze",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "termine ecclesiastico",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine ecclesiastico , elemosina offerta a una chiesa perché celebri una funzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Somma di denaro corrisposta regolarmente a un lavoratore in cambio del suo lavoro",
+      "examples": [
+        "Il mio stipendio mensile è di 3000 euro.",
+        "Gli stipendi dei dipendenti pubblici sono aumentati del 5%"
+      ],
+      "nota": null
+    }
+  ]
+}

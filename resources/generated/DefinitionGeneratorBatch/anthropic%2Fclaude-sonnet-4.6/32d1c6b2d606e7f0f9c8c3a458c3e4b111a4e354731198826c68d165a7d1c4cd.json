@@ -1,0 +1,114 @@
+{
+  "lemma": "figlia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec669ad0a50d06573ee"
+    },
+    "source": "paraviaXML/43609.xml",
+    "lemma": "figlia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Figlio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Amministrazione burocrazia , cedola di ricevuta, bollettario e simile che si stacca",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filiale, succursale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2,3",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Persona di sesso femminile considerata nel suo rapporto di discendenza diretta rispetto a un genitore o a entrambi i genitori.",
+      "examples": [
+        "Mia figlia ha compiuto diciotto anni la settimana scorsa.",
+        "La figlia maggiore si è trasferita all'estero per lavoro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Persona di sesso femminile considerata come espressione, prodotto o rappresentante di un luogo, un'epoca, una cultura o una tradizione.",
+      "examples": [
+        "Elena Ferrante è considerata una figlia autentica di Napoli.",
+        "Quella pittrice è figlia del Novecento e dei suoi fermenti artistici."
+      ],
+      "nota": "Uso figurato che estende il rapporto di derivazione biologica a un legame simbolico o culturale."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Forma di allocuzione affettuosa o paternalistica rivolta a una donna più giovane, anche in assenza di legame familiare.",
+      "examples": [
+        "«Stai tranquilla, figlia mia, andrà tutto bene», le disse la vicina di casa.",
+        "Il vecchio sacerdote la chiamava sempre «figlia» con tono benevolo."
+      ],
+      "nota": "Spesso accompagnato dal possessivo «mia». Può assumere una sfumatura paternalistica a seconda del contesto."
+    }
+  ]
+}

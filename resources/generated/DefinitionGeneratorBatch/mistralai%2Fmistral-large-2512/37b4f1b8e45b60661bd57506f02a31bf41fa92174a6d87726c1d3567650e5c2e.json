@@ -1,0 +1,202 @@
+{
+  "lemma": "sforzo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4c69ad0a50d065e1dc"
+    },
+    "source": "paraviaXML/107359.xml",
+    "lemma": "sforzo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impiego di forze e di risorse superiori al normale, specialmente allo scopo di ottenere un determinato risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sforzo fisico",
+              "mentale",
+              "costare molti sforzi",
+              "non richiedere alcuno sforzo",
+              "è necessario un notevole sforzo per riuscire in ciò",
+              "i suoi sforzi sono stati premiati",
+              "fai uno s., vieni anche tu!"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con difficoltà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con sforzo"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Senza difficoltà, facilmente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "senza sforzo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Azione che non richiede alcuna fatica o impegno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bello s.!",
+              "che sforzo studiare due pagine!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "medicina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina , lavoro muscolare svolto senza i necessari intervalli di riposo e protratto anche dopo la comparsa della sensazione di fatica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lesione da sforzo",
+              "elettrocardiogramma effettuato sotto sforzo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "esempio",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , sollecitazione generata dall’esterno su un solido, ad esempio su un elemento di una struttura o su un componente di una macchina",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sforzo di trazione",
+              "di compressione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nella scherma, azione che tende a deviare al massimo l’arma dell’avversario dalla linea di attacco",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Impiego intenso di energia fisica o mentale per compiere un'azione o raggiungere un obiettivo.",
+      "examples": [
+        "Ha fatto uno sforzo enorme per sollevare quella cassa.",
+        "Lo sforzo di concentrazione durante l'esame lo ha stancato molto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Tensione muscolare o fisica eccessiva che può causare dolore o affaticamento.",
+      "examples": [
+        "Dopo la corsa sento uno sforzo ai polpacci.",
+        "Evita di fare sforzi eccessivi con quella spalla infortunata."
+      ],
+      "nota": "Spesso usato in contesti medici o sportivi per indicare un sovraccarico fisico."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Tentativo impegnativo o sacrificio compiuto per superare una difficoltà o raggiungere uno scopo.",
+      "examples": [
+        "Grazie allo sforzo di tutti, siamo riusciti a finire il progetto in tempo.",
+        "Il governo ha promesso uno sforzo maggiore per ridurre la disoccupazione."
+      ],
+      "nota": "Può essere usato in contesti collettivi o individuali, spesso con una connotazione positiva di impegno."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Condizione di tensione o pressione esercitata su qualcosa, spesso con il rischio di danneggiarla.",
+      "examples": [
+        "Questo ponte non reggerà a uno sforzo così intenso.",
+        "Il materiale è stato sottoposto a uno sforzo prolungato e si è deformato."
+      ],
+      "nota": "Usato prevalentemente in ambiti tecnici o ingegneristici."
+    }
+  ]
+}

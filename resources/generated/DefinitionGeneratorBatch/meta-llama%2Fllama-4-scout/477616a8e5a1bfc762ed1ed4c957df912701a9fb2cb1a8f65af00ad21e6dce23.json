@@ -1,0 +1,101 @@
+{
+  "lemma": "fretta",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaecc69ad0a50d065791f"
+    },
+    "source": "paraviaXML/46144.xml",
+    "lemma": "fretta",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Desiderio o bisogno di concludere con grande rapidità ciò che si sta facendo o che si sta per fare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere fretta",
+              "non esserci fretta",
+              "dimenticare qcs. nella fretta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sollecitarlo a sbrigarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "mettere fretta a qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rapidità negli atti, nei movimenti e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare",
+              "mangiare con fretta",
+              "camminare con molta fretta"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Stato di urgenza, bisogno di fare qualcosa velocemente",
+      "examples": [
+        "Ho tanta fretta di finire questo lavoro.",
+        "La fretta di arrivare in tempo gli ha fatto prendere la tangenziale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Atteggiamento affrettato, precipitoso",
+      "examples": [
+        "La sua fretta nel prendere decisioni gli ha fatto commettere errori.",
+        "Non bisogna giudicare con fretta, bisogna riflettere."
+      ],
+      "nota": null
+    }
+  ]
+}

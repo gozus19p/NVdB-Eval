@@ -1,0 +1,329 @@
+{
+  "lemma": "possibile",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0669ad0a50d064b374"
+    },
+    "source": "paraviaXML/85449.xml",
+    "lemma": "possibile",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che può accadere, che si può verificare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fatto",
+              "evento possibile",
+              "valutare i rischi",
+              "le conseguenze possibili"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "impersonale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con uso neutro, in costruzioni impersonale ; anche con verbo sottinteso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è possibile che domani io parta",
+              "è possibile che fra poco piova",
+              "«Verrai domani?» «P.»"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per esprimere stupore, incredulità o, anche, disappunto, riprovazione, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "p.?",
+              "è mai p.?",
+              "come è p.?",
+              "«Non ha ancora telefonato» «P.?»",
+              "possibile che tu non abbia ancora capito?"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per negare o porre in dubbio un fatto o, anche, per esprimere disappunto, riprovazione, stizza, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non è p.!",
+              "ma non è p.!",
+              "«Lo hanno bocciato di nuovo» «Ma non è p.!»",
+              "«Ti ho cercato a casa ma non ti ho trovato» «Non è p.!»"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che può essere vero, in quanto di per sé non implica contraddizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questa è l’unica spiegazione possibile",
+              "fornire un alibi possibile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che può essere fatto o conseguito, in quanto non contrasta con i limiti dell’umana capacità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "progetto",
+              "impresa possibile"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che si può fare, che si può dire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "possibile a farsi",
+              "a dirsi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Afforzativo in relazione ad aggettivi o avverbi di grado comparativo o superlativo relativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sarò di ritorno il più presto possibile",
+              "ho cercato di svolgere il lavoro nel miglior modo possibile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nfatico, in relazione ad aggettivi indefiniti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho considerato ogni possibile soluzione",
+              "ha provato tutti i mestieri possibili e immaginabili"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Accettabile, passabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "filosofia",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , che esiste in potenza, che è potenziale e destinato a divenire",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , ciò che può essere, che può verificarsi, che può accadere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la sfera del possibile"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che può essere fatto nei limiti delle capacità umane",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "credimi, ho fatto il possibile",
+              "tutto il possibile",
+              "cercheremo di aiutarlo, nei limiti del possibile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1–4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che può essere fatto o accadere",
+      "examples": [
+        "È possibile che arrivi domani.",
+        "Non è possibile che non lo sappia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Circostanza o evento che può accadere",
+      "examples": [
+        "Il possibile è stato fatto, ora bisogna aspettare.",
+        "Tutto il possibile è stato fatto per risolvere il problema."
+      ],
+      "nota": null
+    }
+  ]
+}

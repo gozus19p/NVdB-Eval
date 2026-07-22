@@ -1,0 +1,81 @@
+{
+  "lemma": "edicola",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb869ad0a50d06568cc"
+    },
+    "source": "paraviaXML/37528.xml",
+    "lemma": "edicola",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Architettura , piccola costruzione contenente un’immagine sacra, una statua e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’edicola con molti ex voto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chiosco, specialmente per la vendita dei giornali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Struttura architettonica di piccole dimensioni, spesso contenente una statua o un'immagine sacra",
+      "examples": [
+        "L'edicola votiva si trova all'angolo della strada.",
+        "La chiesa ha diverse edicole decorative lungo le navate laterali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Chiosco o cabina dove si vendono giornali e riviste",
+      "examples": [
+        "Comprai il giornale dell'edicola qui vicino.",
+        "L'edicolante è sempre molto informato sugli eventi locali."
+      ],
+      "nota": null
+    }
+  ]
+}

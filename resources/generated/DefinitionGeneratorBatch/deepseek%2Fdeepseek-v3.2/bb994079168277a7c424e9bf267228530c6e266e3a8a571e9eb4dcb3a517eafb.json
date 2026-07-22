@@ -1,0 +1,202 @@
+{
+  "lemma": "operazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0c69ad0a50d065ae46"
+    },
+    "source": "paraviaXML/76451.xml",
+    "lemma": "operazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’operare e il suo risultato, azione, procedimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "infilare un ago non è un’operazione facilissima"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di atti volti a un fine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’abile operazione di marketing",
+              "operazione finanziaria",
+              "economica",
+              "commerciale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "medicina"
+            ],
+            "definitions": [
+              {
+                "glossa": "Medicina ; intervento chirurgico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "linguaggio militare",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguaggio militare , insieme di attività e avvenimenti militari sia in tempo bellico che in tempo di pace",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operazione navale",
+              "aerea",
+              "operazione difensiva",
+              "offensiva"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Serie di azioni o iniziative coordinate di vasta portata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operazione mare pulito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , processo che da uno o più enti noti permette di ottenerne un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Operazione aritmetica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Procedura medica eseguita chirurgicamente sul corpo di una persona o di un animale",
+      "examples": [
+        "Il chirurgo ha eseguito un'operazione delicata al cuore.",
+        "Dopo l'operazione, il paziente dovrà seguire un periodo di riabilitazione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Procedura complessa o progetto di natura militare, poliziesca o strategica",
+      "examples": [
+        "L'esercito ha lanciato un'operazione di soccorso nella zona del disastro.",
+        "La polizia ha condotto un'operazione antidroga in pieno centro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Procedura di calcolo o di trasformazione secondo regole matematiche, logiche o finanziarie",
+      "examples": [
+        "Le operazioni aritmetiche di base sono addizione, sottrazione, moltiplicazione e divisione.",
+        "La banca ha registrato migliaia di operazioni bancarie in un solo giorno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Insieme delle attività e delle procedure necessarie per far funzionare un sistema, un'azienda o un'attività",
+      "examples": [
+        "Il responsabile delle operazioni ha ottimizzato il flusso di lavoro.",
+        "Le operazioni quotidiane dell'azienda proseguono senza intoppi."
+      ],
+      "nota": null
+    }
+  ]
+}

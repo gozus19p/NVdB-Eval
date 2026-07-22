@@ -1,0 +1,63 @@
+{
+  "lemma": "utilizzare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe969ad0a50d06660fe"
+    },
+    "source": "paraviaXML/125439.xml",
+    "lemma": "utilizzare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "utilizzare-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impiegare utilmente, usare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "utilizzare gli avanzi",
+              "utilizzare i ritagli di tempo",
+              "utilizzare un tecnico",
+              "un professionista",
+              "un esperto"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "impiegare qualcosa per uno scopo",
+      "examples": [
+        "utilizzare un attrezzo per fare un lavoro",
+        "utilizzare un software per gestire i dati"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "essere utile o funzionale",
+      "examples": [
+        "questa applicazione non serve più, non si utilizza da anni",
+        "il vecchio sistema di gestione non si utilizza più"
+      ],
+      "nota": null
+    }
+  ]
+}

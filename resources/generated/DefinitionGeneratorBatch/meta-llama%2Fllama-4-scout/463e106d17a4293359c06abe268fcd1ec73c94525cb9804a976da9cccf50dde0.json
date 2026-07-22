@@ -1,0 +1,82 @@
+{
+  "lemma": "ristorante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3869ad0a50d065d1cd"
+    },
+    "source": "paraviaXML/98171.xml",
+    "lemma": "ristorante",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "ristorante-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Locale pubblico in cui si cucinano, si servono e si consumano ai tavoli pasti completi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ristorante di lusso",
+              "tipico",
+              "cinese",
+              "messicano",
+              "andare",
+              "cenare al ristorante"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "albergo",
+              "caffè ristorante"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Locale dove si servono pasti e bevande",
+      "examples": [
+        "Il ristorante è chiuso la domenica.",
+        "Ho prenotato un tavolo al ristorante per stasera."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Locale specializzato nella preparazione e servizio di pasti a pagamento",
+      "examples": [
+        "Il ristorante di sushi è molto popolare.",
+        "Il ristorante offre una vista panoramica sulla città."
+      ],
+      "nota": null
+    }
+  ]
+}

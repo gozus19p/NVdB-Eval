@@ -1,0 +1,166 @@
+{
+  "lemma": "smettere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafdf69ad0a50d06658c5"
+    },
+    "source": "paraviaXML/109411.xml",
+    "lemma": "smettere",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sospendere, cessare temporaneamente o definitivamente ciò che si sta facendo o dicendo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "smettere una discussione",
+              "un lavoro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "impersonale"
+            ],
+            "definitions": [
+              {
+                "glossa": "E l’infinito: anche impersonale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "di",
+              "smettere di ridere",
+              "di lavorare",
+              "non smette di piovere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettere da parte, abbandonare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "smettere un comportamento",
+              "un atteggiamento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cessare di usare perché vecchio, consunto, fuori moda e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "smettere un vestito",
+              "un paio di scarpe"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "regionale",
+              "toscano"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale toscano , disfarsi della casa e della mobilia per trasferirsi presso altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "smettere casa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "O terminare, finire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la pioggia non smette da due giorni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo, intransitivo (ausiliare avere) e transitivo",
+      "definition": "Interrompere lo svolgimento di un'azione, sospendere o abbandonare definitivamente un'attività, un'abitudine o un comportamento",
+      "examples": [
+        "Smetti di lamentarti e cerca una soluzione concreta.",
+        "Dopo trent'anni di servizio ha deciso di smettere il lavoro e trasferirsi in montagna.",
+        "Finalmente ha smesso di piovere, possiamo uscire a fare due passi."
+      ],
+      "nota": "La costruzione intransitiva con la preposizione 'di' è oggi dominante; la reggenza transitiva si conserva specialmente con nomi di attività prolungate, vizi o occupazioni (es. lavoro, gioco, fumo). Richiede sempre l'ausiliare 'avere'."
+    }
+  ]
+}

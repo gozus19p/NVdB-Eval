@@ -1,0 +1,145 @@
+{
+  "lemma": "frase",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaecb69ad0a50d06578a6"
+    },
+    "source": "paraviaXML/45894.xml",
+    "lemma": "frase",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Espressione linguistica dotata di senso compiuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "frase interrogativa",
+              "frase esclamativa",
+              "imperativa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , sequenza di lessemi o, secondo un’altra terminologia, di morfi, specialmente sintatticamente connessi, prevista dal sistema linguistico e tale da poter essere realizzata dando luogo a un enunciato di senso compiuto e da risultare relativamente indipendente da altre eventuali sequenze di uno stesso testo o di uno scambio dialogico; nella grammatica generativa, unione di un sintagma nominale e di un sintagma verbale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Espressione, locuzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una frase gentile",
+              "senza senso",
+              "di circostanza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , parte del discorso musicale costituita dall’ordinato raggruppamento di più nuclei melodici e avente senso più o meno compiuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , successione finita di simboli che rappresenta un’istruzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sequenza di parole dotata di senso compiuto e organizzata intorno a un predicato verbale o nominale, che forma un'unità sintattica indipendente ed esprime un pensiero o un'informazione completa.",
+      "examples": [
+        "Ho costruito una frase complessa per illustrare il concetto.",
+        "Il bambino ha imparato a formulare le prime frasi di senso compiuto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Uso figurato di una breve espressione linguistica, spesso stereotipata o di impatto, che viene pronunciata o scritta in un contesto specifico per comunicare un'idea o un'emozione in modo conciso.",
+      "examples": [
+        "Quella frase del suo discorso mi ha colpito molto.",
+        "Ha lasciato una frase enigmatiche sul tavolo prima di andarsene."
+      ],
+      "nota": "Si riferisce a espressioni che non sono necessariamente complete dal punto di vista grammaticale, ma che veicolano un messaggio o un'intenzione."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In ambito musicale, una successione di note che costituisce un'unità melodica o ritmica riconoscibile e che può essere parte di un tema più ampio.",
+      "examples": [
+        "Il compositore ha ripetuto la stessa frase musicale più volte con variazioni.",
+        "Quella breve frase al pianoforte introduceva il tema principale della sinfonia."
+      ],
+      "nota": null
+    }
+  ]
+}

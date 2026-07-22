@@ -1,0 +1,133 @@
+{
+  "lemma": "commissario",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9f69ad0a50d06553da"
+    },
+    "source": "paraviaXML/24759.xml",
+    "lemma": "commissario",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Funzionario addetto all’amministrazione straordinaria di enti, organismi, imprese e simile , con competenze solitamente proprie di organi collegiali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi è incaricato, in via temporanea o permanente, di una determinata funzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Membro di una commissione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commissario di concorso",
+              "d’esami"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nella polizia di stato, chi riveste il primo grado dei funzionari dirigenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel vecchio ordinamento di polizia, il dirigente di un commissariato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Persona che riceve mandato per svolgere una funzione o compito specifico, spesso con poteri di controllo o di gestione.",
+      "examples": [
+        "Il commissario europeo ha presentato la proposta di legge.",
+        "Il governo ha nominato un commissario per gestire la crisi finanziaria dell'azienda."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Titolo di un ufficiale di polizia con funzioni di comando e coordinamento.",
+      "examples": [
+        "Il commissario di polizia ha interrogato il sospettato.",
+        "Il commissario capo ha supervisionato le indagini."
+      ],
+      "nota": null
+    }
+  ]
+}

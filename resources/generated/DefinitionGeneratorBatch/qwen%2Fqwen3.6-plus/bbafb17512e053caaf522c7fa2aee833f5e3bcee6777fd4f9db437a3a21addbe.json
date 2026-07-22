@@ -1,0 +1,222 @@
+{
+  "lemma": "unire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe969ad0a50d06660df"
+    },
+    "source": "paraviaXML/124936.xml",
+    "lemma": "unire",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Collegare, mettere insieme due o più elementi, in modo che costituiscano o appaiano un tutto unico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "unire dei pezzi metallici",
+              "delle assi di legno",
+              "fare una sola tavolata unendo i tavolini"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Farne uno solo abbattendo le pareti divisorie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "unire due appartamenti"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fondare in una sola entità, specialmente politica o economica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "unire due stati in una sola nazione",
+              "unire due società",
+              "unire due gruppi di persone"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Incorporare, mescolare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "unire l’acqua alla calce",
+              "unire l’uovo sbattuto all’impasto"
+            ]
+          },
+          {
+            "number": 7,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Allegare, includere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "unire al curriculum una lettera di accompagnamento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fondere, associare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dobbiamo unire le nostre forze se vogliamo ottenere dei risultati"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Possedere contemporaneamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "unire bellezza a intelligenza"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere in comune",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "li unisce la passione per il teatro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Legare con un vincolo morale o legale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono uniti da una grande amicizia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Collegare, congiungere due o più elementi distanti tra loro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "unire due città con un ponte",
+              "unire due punti con una linea"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Mettere insieme due o più oggetti o parti in modo che formino un tutto coerente o siano fisicamente collegati.",
+      "examples": [
+        "Ha unito i due capi del filo con un nodo molto stretto.",
+        "Il nuovo ponte unisce le due sponde del fiume evitando lunghe deviazioni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Far coesistere nello stesso contesto o nella stessa entità qualità, caratteristiche o elementi di natura diversa.",
+      "examples": [
+        "Quel designer sa unire perfettamente eleganza classica e innovazione tecnologica.",
+        "La ricerca medica cerca di unire efficacia terapeutica e riduzione degli effetti collaterali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Stabilire o rafforzare un legame affettivo, ideale o di collaborazione tra persone o gruppi, superando eventuali divisioni.",
+      "examples": [
+        "La vittoria della squadra nazionale ha unito tutto il paese per giorni.",
+        "Gli anni trascorsi all'estero li hanno uniti ancora di più dopo il ritorno."
+      ],
+      "nota": null
+    }
+  ]
+}

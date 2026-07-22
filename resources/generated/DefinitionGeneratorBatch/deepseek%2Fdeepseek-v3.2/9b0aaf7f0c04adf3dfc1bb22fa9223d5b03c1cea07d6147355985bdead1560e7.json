@@ -1,0 +1,111 @@
+{
+  "lemma": "cibo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9969ad0a50d0654edf"
+    },
+    "source": "paraviaXML/22276.xml",
+    "lemma": "cibo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che si mangia, che serve all’alimentazione umana e animale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la leonessa ha procurato il cibo ai suoi cuccioli",
+              "cibo per gatti",
+              "cibi surgelati",
+              "cibo nutriente"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che è preparato per essere mangiato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la pasta è un cibo sano",
+              "tavola imbandita di cibi prelibati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nutrimento spirituale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la verità è il cibo del filosofo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Momento del pasto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo, m.",
+      "definition": "Sostanza commestibile che si assume per nutrirsi e mantenere le funzioni vitali dell'organismo.",
+      "examples": [
+        "Per la cena abbiamo preparato un cibo semplice e genuino.",
+        "Il frigorifero era pieno di cibo fresco."
+      ],
+      "nota": null
+    }
+  ]
+}

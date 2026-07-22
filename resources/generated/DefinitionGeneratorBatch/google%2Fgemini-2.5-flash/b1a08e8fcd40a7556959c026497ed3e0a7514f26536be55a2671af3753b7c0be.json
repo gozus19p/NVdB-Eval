@@ -1,0 +1,73 @@
+{
+  "lemma": "telefonata",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6369ad0a50d065f53f"
+    },
+    "source": "paraviaXML/118999.xml",
+    "lemma": "telefonata",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "telefonata-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chiamata, comunicazione fatta per mezzo del telefono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare una telefonata"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conversazione telefonica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una telefonata di mezz’ora",
+              "una telefonata interurbana"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Comunicazione vocale che avviene a distanza mediante un apparecchio telefonico.",
+      "examples": [
+        "Ho ricevuto una telefonata importante poco fa.",
+        "La telefonata è caduta proprio sul più bello."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "L'atto di chiamare qualcuno al telefono.",
+      "examples": [
+        "Devo fare una telefonata per prenotare il ristorante.",
+        "Mi ha chiesto di richiamarla dopo la sua telefonata."
+      ],
+      "nota": null
+    }
+  ]
+}

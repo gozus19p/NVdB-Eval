@@ -1,0 +1,141 @@
+{
+  "lemma": "stipendio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5a69ad0a50d065ee35"
+    },
+    "source": "paraviaXML/115073.xml",
+    "lemma": "stipendio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Retribuzione fissa, per lo più mensile corrisposta a chi presta subordinatamente un lavoro di concetto o, impropriamente, un lavoro manuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo stipendio viene pagato il 27 del mese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’ammontare della retribuzione stessa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con il suo stipendio non arriva alla fine del mese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , in Roma antica, la paga corrisposta alle truppe mercenarie",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , compenso che un signore o un principe concedeva a chi lavorava alle sue dipendenze",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "termine ecclesiastico",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine ecclesiastico , elemosina offerta a una chiesa perché celebri una funzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Retribuzione periodica, solitamente mensile, corrisposta a un lavoratore dipendente per l'attività svolta.",
+      "examples": [
+        "Il mio stipendio è appena sufficiente per coprire le spese mensili.",
+        "Dopo anni di lavoro, ha finalmente ottenuto uno stipendio adeguato alle sue responsabilità."
+      ],
+      "nota": "Può riferirsi sia a retribuzioni pubbliche che private. In contesti informali, è talvolta usato come sinonimo di 'salario', sebbene quest'ultimo sia più comune per lavori manuali o a ore."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Somma di denaro percepita regolarmente da un professionista o da un lavoratore autonomo come compenso per la propria attività.",
+      "examples": [
+        "Il commercialista ha aumentato il suo stipendio grazie a nuovi clienti.",
+        "Con il calo delle commesse, lo stipendio da libero professionista è diventato incerto."
+      ],
+      "nota": "In questo senso, il termine è esteso per analogia a contesti non dipendenti, pur mantenendo l'idea di periodicità e regolarità."
+    }
+  ]
+}

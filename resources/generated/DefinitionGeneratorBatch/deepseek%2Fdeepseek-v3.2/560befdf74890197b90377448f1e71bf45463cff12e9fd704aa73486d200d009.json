@@ -1,0 +1,221 @@
+{
+  "lemma": "italiano",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064aeb2"
+    },
+    "source": "paraviaXML/61008.xml",
+    "lemma": "italiano",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dell’Italia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "popolo italiano",
+              "cultura",
+              "storia",
+              "letteratura italiana"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante dell’Italia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lingua neolatina parlata in Italia, fondata su fonologia, morfologia e sintassi del fiorentino letterario del Trecento, così denominata a partire dal Cinquecento, di uso prevalentemente scritto, fuori della Toscana, fino all’unità del paese, poi sempre più largamente diffusa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "studiare",
+              "parlare italiano"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Materia di insegnamento relativa a tale lingua e alla sua letteratura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "professore",
+              "testo di italiano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Secondo i modi e le abitudini degli italiani",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vestire",
+              "mangiare all’italiana"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con leggerezza e faciloneria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare una cosa all’italiano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conforme alla mentalità o alle abitudini degli italiani",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un pranzo all’italiana"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Leggero, superficiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un comportamento all’italiana"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che si riferisce o è proprio dell'Italia, del suo territorio, della sua popolazione, della sua cultura o della sua lingua.",
+      "examples": [
+        "La cucina italiana è famosa in tutto il mondo.",
+        "La squadra italiana ha vinto il campionato."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Cittadino di nazionalità o discendente dell'Italia.",
+      "examples": [
+        "Mio nonno era un italiano emigrato in America.",
+        "In questa comunità ci sono molti italiani."
+      ],
+      "nota": "Usato anche al femminile (italiana)."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Lingua romanzo-parlata ufficialmente in Italia e in alcune zone della Svizzera.",
+      "examples": [
+        "Sto imparando l'italiano all'università.",
+        "La traduzione dall'inglese all'italiano è molto precisa."
+      ],
+      "nota": null
+    }
+  ]
+}

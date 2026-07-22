@@ -1,0 +1,117 @@
+{
+  "lemma": "suora",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5e69ad0a50d065f149"
+    },
+    "source": "paraviaXML/116936.xml",
+    "lemma": "suora",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Religiosa che ha pronunciato i voti semplici e fa parte di un ordine o di una congregazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "farsi suora",
+              "andare in collegio dalle suore",
+              "suora infermiera",
+              "missionaria",
+              "convento di suore",
+              "suore della Divina Provvidenza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "improprio"
+            ],
+            "definitions": [
+              {
+                "glossa": "Improprio , monaca",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sorella: Foscolo)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pur so non dirvi, o belle suore, addio"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Donna che appartiene a un ordine religioso cattolico, vive in comunità e ha pronunciato voti di povertà, castità e obbedienza.",
+      "examples": [
+        "La suora distribuisce la minestra ai poveri ogni mattina.",
+        "Mia zia ha deciso di diventare suora dopo la morte del marito."
+      ],
+      "nota": "Il termine può essere usato anche in senso figurato per indicare una donna molto devota o che vive in modo austero, ma questo uso è meno comune e spesso scherzoso o ironico."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In senso figurato, persona che si comporta in modo eccessivamente rigido o moralista, spesso con connotazione negativa.",
+      "examples": [
+        "Non fare la suora con me, so che anche tu ogni tanto infrangi le regole.",
+        "Si comporta come una suora, ma in realtà è solo ipocrita."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f. (regionale, settentrionale)",
+      "definition": "Termine usato per indicare la zia, soprattutto in alcune regioni del Nord Italia.",
+      "examples": [
+        "Vado a trovare la suora che abita in campagna.",
+        "La mia suora mi ha regalato una sciarpa fatta a mano."
+      ],
+      "nota": "Questo uso è tipico di alcune varietà dialettali e non è diffuso in tutto il territorio nazionale."
+    }
+  ]
+}

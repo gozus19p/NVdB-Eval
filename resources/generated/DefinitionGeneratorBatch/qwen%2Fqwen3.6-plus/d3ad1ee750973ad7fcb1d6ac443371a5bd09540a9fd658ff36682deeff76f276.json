@@ -1,0 +1,154 @@
+{
+  "lemma": "circa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6469ad0a50d0652242"
+    },
+    "source": "paraviaXML/22865.xml",
+    "lemma": "circa",
+    "grammar": [
+      "prep.",
+      "avv.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativamente a, intorno a, a proposito di",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non so nulla di nuovo circa quell’affare",
+              "circa al prezzo ci accorderemo dopo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come complemento di luogo, intorno a: Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "volgìensi circa noi le due ghirlande"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "circa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente preposto a numeri, quasi, pressappoco, su per giù: anche posposto al numero: abbr. c. circa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è alto circa un metro e ottanta",
+              "sono circa le due",
+              "il viaggio dura circa tre ore",
+              "bevo circa un litro di latte al giorno",
+              "resterò due settimane circa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simbolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Simbolo ~",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "finanza",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Finanza , tariffa di mediazione che il cliente corrisponde all’agente di cambio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "avverbio",
+      "definition": "Indica un valore, una quantità o un momento temporale stimati in modo approssimativo, con un margine di vicinanza a un dato di riferimento ma privo di determinazione esatta.",
+      "examples": [
+        "Il viaggio durerà circa tre ore, traffico permettendo.",
+        "Per completare il progetto ci vorranno circa cinquecento euro."
+      ],
+      "nota": "Di frequente precede espressioni numeriche o di misura per segnalare un'inerente imprecisione; si usa anche in posizione postnominale (\"dieci anni circa\")."
+    },
+    {
+      "pos": "preposizione",
+      "definition": "Introduce il tema, la materia o il punto specifico a cui si riferisce un'affermazione o un documento, stabilendo un rapporto tematico di pertinenza o argomento.",
+      "examples": [
+        "Non abbiamo ancora preso una decisione definitiva circa la data di partenza.",
+        "L'azienda ha emanato un nuovo protocollo circa l'utilizzo dei dispositivi personali."
+      ],
+      "nota": "Preposizione impropria di registro formale o burocratico, sinonima di 'riguardo a' o 'in merito a'; non richiede l'articolo prima del sostantivo seguente."
+    }
+  ]
+}

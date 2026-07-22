@@ -1,0 +1,215 @@
+{
+  "lemma": "contenere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafab69ad0a50d0662e0a"
+    },
+    "source": "paraviaXML/26619.xml",
+    "lemma": "contenere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tenere, comprendere in sé; racchiudere; accogliere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questa stanza contiene molti mobili",
+              "questo recipiente contiene due litri d’acqua",
+              "la piazza può contenere duecentomila persone",
+              "il tuo discorso contiene molte imprecisioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di scritto e simile : avere per argomento, trattare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cosa contiene questa lettera?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere costituito, composto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’acqua contiene ossigeno e idrogeno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Trattenere, reprimere, tenere a freno sentimenti, stati d’animo, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "contenere l’emozione",
+              "la gioia",
+              "la sorpresa",
+              "la collera",
+              "le lacrime"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Frenare, arrestare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "contenere l’assalto",
+              "l’attacco dei nemici",
+              "contenere l’attacco della squadra avversaria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Limitare, ridurre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "contenere le spese",
+              "contenere l’aumento dei prezzi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Comprimere, immobilizzare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "contenere una frattura"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "transitivo",
+      "definition": "Avere al proprio interno o in un determinato spazio; racchiudere o includere oggetti, elementi o informazioni.",
+      "examples": [
+        "La valigia contiene solo l'essenziale per il weekend.",
+        "Il documento ufficiale contiene tre allegati importanti da firmare."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "transitivo",
+      "definition": "Tenere sotto controllo, limitare o frenare l'espansione, l'intensità o l'aumento di fenomeni, emozioni o grandezze economiche.",
+      "examples": [
+        "La banca centrale ha deciso di contenere l'inflazione alzando i tassi di interesse.",
+        "I medici raccomandano di contenere lo stress adottando una routine più equilibrata."
+      ],
+      "nota": "Frequente nei registri economico, sanitario e psicologico per indicare l'azione di tenere a bada un processo tendente all'eccesso o al danno."
+    },
+    {
+      "pos": "riflessivo",
+      "definition": "Moderare il proprio comportamento, le proprie spese o le proprie reazioni entro limiti di misura, frugalità o autocontrollo.",
+      "examples": [
+        "Nonostante le forti critiche ricevute, si è contenuto e ha risposto con calma.",
+        "Dopo l'anno difficile, ci siamo contenuti evitando viaggi e cene fuori casa."
+      ],
+      "nota": "Richiede obbligatoriamente l'uso del pronome riflessivo corrispondente al soggetto."
+    }
+  ]
+}

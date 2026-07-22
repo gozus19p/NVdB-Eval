@@ -1,0 +1,149 @@
+{
+  "lemma": "grazie",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae2569ad0a50d064ed3c"
+    },
+    "source": "paraviaXML/50286.xml",
+    "lemma": "grazie",
+    "grammar": [
+      "inter.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AD",
+        "field": "",
+        "grammar": [
+          "interiezione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esprime ringraziamento, gratitudine, riconoscenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "grazie per il regalo",
+              "grazie per tutto ciò che hai fatto per me",
+              "grazie di tutto",
+              "grazie di cuore",
+              "grazie tante!",
+              "grazie mille!",
+              "grazie infinite!",
+              "mille g.!",
+              "molte g.!",
+              "grazie a lei!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AD",
+        "field": "",
+        "grammar": [
+          "interiezione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esprime un cortese assenso o rifiuto per qualcosa che viene offerto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "«Posso offrirti un aperitivo?» «Sì, g.»",
+              "«No, g.»",
+              "«G., sì»",
+              "«G., no»"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per rispondere a un’affermazione ovvia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "«Mi piacerebbe vivere di rendita» «G., anche a me!»"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ringraziamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un grazie di cuore",
+              "ti meriti proprio un bel grazie"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "interiezione",
+      "definition": "Formula di cortesia per manifestare vivo apprezzamento e riconoscenza per un dono, un gesto gentile o un servizio ricevuto.",
+      "examples": [
+        "Sei stato gentilissimo a prestarmi il volume, davvero grazie.",
+        "Grazie mille per l'aiuto in faccende domestiche, senza di te non avrei finito in tempo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Caratteristiche fisiche considerate piacevoli e armoniose, in particolare riferite all'aspetto femminile.",
+      "examples": [
+        "Nonostante il passare del tempo, non ha mai perso le sue grazie naturali.",
+        "La modella ha sfoggiato tutte le sue grazie durante la presentazione della collezione estiva."
+      ],
+      "nota": "Impiegato quasi esclusivamente al plurale con valore collettivo."
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Nella mitologia greco-romana, il trio di divinità preposte alla bellezza, alla gioia e alla convivialità, frequentemente rappresentate nella scultura e nella pittura.",
+      "examples": [
+        "Nel museo archeologico sono esposti frammenti di affreschi che raffigurano le Grazie.",
+        "Il poeta ha dedicato un'intera sezione della raccolta alle protettrici delle arti e dell'amore."
+      ],
+      "nota": "Scritto abitualmente con l'iniziale maiuscola in contesti mitologici e storico-artistici."
+    }
+  ]
+}

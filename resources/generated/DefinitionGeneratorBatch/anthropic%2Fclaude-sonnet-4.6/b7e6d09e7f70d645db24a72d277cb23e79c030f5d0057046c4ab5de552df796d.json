@@ -1,0 +1,164 @@
+{
+  "lemma": "esistere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb469ad0a50d0663569"
+    },
+    "source": "paraviaXML/40424.xml",
+    "lemma": "esistere",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere, avere realtà effettiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esistono lingue molto diverse tra loro",
+              "nel passato sono esistite grandi civiltà",
+              "tutto ciò che esiste non può non meravigliarci"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esserci, manifestarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esistono molti casi simili a questo",
+              "anche se tra loro esistono delle differenze sono molto uniti",
+              "quel che dici esiste solo nella tua immaginazione!"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In pragm. non è possibile, non è immaginabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non esiste",
+              "hai vinto di nuovo, non esiste!",
+              "non esiste che abbiano promosso anche te!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere rilevante, importante, contare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "per lui esiste solo la professione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere in vita, vivere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "perché esisto?"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Avere realtà concreta o astratta, essere presente nel mondo o in un determinato contesto; il contrario di non essere.",
+      "examples": [
+        "Gli unicorni non esistono nella realtà, ma solo nella fantasia.",
+        "Esistono ancora molte specie animali non catalogate dalla scienza."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Essere in vita, condurre la propria esistenza, spesso con riferimento a una vita ridotta al minimo o priva di slancio vitale.",
+      "examples": [
+        "Dopo la perdita del figlio, non viveva più: si limitava a esistere.",
+        "Non basta esistere, bisogna vivere davvero e con pienezza."
+      ],
+      "nota": "Questo uso si distingue dal verbo 'vivere' per una connotazione di passività o insufficienza dell'esperienza vitale."
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Essere disponibile, reperibile o in uso in un dato momento o luogo.",
+      "examples": [
+        "Esiste un rimedio per questo tipo di allergia?",
+        "Non esisteva ancora una legge che regolamentasse quella situazione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Usato in forma enfatica o esclamativa per esprimere incredulità, rifiuto o indignazione rispetto a qualcosa o qualcuno.",
+      "examples": [
+        "Ma esiste gente così maleducata?",
+        "Non esiste che tu te ne vada senza salutare!"
+      ],
+      "nota": "In questo uso, spesso alla forma negativa 'non esiste', il verbo assume valore pragmatico-valutativo e non meramente ontologico."
+    }
+  ]
+}

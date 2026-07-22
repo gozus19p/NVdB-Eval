@@ -1,0 +1,184 @@
+{
+  "lemma": "procedura",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2769ad0a50d065c384"
+    },
+    "source": "paraviaXML/87139.xml",
+    "lemma": "procedura",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Complesso delle norme, specialmente di carattere giudiziario o amministrativo, da seguire per raggiungere un determinato fine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la normale procedura di un ente burocratico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Insieme delle formalità da seguire per lo svolgimento di un’azione, di un’operazione e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "osservare la procedura",
+              "errore di procedura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Serie di operazioni e manovre da eseguire, specialmente nell’aeronautica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "procedura di volo",
+              "di lancio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , insieme delle norme legislative che disciplinano lo svolgimento dei processi penali o civili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "procedura penale",
+              "civile",
+              "errore di procedura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , sequenza logica di operazioni da eseguirsi per raggiungere la soluzione di un problema complesso, specialmente nell’ambito della gestione aziendale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Modo di procedere, di agire",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sequenza definita e ordinata di azioni o operazioni da compiere per raggiungere un determinato scopo o risolvere un problema, spesso formalizzata e documentata.",
+      "examples": [
+        "Abbiamo seguito la procedura standard per l'attivazione del nuovo servizio.",
+        "La procedura di iscrizione al corso è stata semplificata quest'anno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In diritto, l'insieme delle norme e delle formalità che regolano lo svolgimento di un processo o di un'atto giuridico, dall'inizio alla sua conclusione.",
+      "examples": [
+        "La procedura penale prevede diverse fasi, dalla indagine preliminare al giudizio.",
+        "È stata avviata una procedura d'urgenza per la risoluzione della controversia."
+      ],
+      "nota": "Spesso usata in contesti legali o amministrativi, con riferimento a processi burocratici o giudiziari."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In informatica, una routine o un sottoprogramma, ovvero un blocco di istruzioni codificate che esegue un compito specifico all'interno di un programma più grande.",
+      "examples": [
+        "Il programmatore ha sviluppato una nuova procedura per l'elaborazione dei dati.",
+        "La chiamata di una procedura interna può velocizzare l'esecuzione del codice."
+      ],
+      "nota": null
+    }
+  ]
+}

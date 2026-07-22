@@ -1,0 +1,179 @@
+{
+  "lemma": "risorsa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3869ad0a50d065d1a5"
+    },
+    "source": "paraviaXML/97952.xml",
+    "lemma": "risorsa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mezzo, espediente con cui è possibile provvedere a un bisogno, a una necessità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "risorse abbondanti",
+              "scarse",
+              "risorse materiali",
+              "economiche",
+              "disporre di molte risorse"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dote, morale o intellettuale, o abilità a cui una persona può fare ricorso nell’affrontare le situazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "risorse dell’ingegno",
+              "della fantasia",
+              "dell’esperienza"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha grandi capacità e spirito d’iniziativa o è molto abile nel trarsi d’impaccio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "persona di grandi risorse",
+              "piena di risorse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme dei mezzi e delle disponibilità produttive, che costituiscono fonte di ricchezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il turismo è la principale risorsa della regione",
+              "questo podere è una grande risorsa",
+              "risorse alimentari",
+              "energetiche",
+              "petrolifere",
+              "un paese dalle enormi risorse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia specialmente al , in un ambiente naturale, disponibilità di energia biologica che, assunta dalle singole specie sotto forma di cibo, soddisfa le loro esigenze alimentari",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , ciascuno degli elementi che costituiscono un sistema, come per esempio l’unità centrale, le memorie, le periferiche, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Mezzo, strumento o insieme di beni materiali disponibili che possono essere utilizzati per soddisfare bisogni o raggiungere obiettivi.",
+      "examples": [
+        "Il paese ha investito le proprie risorse naturali in modo poco sostenibile.",
+        "Le risorse economiche dell'azienda non erano sufficienti per finanziare il progetto."
+      ],
+      "nota": "Spesso usato al plurale. In ambito economico si distinguono risorse naturali, finanziarie, produttive, ecc."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Capacità, abilità o qualità personale che consente a qualcuno di affrontare situazioni difficili e trovare soluzioni.",
+      "examples": [
+        "È una donna di grande risorsa: riesce sempre a cavarsela anche nei momenti più complicati.",
+        "In quella situazione di emergenza ha dimostrato di avere molte risorse interiori."
+      ],
+      "nota": "In questo senso è frequente l'espressione 'persona di risorsa' o 'uomo/donna di risorsa', a indicare qualcuno di ingegnoso e intraprendente."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In informatica, qualsiasi componente di un sistema (memoria, processore, file, dispositivo) che può essere allocato e utilizzato da programmi o utenti.",
+      "examples": [
+        "Il software consuma troppe risorse di sistema e rallenta il computer.",
+        "Il sistema operativo gestisce le risorse hardware in modo da ottimizzare le prestazioni."
+      ],
+      "nota": "Uso tecnico-informatico largamente diffuso nell'italiano contemporaneo."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Persona considerata in quanto portatrice di competenze e capacità utili a un'organizzazione o a un'attività collettiva.",
+      "examples": [
+        "L'azienda ha deciso di investire sulle proprie risorse umane attraverso programmi di formazione.",
+        "Quel ricercatore è una risorsa preziosa per il dipartimento."
+      ],
+      "nota": "L'espressione 'risorse umane' è ormai lessicalizzata in ambito aziendale e gestionale, talvolta considerata riduttiva per il fatto di trattare le persone alla stregua di fattori produttivi."
+    }
+  ]
+}

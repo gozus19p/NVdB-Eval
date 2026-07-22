@@ -1,0 +1,161 @@
+{
+  "lemma": "impedire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb969ad0a50d06639bc"
+    },
+    "source": "paraviaXML/53211.xml",
+    "lemma": "impedire",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rendere impossibile o impraticabile, proibire, vietare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "impedire l’ingresso",
+              "l’uscita",
+              "impedire a qcn. di parlare",
+              "perché non lo fai, chi te lo impedisce?"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fare in modo che qualcosa non succeda, evitare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la sua onestà gli impedisce di scendere a compromessi",
+              "la rapidità di intervento ha impedito che succedesse un disastro"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vietarne l’accesso: Foscolo)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "impedire un luogo",
+              "impedir l’Elba ai nemici"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ostruire, intralciare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una frana impedisce il passaggio",
+              "un muro impedisce la vista del giardino"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impacciare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un abito che impedisce i movimenti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rendere inabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la malattia gli ha impedito la gamba destra"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "rendere impossibile o difficile il compimento di un'azione o il verificarsi di un evento",
+      "examples": [
+        "La neve ha impedito la circolazione sulle strade.",
+        "Il divieto di sosta impedisce il parcheggio in questa zona."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "ostacolare il movimento o l'accesso di qualcuno o qualcosa",
+      "examples": [
+        "Un albero caduto impediva il passaggio dei veicoli.",
+        "Le barricate impedivano l'ingresso alla piazza."
+      ],
+      "nota": "Spesso usato in contesti fisici, ma può estendersi a situazioni astratte (es. 'impedire l'accesso a informazioni')."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "bloccare o limitare una persona nel fare qualcosa, spesso per motivi di sicurezza o regolamentazione",
+      "examples": [
+        "Il medico gli ha impedito di sollevare pesi per un mese.",
+        "La legge impedisce la vendita di alcolici ai minori."
+      ],
+      "nota": "Può implicare un'autorità o una norma che giustifica l'azione."
+    }
+  ]
+}

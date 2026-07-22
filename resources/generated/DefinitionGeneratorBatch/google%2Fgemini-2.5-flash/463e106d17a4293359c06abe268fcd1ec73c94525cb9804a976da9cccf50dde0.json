@@ -1,0 +1,73 @@
+{
+  "lemma": "ristorante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3869ad0a50d065d1cd"
+    },
+    "source": "paraviaXML/98171.xml",
+    "lemma": "ristorante",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "ristorante-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Locale pubblico in cui si cucinano, si servono e si consumano ai tavoli pasti completi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ristorante di lusso",
+              "tipico",
+              "cinese",
+              "messicano",
+              "andare",
+              "cenare al ristorante"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "albergo",
+              "caffè ristorante"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Locare a esercizio commerciale pubblico dove si preparano e servono cibi e bevande a pagamento.",
+      "examples": [
+        "Abbiamo prenotato un tavolo al migliore ristorante della città per festeggiare il nostro anniversario.",
+        "Quel ristorante offre una cucina eccellente a prezzi contenuti."
+      ],
+      "nota": null
+    }
+  ]
+}

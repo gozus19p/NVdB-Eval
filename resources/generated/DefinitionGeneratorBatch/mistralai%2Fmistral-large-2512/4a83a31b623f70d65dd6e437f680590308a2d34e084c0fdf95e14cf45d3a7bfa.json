@@ -1,0 +1,91 @@
+{
+  "lemma": "avvenire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa569ad0a50d0662965"
+    },
+    "source": "paraviaXML/11088.xml",
+    "lemma": "avvenire",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "avvenire-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "proposizione",
+          "locuzione congiuntivale",
+          "locuzione congiuntivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accadere, succedere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvenne l’imprevisto",
+              "sono avvenuti fatti terribili",
+              "andrò, avvenga quel che vuole"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "impersonale",
+              "variante",
+              "variante"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impersonale , introduce soggettive: variante ; avvegnaché None variante ; avvegnaché.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avviene di incontrare per caso qcn."
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Succedere, verificarsi in un momento successivo al presente, spesso in modo inaspettato o rilevante.",
+      "examples": [
+        "Non so cosa avverrà domani, ma spero che tutto vada bene.",
+        "Durante la riunione è avvenuto un malinteso che ha complicato le cose."
+      ],
+      "nota": "Può essere usato in contesti formali o neutri, spesso per eventi di una certa importanza. Sinonimi: accadere, succedere, capitare."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Avere luogo in un futuro più o meno prossimo, con riferimento a eventi programmati o previsti.",
+      "examples": [
+        "L'incontro avverrà alle 15:00 nell'aula magna.",
+        "La consegna dei premi avverrà al termine della cerimonia."
+      ],
+      "nota": "In questo senso, è spesso usato in contesti ufficiali o per indicare eventi pianificati. Sinonimo: svolgersi."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Il tempo che deve ancora venire, il futuro.",
+      "examples": [
+        "Pensare all'avvenire dei propri figli è una responsabilità dei genitori.",
+        "Le decisioni di oggi influenzeranno il nostro avvenire."
+      ],
+      "nota": "Può essere usato in senso astratto o concreto, spesso in contesti che riguardano progetti, speranze o preoccupazioni per il futuro. Sinonimo: futuro."
+    }
+  ]
+}

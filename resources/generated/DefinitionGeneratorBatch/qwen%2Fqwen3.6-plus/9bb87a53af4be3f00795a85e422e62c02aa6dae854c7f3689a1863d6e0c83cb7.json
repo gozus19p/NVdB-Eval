@@ -1,0 +1,172 @@
+{
+  "lemma": "genitore",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaed069ad0a50d0657ca6"
+    },
+    "source": "paraviaXML/47912.xml",
+    "lemma": "genitore",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il padre o la madre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i minori devono avere l’autorizzazione di un genitore",
+              "firma del genitore"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , il padre e la madre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "amare i propri genitori",
+              "vivere con i propri genitori"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Colui che genera o ha generato: Dante) anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "era stato genitore di tanta meraviglia quanta si vedea ch’era questa nobilissima Beatrice",
+              "del tridente enosigeo tremava | la genitrice Terra"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Foscolo)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [
+              "singolare",
+              "antonomasia",
+              "iniziale",
+              "maiuscolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , per , con iniziale maiuscolo , Dio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "da questa polve al trono | del Genitor salì"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , programma o parte di un programma che ne attiva un altro, detto figlio, e sospende il proprio funzionamento fino a che il secondo non si è concluso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Ciascuno dei due adulti, biologico o sociale, che ha dato origine a un individuo o che ne esercita la responsabilità educativa e legale.",
+      "examples": [
+        "La scuola ha convocato un incontro riservato a ogni genitore per illustrare il nuovo regolamento.",
+        "Il tribunale ha assegnato l'affidamento condiviso, garantendo a ciascun genitore pari diritti decisionali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In ambito botanico, zoologico e genetico, ciascun organismo o varietà che partecipa alla riproduzione sessuale o funge da base per incroci e selezioni finalizzate a ottenere nuove linee.",
+      "examples": [
+        "I ricercatori hanno incrociato due piante genitori per ottenere una cultivar più resistente alla siccità.",
+        "L'analisi del DNA ha permesso di identificare i ceppi genitori della specie introdotta in Europa."
+      ],
+      "nota": "Termine tecnico ricorrente in letteratura scientifica, agronomica e zootecnica."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona considerata all'origine, fondatrice o principale promotrice di un'opera, un movimento culturale, scientifico o istituzionale.",
+      "examples": [
+        "Il saggio è stato definito dalla critica il genitore della moderna linguistica computazionale.",
+        "Quell'istituto di ricerca è universalmente riconosciuto come il genitore della prima rete informatica nazionale."
+      ],
+      "nota": "Uso figurato proprio del registro saggistico, giornalistico e accademico, spesso in alternanza a 'padre' o 'fondatore'."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "lemma": "colpa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9f69ad0a50d0655341"
+    },
+    "source": "paraviaXML/24435.xml",
+    "lemma": "colpa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Azione contraria alla morale o alle leggi e la responsabilità che ne deriva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commettere una colpa",
+              "macchiarsi di una grave colpa",
+              "espiare una colpa",
+              "sentirsi in colpa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "teologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Teologia , azione od omissione contraria a una norma religiosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colpa grave",
+              "tenue",
+              "cadere in colpa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , forma di imprudenza, negligenza, imperizia o inosservanza di norme giuridiche, senza alcuna intenzionalità dolosa e non per caso fortuito, da cui deriva un danno ad altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colpa civile",
+              "contrattuale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Responsabilità di effetti negativi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere la colpa dell’incidente",
+              "che colpa ne ho io? se non hai studiato, non è colpa dell’insegnante",
+              "dare a qcn. la colpa di qcs.",
+              "gettare la colpa su qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Errore di lingua, di stile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Responsabilità personale o morale per un'azione considerata sbagliata, illecita o dannosa, che comporta un giudizio di biasimo o l'obbligo di risarcimento o espiazione.",
+      "examples": [
+        "Dopo l'incidente, ha finalmente ammesso le proprie colpe davanti alla famiglia e ha promesso di cambiare comportamento.",
+        "Il tribunale ha stabilito che la responsabilità dell'accaduto ricade interamente sull'autista dell'auto."
+      ],
+      "nota": "In italiano contemporaneo ricorre frequentemente in ambiti etici, psicologici e giuridici; si oppone concettualmente alla mera casualità e si distingue dal dolo per la mancanza di intenzionalità diretta."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Causa, motivo o circostanza a cui si attribuisce un evento o una situazione negativa o indesiderata, indipendentemente dalla volontà o dal giudizio morale sull'agente.",
+      "examples": [
+        "Il ritardo della consegna è da attribuire al maltempo, non all'inefficienza del magazzino.",
+        "Non dare la responsabilità di questo insuccesso alla mancanza di strumenti, quando il problema è nella strategia adottata."
+      ],
+      "nota": null
+    }
+  ]
+}

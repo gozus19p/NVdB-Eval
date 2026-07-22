@@ -1,0 +1,303 @@
+{
+  "lemma": "aereo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0369ad0a50d064a4fa"
+    },
+    "source": "paraviaXML/2323.xml",
+    "lemma": "aereo",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dell’aria, formato d’aria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "spazi aerei"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Etereo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è una creatura aerea | un discorso aereo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Campato in aria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che sta nell’aria, sospeso nell’aria, che si leva alto nell’aria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cime aeree"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quelli sorretti da opportuni sostegni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "linee",
+              "cavi aerei"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Provvisorio, volante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "allacciamento aereo",
+              "antenna aerea"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo all’aeronautica civile e militare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "traffico aereo",
+              "linee aeree",
+              "rete aerea"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fatto per mezzo di aeroplani",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "incursione aerea",
+              "rilevamento aereo",
+              "fotografia aerea"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "botanica",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica ; epigeo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "anatomia",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anatomia , relativo al primo tratto delle vie respiratorie",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "radiofonia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Radiofonia , in un apparecchio radio, l’antenna esterna",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–7",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "8",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Veicolo più pesante dell'aria, dotato di ali e motori, capace di volare trasportando persone o merci.",
+      "examples": [
+        "L'aereo per New York decollerà con un'ora di ritardo.",
+        "Hanno noleggiato un aereo privato per raggiungere la località di vacanza."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Linea o servizio di trasporto che utilizza velivoli per collegare località distanti.",
+      "examples": [
+        "Preferisco viaggiare in aereo piuttosto che in treno per risparmiare tempo.",
+        "La compagnia aerea ha cancellato tutti i voli a causa dello sciopero dei piloti."
+      ],
+      "nota": "In questo senso, spesso usato al plurale o in locuzioni come 'compagnia aerea'."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che si trova o avviene nell'aria o nello spazio sopra la superficie terrestre.",
+      "examples": [
+        "Il ponte aereo ha permesso di rifornire la zona colpita dall'alluvione.",
+        "La corrente aerea ha spinto il palloncino fino al parco vicino."
+      ],
+      "nota": "Può essere usato anche in senso figurato, come in 'minaccia aerea'."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che riguarda il trasporto o il traffico effettuato tramite velivoli.",
+      "examples": [
+        "Il terminal aereo è stato ampliato per accogliere più passeggeri.",
+        "Il governo ha stanziato fondi per lo sviluppo del trasporto aereo regionale."
+      ],
+      "nota": null
+    }
+  ]
+}

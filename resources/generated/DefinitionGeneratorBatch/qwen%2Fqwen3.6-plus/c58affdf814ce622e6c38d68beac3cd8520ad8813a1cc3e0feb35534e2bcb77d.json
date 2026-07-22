@@ -1,0 +1,63 @@
+{
+  "lemma": "utilizzare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe969ad0a50d06660fe"
+    },
+    "source": "paraviaXML/125439.xml",
+    "lemma": "utilizzare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "utilizzare-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impiegare utilmente, usare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "utilizzare gli avanzi",
+              "utilizzare i ritagli di tempo",
+              "utilizzare un tecnico",
+              "un professionista",
+              "un esperto"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Impiegare un oggetto, uno strumento o una risorsa materiale per un fine determinato.",
+      "examples": [
+        "Per assemblare il mobile è necessario utilizzare una chiave a brugola.",
+        "Il laboratorio ha deciso di adottare solventi diversi per utilizzare i macchinari più a lungo."
+      ],
+      "nota": "Registro medio-formale, tipico di contesti tecnici, scientifici o amministrativi dove si enfatizza la razionalità e la finalità dell'impiego."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Servirsi di una persona, di una circostanza favorevole o di un'occasione per trarne vantaggio o raggiungere un obiettivo personale.",
+      "examples": [
+        "Alcuni candidati sanno perfettamente come utilizzare il malcontento popolare per raccogliere voti.",
+        "Non è corretto utilizzare gli stagisti esclusivamente per commissioni private senza offrire loro alcuna formazione pratica."
+      ],
+      "nota": "Quando il complemento oggetto è un essere umano o un'entità astratta, il termine assume una connotazione strumentale e può implicare una sfumatura di sfruttamento o opportunismo."
+    }
+  ]
+}

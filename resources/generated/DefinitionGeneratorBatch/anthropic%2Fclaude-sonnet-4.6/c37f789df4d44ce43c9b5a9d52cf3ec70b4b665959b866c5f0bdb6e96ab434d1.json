@@ -1,0 +1,136 @@
+{
+  "lemma": "pubblicità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2a69ad0a50d065c625"
+    },
+    "source": "paraviaXML/88688.xml",
+    "lemma": "pubblicità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere pubblico, l’essere accessibile al pubblico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicità di un dibattito",
+              "pubblicità delle udienze preliminari"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Divulgazione, diffusione tra il pubblico di dati, informazioni, fatti o simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una notizia che non ha ricevuto alcuna pubblicità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Propaganda svolta da un’azienda per richiamare l’attenzione del pubblico sul proprio prodotto e incrementarne le vendite",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicità affissionale",
+              "giornalistica",
+              "radiofonica",
+              "televisiva",
+              "agenzia di pubblicità",
+              "la pubblicità incide sul bilancio dell’azienda"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Qualsiasi forma di annuncio, specialmente riportato dai mass media, cui sia affidato tale compito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una pubblicità girata in esterni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Comunicazione a pagamento diffusa attraverso vari mezzi di comunicazione con lo scopo di promuovere prodotti, servizi o marchi e incentivarne l'acquisto o l'utilizzo.",
+      "examples": [
+        "La pubblicità televisiva di quel detersivo è diventata così famosa da essere citata nella cultura popolare.",
+        "L'azienda ha investito milioni di euro in pubblicità sui social network per raggiungere i giovani consumatori."
+      ],
+      "nota": "In questo senso può riferirsi sia all'attività in sé (fare pubblicità) sia ai singoli messaggi pubblicitari (una pubblicità riuscita). Spesso abbreviata in 'pub' nel parlato colloquiale."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Condizione di ciò che è reso noto al pubblico, visibilità o notorietà che una persona, un evento o una notizia acquista presso l'opinione pubblica.",
+      "examples": [
+        "Lo scandalo ha dato molta pubblicità involontaria al politico, che ora è conosciuto in tutto il paese.",
+        "La vicenda ha ricevuto grande pubblicità sui media, finendo sulle prime pagine di tutti i giornali."
+      ],
+      "nota": "In questo senso è sinonimo parziale di 'notorietà' o 'visibilità pubblica', senza la connotazione commerciale del senso precedente."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Principio giuridico e amministrativo che impone la divulgazione ufficiale di atti, procedimenti o documenti affinché siano conoscibili da chiunque abbia interesse.",
+      "examples": [
+        "La pubblicità degli atti giudiziari è una garanzia fondamentale dello stato di diritto.",
+        "Il bando di gara deve essere soggetto a pubblicità legale e pubblicato nella Gazzetta Ufficiale."
+      ],
+      "nota": "Accezione tecnico-giuridica diffusa nel linguaggio del diritto e della pubblica amministrazione; si contrappone alla segretezza o riservatezza degli atti."
+    }
+  ]
+}

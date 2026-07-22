@@ -1,0 +1,100 @@
+{
+  "lemma": "comunista",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0869ad0a50d064bfae"
+    },
+    "source": "paraviaXML/25291.xml",
+    "lemma": "comunista",
+    "grammar": [
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo al comunismo, ai comunisti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "movimento",
+              "paese comunista",
+              "idee comuniste",
+              "principi comunisti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi crede, aderisce alla teoria del comunismo o chi fa parte di un partito che vi si ispira",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un militante",
+              "un simpatizzante comunista"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona che aderisce al comunismo come ideologia politica o è membro di un partito comunista.",
+      "examples": [
+        "Mio nonno era un comunista convinto e aveva partecipato alla Resistenza.",
+        "I comunisti italiani fondarono il PCI nel 1921 a Livorno."
+      ],
+      "nota": "Il termine si riferisce sia all'adesione ideologica sia all'appartenenza partitica. In Italia è storicamente associato al Partito Comunista Italiano (PCI), sciolto nel 1991."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo al comunismo come sistema ideologico, politico o economico, oppure proprio di chi ne è seguace.",
+      "examples": [
+        "Il regime comunista instaurò un controllo capillare sulla vita dei cittadini.",
+        "Le organizzazioni comuniste giovanili erano molto attive negli anni Settanta."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona percepita come eccessivamente di sinistra, collettivista o contraria ai principi del mercato e della proprietà privata, usato in senso spregiativo o ironico.",
+      "examples": [
+        "Per quelli del paese, chiunque votasse a sinistra era un comunista pericoloso.",
+        "Mi ha dato del comunista solo perché ho detto che le tasse sui ricchi andrebbero aumentate."
+      ],
+      "nota": "Uso figurato e spesso connotato negativamente, impiegato come etichetta polemica nell'italiano contemporaneo per stigmatizzare posizioni politiche progressiste o redistributive, indipendentemente da un'effettiva adesione al comunismo."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "lemma": "preferire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc869ad0a50d06645e1"
+    },
+    "source": "paraviaXML/86117.xml",
+    "lemma": "preferire",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "preferire-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anteporre nel proprio giudizio, nei gusti, nella simpatia, negli affetti qualcuno o qualcosa rispetto ad altri o ad altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli preferisco di gran lunga il fratello",
+              "preferisco il mare alla montagna",
+              "preferirei che tu evitassi di coinvolgermi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento a una scelta specifica compiuta in una determinata occasione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "all’ultimo momento hanno preferito andare al cinema",
+              "gli è stata preferita la candidata più giovane"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "Trovare più piacevole o conveniente una cosa rispetto ad un'altra",
+      "examples": [
+        "Preferisco il caffè al tè.",
+        "Preferisco andare al cinema piuttosto che stare a casa."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Scegliere o desiderare qualcosa piuttosto che un'altra opzione",
+      "examples": [
+        "Preferisco comprare un'auto elettrica per l'ambiente.",
+        "Preferisco studiare la sera piuttosto che la mattina."
+      ],
+      "nota": null
+    }
+  ]
+}

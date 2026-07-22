@@ -1,0 +1,202 @@
+{
+  "lemma": "romanzo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3a69ad0a50d065d310"
+    },
+    "source": "paraviaXML/99142.xml",
+    "lemma": "romanzo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Componimento letterario di carattere narrativo, originariamente in versi e di argomento eroico, poi in prosa, di struttura complessa e articolata e di ampia estensione, caratterizzato da libertà d’invenzione e d’intreccio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "romanzo veristico",
+              "psicologico",
+              "comico"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Narrazione di moderata estensione, poco più sviluppata di un racconto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "romanzo breve"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Genere letterario che comprende tali componimenti in prosa che si affermò a partire dal Seicento, sviluppandosi e articolandosi specialmente nell’Ottocento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Creazione fantastica della mente, progetto inattuabile, sogno vano",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Insieme di vicende, fatti, esperienze così singolari e incredibili da apparire frutto della creazione fantastica di uno scrittore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la sua vita è stata un romanzo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia d’amore o relazione amorosa, singolare per l’intensità o il carattere inconsueto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "R. o lungo racconto narrato con la tecnica del fumetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fumetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Opera letteraria in prosa di considerevole estensione, caratterizzata da una trama narrativa e dalla rappresentazione di personaggi e ambienti, generalmente frutto di finzione creativa.",
+      "examples": [
+        "L'autrice ha presentato il suo ultimo romanzo durante la fiera del libro.",
+        "Molti lettori preferiscono acquistare un romanzo storico piuttosto che un saggio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Racconto o resoconto molto lungo e dettagliato, spesso riferito a una successione complessa di vicende reali o presunte, usato prevalentemente in contesti colloquiali.",
+      "examples": [
+        "Mi ha fatto un romanzo di tre ore solo per spiegarmi perché era in ritardo.",
+        "Non abbiamo bisogno di sentire tutto il romanzo di questa situazione, veniamo al punto."
+      ],
+      "nota": "L'espressione è generalmente usata con sfumatura ironica o lievemente spregiativa per sottolineare la prolissità del racconto."
+    }
+  ]
+}

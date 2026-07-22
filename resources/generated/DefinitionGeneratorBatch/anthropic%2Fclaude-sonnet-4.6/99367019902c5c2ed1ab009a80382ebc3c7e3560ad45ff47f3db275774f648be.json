@@ -1,0 +1,158 @@
+{
+  "lemma": "adulto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0369ad0a50d064a4f9"
+    },
+    "source": "paraviaXML/2273.xml",
+    "lemma": "adulto",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi ha raggiunto il completo sviluppo fisico e psichico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "persona adulta",
+              "il mondo, le responsabilità degli adulti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di piante o animali, completamente sviluppato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Tipico di una persona matura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comportamento adulto",
+              "scelta adulta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Perfezionato, progredito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stile adulto",
+              "società adulta"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha raggiunto la piena maturità biologica e fisiologica, avendo completato lo sviluppo tipico della propria specie.",
+      "examples": [
+        "Un esemplare adulto di orso bruno può pesare oltre trecento chili.",
+        "La pianta adulta produce fiori solo dopo il quinto anno di vita."
+      ],
+      "nota": "Riferito a esseri umani, indica in genere una persona che ha superato i diciotto anni d'età; riferito ad animali o piante, indica il completamento del ciclo di crescita."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che dimostra maturità psicologica, emotiva e di giudizio, comportandosi con senso di responsabilità e consapevolezza.",
+      "examples": [
+        "Ha affrontato la situazione in modo molto adulto, senza cedere alle provocazioni.",
+        "Mi aspettavo una reazione più adulta da parte sua, considerata la sua esperienza."
+      ],
+      "nota": "Uso figurato e valutativo; può essere impiegato anche in senso ironico quando il comportamento atteso non corrisponde all'età anagrafica."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Detto di contenuto, prodotto o contesto destinato esclusivamente a persone maggiorenni, spesso perché di natura sessuale esplicita o violenta.",
+      "examples": [
+        "Il sito è accessibile solo agli utenti adulti previa verifica dell'età.",
+        "Quel film è classificato come contenuto adulto e non è adatto ai minori."
+      ],
+      "nota": "Calco semantico dall'inglese 'adult content'; frequente nel linguaggio dei media digitali e della classificazione cinematografica."
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona che ha raggiunto la maggiore età e la piena maturità, distinta dal bambino o dall'adolescente.",
+      "examples": [
+        "Il biglietto intero è riservato agli adulti; i bambini sotto i dieci anni entrano gratis.",
+        "Anche gli adulti hanno bisogno di giocare ogni tanto."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "lemma": "ospitare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc569ad0a50d0664397"
+    },
+    "source": "paraviaXML/77381.xml",
+    "lemma": "ospitare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accogliere come ospite nella propria casa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "li abbiamo ospitati qualche giorno al mare",
+              "sono stato ospitato da un amico |"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dare ospitalità stabilmente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ormai da molti anni ospitavano la vecchia nonna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accogliere e proteggere un fuoriuscito o un ricercato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, ricevere una squadra avversaria sul proprio terreno di gioco",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di un luogo, un locale, un ambiente, accogliere o poter accogliere un certo numero di persone; avere una determinata capienza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’albergo può ospitare cento persone"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Raccogliere, custodire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il museo ospita una vasta collezione di macchiaioli"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Accettare uno scritto in una rivista o in una pubblicazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli atti del convegno ospitano solo gli interventi più importanti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere come ospite in una trasmissione radiofonica o televisiva, in una manifestazione, un convegno e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia , fornire il nutrimento necessario a un parassita",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "dare alloggio temporaneo a qualcuno in un luogo, generalmente per cortesia o necessità",
+      "examples": [
+        "La famiglia ha ospitato i parenti venuti da fuori città per il matrimonio.",
+        "Durante il festival, molti abitanti del paese hanno ospitato i turisti nelle loro case."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "contenere o accogliere qualcosa in uno spazio, fisico o astratto",
+      "examples": [
+        "Il museo ospita una collezione di opere d'arte contemporanea.",
+        "La piazza centrale ospiterà il concerto di domani sera."
+      ],
+      "nota": "Può riferirsi sia a spazi fisici (edifici, luoghi) sia a eventi o iniziative."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "dare spazio o visibilità a idee, opinioni o contenuti, spesso in un contesto mediatico o culturale",
+      "examples": [
+        "Il giornale ha ospitato un dibattito tra esperti sul cambiamento climatico.",
+        "La trasmissione televisiva ospiterà una puntata speciale dedicata ai giovani talenti."
+      ],
+      "nota": "Usato soprattutto in ambiti editoriali, giornalistici o culturali."
+    }
+  ]
+}

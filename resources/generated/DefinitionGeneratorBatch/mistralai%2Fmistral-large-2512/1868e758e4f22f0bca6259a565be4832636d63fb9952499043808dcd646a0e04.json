@@ -1,0 +1,164 @@
+{
+  "lemma": "latte",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3c69ad0a50d065d4a9"
+    },
+    "source": "paraviaXML/62445.xml",
+    "lemma": "latte",
+    "grammar": [
+      "s.m.",
+      "s.m.inv.",
+      "agg.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Liquido bianco, opaco, altamente nutritivo, prodotto dalla secrezione delle ghiandole mammarie subito dopo il parto, destinato all’alimentazione della prole dei mammiferi nei primi mesi di vita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "succhiare il latte"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Allattare; divezzare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare il latte",
+              "levare il latte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alimento di grande valore dietetico ottenuto dalla mungitura delle femmine di alcuni mammiferi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "latte di mucca",
+              "di capra"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Colore bianco simile a quello del latte",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di tale colore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bianco latte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Liquido bianco e nutriente prodotto dalle ghiandole mammarie dei mammiferi femmine, utilizzato come alimento soprattutto dai neonati della specie.",
+      "examples": [
+        "Ho comprato un litro di latte fresco al supermercato.",
+        "Il latte materno è fondamentale per la crescita dei neonati."
+      ],
+      "nota": "In ambito commerciale, si distingue tra latte intero, parzialmente scremato e scremato in base al contenuto di grassi."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Bevanda o alimento di consistenza liquida o cremosa, di colore bianco o simile, ottenuto da fonti vegetali o animali diverse dal latte mammario.",
+      "examples": [
+        "Preferisco il latte di mandorla al latte vaccino perché è più digeribile.",
+        "Ho aggiunto un po' di latte di cocco al curry per renderlo più cremoso."
+      ],
+      "nota": "Questo uso è comune per prodotti alternativi al latte animale, spesso specificati con l'aggettivo relativo alla fonte (es. latte di soia, latte di riso)."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Sostanza liquida di colore bianco o simile, utilizzata in ambito cosmetico o farmaceutico.",
+      "examples": [
+        "Questo latte detergente è ottimo per rimuovere il trucco.",
+        "Applica il latte solare prima di esporti al sole per proteggere la pelle."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In senso figurato, ciò che nutre o sostiene in modo essenziale, spesso in contesti metaforici o poetici.",
+      "examples": [
+        "La lettura è il latte della mente per molti intellettuali.",
+        "Quella terra arida non ha più il latte della fertilità."
+      ],
+      "nota": "Uso prevalentemente letterario o enfatico, spesso in espressioni idiomatiche o metaforiche."
+    }
+  ]
+}

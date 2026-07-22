@@ -1,0 +1,60 @@
+{
+  "lemma": "papà",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1369ad0a50d065b3a0"
+    },
+    "source": "paraviaXML/79015.xml",
+    "lemma": "papà",
+    "grammar": [
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "papà-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Padre, babbo: pappà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il papà e la mamma",
+              "quando torna p.?"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "termine affettivo con cui si designa il proprio padre o si parla di lui in contesti familiari o informali",
+      "examples": [
+        "Mio papà mi ha insegnato ad andare in bicicletta.",
+        "Ho chiamato il papà per chiedergli un consiglio."
+      ],
+      "nota": "usato prevalentemente in contesti familiari o colloquiali; può essere sostituito da 'padre' in registri più formali. Spesso impiegato dai bambini o in riferimento a situazioni di intimità familiare."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "modo informale per rivolgersi al proprio padre o a una figura paterna",
+      "examples": [
+        "Papà, mi aiuti con i compiti?",
+        "Scusa, papà, ho dimenticato le chiavi."
+      ],
+      "nota": "usato come allocutivo diretto, soprattutto in contesti familiari o tra genitori e figli. Può esprimere confidenza, richiesta di attenzione o affetto."
+    }
+  ]
+}

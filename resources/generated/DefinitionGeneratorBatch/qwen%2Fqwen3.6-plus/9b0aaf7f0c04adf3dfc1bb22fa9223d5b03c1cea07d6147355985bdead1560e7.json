@@ -1,0 +1,120 @@
+{
+  "lemma": "cibo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9969ad0a50d0654edf"
+    },
+    "source": "paraviaXML/22276.xml",
+    "lemma": "cibo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che si mangia, che serve all’alimentazione umana e animale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la leonessa ha procurato il cibo ai suoi cuccioli",
+              "cibo per gatti",
+              "cibi surgelati",
+              "cibo nutriente"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che è preparato per essere mangiato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la pasta è un cibo sano",
+              "tavola imbandita di cibi prelibati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nutrimento spirituale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la verità è il cibo del filosofo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Momento del pasto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Qualsiasi sostanza solida o liquida assunta da organismi viventi a scopo nutritivo e per il mantenimento delle funzioni vitali.",
+      "examples": [
+        "La mensa scolastica ha introdotto un menu con cibo a chilometro zero per ridurre l'impatto ambientale.",
+        "Durante il viaggio in campeggio abbiamo acquistato solo acqua e cibo non deperibile."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Qualsiasi stimolo, attività o contenuto considerato necessario per alimentare o sviluppare la facoltà intellettuale, la sensibilità o la dimensione interiore.",
+      "examples": [
+        "Il confronto serrato tra colleghi costituisce un ottimo cibo per la mente di chi ama il dibattito.",
+        "Dopo mesi di lavoro frenetico, il silenzio della montagna è diventato cibo per l'anima."
+      ],
+      "nota": null
+    }
+  ]
+}

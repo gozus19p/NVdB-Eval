@@ -1,0 +1,156 @@
+{
+  "lemma": "eroe",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebe69ad0a50d0656d65"
+    },
+    "source": "paraviaXML/39910.xml",
+    "lemma": "eroe",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "mitologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mitologia , nel mito classico, semidio dotato di eccezionali virtù e autore di gesta prodigiose",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi dà prova di straordinario coraggio e generosità; chi si sacrifica per un ideale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "eroe di guerra",
+              "morire",
+              "comportarsi da eroe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Personaggio principale di un’opera letteraria, musicale, cinematografica e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’eroe del racconto",
+              "del romanzo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In racconti e romanzi: formula con cui il narratore fa riferimento al protagonista dell’opera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il nostro eroe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "scherzoso"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi fa parlare di sé, chi è al centro dell’attenzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’eroe del giorno",
+              "del momento",
+              "della festa"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Persona che, per eccezionali doti di coraggio, abnegazione e forza d'animo, compie imprese straordinarie e altruistiche, spesso in contesti di guerra o calamità, sacrificando anche la propria vita per una causa nobile o per salvare altri.",
+      "examples": [
+        "I pompieri che hanno salvato le famiglie dall'incendio sono stati acclamati come eroi dalla folla.",
+        "Il soldato combatté da eroe fino all'ultimo, difendendo i suoi compagni con estremo valore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Nelle opere letterarie, cinematografiche o di finzione, il personaggio principale intorno al quale si sviluppa la trama e che di solito incarna valori positivi, superando sfide e ostacoli.",
+      "examples": [
+        "L'eroe del romanzo riuscì a sconfiggere il drago e a salvare la principessa.",
+        "Il protagonista del film è un eroe oscuro e tormentato dal suo passato."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Individuo che si distingue per particolari qualità o imprese in un campo specifico, spesso con un tono iperbolico o ammirativo.",
+      "examples": [
+        "Il ciclista, dopo la grande rimonta, è stato l'eroe della tappa di montagna.",
+        "Con il suo quinto gol, l'attaccante si è trasformato nell'eroe indiscusso della partita."
+      ],
+      "nota": "Questo senso estende il concetto di eroico a contesti non necessariamente legati a situazioni di pericolo di vita o gesti estremi, ma a prestazioni eccellenti."
+    }
+  ]
+}

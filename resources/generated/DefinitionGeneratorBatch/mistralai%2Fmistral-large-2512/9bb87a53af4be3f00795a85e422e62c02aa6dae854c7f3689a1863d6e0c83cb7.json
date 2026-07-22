@@ -1,0 +1,163 @@
+{
+  "lemma": "genitore",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaed069ad0a50d0657ca6"
+    },
+    "source": "paraviaXML/47912.xml",
+    "lemma": "genitore",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il padre o la madre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i minori devono avere l’autorizzazione di un genitore",
+              "firma del genitore"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , il padre e la madre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "amare i propri genitori",
+              "vivere con i propri genitori"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Colui che genera o ha generato: Dante) anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "era stato genitore di tanta meraviglia quanta si vedea ch’era questa nobilissima Beatrice",
+              "del tridente enosigeo tremava | la genitrice Terra"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Foscolo)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [
+              "singolare",
+              "antonomasia",
+              "iniziale",
+              "maiuscolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , per , con iniziale maiuscolo , Dio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "da questa polve al trono | del Genitor salì"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , programma o parte di un programma che ne attiva un altro, detto figlio, e sospende il proprio funzionamento fino a che il secondo non si è concluso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m. (anche f. quando riferito a madre)",
+      "definition": "persona che ha generato o adottato un figlio e ne assume la responsabilità educativa e affettiva",
+      "examples": [
+        "I genitori hanno partecipato alla riunione scolastica per discutere del rendimento dei loro figli.",
+        "Dopo la separazione, ha deciso di condividere equamente il tempo con entrambi i genitori."
+      ],
+      "nota": "Il termine può riferirsi sia al padre che alla madre, ma nell'uso comune si tende a specificare 'genitore' per indicare un ruolo neutro rispetto al genere. In contesti giuridici o formali, è spesso usato al plurale per indicare entrambi i genitori."
+    },
+    {
+      "pos": "sostantivo m. (fig., estens.)",
+      "definition": "persona, istituzione o entità che dà origine o promuove lo sviluppo di qualcosa",
+      "examples": [
+        "Steve Jobs è considerato uno dei genitori della rivoluzione digitale.",
+        "L'università è spesso vista come il genitore della ricerca scientifica moderna."
+      ],
+      "nota": "Uso figurato, comune in contesti storici, culturali o tecnologici per indicare un ruolo di fondazione o innovazione."
+    }
+  ]
+}

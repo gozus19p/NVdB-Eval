@@ -1,0 +1,145 @@
+{
+  "lemma": "pubblicità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2a69ad0a50d065c625"
+    },
+    "source": "paraviaXML/88688.xml",
+    "lemma": "pubblicità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere pubblico, l’essere accessibile al pubblico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicità di un dibattito",
+              "pubblicità delle udienze preliminari"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Divulgazione, diffusione tra il pubblico di dati, informazioni, fatti o simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una notizia che non ha ricevuto alcuna pubblicità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Propaganda svolta da un’azienda per richiamare l’attenzione del pubblico sul proprio prodotto e incrementarne le vendite",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicità affissionale",
+              "giornalistica",
+              "radiofonica",
+              "televisiva",
+              "agenzia di pubblicità",
+              "la pubblicità incide sul bilancio dell’azienda"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Qualsiasi forma di annuncio, specialmente riportato dai mass media, cui sia affidato tale compito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una pubblicità girata in esterni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Attività e insieme delle tecniche mirate a far conoscere un prodotto, un servizio o un'idea e a stimolarne l'acquisto o il consenso.",
+      "examples": [
+        "L'azienda ha investito molto in pubblicità per il lancio del nuovo smartphone.",
+        "Alcuni considerano la pubblicità un'arte persuasiva moderna."
+      ],
+      "nota": "Spesso riferita al settore commerciale."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Messaggio o contenuto realizzato per promuovere qualcosa, diffuso attraverso i media.",
+      "examples": [
+        "Ho visto una pubblicità molto divertente durante l'intervallo del film.",
+        "Quel manifesto è una pubblicità ingannevole per le sue promesse esagerate."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Qualità di ciò che è noto o reso accessibile a tutti, che non è riservato o segreto.",
+      "examples": [
+        "I verbali della riunione saranno sottoposti a pubblicità per garantire la trasparenza.",
+        "La pubblicità degli atti amministrativi è un principio fondamentale dello stato di diritto."
+      ],
+      "nota": "Uso in contesti giuridici o amministrativi."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Attenzione e visibilità riscosse da una persona o un fatto, spesso sui mezzi di comunicazione.",
+      "examples": [
+        "Il cantante ha cercato la pubblicità con dichiarazioni provocatorie.",
+        "Lo scandalo ha dato al politico una pubblicità negativa che lo ha danneggiato."
+      ],
+      "nota": "Può avere una connotazione positiva o negativa."
+    }
+  ]
+}

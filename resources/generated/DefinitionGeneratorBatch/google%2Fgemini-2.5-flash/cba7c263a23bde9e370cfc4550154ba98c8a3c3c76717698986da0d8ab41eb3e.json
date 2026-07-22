@@ -1,0 +1,216 @@
+{
+  "lemma": "responsabile",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0869ad0a50d064c26d"
+    },
+    "source": "paraviaXML/92866.xml",
+    "lemma": "responsabile",
+    "grammar": [
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "diritto",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "None diritto , di qualcuno , che, per la posizione o il grado occupati, per l’autorità detenuta o l’ufficio esercitato, è tenuto a rendere conto del proprio comportamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il Presidente della Repubblica non è responsabile degli atti compiuti nell’esercizio delle sue funzioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che è consapevole di dover rispondere delle proprie azioni e delle loro conseguenze",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere responsabile della decisione presa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, nel comportamento, rivela le qualità psichiche e l’equilibrio propri di chi è in grado di rispondere delle proprie azioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "era giovane ma già responsabile",
+              "una persona responsabile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi è investito di poteri o mansioni di direzione, coordinamento o controllo di un determinato settore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ingegnere responsabile del settore",
+              "il magazziniere era responsabile del reparto",
+              "nominare qcn. responsabile dell’ufficio",
+              "rivolgersi al responsabile dell’ufficio stampa",
+              "essere responsabile di una squadra di operai"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "diritto civile",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi si è reso colpevole di un’azione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli accusati erano responsabili del furto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto civile , che, chi è tenuto a risarcire il danno derivante da un atto illecito o da un proprio mancato adempimento contrattuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , che provoca un cambiamento, un effetto, specialmente negativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la siccità fu responsabile della carestia",
+              "la malnutrizione è responsabile di molte malattie"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che dimostra maturità e consapevolezza nelle proprie azioni, assumendosi gli oneri o le conseguenze derivanti.",
+      "examples": [
+        "Un direttore responsabile si preoccupa del benessere dei suoi dipendenti.",
+        "È un ragazzo molto responsabile, fa sempre i compiti in tempo e aiuta in casa."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che è tenuto a rispondere delle proprie azioni o di quelle altrui, o di un determinato compito o funzione, di fronte a un'autorità o alla collettività.",
+      "examples": [
+        "Il medico è responsabile della salute dei suoi pazienti.",
+        "Il caposquadra è responsabile della corretta esecuzione dei lavori."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m./f.)",
+      "definition": "Persona che ha l'incarico o il compito di supervisionare, gestire o dirigere un'attività, un settore o un gruppo di persone.",
+      "examples": [
+        "Il responsabile del progetto ha convocato una riunione urgente.",
+        "La responsabile delle risorse umane si occupa delle assunzioni e della formazione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m./f.)",
+      "definition": "Persona o entità che viene riconosciuta come causa primaria o principale di un evento, spesso negativo, e che per questo ne sopporta le conseguenze.",
+      "examples": [
+        "Le indagini cercheranno di stabilire chi è il responsabile dell'incidente.",
+        "Il responsabile del guasto è stato individuato e sanzionato."
+      ],
+      "nota": null
+    }
+  ]
+}

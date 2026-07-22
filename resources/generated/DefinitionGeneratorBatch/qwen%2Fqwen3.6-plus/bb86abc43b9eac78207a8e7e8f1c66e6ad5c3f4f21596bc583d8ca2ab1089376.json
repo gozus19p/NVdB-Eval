@@ -1,0 +1,472 @@
+{
+  "lemma": "scala",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4169ad0a50d065d934"
+    },
+    "source": "paraviaXML/102177.xml",
+    "lemma": "scala",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Struttura architettonica costituita da una serie di gradini, anche articolati in più rampe, che mette in comunicazione piani di diversi livelli all’interno di un edificio oppure tra spazi urbani situati a quote diverse",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scala di marmo",
+              "in cotto",
+              "scala molto ripida",
+              "dalla piazza s’intravedeva la scala della chiesa",
+              "cadere per le scale",
+              "correre giù per le scale"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Salirle o scenderle",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare le scale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Attrezzo mobile di legno o metallo, facilmente trasportabile, formato da due montanti paralleli collegati tra loro da strutture trasversali che fungono da gradini",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "per appendere le tende ho usato la scala"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Successione di elementi disposti secondo un ordine di grandezza, di intensità, di importanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la scala dei libri più venduti nella settimana",
+              "ha una scala di valori molto personale"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme dei rapporti di supremazia e subordinazione all’interno di gruppi sociali o tra i diversi gradi di un’istituzione civile, militare o ecclesiastica; secondo un ordine crescente o decrescente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scala gerarchica",
+              "scala sociale",
+              "disporre",
+              "mettere a",
+              "in scala"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel linguaggio scientifico e tecnico, successione di valori convenzionali che misurano l’intensità di un fenomeno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scala sismica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parte di uno strumento di misura su cui è indicato il valore della grandezza che può essere misurata da tale strumen- to",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scala della bilancia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nei giochi di carte specialmente nel poker, serie di carte disposte secondo una sequenza di valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la scala massima è più alta della scala minima"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "cartografia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cartografia , rapporto fra le unità di misura grafica e le corrispondenti misure reali da rappresentare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scala ridotta",
+              "scala 1 a 100",
+              "scala di ingrandimento",
+              "riprodurre in scala",
+              "un disegno in scala"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dimensione, proporzione; parte di una retta divisa in centimetri e millimetri a cui corrispondono delle misure reali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scala grafica"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle due gradazioni poste lungo i margini e riportanti i valori della latitudine e della longitudine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scala della latitudine",
+              "della longitudine"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , successione crescente o decrescente di numeri reali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , ordinamento di suoni secondo l’altezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scala di do",
+              "scala maggiore",
+              "minore",
+              "armonica",
+              "melodica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nell’alpinismo, roccia a scaglioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Serie di cenge in successione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "biologia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Biologia , prima dell’affermazione delle teorie darwiniste, successione graduale degli esseri viventi in base alle loro complessità strutturali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Porto, luogo di scalo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che segue una determinata successione o rapporto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un disegno",
+              "un modellino in scala"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Secondo un ordine crescente o decrescente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "disporre",
+              "mettere in scala"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Struttura fissa o portatile composta da gradini o pioli successivi, progettata per consentire il passaggio tra piani o quote diverse.",
+      "examples": [
+        "Per pulire le grondaie ha agganciato la scala di alluminio al cornicione del tetto.",
+        "Nell'atrio del palazzo campeggia un'imponente scala elicoidale rivestita di marmo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Rapporto numerico che esprime la proporzionalità tra le lunghezze rappresentate su una mappa, un disegno tecnico o un modello e le dimensioni effettive dell'oggetto reale.",
+      "examples": [
+        "Il cartografo ha realizzato la planimetria del quartiere utilizzando una scala di uno a mille.",
+        "Prima di avviare la produzione, il progettista verifica che il modello rispetti la scala del disegno originale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Serie ordinata di livelli, valori o parametri disposti in progressione crescente o decrescente, utilizzata per classificare, misurare o valutare fenomeni quantitativi o qualitativi.",
+      "examples": [
+        "I sismologi registrano l'intensità dei terremoti consultando una scala di magnitudo riconosciuta a livello internazionale.",
+        "Nelle moderne organizzazioni aziendali la scala retributiva è definita in base all'anzianità e al ruolo ricoperto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Successione di suoni musicali ordinati per altezza secondo una struttura intervallare definita, che costituisce la base di un sistema tonale o modale.",
+      "examples": [
+        "Lo studente di pianoforte ha ripetuto l'esercizio sulla scala maggiore fino a memorizzarne tutti i passaggi.",
+        "Il compositore ha scelto una scala cromatica per conferire un tono particolare al brano."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Fermata intermedia prevista lungo il percorso di un volo o di una navigazione, durante la quale il mezzo di trasporto sosta brevemente per operazioni tecniche o commerciali prima di ripartire.",
+      "examples": [
+        "Il volo per l'Asia orientale prevede una scala tecnica a Francoforte della durata di due ore.",
+        "La compagnia aerea ha modificato l'itinerario inserendo una scala a Istanbul per imbarcare nuovi passeggeri."
+      ],
+      "nota": "L'uso è frequente nella locuzione verbale 'fare scala'."
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Nel gioco delle carte, combinazione valida costituita da tre o più carte consecutive dello stesso seme o di valori progressivi.",
+      "examples": [
+        "Per chiudere la mano gli serviva una scala al nove di cuori, ma ha pescato la carta sbagliata.",
+        "Nel poker una scala reale rappresenta il punteggio più alto e imbattibile."
+      ],
+      "nota": null
+    }
+  ]
+}

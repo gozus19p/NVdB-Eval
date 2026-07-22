@@ -1,0 +1,816 @@
+{
+  "lemma": "duro",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a687"
+    },
+    "source": "paraviaXML/37105.xml",
+    "lemma": "duro",
+    "grammar": [
+      "agg.",
+      "s.m.",
+      "avv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che resiste alla pressione, al taglio alla scalfittura, alla deformazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la pietra è più dura del legno"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Durissimo; raffermo, non fresco; che si mastica male, tigliosa; sode",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "duro come l’acciaio",
+              "come la roccia",
+              "più duro del diamante",
+              "pane duro",
+              "carne dura",
+              "uova dure"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "volgare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Volgare , dell’organo sessuale maschile, in erezione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "averlo",
+              "avercelo duro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che non ha l’opportuna morbidezza, poco elastico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "materasso",
+              "letto",
+              "cuscino duro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che cede con difficoltà, che oppone resistenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il tappo è così duro che non riesco a toglierlo",
+              "la chiave è un po’ dura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che causa sofferenza, spiacevole, doloroso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vita dura",
+              "una dura esperienza",
+              "tempi duri"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di una situazione difficile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è dura!",
+              "è stata dura, ma ce l’abbiamo fatta!"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Inevitabile e crudele",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dura necessità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di clima, inclemente, freddo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un duro inverno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Difficile, impegnativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un compito duro",
+              "è uno degli esami più duri"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Faticoso, pesante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un lavoro duro",
+              "una salita più dura del previsto"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Difficile a comprendersi, oscuro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un testo duro da capire"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ruvido, ispido",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tessuto duro",
+              "barba dura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di vino, che ha un sapore sgradevole a causa di un eccesso di cremortartaro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Privo di grazia e delicatezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lineamenti duri",
+              "contorni duri"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Poco armonioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "suono duro",
+              "versi duri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rigido, severo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha assunto un atteggiamento molto duro nei nostri confronti",
+              "è troppo duro coi figli",
+              "modi duri"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di atteggiamento, di condotta politica, che esclude ogni possibilità d’intesa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "adottare",
+              "scegliere la linea dura"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Malvagio, crudele",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "duro di cuore",
+              "persona dal cuore duro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che persegue con caparbietà ed energia i propri obiettivi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Testardo, ostinato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli intimavano di parlare, ma lui d., non ha detto una parola"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Restio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "duro a convincersi",
+              "a muoversi",
+              "a cedere"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che tarda a capire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "duro di comprendonio",
+              "di mente",
+              "di testa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Molto rigoroso e severo, rigido",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una dura dieta",
+              "disciplina dura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "fotografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fotografia , di pellicola o carta fotografica, che consente di ottenere immagini a forte contrasto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "TS",
+        "field": "ecologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ecologia , di tecnologia tradizionale, che produce o sfrutta un tipo di energia pericolosa o inquinante",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "TS",
+        "field": "fonetica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fonetica , di suono consonantico, non palatalizzato o velare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consonanti dure"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "E , sorde; e , velari",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "s",
+              "z dure",
+              "c",
+              "g dure"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oggetto o superficie dura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dormire sul duro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Situazione difficile e penosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "adesso viene il duro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Persona che non accetta imposizioni, energica e sicura del fatto suo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quel poliziotto è un duro",
+              "fare il duro",
+              "assumere atteggiamenti da duro",
+              "è un d.: sa quello che vuole e lo ottiene"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "toscano"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale toscano , caramella di zucchero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intensamente, faticosamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavorare duro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Profondamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dormire duro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con asprezza e severità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare duro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "I,II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che offre notevole resistenza alla deformazione o alla scalfittura al tatto.",
+      "examples": [
+        "Il marmo è un materiale molto duro.",
+        "Mi ha regalato un pane duro come un sasso."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito a persona, che è inflessibile, rigoroso o insensibile ai sentimenti altrui.",
+      "examples": [
+        "È un insegnante molto duro, ma spiega benissimo.",
+        "Ha dovuto prendere una decisione dura per il bene di tutti."
+      ],
+      "nota": "Spesso usato per descrivere un atteggiamento o un giudizio."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che presenta difficoltà, fatica o gravosità, richiedendo grande sforzo per essere superato o sopportato.",
+      "examples": [
+        "Ho avuto una giornata di lavoro davvero dura.",
+        "Il percorso per raggiungere la cima era molto duro e in salita."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Di suono, che è stridulo, aspro o sgradevole all'udito.",
+      "examples": [
+        "La sua voce era dura e metallica.",
+        "Quella musica ha un ritmo troppo duro per i miei gusti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "avverbio",
+      "definition": "In modo energico, con insistenza e vigore.",
+      "examples": [
+        "Lavora duro per mantenere la famiglia.",
+        "Ha colpito duro il sacco da boxe."
+      ],
+      "nota": "Spesso usato in combinazione con verbi di azione fisica o mentale."
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Moneta in argento o metallo bianco, spesso equiparabile a una piccola somma.",
+      "examples": [
+        "Ho trovato un vecchio duro nel cassetto.",
+        "Quel signore mi ha chiesto un duro per il caffè."
+      ],
+      "nota": "Forma colloquiale e leggermente datata, ma ancora comprensibile."
+    }
+  ]
+}

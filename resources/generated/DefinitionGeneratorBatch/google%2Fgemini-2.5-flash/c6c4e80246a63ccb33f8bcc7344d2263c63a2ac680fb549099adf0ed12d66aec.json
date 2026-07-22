@@ -1,0 +1,167 @@
+{
+  "lemma": "soldato",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5169ad0a50d065e61c"
+    },
+    "source": "paraviaXML/110178.xml",
+    "lemma": "soldato",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi combatte in un esercito, chi è parte delle truppe militari, senza distinzione di grado o arma, sia volontariamente, sia per obbligo di leva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un soldato valoroso",
+              "un presidio di soldati",
+              "arruolamento di soldati",
+              "soldato di cavalleria",
+              "di fanteria",
+              "di artiglieria",
+              "un corpo di soldati scelti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , chi veniva reclutato, dietro compenso, per combattere al servizio di un sovrano o di uno stato che fossero privi di un esercito nazionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi combatte fervidamente o strenuamente per la difesa di un ideale o di una fede, per l’affermazione di una nobile causa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un soldato della pace",
+              "della libertà",
+              "della giustizia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Zoologia specialmente al , nelle colonie di Imenotteri e di Isotteri, ciascun individuo specializzato nei compiti di difesa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–3",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "4",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Chi fa parte delle forze armate di una nazione, specialmente con grado inferiore, e si dedica professionalmente al servizio militare.",
+      "examples": [
+        "Il soldato, pur stanco, continuò la sua ronda notturna.",
+        "Molti soldati hanno sacrificato la vita per difendere il proprio paese."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Persona che combatte o si impegna con grande dedizione per una causa, un ideale o un'organizzazione, spesso con spirito di sacrificio.",
+      "examples": [
+        "È un soldato della scienza, sempre alla ricerca di nuove scoperte.",
+        "Quell'attivista è un vero soldato per i diritti umani, non si arrende mai."
+      ],
+      "nota": "Uso metaforico."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Unire solidamente due o più parti metalliche mediante la fusione e l'applicazione di un materiale d'apporto.",
+      "examples": [
+        "L'operaio sta saldando i tubi per la nuova conduttura.",
+        "Hai saldato bene i fili elettrici, o c'è rischio di corto circuito?"
+      ],
+      "nota": "Qui il lemma 'soldato' è la forma participio passato di 'saldare', usata come aggettivo o parte di un tempo composto."
+    },
+    {
+      "pos": "participio passato",
+      "definition": "Di oggetto o struttura, che è stato unito o fissato in modo permanente tramite una saldatura.",
+      "examples": [
+        "Il pezzo di metallo era saldato troppo debolmente e si è rotto.",
+        "La ringhiera, ormai saldata, sembrava molto più robusta."
+      ],
+      "nota": "Deriva dal verbo 'saldare'; si riferisce all'azione di unire metalli."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "lemma": "estate",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebf69ad0a50d0656ec8"
+    },
+    "source": "paraviaXML/40829.xml",
+    "lemma": "estate",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La stagione più calda dell’anno, fra la primavera e l’autunno, che nel nostro emisfero è compresa fra il giugno e il settembre e nell’emisfero australe fra il dicembre e il marzo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’estate calda",
+              "afosa",
+              "torrida",
+              "piovosa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il periodo più caldo della stagione; nel periodo più caldo; estivo, leggero; in abiti estivi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "piena estate",
+              "mezza estate",
+              "grande estate",
+              "nel pieno",
+              "nel colmo dell’estate",
+              "abito",
+              "indumento da estate",
+              "vestirsi da estate"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Le vacanze estive",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dove passerai l’e.?",
+              "quest’estate voglio andare al mare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Periodo di fioritura artistica e spirituale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’estate del romanticismo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Periodo di bel tempo intorno all’11 novembre, giorno di san Martino",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Temporaneo ringiovanimento di una persona di una certa età, specialmente sul piano sentimentale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Stagione dell'anno caratterizzata dalle temperature più elevate e dalle giornate più lunghe, interposta tra la primavera e l'autunno.",
+      "examples": [
+        "Quest'anno la stagione è iniziata in anticipo, con temperature già elevate nei primi giorni di maggio.",
+        "Nell'emisfero australe i mesi di dicembre e gennaio corrispondono al periodo più caldo e soleggiato."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Periodo dell'anno dedicato convenzionalmente alle ferie, al riposo e al turismo, che coincide tradizionalmente con la chiusura delle scuole e la riduzione dei ritmi lavorativi.",
+      "examples": [
+        "Molte famiglie organizzano un viaggio in montagna proprio per trascorrere il periodo di pausa lontano dalla città.",
+        "Il museo mantiene orari di apertura ridotti durante i mesi di vacanza estiva, ma non chiude mai completamente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Fase di massimo rigoglio, giovinezza, successo o splendore di una persona, di un'attività o di un fenomeno, utilizzata in accezione metaforica.",
+      "examples": [
+        "Il drammaturgo attraversava il momento più brillante della sua carriera, producendo opere acclamate dalla critica.",
+        "Dopo decenni di abbandono, il borgo storico ha finalmente riscoperto la sua fase di vitale espansione culturale."
+      ],
+      "nota": "L'uso figurato ricorre prevalentemente in registri letterari o saggistici per enfatizzare un culmine temporaneo e irripetibile."
+    }
+  ]
+}

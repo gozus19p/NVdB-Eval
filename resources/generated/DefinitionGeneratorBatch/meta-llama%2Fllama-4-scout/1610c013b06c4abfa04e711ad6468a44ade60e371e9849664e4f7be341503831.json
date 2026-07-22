@@ -1,0 +1,259 @@
+{
+  "lemma": "consumare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafab69ad0a50d0662df4"
+    },
+    "source": "paraviaXML/26464.xml",
+    "lemma": "consumare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Logorare, deteriorare per usura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consumare le scarpe",
+              "il collo della camicia",
+              "l’attrito ha consumato la fune"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ridurre danneggiando progressivamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo studio consuma la vista"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ridurre lentamente in pessime condizioni fisiche o morali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la malattia lo ha consumato",
+              "la passione mi consuma"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impiegare in un dato uso sostanze, materiali e simile riducendone la quantità complessiva o esaurendoli",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consumare acqua calda",
+              "in questa casa si consuma troppa energia elettrica",
+              "non consumare tutto lo zucchero",
+              "abbiamo già consumato le scorte"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di macchine, impianti e simile , utilizzare per il proprio funzionamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "impianto che consuma energia elettrica",
+              "quanta benzina consuma la tua auto?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Spendere: dilapidare, dissipare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho consumato lo stipendio in visite mediche",
+              "ha consumato il patrimonio familiare con investimenti sbagliati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Assumere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "consumare un pasto al ristorante",
+              "consumare molti alcolici"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Prendere qualcosa da mangiare o da bere in locale pubblico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "se non consumiamo non possiano trattenerci"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2d",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Trascorrere, impiegare un lasso di tempo in attività faticose o inutili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha consumato la vita sui libri",
+              "ho consumato la mattina in inutili ricerche"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "utilizzare risorse, beni o servizi fino a esaurirli",
+      "examples": [
+        "La famiglia consuma molto elettricità",
+        "Il paese consuma grandi quantità di acqua potabile"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo figurato",
+      "definition": "procurare grande preoccupazione o ansia",
+      "examples": [
+        "La malattia della figlia consumava sua madre",
+        "Il pensiero del futuro lo consumava"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "ridursi in cenere o in niente",
+      "examples": [
+        "Il fuoco consumò la casa",
+        "L'incendio consumò il bosco"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "mangiare esageratamente o con grande avidità",
+      "examples": [
+        "Si è consumato una torta intera",
+        "I bambini si consumano di dolci"
+      ],
+      "nota": null
+    }
+  ]
+}

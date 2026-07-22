@@ -1,0 +1,161 @@
+{
+  "lemma": "spiegazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5669ad0a50d065ea85"
+    },
+    "source": "paraviaXML/112951.xml",
+    "lemma": "spiegazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lo spiegare qualcosa che è oscuro o non immediatamente e facilmente comprensibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ti chiederò ulteriori spiegazioni",
+              "la sua spiegazione non mi ha convinto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esposizione, scritta od orale, con cui si chiarisce un concetto, un argomento e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la spiegazione di una teoria",
+              "ascolta la spiegazione del maestro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Istruzione, specialmente scritta, per l’uso di uno strumento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le spiegazioni del manuale non sono chiare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Motivo, motivazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vorrei una spiegazione che giustifichi il suo comportamento"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Causa, ragione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la spiegazione dei fatti",
+              "un delitto apparentemente senza spiegazioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Discussione chiarificatrice tra persone in disaccordo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esigere, pretendere una spiegazione",
+              "venire a una spiegazione con qcn."
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "azione di spiegare o interpretare qualcosa",
+      "examples": [
+        "La sua spiegazione della teoria è stata molto chiara.",
+        "Il professore ha dato una spiegazione dettagliata del problema."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "risposta o giustificazione a una critica o a un'accusa",
+      "examples": [
+        "Ha dato una spiegazione per il suo comportamento.",
+        "La spiegazione del ritardo è stata poco convincente."
+      ],
+      "nota": null
+    }
+  ]
+}

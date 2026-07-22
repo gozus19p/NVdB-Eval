@@ -1,0 +1,219 @@
+{
+  "lemma": "attività",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7a69ad0a50d0653457"
+    },
+    "source": "paraviaXML/10107.xml",
+    "lemma": "attività",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere attivo, impegnato in un lavoro, in un’opera; indole o comportamento attivo, dinamico di una persona",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Agire, darsi da fare, lavorare; specialmente di complesso industriale, essere in funzione, produrre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere in attività",
+              "lo stabilimento è in piena attività"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’insieme delle azioni coordinate e dei lavori compiuti dagli esseri umani, in generale o in rapporto a una finalità particolare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attività intellettuale, manuale",
+              "attività lavorativa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lavoro, occupazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha un’attività redditizia",
+              "svolge un’attività in ambito finanziario"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "ragioneria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia ragioneria , bene o credito di un soggetto economico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle voci che, nel loro insieme, costituiscono l’attivo di un bilancio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "geologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geologia , fase di eruzione di un vulcano",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , proprietà di un elemento di emettere radiazioni; l’emissione di radiazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6b",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , la concentrazione effettiva con cui un elettrolito presente in una soluzione prende parte agli equilibri che vi si stabiliscono",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Caratteristica di essere operante, in movimento o in funzionamento.",
+      "examples": [
+        "Il cuore ha ripreso la sua normale attività dopo l'operazione.",
+        "L'attività vulcanica nella zona è monitorata costantemente."
+      ],
+      "nota": "Questo senso si riferisce allo stato di un sistema o di un organismo."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Operazione, lavoro o occupazione in cui è impegnata una persona o un ente.",
+      "examples": [
+        "La sua principale attività è la consulenza finanziaria.",
+        "L'associazione organizza attività ricreative per i bambini."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Insieme di operazioni commerciali, produttive o professionali svolte da un'impresa o da un libero professionista.",
+      "examples": [
+        "L'attività dell'azienda si è concentrata sul mercato estero.",
+        "Ha avviato un'attività in proprio dopo anni di lavoro dipendente."
+      ],
+      "nota": "Spesso contrapposto a 'passività' in ambito economico o commerciale."
+    }
+  ]
+}

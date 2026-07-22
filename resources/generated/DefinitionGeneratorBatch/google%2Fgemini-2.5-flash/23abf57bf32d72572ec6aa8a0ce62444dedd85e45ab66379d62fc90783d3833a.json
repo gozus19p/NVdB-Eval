@@ -1,0 +1,620 @@
+{
+  "lemma": "falso",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aadfe69ad0a50d0647b8b"
+    },
+    "source": "paraviaXML/42170.xml",
+    "lemma": "falso",
+    "grammar": [
+      "agg.",
+      "avv.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non vero; che non corrisponde alla realtà, alla verità; sbagliato, erroneo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una notizia",
+              "un’affermazione",
+              "un’opinione",
+              "un’interpretazione falsa",
+              "un indizio",
+              "un sospetto falso",
+              "farsi un falso concetto di qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diverso da ciò che vuole apparire, che non corrisponde a ciò che sembra; che nasconde la vera natura di ciò che si vuole raggiungere o di ciò che si sta esaminando",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "falso scopo",
+              "falso problema"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che altera, che falsa in modo innaturale suoni, colori e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "luce falsa",
+              "una falsa acustica"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "figurato",
+              "qualcosa",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dare un’interpretazione tendenziosa di qualcosa o denigrare qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mettere in falsa luce",
+              "presentare",
+              "mostrare sotto falsa luce"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alterato, falsato rispetto al normale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "aveva la voce falsa per l’emozione"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fesso, a causa di una probabile incrinatura del vetro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo bicchiere dà un suono falso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mal riuscito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un suono falso"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stonata, non accordata con le altre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una corda falsa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Falsificato, contraffatto; truccato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una moneta",
+              "una firma falsa",
+              "gioielli falsi",
+              "un certificato",
+              "un documento falso"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Usata dai ladri per aprire serrature altrui; presentandosi, specialmente fraudolentemente, con un nome che non è il proprio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "chiave falsa",
+              "sotto falso nome",
+              "viaggiare",
+              "nascondersi sotto falso nome"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di edificio o mobile che imita un particolare stile architettonico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo cassettone è un falso rinascimento",
+              "la chiesa è un falso gotico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che manca di sincerità; finto, simulato; bugiardo, menzognero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "falsa amicizia",
+              "un sorriso",
+              "uno sguardo falso",
+              "false lacrime"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vanità, superbia celate sotto un atteggiamento apparentemente umile e modesto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "falsa modestia"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trovarsi in una situazione imbarazzante o ambigua",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sentirsi in una posizione falsa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che si comporta in modo ipocrita e subdolo: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un amico falso",
+              "una persona falsa",
+              "Giorgio è un falso e un ipocrita"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che millanta specialmente fraudolentemente di essere quello che non è",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è stato truffato da un falso commercialista",
+              "ha operato per anni, ma era un falso medico"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Quello che testimonia in un processo, ma che non ha realmente assistito agli avvenimenti e mente secondo le esigenze dei processati, specialmente perché pagato per farlo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "testimone falso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "TS",
+        "field": "comune",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , non ; negativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un valore falso",
+              "una radice falsa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , in logica matematica, corrispondente a uno dei due valori di verità",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "botanica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anatomia botanica , di organo: che è simile a un altro, ma con diversa funzione e natura",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Falsamente, con falsità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le sue affermazioni suonano falso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che è falso, contrario alla verità; falsità, menzogna",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sostenere",
+              "asserire",
+              "giurare il falso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Copia di un’opera d’arte o rielaborazione sullo stile di un autore o di un’epoca, spacciata fraudolentemente per autentica; documento o firma contraffatta",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , reato consistente sia nella falsificazione di oggetti, documenti, banconote, eccetera , sia nell’asserzione di cose false in giudizio o in atti pubblici",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "falso monetario",
+              "testamentario",
+              "commettere un falso in atto pubblico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "legatoria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Legatoria , linea di pressione esercitata sui cartoni della copertina vicino al dorso per agevolare il movimento della parte rigida della copertina collegata con i fogli di risguardo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "III",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Non conforme alla verità o alla realtà dei fatti, ingannevole.",
+      "examples": [
+        "La testimonianza presentata al giudice si è rivelata totalmente falsa.",
+        "Ha creato un alibi falso per non essere incolpato del reato."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Non autentico; che imita un originale ma non ne possiede le qualità o la provenienza genuine.",
+      "examples": [
+        "Ho acquistato una borsa che, a un esame più attento, si è rivelata falsa.",
+        "Il documento d'identità era falso e non è stato accettato dalle autorità."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Ipocrita o insincero; che finge sentimenti o intenzioni non veri.",
+      "examples": [
+        "La sua amicizia si è dimostrata falsa, era solo interessato ai miei soldi.",
+        "Ha sorriso con un'espressione falsa per nascondere il suo vero disappunto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Erroneo o scorretto; che contiene un errore o un'imprecisione.",
+      "examples": [
+        "Ho fatto un calcolo falso e il risultato finale era sbagliato.",
+        "La sua interpretazione delle regole era falsa, portando a una penalità."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Ciò che non è vero, che è contraffatto o simulato.",
+      "examples": [
+        "Il museo ha scoperto che molte opere d'arte nella collezione erano dei falsi.",
+        "È difficile distinguere il vero dal falso in un mondo pieno di disinformazione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Azione illecita di alterare documenti, monete o altre cose per ingannare.",
+      "examples": [
+        "È stato condannato per falso in bilancio, avendo manipolato i dati contabili.",
+        "L'accusa di falso in atto pubblico ha portato all'arresto dei responsabili."
+      ],
+      "nota": null
+    }
+  ]
+}

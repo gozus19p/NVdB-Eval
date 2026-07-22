@@ -1,0 +1,119 @@
+{
+  "lemma": "se",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6569ad0a50d06522eb"
+    },
+    "source": "paraviaXML/105281.xml",
+    "lemma": "se",
+    "grammar": [
+      "pron.pers. di terza pers.m. e f.sing. e pl."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Forma che il pronome assume con i pronomi atoni e la particella , in posizione proclitica o enclitica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "si",
+              "lo",
+              "la",
+              "li",
+              "le",
+              "ne",
+              "se l’è visto davanti",
+              "se lo mise in tasca",
+              "non vuole prendersene cura",
+              "prendersela a cuore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Da solo, specialmente in posizione enclitica, si: Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non pò fermarse"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione subordinante condizionale",
+      "definition": "Introduce una proposizione ipotetica che esprime la condizione necessaria perché si realizzi quanto espresso nella proposizione principale.",
+      "examples": [
+        "Se piove, non usciamo.",
+        "Se avessi studiato di più, avresti superato l'esame."
+      ],
+      "nota": "Regge l'indicativo nelle ipotesi reali, il congiuntivo e il condizionale nelle ipotesi possibili o irreali. È la congiunzione subordinante più comune per esprimere periodi ipotetici."
+    },
+    {
+      "pos": "congiunzione subordinante interrogativa indiretta",
+      "definition": "Introduce una domanda indiretta o una dipendente dubitativa, equivalente a 'whether' in inglese.",
+      "examples": [
+        "Non so se verrà alla festa.",
+        "Mi chiedo se sia davvero una buona idea."
+      ],
+      "nota": "In questo uso introduce proposizioni completive di verbi di domanda, dubbio o ignoranza (chiedere, sapere, ignorare, dubitare ecc.)."
+    },
+    {
+      "pos": "congiunzione subordinante concessiva/esclamativa",
+      "definition": "Introduce una proposizione che esprime meraviglia, indignazione o un'affermazione enfatica, spesso in esclamazioni retoriche.",
+      "examples": [
+        "Se te l'avevo detto che non era affidabile!",
+        "Se mi ha deluso, questa volta!"
+      ],
+      "nota": "Uso tipico del parlato e del registro colloquiale, con valore rafforzativo-esclamativo. La frase principale è spesso sottintesa o implicita nel contesto."
+    },
+    {
+      "pos": "pronome riflessivo di terza persona (atono)",
+      "definition": "Forma atona del pronome riflessivo di terza persona singolare e plurale, usata prima di pronomi clitici della stessa persona (si + lo, la, li, le, ne).",
+      "examples": [
+        "Se lo portò via senza dire una parola.",
+        "Se ne andò prima che potessimo salutarlo."
+      ],
+      "nota": "Variante fonetica di 'si' che compare obbligatoriamente davanti ai clitici 'lo', 'la', 'li', 'le', 'ne' per evitare la sequenza 'si lo', 'si la' ecc. Non va confusa con la congiunzione."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Il dubbio, la riserva o la condizione ipotetica in quanto tale; usato per nominalizzare il concetto di ipotesi o incertezza.",
+      "examples": [
+        "Ci sono troppi se e troppi ma in questa proposta.",
+        "Senza se e senza ma, la decisione è definitiva."
+      ],
+      "nota": "Usato quasi esclusivamente nel sintagma fisso 'senza se e senza ma', oppure al plurale per indicare dubbi e condizioni."
+    }
+  ]
+}

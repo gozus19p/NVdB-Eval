@@ -1,0 +1,164 @@
+{
+  "lemma": "bosco",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae8769ad0a50d0653f10"
+    },
+    "source": "paraviaXML/15273.xml",
+    "lemma": "bosco",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "generalmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Terreno coperto di alberi, generalmente di alto fusto, arbusti e altre piante selvatiche; l’insieme di tali alberi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bosco di abeti, di querce",
+              "perdersi in un bosco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Groviglio di cose fitte, intricate",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Legna, legname",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "zootecnia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Zootecnia , in bachicoltura, il mucchio di fastelli in cui i bachi fanno il bozzolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "termine generico di ornitologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine generico di ornitologia ; moriglione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "agricoltura, agraria, agronomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Agricoltura, agraria, agronomia , vitigno che produce uva bianca diffuso in Liguria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Estensione di terreno ricoperto di alberi",
+      "examples": [
+        "Il bosco è abitato da molti animali.",
+        "Abbiamo fatto una passeggiata nel bosco."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Insieme di oggetti fitti e disposti in modo da sembrare un bosco",
+      "examples": [
+        "Il bosco di colonne sostiene la struttura dell'edificio.",
+        "Il bosco di alberi metallici è una scultura moderna."
+      ],
+      "nota": "Uso figurato"
+    }
+  ]
+}

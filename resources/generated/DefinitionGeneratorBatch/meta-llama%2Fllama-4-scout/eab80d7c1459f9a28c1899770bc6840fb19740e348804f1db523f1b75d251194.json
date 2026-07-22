@@ -1,0 +1,162 @@
+{
+  "lemma": "visitare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafee69ad0a50d0666500"
+    },
+    "source": "paraviaXML/128013.xml",
+    "lemma": "visitare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Recarsi in visita presso qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visitare un amico",
+              "un conoscente",
+              "visitare qcn. per chiedergli un favore"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Due delle sette opere di misericordia corporali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visitare gli infermi",
+              "visitare i carcerati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sottoporre a visita medica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "devi farti visitare da uno specialista"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare visite mediche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il dottore visita solo al mattino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Recarsi in un certo luogo per osservare ciò che vi si trova o vi si svolge, per motivi di svago, di studio, di lavoro, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visitare una mostra",
+              "una cattedrale",
+              "un centro sportivo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ispezionare, esaminare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il capitano ha visitato le camerate"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "Recarsi presso qualcuno o qualcosa per motivi di cortesia, lavoro o svago",
+      "examples": [
+        "Ho visitato mia nonna domenica scorsa.",
+        "La squadra ha visitato lo stadio avversario per il match di campionato."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Essere presente in un luogo per un periodo di tempo determinato",
+      "examples": [
+        "Il capo visiterà la fabbrica domani.",
+        "Il professore visiterà le aule per controllare gli studenti."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "lemma": "affare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6a69ad0a50d06526bf"
+    },
+    "source": "paraviaXML/2527.xml",
+    "lemma": "affare",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cosa da fare, impegno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affare urgente",
+              "affare importante",
+              "sbrigare un affare"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo",
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Questione, faccenda",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è un brutto affare",
+              "è affar mio trovare una soluzione",
+              "è un affare che non vi riguarda"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Occuparsi solo dei propri problemi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              ", farsi gli affari propri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": ") per invitare bruscamente qualcuno a non preoccuparsi di cose che non lo riguardano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affari miei!",
+              "affari nostri"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": ") per invitare bruscamente qualcuno a risolvere da solo una situazione difficile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affari tuoi!",
+              "affari vostri"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "familiare",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": ") per invitare minacciosamente qualcuno a non impicciarsi in cose che non lo riguardano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              ", fatti gli affari tuoi",
+              "fatevi gli affari vostri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Operazione commerciale o finanziaria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare un buon affare",
+              "concludere un affare"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Vendita, acquisto, scambio vantaggioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "hai fatto un affare"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’insieme delle attività economiche, commerciali o finanziarie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mondo degli affari"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cosa, oggetto non specificato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sposta quell’affare di lì",
+              "era un affare tutto tasti e lucine luminose"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "politica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Politica , caso giudiziario o politico di grande rilievo pubblico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’affare Dreyfus"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Condizione sociale: Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "poco distante da quel paesetto, villeggiava una coppia d’alto affare"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Transazione o attività commerciale finalizzata al guadagno o a un vantaggio economico.",
+      "examples": [
+        "Hanno concluso un affare vantaggioso con una società straniera.",
+        "Il mercato immobiliare offre buoni affari in questo periodo."
+      ],
+      "nota": "Spesso usato al plurale ('affari') per indicare l'insieme delle attività economiche e commerciali di una persona o azienda."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Acquisto conveniente, cosa ottenuta a un prezzo favorevole rispetto al suo valore reale.",
+      "examples": [
+        "Ho trovato questo divano a metà prezzo: che affare!",
+        "Al mercatino delle pulci si possono fare ottimi affari."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Faccenda, questione o situazione che richiede attenzione o che coinvolge qualcuno.",
+      "examples": [
+        "Questa è una faccenda complicata, un affare da risolvere con calma.",
+        "Non immischiarti in affari che non ti riguardano."
+      ],
+      "nota": "In questo senso è frequente l'espressione 'fatti i fatti tuoi' in alternativa a 'non è un affare tuo'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Cosa, oggetto o elemento di cui non si vuole o non si riesce a specificare la natura, usato in modo generico o elusivo.",
+      "examples": [
+        "Cos'è quell'affare strano sul tavolo?",
+        "Dammi quell'affare lì, quello per aprire le bottiglie."
+      ],
+      "nota": "Uso colloquiale, talvolta con connotazione leggermente spregiativa o di indifferenza verso l'oggetto in questione."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Vicenda o episodio di rilievo, spesso con implicazioni pubbliche, politiche o giudiziarie.",
+      "examples": [
+        "L'affare Dreyfus sconvolse la Francia di fine Ottocento.",
+        "I giornali continuano a parlare dell'affare legato ai fondi neri."
+      ],
+      "nota": "In questo senso si avvicina al francesismo 'affaire', ed è spesso usato con un nome proprio per indicare uno scandalo o un caso celebre."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "lemma": "affermare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa069ad0a50d066250b"
+    },
+    "source": "paraviaXML/2570.xml",
+    "lemma": "affermare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dichiarare apertamente e in modo deciso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affermare la propria indipendenza",
+              "affermare di avere ragione",
+              "affermò che aveva fame"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dire di sì",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affermare col capo",
+              "con un cenno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sostenere con forza, rivendicare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affermare i propri diritti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Confermare: Ariosto)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con lacrime affermando il dolor mio"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Dichiarare, sostenere o garantire con forza che qualcosa è vero o esiste.",
+      "examples": [
+        "Il testimone ha affermato di aver visto l'incidente chiaramente.",
+        "Molti scienziati affermano che il cambiamento climatico sia una minaccia reale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Ottenere riconoscimento e successo, stabilendo la propria posizione o prestigio in un determinato ambito.",
+      "examples": [
+        "Con il suo talento, è riuscito ad affermare la sua carriera nel mondo della musica.",
+        "Il nuovo modello di smartphone si è affermato rapidamente sul mercato."
+      ],
+      "nota": "Spesso usato in forma riflessiva 'affermarsi'."
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Rivelarsi o mostrarsi valido, superiore o vincente in un contesto di confronto o competizione.",
+      "examples": [
+        "La sua bravura si è affermata durante la difficile gara.",
+        "Nella discussione, la sua tesi si è affermata come la più convincente."
+      ],
+      "nota": null
+    }
+  ]
+}

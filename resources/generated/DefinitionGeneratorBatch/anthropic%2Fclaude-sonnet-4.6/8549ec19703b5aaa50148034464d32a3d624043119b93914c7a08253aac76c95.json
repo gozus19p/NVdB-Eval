@@ -1,0 +1,108 @@
+{
+  "lemma": "medico",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef869ad0a50d0659e05"
+    },
+    "source": "paraviaXML/68112.xml",
+    "lemma": "medico",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi pratica la medicina avendo conseguito il titolo accademico e l’abilitazione all’esercizio della professione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare il medico",
+              "farsi prescrivere una ricetta dal medico",
+              "ordine dei medici"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi presta le necessarie cure per lenire un dolore fisico o morale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "durante la malattia è stato un buon medico per me"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che costituisce un rimedio a sofferenze e dolori: il tempo è il miglior m. per le delusioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Professionista laureato in medicina e abilitato all'esercizio della professione, che si occupa della diagnosi, della cura e della prevenzione delle malattie.",
+      "examples": [
+        "Ho preso un appuntamento dal medico di base per un controllo di routine.",
+        "Il medico le ha prescritto un antibiotico e tre giorni di riposo."
+      ],
+      "nota": "Il femminile è 'medica', forma in crescente diffusione, sebbene 'il medico' riferito a donna sia ancora largamente attestato."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo alla medicina, alla pratica clinica o alla figura del professionista sanitario.",
+      "examples": [
+        "Dovrà sottoporsi a un esame medico prima di iniziare il nuovo lavoro.",
+        "Il personale medico ha lavorato senza sosta per tutta la notte.",
+        "Ha ricevuto un parere medico favorevole per riprendere l'attività sportiva."
+      ],
+      "nota": "Si usa prevalentemente in collocazioni nominali come 'visita medica', 'studio medico', 'cartella medica', 'scienza medica'."
+    }
+  ]
+}

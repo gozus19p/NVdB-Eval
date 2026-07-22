@@ -1,0 +1,702 @@
+{
+  "lemma": "su",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6469ad0a50d0652240"
+    },
+    "source": "paraviaXML/116343.xml",
+    "lemma": "su",
+    "grammar": [
+      "prep.",
+      "avv.",
+      "inter.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Introduce una determinazione di stato in luogo indicando la posizione soprastante rispetto ad altro, a contatto o meno con esso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo specchio sul camino",
+              "la luna sui tetti",
+              "poggiò il cappotto sulla sedia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per indicare il supporto di una lavorazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "incisione su rame",
+              "dipingere sull’intonaco fresco",
+              "le cifre ricamate sulla spugna"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Introduce una determinazione di stato in luogo indicando la prossimità e al contempo verso dove un edificio o una sua parte è collocato o si affaccia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la palazzina sulla piazza",
+              "la casa sul lago",
+              "la finestra sul cortile"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "In espressioni , con l’idea di influenza, di autorità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "governare su milioni di persone",
+              "ha un certo ascendente su di lui"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per indicare reiterazione, preceduta e seguita dallo stesso sostantivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giorni su giorni trascorsi in questa ricerca"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "simile",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per introdurre una determinazione di moto a luogo, indica il movimento di qualcosa che cade, sale, si appoggia o simile sopra qualcos’altro: con riferimento a un veicolo o simile , ne indica l’ingresso all’interno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la neve sta scendendo su tutto il nord Italia",
+              "scivolando sono caduto su di lui",
+              "salire",
+              "montare su un gradino",
+              "su una predella",
+              "salire sul treno",
+              "sull’autobus",
+              "sull’ascensore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per introdurre una determinazione modale, anche con valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scarpe su misura",
+              "lavorare su commissione",
+              "fare qcs. su suggerimento di qcn.",
+              "venne su loro richiesta",
+              "sul modello degli antichi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per introdurre l’argomento di cui si parla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il venditore si diffuse sulle qualità del prodotto",
+              "un saggio sull’immigrazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per introdurre un complemento di tempo determinato, con idea di approssimazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "uscire sul mattino",
+              "ti raggiungerò sul tardi",
+              "ha incomincato a piovere sul fare della sera"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Introduce complementi di tempo continuato, di età, di peso o misura, di prezzo o simile , indicando un valore quantitativo approssimativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo spettacolo è durato sulle tre ore",
+              "una donna sui quaranta",
+              "costerà sulle centomila lire",
+              "un neonato sui tre chili",
+              "un albero sui quattro metri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Istributivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "hai una probabilità su di un milione di riuscire a trovarlo",
+              "le probabilità favorevoli sono cinquanta su cento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Un numero indica la sua collocazione a denominatore in una frazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "due su quattro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "logica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Logica , nelle applicazioni fra insiemi, indica la provenienza di un elemento da uno di essi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Preceduta dalla , con valore pleonastico: Leopardi)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "in",
+              "in sul calar del sole"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con verbi sia di stato che di moto, in alto o verso l’alto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guardare su",
+              "alzate più su le mani",
+              "tirati su i calzini"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In un luogo più elevato ripetto a un altro, a un piano superiore in un edificio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vieni",
+              "sali su"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche preceduto o seguito da un ulteriore determinazione di luogo: seguito dalla , per indicare un’area estesa posta ad una certa altitudine o entro la quale avviene un movimento verso l’alto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prova a cercarlo lì su",
+              "voleva salire su nel sottotetto",
+              "per",
+              "poche baite sparse su per i monti",
+              "salire su per le colline"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Afforzativo, reiterato, indica un’altezza notevole o che aumenta progressivamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "veleggiare su su nel cielo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con riferimento a prezzo, peso, valore o simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le nostre azioni sono andate un po’ su"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Segue le particelle pronominali e l’avv. enclitici",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ci",
+              "pensateci su anche voi",
+              "beviamoci su"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "interiezione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Si usa per incitare, esortare, incoraggiare, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "su col morale!",
+              "su, andiamo!",
+              "su, non fare così!",
+              "su su, che è già tardi!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "IV",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "La parte superiore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il su del vestito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "estensivo",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Meccanica , di albero motore e per di motore, che raggiunge un numero di giri vicino al massimo regime stabilito",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di persona che si trova in uno stato d’animo particolarmente vivace e allegro, euforico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ti vedo stranamente su di giri questa mattina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Da sopra, dall’alto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i rumori arrivavano da su"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale",
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "gergale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dal settentrione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "venire di su"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Settentrionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i parenti di su"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "preposizione",
+      "definition": "Indica una posizione superiore o superiore e in contatto.",
+      "examples": [
+        "Il libro è sul tavolo.",
+        "La barca galleggia sull'acqua."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "preposizione",
+      "definition": "Indica un tema, un argomento o un soggetto specifico di discussione o azione.",
+      "examples": [
+        "Stavamo discutendo su questioni filosofiche.",
+        "Il film è basato su un romanzo famoso."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "preposizione",
+      "definition": "Indica una base, un fondamento o un presupposto.",
+      "examples": [
+        "La sua teoria si basa su dati sperimentali.",
+        "Un giudizio formulato su ipotesi infondate è pericoloso."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "preposizione",
+      "definition": "Indica un movimento verso l'alto o verso la superficie di qualcosa.",
+      "examples": [
+        "Sali su quelle scale per raggiungere il tetto.",
+        "Il bambino si arrampicò su per l'albero."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "preposizione",
+      "definition": "Indica una direzione o un'indicazione approssimativa.",
+      "examples": [
+        "Ci vediamo sulle cinque di pomeriggio.",
+        "Il negozio si trova sulla via principale."
+      ],
+      "nota": "In questo senso, la preposizione si combina spesso con gli articoli per formare 'sul', 'sulla', 'sui', 'sugli', 'sulle'."
+    },
+    {
+      "pos": "avverbio",
+      "definition": "Indica una posizione in alto o superiore.",
+      "examples": [
+        "Guarda su, c'è un aquilone nel cielo.",
+        "Il suo ufficio è due piani su."
+      ],
+      "nota": "Spesso usato in opposizione a 'giù'."
+    },
+    {
+      "pos": "avverbio",
+      "definition": "Indica un aumento di livello, intensità o volume.",
+      "examples": [
+        "Alzò la voce su per farsi sentire.",
+        "Gira su il riscaldamento, fa freddo."
+      ],
+      "nota": null
+    }
+  ]
+}

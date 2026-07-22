@@ -1,0 +1,242 @@
+{
+  "lemma": "fantastico",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064abe4"
+    },
+    "source": "paraviaXML/42319.xml",
+    "lemma": "fantastico",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Della fantasia, creato dall’immaginazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "creatura fantastica",
+              "mondo fantastico"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Palesemente inverosimile, incredibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "storia fantastica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Splendido, magnifico, eccezionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbiamo fatto un viaggio fantastico",
+              "sei una ragazza fantastica",
+              "hai vinto il primo premio della lotteria? f.!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dotato di fantasia, ricco di immaginazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ingegno fantastico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "usage": "TS",
+        "field": "letteratura",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Letteratura , che appartiene alla letteratura fantastica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "racconto fantastico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1e",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lunatico, balzano: Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "poteva... anche lui cavarsi la voglia di essere un po’ fantastico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , dimensione dell’immaginazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la sfera del fantastico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "araldica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Araldica , figura chimerica mostruosa formata dall’unione di parti di diversi animali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Eccellente, straordinario, che supera le aspettative",
+      "examples": [
+        "Il nuovo ristorante è fantastico, lo consiglio a tutti.",
+        "La vista dalla cima della montagna era fantastica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che appartiene al genere della fantasia, soprannaturale, irreale",
+      "examples": [
+        "Il film di fantascienza aveva elementi fantastici.",
+        "La letteratura fantastica è molto popolare tra i giovani."
+      ],
+      "nota": null
+    }
+  ]
+}

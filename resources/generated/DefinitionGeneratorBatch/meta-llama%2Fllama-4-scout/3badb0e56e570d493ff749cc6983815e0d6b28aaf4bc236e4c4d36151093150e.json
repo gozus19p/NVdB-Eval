@@ -1,0 +1,330 @@
+{
+  "lemma": "spesa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5669ad0a50d065ea27"
+    },
+    "source": "paraviaXML/112709.xml",
+    "lemma": "spesa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Erogazione di denaro a favore di un qualsiasi soggetto al fine di ottenere beni, servizi e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sostenere una spesa",
+              "avere molte spese",
+              "spese postali",
+              "bancarie"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che costa poco; per le piccole necessità di ogni giorno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "di poca spesa",
+              "spese minute"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’acquisto per il quale si spende una determinata somma di denaro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare una buona",
+              "una cattiva spesa",
+              "quel mobile è stato una spesa intelligente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’acquisto di generi alimentari e di altri prodotti necessari al mantenimento della famiglia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "uscire per la spesa",
+              "ricordarsi della spesa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’insieme dei prodotti acquistati",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "borsa della spesa",
+              "carrello della spesa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impiego di tempo, risorse, energie e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "A carico di",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "funerali a spese dello stato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "A scapito di",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere successo a spese della propria dignità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto amministrativo , ciascuna delle spese sostenute per il funzionamento dell’apparato dello stato, per la conservazione e la manutenzione del demanio e del patrimonio statale, per la riscossione delle entrate, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "amministrazione",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Amministrazione , ciascuna delle spese sostenute da un’azienda per il proprio funzionamento o ammodernamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "economia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia , ciascuna delle spese che ricorrono normalmente in ogni esercizio finanziario",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle spese sostenute normalmente nella vita quotidiana di una persona o di una famiglia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "diritto amministrativo",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto amministrativo , ciascuna delle spese determinate da servizi ed esigenze di carattere eccezionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle spese sostenute eccezionalmente nella vita quotidiana di una persona o di una famiglia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Somma di denaro pagata per acquistare qualcosa",
+      "examples": [
+        "La spesa per il pranzo è stata di 20 euro.",
+        "Oggi devo fare la spesa al supermercato."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Ciascuna delle uscite di denaro per il mantenimento di una famiglia, un'azienda, ecc.",
+      "examples": [
+        "La spesa mensile per l'affitto è di 800 euro.",
+        "Il governo deve controllare la spesa pubblica."
+      ],
+      "nota": null
+    }
+  ]
+}

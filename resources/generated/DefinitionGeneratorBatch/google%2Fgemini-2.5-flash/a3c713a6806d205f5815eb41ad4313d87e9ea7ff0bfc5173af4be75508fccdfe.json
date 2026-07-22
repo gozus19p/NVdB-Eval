@@ -1,0 +1,87 @@
+{
+  "lemma": "preferire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc869ad0a50d06645e1"
+    },
+    "source": "paraviaXML/86117.xml",
+    "lemma": "preferire",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "preferire-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anteporre nel proprio giudizio, nei gusti, nella simpatia, negli affetti qualcuno o qualcosa rispetto ad altri o ad altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli preferisco di gran lunga il fratello",
+              "preferisco il mare alla montagna",
+              "preferirei che tu evitassi di coinvolgermi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento a una scelta specifica compiuta in una determinata occasione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "all’ultimo momento hanno preferito andare al cinema",
+              "gli è stata preferita la candidata più giovane"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Avere una predilezione o una maggiore inclinazione verso qualcosa o qualcuno rispetto ad altre opzioni disponibili.",
+      "examples": [
+        "Preferisco il caffè al tè per la colazione.",
+        "Ha dichiarato di preferire la compagnia degli amici alla solitudine."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Considerare o giudicare qualcosa come migliore o più desiderabile di qualcos'altro in un determinato contesto o situazione.",
+      "examples": [
+        "In questo tipo di situazione, preferirei non esprimere un giudizio.",
+        "L'azienda ha preferito investire in nuove tecnologie piuttosto che espandere la vecchia sede."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo pronominale",
+      "definition": "Essere più adatto, opportuno o convenire meglio in una specifica circostanza, spesso in riferimento a scelta di un periodo o di un luogo.",
+      "examples": [
+        "Quel tipo di abbigliamento si preferisce al giorno che alla sera.",
+        "La cottura al vapore si preferisce quando si vuole mantenere intatte le proprietà degli alimenti."
+      ],
+      "nota": null
+    }
+  ]
+}

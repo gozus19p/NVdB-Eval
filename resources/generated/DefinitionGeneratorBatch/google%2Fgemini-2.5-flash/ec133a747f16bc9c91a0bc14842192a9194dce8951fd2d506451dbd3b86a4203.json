@@ -1,0 +1,87 @@
+{
+  "lemma": "marzo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef669ad0a50d0659c8a"
+    },
+    "source": "paraviaXML/67384.xml",
+    "lemma": "marzo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "marzo-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Terzo mese dell’anno, di trentuno giorni nel calendario gregoriano e giuliano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partirò in",
+              "a marzo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Perché caratterizzato da tempo variabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "marzo pazzerello",
+              "pazzo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere un carattere volubile, bizzarro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esser nato di marzo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Il terzo mese dell'anno civile, composto di trentuno giorni, che secondo il calendario gregoriano segue febbraio e precede aprile.",
+      "examples": [
+        "Le temperature a marzo sono spesso variabili, con giornate di sole e improvvisi ritorni di freddo.",
+        "Quest'anno le vacanze pasquali cadono nella seconda metà di marzo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Locuzione informale per indicare un periodo di incertezza meteorologica o economica, caratterizzato da repentine e imprevedibili variazioni, spesso in riferimento a una situazione generale.",
+      "examples": [
+        "L'economia del paese sta attraversando un marzo, con continue oscillazioni dei mercati.",
+        "Il suo umore è un vero marzo, un attimo è felice e quello dopo è imbronciato senza motivo."
+      ],
+      "nota": "Uso figurato e colloquiale, spesso con connotazione negativa per l'imprevedibilità."
+    }
+  ]
+}

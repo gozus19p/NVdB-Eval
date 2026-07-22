@@ -1,0 +1,227 @@
+{
+  "lemma": "americano",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a568"
+    },
+    "source": "paraviaXML/4877.xml",
+    "lemma": "americano",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo all’America",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "continente americano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Degli Stati Uniti d’America",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante dell’America, specialmente degli Stati Uniti d’America",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’inglese parlato nell’America del Nord",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Aperitivo a base di vermouth rosso, bitter, scorza di limone o arancia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "amministrazione",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Amministrazione , giornale mastro che riporta gli sviluppi dei singoli mastrini",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3–5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo agli Stati Uniti d'America, alla loro cultura, popolazione o istituzioni.",
+      "examples": [
+        "Il cinema americano ha influenzato profondamente la cultura mondiale.",
+        "Ha ottenuto la cittadinanza americana dopo dieci anni di residenza."
+      ],
+      "nota": "È il senso più comune in italiano contemporaneo, dove 'americano' si riferisce prevalentemente agli Stati Uniti, non al continente americano in senso lato."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo al continente americano nel suo insieme, comprendente Nord America, Centro America e Sud America.",
+      "examples": [
+        "Le popolazioni americane precolombiane avevano sviluppato civiltà avanzate.",
+        "La flora americana comprende specie assenti nel Vecchio Mondo."
+      ],
+      "nota": "Uso meno frequente in italiano; in contesti geografici e storici può riferirsi all'intero continente."
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona nata o residente negli Stati Uniti d'America, o che ne possiede la cittadinanza.",
+      "examples": [
+        "Gli americani che visitano Roma rimangono spesso colpiti dalla storia della città.",
+        "Mia cugina ha sposato un americano del Texas."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Varietà della lingua inglese parlata negli Stati Uniti, distinta dall'inglese britannico.",
+      "examples": [
+        "Ha imparato l'americano guardando serie televisive in lingua originale.",
+        "Alcune espressioni tipiche dell'americano non si usano nell'inglese britannico."
+      ],
+      "nota": "Forma abbreviata di 'inglese americano'. Uso informale."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Bevanda a base di caffè espresso allungato con acqua calda, con una consistenza più leggera rispetto all'espresso tradizionale.",
+      "examples": [
+        "Al bar ho ordinato un americano perché preferisco un caffè meno intenso.",
+        "L'americano si prepara aggiungendo acqua calda a un espresso già estratto."
+      ],
+      "nota": "Detto anche 'caffè americano'. Il nome deriva dall'abitudine dei soldati americani in Europa durante la Seconda guerra mondiale di diluire l'espresso con acqua."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Aperitivo a base di vermut dolce, bitter Campari e seltz, guarnito con una scorza di arancia.",
+      "examples": [
+        "Prima di cena ci siamo seduti al bar a sorseggiare un americano.",
+        "L'americano è considerato il predecessore del Negroni."
+      ],
+      "nota": "Cocktail classico della tradizione italiana, da non confondere con altri usi del termine."
+    }
+  ]
+}

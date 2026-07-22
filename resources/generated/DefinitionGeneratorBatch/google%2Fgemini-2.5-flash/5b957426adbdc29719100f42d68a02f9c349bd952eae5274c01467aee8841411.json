@@ -1,0 +1,215 @@
+{
+  "lemma": "spettacolo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5669ad0a50d065ea32"
+    },
+    "source": "paraviaXML/112748.xml",
+    "lemma": "spettacolo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rappresentazione, manifestazione, specialmente di tipo teatrale, cinematografico, televisivo, eccetera , che si svolge davanti a un pubblico appositamente convenuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "spettacolo lirico",
+              "musicale",
+              "di varietà",
+              "di balletto",
+              "di burattini"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con fuochi d’artificio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "spettacolo pirotecnico",
+              "pirico",
+              "uno spettacolo divertente",
+              "noioso"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione , che è stato trasformato in una sorta di rappresentazione che ne fa risaltare solo gli aspetti più sensazionali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "politica",
+              "informazione",
+              "cultura spettacolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle identiche rappresentazioni facenti parte di una serie programmata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la compagnia darà solo tre spettacoli",
+              "andare al cinema all’ultimo spettacolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , insieme delle attività attinenti cinema, teatro, televisione, eccetera e delle persone che vi lavorano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mondo",
+              "l’industria dello spettacolo",
+              "gente di spettacolo",
+              "lavorare nello spettacolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che colpisce o impressiona in quanto straordinario, impressionante, curioso, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo spettacolo del tramonto",
+              "quelle cascate sono un vero spettacolo",
+              "è uno spettacolo vederli litigare!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Folla di spettatori",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1a,1b,2,3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Rappresentazione pubblica di un'opera teatrale, musicale o cinematografica, o qualsiasi altra esibizione artistica o di intrattenimento destinata a un pubblico.",
+      "examples": [
+        "Siamo andati a vedere uno spettacolo teatrale che ci ha molto emozionato.",
+        "Il circo ha offerto uno spettacolo indimenticabile, con acrobati e clown bravissimi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Qualsiasi evento o scena osservata, che attira l'attenzione e suscita un'emozione o una reazione, sia positiva che negativa.",
+      "examples": [
+        "Il tramonto sul mare era uno spettacolo mozzafiato.",
+        "L'incidente in strada è stato uno spettacolo orribile, tutti accorrevano a guardare."
+      ],
+      "nota": "Questo senso si riferisce a situazioni spontanee, non organizzate per un pubblico specifico, ma che hanno un impatto visivo o emotivo."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Indica un fatto o una situazione che si presenta in modo eccezionale, clamoroso o addirittura scandaloso, spesso con connotazioni negative, attirando pettegolezzi o giudizi.",
+      "examples": [
+        "La lite furibonda tra i due vicini ha offerto un vero e proprio spettacolo per tutto il quartiere.",
+        "Non fare uno spettacolo di te stesso in pubblico, cerca di controllarti."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "lemma": "comprare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafaa69ad0a50d0662d36"
+    },
+    "source": "paraviaXML/25147.xml",
+    "lemma": "comprare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "pronome"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Acquistare col denaro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comprare un vestito",
+              "una casa",
+              "dei titoli azionari",
+              "comprare a credito",
+              "comprare in",
+              "a contanti",
+              "comprare a buon prezzo",
+              "comprare bene",
+              "comprare a caro prezzo",
+              "comprare caro",
+              "comprare male",
+              "comprare qcs. dal droghiere",
+              "dal lattaio",
+              "al supermercato"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Col dativo: non hanno comprato nulla per lui o da lui",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi compri il giornale?",
+              "non gli hanno comprato nulla"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ingaggiarlo per la propria squadra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comprare un calciatore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Procurarsi illecitamente con denaro, promesse o favori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comprare il voto degli elettori",
+              "comprare una laurea"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Corrompere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comprare un giudice",
+              "un arbitro"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Acquisire la proprietà di un bene o servizio pagandone il prezzo.",
+      "examples": [
+        "Ho comprato un nuovo libro in libreria.",
+        "Non puoi comprare la felicità con il denaro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Corrompere una persona con denaro o altri mezzi per ottenerne un favore o il silenzio.",
+      "examples": [
+        "Hanno cercato di comprare il testimone per farlo ritrattare.",
+        "È impossibile comprare la sua onestà."
+      ],
+      "nota": "Ha una connotazione negativa, implicando un atto illecito o immorale."
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Effettuare acquisti, dedicarsi all'attività commerciale di acquisizione di beni.",
+      "examples": [
+        "Oggi vado a comprare, mi serve un vestito nuovo.",
+        "È abituato a comprare nei negozi di lusso."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Acquistare qualcosa per sé stessi, spesso con l'impiego di risorse personali.",
+      "examples": [
+        "Si è comprato una nuova macchina con i suoi risparmi.",
+        "Non riesco a comprarmi un momento di pace."
+      ],
+      "nota": null
+    }
+  ]
+}

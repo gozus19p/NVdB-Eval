@@ -1,0 +1,237 @@
+{
+  "lemma": "comparire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafaa69ad0a50d0662d0b"
+    },
+    "source": "paraviaXML/24887.xml",
+    "lemma": "comparire",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Presentarsi, mostrarsi all’improvviso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comparve sulla porta uno sconosciuto",
+              "me lo sono visto comparire davanti",
+              "comparire in sogno",
+              "il sole comparve da dietro le nuvole"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mettersi in vista, farsi conoscere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fanno qualsiasi cosa pur di comparire",
+              "finanzia l’attività ma non vuol comparire"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di scritto, essere pubblicato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è recentemente comparsa una riedizione del testo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere presente in un’opera d’arte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vi compaiono soluzioni stilistiche originali",
+              "compare nuovamente nell’ultima scena"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere compreso, figurare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non compare nell’elenco degli iscritti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far bella mostra, far figura",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , presentarsi all’autorità giudiziaria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comparire come imputato",
+              "come teste"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "complemento predicativo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con del soggetto, sembrare, essere giudicato: Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i poveri ci vuol poco a farli comparir birboni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Presentarsi o manifestarsi all'improvviso o in modo evidente, divenire visibile o noto.",
+      "examples": [
+        "Un nuovo problema è comparso all'orizzonte.",
+        "Il suo nome non è comparso nella lista dei vincitori."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Recarsi in un luogo specificamente per un appuntamento, una convocazione o per eseguire un'azione pubblica.",
+      "examples": [
+        "Il testimone dovrà comparire in tribunale la prossima settimana.",
+        "È dovuto comparire davanti al giudice per rendere conto delle sue azioni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Apparire, per lo più in pubblico, mettendosi in mostra o facendo una bella figura.",
+      "examples": [
+        "Gli piace comparire in società, sempre impeccabile.",
+        "Non è il tipo che ama comparire a tutti i costi."
+      ],
+      "nota": "Spesso in contesti in cui si fa riferimento all'aspetto o al comportamento in pubblico."
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Essere presente o citato in un'opera letteraria, cinematografica, televisiva o in un documento.",
+      "examples": [
+        "Il suo volto compare spesso in quella serie televisiva.",
+        "Questo dato non compare negli archivi ufficiali."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "lemma": "decisione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeac69ad0a50d0655e84"
+    },
+    "source": "paraviaXML/30560.xml",
+    "lemma": "decisione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il decidere scegliendo fra varie possibilità, risoluzione, deliberazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prendere",
+              "maturare una decisione",
+              "rimettersi alle decisioni di qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , sentenza che risolve una controversia, una causa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prontezza, sicurezza nell’agire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "agire con decisione",
+              "in quella circostanza ha dimostrato molta decisione",
+              "rispondere con decisione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , separazione, divisione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che è diviso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Atto con cui si sceglie tra più opzioni o si stabilisce come agire in una situazione, dopo un processo di valutazione.",
+      "examples": [
+        "La decisione di trasferirsi all'estero non è stata facile.",
+        "Il consiglio di amministrazione ha preso una decisione importante riguardo ai licenziamenti."
+      ],
+      "nota": "È il senso più comune e neutro; spesso accompagnato da verbi come 'prendere', 'prendere una', 'rimandare', 'revocare'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Pronunciamento ufficiale emesso da un'autorità giudiziaria, amministrativa o istituzionale che definisce l'esito di una procedura o controversia.",
+      "examples": [
+        "La decisione del tribunale è stata favorevole all'imputato.",
+        "L'azienda ha impugnato la decisione dell'Antitrust davanti al TAR."
+      ],
+      "nota": "In ambito giuridico e amministrativo può distinguersi tecnicamente da 'sentenza' o 'delibera', ma nell'uso corrente tende a sovrapporsi a questi termini."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Qualità di chi sa agire con fermezza e prontezza, senza incertezze o esitazioni.",
+      "examples": [
+        "Ha affrontato la crisi con grande decisione, senza perdere la calma.",
+        "La decisione con cui ha gestito la situazione ha colpito tutti i presenti."
+      ],
+      "nota": "In questo senso il termine ha valore valutativo positivo ed è sinonimo di 'risolutezza', 'fermezza'. Si contrappone a 'indecisione'."
+    }
+  ]
+}

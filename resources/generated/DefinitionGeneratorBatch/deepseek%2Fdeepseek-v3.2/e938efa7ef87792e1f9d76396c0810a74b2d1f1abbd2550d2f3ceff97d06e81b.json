@@ -1,0 +1,134 @@
+{
+  "lemma": "tedesco",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0769ad0a50d064b8ca"
+    },
+    "source": "paraviaXML/118853.xml",
+    "lemma": "tedesco",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Della Germania",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante della Germania",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "linguistica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , lingua germanica occidentale, parlata oggi come lingua nazionale o ufficiale in Germania, Austria, Svizzera, Lussemburgo, Liechtenstein, Namibia e da minoranze linguistiche in Danimarca e altri paesi, tra le quali cospicue quelle dell’est europeo, quella sudtirolese o altoatesina in Italia e quelle dei numerosi stati dell’America settentrionale e meridionale, costituitasi come lingua scritta cancelleresca attraverso il conguaglio di parlate alto–tedesche, usata da Lutero nella traduzione della Bibbia ( 1522–34) progressivamente affermatasi nel parlato penetrando profondamente i dialetti sia alto–tedeschi sia basso–tedeschi e diventando una delle lingue di maggior prestigio nella cultura letteraria, artistica, scientifica e filosofica del mondo moderno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Materia d’insegnamento relativa a tale lingua e alla sua letteratura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "professore",
+              "testo di tedesco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo o pertinente alla Germania, alla sua popolazione, alla sua cultura o alla sua lingua.",
+      "examples": [
+        "La squadra tedesca ha vinto il campionato.",
+        "Ha sposato una ragazza tedesca."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Persona di cittadinanza, origine o discendenza tedesca.",
+      "examples": [
+        "Un tedesco gli ha chiesto informazioni.",
+        "Il mio collega è un tedesco molto simpatico."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Lingua germanica ufficiale della Germania, dell'Austria e di parte della Svizzera.",
+      "examples": [
+        "Sta studiando il tedesco da due anni.",
+        "Il tedesco e l'olandese hanno alcune somiglianze."
+      ],
+      "nota": "Generalmente usato senza articolo quando si indica la lingua come materia di studio o competenza."
+    }
+  ]
+}

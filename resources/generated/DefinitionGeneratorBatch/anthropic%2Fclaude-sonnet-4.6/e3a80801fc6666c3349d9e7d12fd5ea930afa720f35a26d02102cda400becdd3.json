@@ -1,0 +1,132 @@
+{
+  "lemma": "incidente",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaedd69ad0a50d06587be"
+    },
+    "source": "paraviaXML/54818.xml",
+    "lemma": "incidente",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fatto inatteso, specialmente negativo che viene a turbare lo svolgimento di un’attività o il normale corso degli eventi; disgrazia, sciagura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "incidente sul lavoro",
+              "incidente aereo",
+              "ferroviario",
+              "incidente domestico"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scontro di veicoli o di un veicolo contro un ostacolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "strada interrotta per un grave incidente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Disputa sorta nel corso di una discussione specialmente su questioni non pertinenti all’argomento principale di cui si tratta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "provocare",
+              "sollevare un incidente",
+              "l’incidente è chiuso, non parliamone più"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto ; questione incidentale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Evento imprevisto e indesiderato che causa danni materiali, fisici o morti, spesso nel contesto della circolazione stradale o di attività lavorative.",
+      "examples": [
+        "Sull'autostrada A1 si è verificato un grave incidente che ha coinvolto tre veicoli.",
+        "Il lavoratore ha riportato ferite lievi a causa di un incidente sul cantiere."
+      ],
+      "nota": "È il senso più frequente nell'uso quotidiano; spesso accompagnato da specificatori come 'stradale', 'sul lavoro', 'aereo', 'ferroviario'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Episodio spiacevole o contrattempo di minore gravità che turba il normale svolgimento di una situazione.",
+      "examples": [
+        "La conferenza si è conclusa senza incidenti, nonostante le tensioni iniziali.",
+        "Durante la cerimonia si è verificato un piccolo incidente diplomatico che ha imbarazzato entrambe le delegazioni."
+      ],
+      "nota": "In questo senso l'incidente non implica necessariamente danni fisici; si usa anche nella locuzione 'incidente diplomatico' per indicare una situazione di frizione tra stati o istituzioni."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha un effetto diretto e rilevante su qualcosa; che incide in modo determinante su un esito o un risultato.",
+      "examples": [
+        "La perizia tecnica è stata ritenuta incidente ai fini del giudizio.",
+        "Si tratta di una clausola contrattuale incidente sull'intera struttura dell'accordo."
+      ],
+      "nota": "Uso prevalentemente tecnico-giuridico e formale; corrisponde al participio presente del verbo 'incidere' nel senso di 'avere effetto su qualcosa'."
+    }
+  ]
+}

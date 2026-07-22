@@ -1,0 +1,167 @@
+{
+  "lemma": "destino",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeaf69ad0a50d06560c9"
+    },
+    "source": "paraviaXML/32082.xml",
+    "lemma": "destino",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il corso delle cose considerato come predeterminato e indipendente dalla volontà dell’uomo; fato, sorte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "seguire",
+              "accettare",
+              "subire il proprio destino",
+              "rassegnarsi al destino",
+              "il destino ha voluto così",
+              "è il destino che ci ha fatto incontrare",
+              "credere al destino",
+              "predire il destino a qcn.",
+              "leggere il destino nelle carte"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Disinteressarsi della sua sorte; di fatto, avvenimento, eccetera , deciderne la sorte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbandonare",
+              "lasciare qcn.",
+              "qcs. al suo destino",
+              "segnare il destino di qcn.",
+              "di qcs."
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "impersonale"
+            ],
+            "definitions": [
+              {
+                "glossa": "In usi impersonale , è inevitabile, fatale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è destino",
+              "era destino che ci incontrassimo",
+              "è destino che io mi debba arrabbiare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , sorti, vicende future",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i destini dei popoli",
+              "sognare destini di gloria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di lettera, pacco e simile , destinazione, recapito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "andare",
+              "spedire a destino"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Porto di arrivo di una nave",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "porto di destino"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Sorta o fato che determina il corso della vita di una persona o di un evento",
+      "examples": [
+        "Il destino ha voluto che ci incontrassimo.",
+        "Secondo il destino, dovevo finire lì."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Scopo o obiettivo finale di qualcosa o qualcuno",
+      "examples": [
+        "Il destino dell'azienda è legato alle scelte del management.",
+        "Il destino della squadra è la promozione in serie A."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "lemma": "ammazzare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa169ad0a50d066268c"
+    },
+    "source": "paraviaXML/5089.xml",
+    "lemma": "ammazzare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Uccidere, specialmente con violenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ammazzare qcn. a bastonate"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di animali da allevamento: macellare, abbattere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ammazzare un vitello"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far morire, causare la morte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la fame ha ammazzato molte persone"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ferire gravemente qualcuno colpendolo ripetutamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ammazzare qcn. di botte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Uccidere a colpi di mazza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Stancare molto, sfinire: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ammazzare qcn. di fatica",
+              "questo caldo mi ammazza",
+              "un lavoro che ammazza"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Deprimere, mortificare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ammazzare lo spirito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, in alcuni giochi di carte: superare la carta dell’avversario con una di maggior valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Provocare la morte di una persona o di un animale, causandone il decesso con azione diretta o indiretta.",
+      "examples": [
+        "La polizia ha individuato i due uomini che hanno ammazzato il titolare del negozio durante la rapina.",
+        "In quella riserva naturale è severamente vietato ammazzare qualsiasi esemplare selvatico."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Sottoporre a uno sforzo fisico o mentale estremo, provocando un forte logoramento o una stanchezza profonda.",
+      "examples": [
+        "Quegli allenamenti intensi ci stavano letteralmente ammazzando poche settimane prima della maratona.",
+        "Lavora dodici ore al giorno in cantiere e alla sera è così stanco che continua a lamentarsi di essersi sfinito."
+      ],
+      "nota": "Frequente anche l'uso in forma riflessiva (ammazzarsi) per esprimere l'autoimposizione di ritmi insostenibili o l'assunzione di grandi responsabilità."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Interrompere bruscamente, far cessare o reprimere un'azione, un dibattito, un rumore o uno stato d'animo.",
+      "examples": [
+        "Il moderatore ha cercato di ammazzare ogni polemica sul nascere prima che degenerasse in litigio.",
+        "Chiudi bene quella porta per attenuare e infine ammazzare il rumore del traffico che entra dall'ingresso."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Far passare in modo ozioso, monotono o privo di uno scopo preciso (il tempo o un periodo della giornata).",
+      "examples": [
+        "Non avevamo programmi per il pomeriggio, così abbiamo giocato a carte solo per ammazzare il tempo.",
+        "In ferie cerco di non impegnarmi mai e passo le mattine ad ammazzare le giornate in spiaggia leggendo con calma."
+      ],
+      "nota": "Ricorre principalmente nelle locizioni cristallizzate 'ammazzare il tempo' e 'ammazzare la giornata'."
+    }
+  ]
+}

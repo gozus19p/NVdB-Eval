@@ -1,0 +1,226 @@
+{
+  "lemma": "ospitare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc569ad0a50d0664397"
+    },
+    "source": "paraviaXML/77381.xml",
+    "lemma": "ospitare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accogliere come ospite nella propria casa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "li abbiamo ospitati qualche giorno al mare",
+              "sono stato ospitato da un amico |"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dare ospitalità stabilmente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ormai da molti anni ospitavano la vecchia nonna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accogliere e proteggere un fuoriuscito o un ricercato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, ricevere una squadra avversaria sul proprio terreno di gioco",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di un luogo, un locale, un ambiente, accogliere o poter accogliere un certo numero di persone; avere una determinata capienza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’albergo può ospitare cento persone"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Raccogliere, custodire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il museo ospita una vasta collezione di macchiaioli"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Accettare uno scritto in una rivista o in una pubblicazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli atti del convegno ospitano solo gli interventi più importanti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere come ospite in una trasmissione radiofonica o televisiva, in una manifestazione, un convegno e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia , fornire il nutrimento necessario a un parassita",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Accogliere temporaneamente una o più persone, mettendole a disposizione di alloggio e assistenza in un'abitazione privata o in una struttura ricettiva.",
+      "examples": [
+        "I miei genitori hanno deciso di ospitare zia Maria per tutto il mese di agosto.",
+        "Il rifugio alpino può ospitare al massimo trenta escursionisti alla volta."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Fungere da sede fisica o mettere a disposizione spazi per lo svolgimento di eventi, iniziative culturali, sportive o per la conservazione e esposizione di opere e dati.",
+      "examples": [
+        "Il teatro alla Scala ospita ogni anno la stagione lirica internazionale.",
+        "Il nuovo server aziendale ospiterà il database centralizzato di tutti i clienti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Costituire l'habitat, il tessuto o il substrato necessario alla sopravvivenza, allo sviluppo o alla riproduzione di organismi viventi, microrganismi o piante.",
+      "examples": [
+        "Il suolo vulcanico tende a ospitare specie vegetali uniche nel Mediterraneo.",
+        "L'apparato digerente umano ospita trilioni di batteri che collaborano alle funzioni metaboliche."
+      ],
+      "nota": "Termine tecnico prevalente in ambito biomedico, ecologico e scientifico per indicare la relazione simbiotica o parassitaria con un ambiente o un organismo."
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "lemma": "rapporto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2f69ad0a50d065ca7a"
+    },
+    "source": "paraviaXML/91298.xml",
+    "lemma": "rapporto",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Resoconto scritto o a voce di fatti, avvenimenti, situazioni e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rapporto esauriente",
+              "stilare un rapporto sull’andamento della ditta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "diritto penale",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto penale , atto con cui un pubblico ufficiale presenta una denuncia penale informando l’autorità giudiziaria di un reato che è stato commesso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "TS",
+        "field": "estensivo",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguaggio militare , riunione di ufficiali per comunicazioni di ordini, disposizioni, notizie, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ricevimento di un inferiore da parte di un superiore per comunicazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "convocare",
+              "andare a rapporto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , relazione fra persone, istituzioni, nazioni e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rapporto di amicizia",
+              "di parentela",
+              "essere in buoni",
+              "in cattivi rapporti con qcn.",
+              "si sono inaspriti i rapporti fra i partiti della maggioranza"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Funziona da coppiogeno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rapporto uomo donna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rapporto sessuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nesso, collegamento, connessione fra due o più cose",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli avvenimenti sono in stretto rapporto fra loro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , quoziente di due numeri, delle misure di due grandezze e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il rapporto fra 6 e 3 è 2",
+              "calcolare il rapporto fra gli abitanti e la superficie territoriale di una regione"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per indicare la relazione numerica che intercorre fra due grandezze",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere in un rapporto di 1 a 3",
+              "tra il raccolto dell’anno scorso e quello di quest’anno esiste un rapporto di 1 a 10"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "meccanica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Meccanica ; rapporto di trasmissione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nelle biciclette, agire sulla leva del cambio per variare il rapporto di trasmissione e determinare un cambio di velocità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cambiare rapporto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "tessile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tessile , disegno da stampare sul tessuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Punto di congiungimento che segna il ripetersi del disegno su un tessuto stampato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Confronto, paragone; per affermare l’assoluta superiorità di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non c’è rapporto fra una cosa e un’altra"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In relazione a, per quanto concerne",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "in rapporto ai fatti accaduti sono state prese diverse risoluzioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Secondo un rapporto frazionario",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il grafico mostra il numero degli abitanti in rapporto alla densità del territorio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "statistica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Statistica , il rapporto tra la frequenza o intensità di un fenomeno e la frequenza o intensità di un altro a esso collegato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , nesso esistente tra un fatto di una persona e un evento dannoso o pericoloso da cui dipende l’esistenza di un reato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Relazione o connessione tra due o più elementi, entità o persone, che può essere di natura formale o informale, oggettiva o soggettiva.",
+      "examples": [
+        "Il rapporto qualità-prezzo di questo prodotto è eccellente.",
+        "Tra i due colleghi si è instaurato un buon rapporto di collaborazione.",
+        "Non capisco il rapporto causa-effetto in questo fenomeno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Comunicazione o resoconto scritto o orale che fornisce informazioni dettagliate su un evento, una situazione o un'indagine.",
+      "examples": [
+        "L'agente ha presentato un rapporto completo sull'incidente.",
+        "Ho letto il rapporto annuale dell'azienda e le prospettive sono positive.",
+        "Il medico ha consegnato un rapporto sulla salute del paziente al suo familiare."
+      ],
+      "nota": "Spesso usato in contesti ufficiali o professionali."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Relazione di tipo sessuale tra individui.",
+      "examples": [
+        "Hanno avuto un rapporto occasionale durante la vacanza.",
+        "Il loro rapporto era basato su una profonda intimità affettiva e fisica.",
+        "La mancanza di rapporto può creare tensioni in una coppia."
+      ],
+      "nota": "Spesso usato come eufemismo per 'rapporto sessuale'."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Il quoziente tra due grandezze o numeri che indica la loro relazione proporzionale.",
+      "examples": [
+        "In questa ricetta, il rapporto tra farina e acqua è di due a uno.",
+        "Il rapporto aureo è una proporzione matematica esteticamente gradevole.",
+        "Il rapporto di compressione del motore influenza le sue prestazioni."
+      ],
+      "nota": "Uso tipico in matematica, fisica o tecnica."
+    }
+  ]
+}

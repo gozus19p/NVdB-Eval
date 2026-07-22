@@ -1,0 +1,196 @@
+{
+  "lemma": "citare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa969ad0a50d0662c71"
+    },
+    "source": "paraviaXML/23079.xml",
+    "lemma": "citare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Riportare testualmente come esempio o per suffragare un’affermazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "citare un passo del Manzoni"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Indicare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "citare a modello"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Usare all’interno di un proprio testo, specialmente saggistico, riportandone uno o più passi, e registrandone in nota gli estremi bibliografici",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "citare un saggio",
+              "un articolo scientifico"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esplicitare un dato bibliografico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "citare il luogo e la data di edizione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Menzionare in un discorso, in una conversazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "citare il titolo di un film",
+              "citare il caso capitato a un amico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "diritto"
+            ],
+            "definitions": [
+              {
+                "glossa": "Diritto , convocare davanti a un magistrato in qualità di controparte, accusato o testimone",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "citare qcn. in giudizio",
+              "essere citato a testimoniare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chiamare per nome",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "riportare le parole esatte di qualcuno, attribuendole esplicitamente all'autore originale",
+      "examples": [
+        "Nel suo saggio, l'autore cita spesso le opere di Calvino.",
+        "Durante la conferenza, il relatore ha citato una frase di Einstein per sostenere la sua tesi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "menzionare qualcuno o qualcosa come esempio, riferimento o prova",
+      "examples": [
+        "Il professore ha citato il caso della Finlandia come modello di sistema educativo.",
+        "Nell'articolo, l'autore cita diversi studi per confermare la sua ipotesi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "convocare qualcuno in tribunale per rispondere di un'accusa o per comparire come testimone",
+      "examples": [
+        "È stato citato in giudizio per diffamazione dopo le dichiarazioni pubbliche.",
+        "Il testimone è stato citato a comparire davanti al giudice la prossima settimana."
+      ],
+      "nota": "In questo senso, il verbo è spesso usato nella forma passiva ('essere citato in giudizio')."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "riprodurre o imitare un'opera d'arte, un testo o uno stile in modo riconoscibile",
+      "examples": [
+        "Il pittore ha citato un famoso dipinto di Caravaggio nella sua ultima opera.",
+        "Il film cita apertamente alcune scene di classici del cinema italiano."
+      ],
+      "nota": "Usato soprattutto in ambito artistico e culturale."
+    }
+  ]
+}

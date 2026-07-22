@@ -1,0 +1,99 @@
+{
+  "lemma": "emozione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebb69ad0a50d0656afc"
+    },
+    "source": "paraviaXML/38698.xml",
+    "lemma": "emozione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impressione, sensazione forte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "provocare",
+              "suscitare una forte emozione",
+              "un’emozione violenta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Turbamento, agitazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un viaggio ricco di emozioni",
+              "che emozione rivederti!",
+              "essere in preda all’emozione",
+              "non riuscire a parlare per l’emozione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , intensa esperienza psichica, piacevole o spiacevole, accompagnata da reazioni fisiche e comportamentali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Stato affettivo intenso e transitorio, spesso accompagnato da reazioni fisiologiche, suscitato da uno stimolo esterno o interno (gioia, paura, tristezza, sorpresa, rabbia, ecc.).",
+      "examples": [
+        "La notizia della nascita del nipote le ha provocato un'emozione fortissima.",
+        "Il film era così bello che ha suscitato emozioni intense in tutto il pubblico.",
+        "Cercava di nascondere le proprie emozioni, ma gli occhi lucidi lo tradivano."
+      ],
+      "nota": "Nella psicologia contemporanea si distingue dall'umore (stato affettivo più duraturo e diffuso) e dal sentimento (elaborazione cognitiva più stabile dell'emozione)."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Turbamento o agitazione momentanea causati da eccitazione, trepidazione o grande aspettativa, indipendentemente dalla valenza positiva o negativa.",
+      "examples": [
+        "Prima di salire sul palco era visibilmente in preda all'emozione.",
+        "Con voce rotta dall'emozione, il vincitore ha ringraziato tutti i suoi sostenitori.",
+        "L'emozione del primo giorno di lavoro è difficile da descrivere."
+      ],
+      "nota": "In questo uso il termine si avvicina a 'agitazione' o 'tremore interiore' e può riferirsi anche a contesti in cui la valenza affettiva è neutra o positiva, senza necessariamente implicare la categorizzazione in emozioni discrete."
+    }
+  ]
+}

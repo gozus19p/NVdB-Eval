@@ -1,0 +1,678 @@
+{
+  "lemma": "volare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafef69ad0a50d0666526"
+    },
+    "source": "paraviaXML/128386.xml",
+    "lemma": "volare",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "O ) di uccello o altro animale alato, librarsi e muoversi nell’aria per mezzo delle ali o di organi di volo analoghi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il gabbiano vola sul mare",
+              "il canarino è volato fuori dalla gabbia",
+              "i pipistrelli volano di notte",
+              "le api volano in sciami"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere molto credulone, farsi ingannare facilmente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "credere che un asino voli"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anche con riferimento a esseri fantastici, mitologici e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’Ippogrifo portava Astolfo volando",
+              "un fantasma che vola nella notte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "O ) di aeromobile o di veicolo spaziale, staccarsi da terra e muoversi nell’atmosfera o nello spazio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un aereo",
+              "un elicottero che vola ad alta quota",
+              "un satellite che vola nello spazio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "O ) di qualcuno , viaggiare all’interno di un aeromobile o di un veicolo spaziale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non aver mai volato",
+              "è volato a Londra per affari",
+              "gli astronauti che volarono sulla Luna"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prestare servizio come pilota o membro dell’equipaggio di un aeromobile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "volare per una compagnia di linea"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di un oggetto leggero, librarsi e volteggiare nell’aria per ricadere lentamente al suolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una piuma che vola nell’aria",
+              "il vento fa volare le foglie secche"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Percorrere un breve tragitto nell’aria sospinto da una violenta forza esterna: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il pallone è volato oltre la rete",
+              "i frantumi del vetro sono volati per tutta la stanza",
+              "durante la rissa volarono sedie e bottiglie",
+              "volarono pugni e schiaffi",
+              "sono volate parole grosse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cadere dall’alto, precipitare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un blocco di neve è volato giù dal tetto",
+              "ha fatto volare i suoi vestiti dalla finestra"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "TS",
+        "field": "estensivo",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nell’alpinismo, cadere nel vuoto rimanendo appesi alla corda, a causa del cedimento di un appiglio o di un ancoraggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Muoversi, procedere a grande velocità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le moto volano sulla pista",
+              "i corridori sono volati verso il traguardo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Precipitarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono in ritardo, devo volare all’appuntamento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Diffondersi molto velocemente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le buone notizie volano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rivolgersi a qualcosa con la mente, vagare con il pensiero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "volare nel passato con i ricordi",
+              "il suo pensiero vola al futuro",
+              "volare con la fantasia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di tempo, trascorrere rapidamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le vacanze sono volate in fretta",
+              "le ore in sua compagnia volano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "gergale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nel gergo dei drogati, essere sotto l’effetto allucinogeno di una sostanza stupefacente",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di odore, espandersi nell’aria: Parini)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mille d’intorno a lui volano odori"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di parole, essere pronunciate con grazia e armonia; di canto, levarsi: Carducci)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il canto d’amor vola"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "verbo transitivo",
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, nel tresette, gettare sul tavolo una carta facendole fare un piccolo volo, per far capire al proprio compagno che non si hanno più carte di quel seme: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "volare una carta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12a",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nei giochi del pallone elastico e del pallone a bracciale, gettare il pallone oltre il segno facendo così dei punti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12b",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nel tamburello, gettare la palla facendole superare tutti i giocatori avversari senza toccare terra",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "TS",
+        "field": "tecnica venatoria",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica venatoria , del falcone, ghermire volando",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "volare la preda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "TS",
+        "field": "teatro",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Teatro , pronunciare facendo una volata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "volare una battuta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lanciarsi in imprese al di sopra delle proprie capacità, cercare di fare cose impossibili",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere particolarmente felice, entusiasta.",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3–8,10",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "9,11–14",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Muoversi nell'aria o nello spazio mediante ali o mezzi meccanici, sostenendosi senza contatto con il suolo.",
+      "examples": [
+        "Gli uccelli volano sopra gli alberi al tramonto.",
+        "L'aereo è decollato e ora sta volando a diecimila metri di altitudine."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Spostarsi rapidamente da un luogo all'altro, spesso con un mezzo di trasporto aereo.",
+      "examples": [
+        "Domani volerò a Parigi per una riunione di lavoro.",
+        "Sono volato in Sicilia per il matrimonio di mio cugino."
+      ],
+      "nota": "In questo senso, il verbo è spesso usato in modo figurato per indicare un viaggio rapido, anche se non necessariamente in aereo."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Passare molto velocemente, detto del tempo o di un periodo.",
+      "examples": [
+        "Le vacanze sono volate in un attimo.",
+        "Con tutti questi impegni, la giornata è volata via."
+      ],
+      "nota": "Uso figurato per indicare la rapidità con cui qualcosa trascorre."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Cadere o essere proiettato in aria, spesso in modo accidentale o improvviso.",
+      "examples": [
+        "Il cappello gli è volato via a causa del vento forte.",
+        "Durante l'incidente, il passeggero è volato fuori dall'auto."
+      ],
+      "nota": "In questo senso, il verbo può implicare una perdita di controllo o un movimento forzato."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Spostare qualcosa o qualcuno rapidamente da un luogo all'altro, spesso con un mezzo di trasporto aereo.",
+      "examples": [
+        "L'elicottero ha volato i feriti in ospedale.",
+        "Hanno volato le provviste al campo base con un piccolo aereo."
+      ],
+      "nota": "Uso meno comune rispetto alla forma intransitiva, spesso in contesti di emergenza o logistici."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Essere molto felice o euforico, spesso a causa di una situazione positiva.",
+      "examples": [
+        "Quando ha saputo della promozione, è volato dalla gioia.",
+        "Dopo la vittoria, i tifosi volavano di felicità."
+      ],
+      "nota": "Uso figurato per esprimere uno stato d'animo di grande contentezza."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "Essere diffuso rapidamente, detto di notizie, voci o informazioni.",
+      "examples": [
+        "La notizia della sua partenza è volata in tutta la città.",
+        "Le voci sul loro fidanzamento sono volate sui social media."
+      ],
+      "nota": "Uso figurato per indicare la rapidità di diffusione di un'informazione."
+    }
+  ]
+}

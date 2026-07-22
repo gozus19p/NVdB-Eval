@@ -1,0 +1,1028 @@
+{
+  "lemma": "avere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafea69ad0a50d0666144"
+    },
+    "source": "paraviaXML/10959.xml",
+    "lemma": "avere",
+    "grammar": [
+      "v.tr.",
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Possedere beni, cose materiali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere una casa",
+              "molti terreni",
+              "tanti soldi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Possedere ricchezze, essere ricco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non sempre quelli che hanno sono generosi"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Eccetera, e così via, alla fine di un’elencazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "e chi più ne ha più ne metta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere a disposizione, specialmente temporaneamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "domani ho la macchina della ditta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ne ho diritto, ne fruisco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho ancora tre giorni di ferie",
+              "in quella libreria ho lo sconto del 10%"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Presentare determinate caratteristiche fisiche o qualità morali o intellettuali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere tante virtù",
+              "un’intelligenza pronta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere coraggioso, fortunato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere coraggio",
+              "fortuna"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Delle buone qualità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere del buono"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ricordare, assomigliare a qualcuno o a qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere qcs.",
+              "molto di qcn.",
+              "di qcs."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Possedere cose astratte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere le prove di qcs."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con oggetto determinato da un complemento predicativo ne indica una particolare condizione o qualità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere gli occhi verdi",
+              "i capelli spettinati",
+              "i figli a scuola",
+              "un parente avvocato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con oggetto costituito da una determinazione di tempo, indica età, anzianità e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere vent’anni",
+              "tre giorni di vacanza"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere nato da poco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere pochi giorni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Determinazioni di luogo, indica relazione o collocazione nello spazio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere qcs.",
+              "qcn. di fronte",
+              "accanto",
+              "avere un livido sul braccio",
+              "la casa ha intorno un bosco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con oggetto di persona indica relazione affettiva, di parentela, di lavoro, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere moglie",
+              "due figli",
+              "degli amici a Roma"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tenere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere il cane al guinzaglio",
+              "qcs. nelle mani"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Indossare, portare un indumento, un abito, un accessorio, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere un vestito molto elegante",
+              "gli occhiali"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Contenere, comprendere; annoverare, contare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Roma ha tre milioni di abitanti",
+              "il treno ha pochi vagoni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ottenere, conseguire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere una promozione",
+              "dei vantaggi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quel che è fatto è fatto, la questione è chiusa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "chi ha avuto ha avuto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Entrare in possesso di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho avuto la mia parte di eredità"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Comperare, acquistare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’ho avuto a poco prezzo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Riscuotere, percepire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha avuto dodici milioni di liquidazione"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ricevere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho avuto ieri la tua lettera"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sentire, provare una sensazione fisica, un sentimento, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere fame",
+              "paura",
+              "avere voglia",
+              "bisogno di qcs.",
+              "avere simpatia per qcn.",
+              "avere un’idea",
+              "avere speranza",
+              "timore"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esserne contento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere piacere di qcs."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Soffrire, essere affetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere il raffreddore",
+              "mal di testa",
+              "avere complessi di inferiorità"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Godere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere buona salute"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "preposizione",
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con la , provare antipatia, odio per qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "in",
+              "avere in antipatia",
+              "in odio qcn."
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con la , esserne infastidito, stufo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a",
+              "avere a noia qcs.",
+              "qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Aggettivo, considerare, ritenere: essergli affezionato; prenderla a cuore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere caro qcs.",
+              "qcn.",
+              "avere cara una faccenda"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con le o , ritenerlo un bugiardo, un vigliacco; esserne certo, sicuro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "per",
+              "a",
+              "avere qcn. per bugiardo",
+              "avere qcn. a vile",
+              "avere per certo qcs."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "preposizione",
+          "preposizione",
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "riferimento"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lla e infinito, dovere: con riferimento a un tempo futuro: in alcuni usi senza la , doverli sostenere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "da",
+              "avere da lavorare",
+              "avere altro da fare",
+              "ha da passare ancora un mese",
+              "avere gli esami"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con la",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a",
+              "ebbe a ricredersi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lla e infinito ha valore fraseologico: si ammalò; credo che arrivi oggi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a",
+              "ebbe ad ammalarsi",
+              "credo che abbia ad arrivare oggi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente nella lingua parlata, con la particella",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ci",
+              "non c’ho un minuto di tempo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alla terza persona con le particelle e , esserci",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ci",
+              "vi",
+              "non v’ha ragione",
+              "dubbio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "v’ha talvolta, nel volto e nel contegno d’un uomo, un’espressione così immediata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo ausiliare",
+          "verbo transitivo",
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come ausiliare nei tempi composti dei attivi, di parte dei e anticamente dei pronominali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho detto",
+              "ho fatto",
+              "ho sciato",
+              "ho navigato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere generoso, buono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quel ragazzo ha cuore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere coraggio, forza nell’affrontare determinate situazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non ho cuore di comunicarle la notizia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sapere vagamente, immaginare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non hai idea di quel che t’aspetta",
+              "una violenza, una sfrontatezza che non hai idea!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sospettare, temere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho idea che non verrà",
+              "ho idea che sarà bocciato"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "essere in possesso di qualcosa in modo stabile o temporaneo",
+      "examples": [
+        "Ho una macchina nuova.",
+        "Non hanno ancora la patente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "essere caratterizzato da una qualità, una condizione o uno stato",
+      "examples": [
+        "Ha i capelli biondi.",
+        "Questo problema ha una soluzione semplice."
+      ],
+      "nota": "Spesso usato con nomi astratti o parti del corpo."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "sentire o provare un'emozione, una sensazione o un bisogno",
+      "examples": [
+        "Ho fame, mangiamo qualcosa?",
+        "Ha paura del buio."
+      ],
+      "nota": "Frequente con nomi di stati fisici o emotivi."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "essere affetto da una malattia o un disturbo",
+      "examples": [
+        "Ha l'influenza da tre giorni.",
+        "Mio nonno ha il diabete."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "ottenere o ricevere qualcosa",
+      "examples": [
+        "Ho avuto una promozione al lavoro.",
+        "Hai avuto notizie da Luca?"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "indicare un'età o una durata temporale",
+      "examples": [
+        "Mio figlio ha dieci anni.",
+        "Questo film ha una durata di due ore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo ausiliare",
+      "definition": "usato per formare i tempi composti dei verbi transitivi e di alcuni intransitivi",
+      "examples": [
+        "Ho mangiato una pizza.",
+        "Sono stato a Roma l'anno scorso (con verbi di movimento o stato)."
+      ],
+      "nota": "Si alterna con 'essere' a seconda del verbo principale."
+    },
+    {
+      "pos": "verbo impersonale",
+      "definition": "indicare una condizione atmosferica o ambientale",
+      "examples": [
+        "Oggi ha piovuto tutto il giorno.",
+        "In montagna ha nevicato molto."
+      ],
+      "nota": "Usato solo alla terza persona singolare."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "esprimere una relazione di parentela o di ruolo sociale",
+      "examples": [
+        "Ho due fratelli.",
+        "La mia amica ha un marito molto gentile."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "essere in debito di una somma di denaro",
+      "examples": [
+        "Devo ancora avere cinquanta euro da Marco.",
+        "Quanto hai dal tuo datore di lavoro?"
+      ],
+      "nota": "Uso meno comune, spesso sostituito da 'dovere' o 'essere creditore'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "contenere o includere qualcosa al proprio interno",
+      "examples": [
+        "Questo libro ha molte illustrazioni.",
+        "La scatola ha una sorpresa dentro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "organizzare o tenere un evento",
+      "examples": [
+        "Domani abbiamo una riunione importante.",
+        "La scuola ha una festa di fine anno."
+      ],
+      "nota": null
+    }
+  ]
+}

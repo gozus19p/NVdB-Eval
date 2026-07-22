@@ -1,0 +1,158 @@
+{
+  "lemma": "adulto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0369ad0a50d064a4f9"
+    },
+    "source": "paraviaXML/2273.xml",
+    "lemma": "adulto",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi ha raggiunto il completo sviluppo fisico e psichico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "persona adulta",
+              "il mondo, le responsabilità degli adulti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di piante o animali, completamente sviluppato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Tipico di una persona matura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comportamento adulto",
+              "scelta adulta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Perfezionato, progredito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stile adulto",
+              "società adulta"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "che ha raggiunto la piena maturità fisica e psicologica, tipicamente associata all'età successiva all'adolescenza",
+      "examples": [
+        "È un uomo adulto, può prendere le sue decisioni da solo.",
+        "I cani di questa razza raggiungono le dimensioni adulte a circa un anno di età."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "che mostra maturità, responsabilità o comportamento appropriato a una persona non più giovane",
+      "examples": [
+        "Non è stato molto adulto da parte tua rispondere in quel modo.",
+        "Vorrei che tu fossi più adulto e pensassi alle conseguenze delle tue azioni."
+      ],
+      "nota": "Spesso usato in contesti valutativi o esortativi, anche per persone che non hanno ancora raggiunto l'età adulta biologica."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "persona che ha raggiunto la maggiore età e gode dei diritti e doveri civili completi",
+      "examples": [
+        "Il film è vietato ai minori di 14 anni, ma gli adulti possono entrare liberamente.",
+        "Gli adulti devono dare l'esempio ai più giovani."
+      ],
+      "nota": "In contesti legali o amministrativi, l'età precisa può variare (es. 18 o 21 anni)."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "animale o pianta che ha completato il proprio sviluppo e può riprodursi",
+      "examples": [
+        "Abbiamo trovato un esemplare adulto di farfalla notturna vicino alla finestra.",
+        "Questa specie di albero produce frutti solo quando diventa adulto."
+      ],
+      "nota": "Usato prevalentemente in contesti biologici o naturalistici."
+    }
+  ]
+}

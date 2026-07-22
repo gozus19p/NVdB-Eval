@@ -1,0 +1,146 @@
+{
+  "lemma": "scatola",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4369ad0a50d065da5e"
+    },
+    "source": "paraviaXML/102876.xml",
+    "lemma": "scatola",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Contenitore di differenti materiali, forme e dimensioni a seconda delle esigenze, solitamente provvisto di coperchio, usato per riporre, conservare o trasportare oggetti va- ri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scatola di cartone",
+              "di latta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In cartone, a forma di parallelepipedo, tale da contenere un paio di scarpe",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scatola da scarpe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "metonimia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per , il suo contenuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è riuscito a mangiare un’intera scatola di gianduiotti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oggetto, congegno a forma di scatola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un carillon formato da una scatola con sopra una bambolina"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Contenitore solitamente rigido, di forma parallelepipeda o cilindrica, spesso dotato di coperchio, utilizzato per conservare o trasportare oggetti.",
+      "examples": [
+        "Ho trovato una scatola di cartone in soffitta piena di vecchie fotografie.",
+        "Mi serve una scatola più grande per spedire questo libro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Unità di misura per prodotti confezionati e venduti in un contenitore specifico.",
+      "examples": [
+        "Ho comprato una scatola di biscotti al supermercato.",
+        "Questa ricetta richiede una scatola di latte concentrato."
+      ],
+      "nota": "Uso quantificativo, spesso seguito dalla preposizione 'di'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Struttura di forma cubica o parallelepipeda che racchiude un dispositivo o un componente meccanico o elettronico.",
+      "examples": [
+        "Il tecnico ha aperto la scatola nera dell'aereo per analizzare i dati del volo.",
+        "La scatola del cambio va sostituita perché si è rotta un ingranaggio."
+      ],
+      "nota": "Senso tecnico, comune in ambiti come l'automotive, l'elettronica o l'informatica (es. 'scatola degli strumenti')."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Contenitore metallico sigillato, tipicamente cilindrico, per la conservazione di alimenti.",
+      "examples": [
+        "Apri una scatola di tonno per l'insalata.",
+        "Nel guardaroba tengo delle scatole di carne in scatola per le emergenze."
+      ],
+      "nota": "Sinonimo di 'latta' o 'barattolo' in questo contesto specifico. L'espressione 'in scatola' indica alimenti così conservati."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Locale o ambiente di forma molto regolare e spesso di dimensioni ridotte.",
+      "examples": [
+        "Il nuovo ufficio è una scatola di vetro e acciaio senza finestre apribili.",
+        "Vivere in quel monolocale è come stare in una scatola."
+      ],
+      "nota": "Uso figurato con connotazione spesso negativa, che sottolinea impersonalità, costrizione o mancanza di carattere."
+    }
+  ]
+}

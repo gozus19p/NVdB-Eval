@@ -1,0 +1,357 @@
+{
+  "lemma": "camera",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae8d69ad0a50d06544c0"
+    },
+    "source": "paraviaXML/17708.xml",
+    "lemma": "camera",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vano di una casa o di un appartamento non destinato al passaggio o a servizi particolari",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "appartamento di quattro camere e servizi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Camera da letto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho lasciato le pantofole in camera"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rassettarla, specialmente rifacendo il letto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "rifare la camera"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’insieme dei mobili, specialmente coordinati, che arredano tale ambiente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una camera in noce",
+              "in palissandro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stanza d’albergo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prenotare",
+              "riservare",
+              "fissare",
+              "disdire una camera",
+              "una pensione con poche camere"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stanza data in affitto da privati a pensionanti o viaggiatori di passaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "affittare una camera",
+              "camera ammobiliata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "iniziale",
+              "maiuscolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente con iniziale maiuscolo , camera dei deputati",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , le due assemblee di un parlamento bicamerale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , luogo in cui si custodiva il denaro pubblico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Amministrazione finanziaria dello stato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La magistratura preposta all’amministrazione del tesoro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "botanica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anatomia zoologia , cavità anatomica piccola e ben delimitata: dell’occhio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "camera"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica , cavità di un tessuto di dimensioni maggiori dei normali spazi intercellulari",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , spazio cavo in un dispositivo e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nei lager nazisti, locale chiuso per lo sterminio in massa dei prigionieri con gas venefici",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Negli Stati Uniti, cella per eseguire le condanne a morte con gas venefici",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "scherzoso"
+            ],
+            "definitions": [
+              {
+                "glossa": "Locale chiuso con aria viziata e puzzolente",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Locale all'interno di un'abitazione o di una struttura ricettiva, destinato prevalentemente al riposo e alla vita privata.",
+      "examples": [
+        "Ho lasciato il portafoglio sul comodino in camera prima di uscire.",
+        "La camera d'albergo era luminosa ma priva di aria condizionata."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Organo parlamentare o assemblea legislativa nazionale, in particolare la componente elettiva di un parlamento a sistema bicamerale.",
+      "examples": [
+        "Il disegno di legge è stato definitivamente approvato dalla Camera con ampia maggioranza.",
+        "Le elezioni politiche determinano la composizione della Camera per i prossimi cinque anni."
+      ],
+      "nota": "Negli atti ufficiali e nel giornalismo politico il termine è spesso scritto con l'iniziale maiuscola quando si riferisce specificamente all'istituzione italiana."
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Dispositivo tecnico in grado di catturare e registrare immagini fotografiche o sequenze video in movimento.",
+      "examples": [
+        "Il regista ha fatto montare la camera su un carrello per seguire l'azione in tempo reale.",
+        "L'investigatore ha richiesto i filmati ripresi dalla camera puntata sull'ingresso del palazzo."
+      ],
+      "nota": null
+    }
+  ]
+}

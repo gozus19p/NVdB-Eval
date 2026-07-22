@@ -1,0 +1,89 @@
+{
+  "lemma": "fidarsi",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb569ad0a50d0663651"
+    },
+    "source": "paraviaXML/43520.xml",
+    "lemma": "fidarsi",
+    "grammar": [
+      "v.pronom.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere fiducia in qualcuno o qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fidarsi di un amico",
+              "non mi fido della mia memoria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere il coraggio, la sicurezza di fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non mi fido a tuffarmi",
+              "il trampolino è troppo alto"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo pronominale",
+      "definition": "Avere fede o riporre la propria confidenza in qualcuno o qualcosa, considerandolo affidabile e veritiero.",
+      "examples": [
+        "Ho deciso di fidarmi delle sue parole, anche se avevo qualche dubbio iniziale.",
+        "Non devi fidarti ciecamente di tutto ciò che leggi online."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo pronominale",
+      "definition": "Affidare a qualcuno un compito specifico o una responsabilità, avendo fiducia nelle sue capacità o intenzioni.",
+      "examples": [
+        "Mi fido sempre di lui per i lavori più delicati, so che li farà al meglio.",
+        "Si è fidato di un'app sconosciuta per la navigazione e si è perso."
+      ],
+      "nota": null
+    }
+  ]
+}

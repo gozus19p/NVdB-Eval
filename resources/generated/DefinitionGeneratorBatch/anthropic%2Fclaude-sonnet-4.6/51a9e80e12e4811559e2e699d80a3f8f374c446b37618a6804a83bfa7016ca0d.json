@@ -1,0 +1,174 @@
+{
+  "lemma": "stupido",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0669ad0a50d064b85e"
+    },
+    "source": "paraviaXML/116305.xml",
+    "lemma": "stupido",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sbalordito, attonito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "io stava | stupido tutto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che denota stupidità, scarsa intelligenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "discorsi stupidi",
+              "risposte stupide",
+              "scherzi stupidi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi è tardo nel comprendere, ottuso di mente, poco intelligente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una ragazza stupida che non capisce niente",
+              "è stupido o finge di esserlo?",
+              "sei proprio uno stupido",
+              "non fare lo s.!"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere intelligente, avveduto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non essere uno stupido"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "familiare",
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ingenuo, sprovveduto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sei stato stupido a farti imbrogliare così!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che manifesta scarsa intelligenza, capacità di ragionamento o giudizio; privo di acume mentale.",
+      "examples": [
+        "È stato davvero stupido credere a quella bugia così evidente.",
+        "Non fare quella domanda stupida, la risposta è ovvia."
+      ],
+      "nota": "Può riferirsi a una persona, a un'azione o a un comportamento. È più forte di 'sciocco' e meno formale di 'ottuso'."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che risulta privo di senso, di utilità o di interesse; insensato e banale.",
+      "examples": [
+        "Ho perso un'ora in una riunione stupida che poteva essere un'email.",
+        "Hanno litigato per una cosa stupida e adesso non si parlano più."
+      ],
+      "nota": "In questo uso l'aggettivo qualifica situazioni, cose o eventi, non direttamente persone."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Usato con valore intensivo anteposto al sostantivo per esprimere fastidio o irritazione verso qualcosa, senza implicazioni di intelligenza.",
+      "examples": [
+        "Quella stupida macchina non vuole partire proprio oggi.",
+        "Ho perso lo stupido ombrello per la terza volta questo mese."
+      ],
+      "nota": "Uso enfatico-espressivo, tipico del registro informale e colloquiale. Il referente non è valutato in termini di intelligenza ma è oggetto di frustrazione."
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona che dimostra mancanza di intelligenza o di buon senso.",
+      "examples": [
+        "Solo uno stupido potrebbe cadere in una trappola del genere.",
+        "Non fare la stupida, sai benissimo di cosa sto parlando."
+      ],
+      "nota": "Forma femminile: stupida. Può essere usato come insulto diretto o in modo attenuato a seconda del contesto e del tono."
+    }
+  ]
+}

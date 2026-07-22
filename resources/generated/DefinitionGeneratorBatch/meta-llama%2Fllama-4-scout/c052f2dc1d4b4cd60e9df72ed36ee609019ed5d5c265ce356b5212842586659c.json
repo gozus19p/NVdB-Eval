@@ -1,0 +1,169 @@
+{
+  "lemma": "laboratorio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaee869ad0a50d0659029"
+    },
+    "source": "paraviaXML/61621.xml",
+    "lemma": "laboratorio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Locale dotato di apposite apparecchiature per ricerche ed esperimenti scientifici",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "laboratorio chimico",
+              "farmaceutico",
+              "laboratorio di analisi mediche"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Utilizzati per tali esperimenti ( abbr. lab.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ricerche di laboratorio",
+              "prova di laboratorio",
+              "esperimenti di laboratorio",
+              "animali da laboratorio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Officina in cui si svolgono attività artigianali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "laboratorio di restauro",
+              "di sartoria",
+              "laboratorio orafo",
+              "il laboratorio di un tappezziere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "generalmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Locale annesso a un negozio dove si eseguono particolari operazioni, generalmente riparazioni o modifiche, sulle merci in vendita o su merci e oggetti già di proprietà dei clienti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "laboratorio di riparazioni di apparecchiature stereo",
+              "laboratorio fotografico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Luogo in cui si elaborano e si producono esperienze innovative dal punto di vista artistico o culturale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "laboratorio teatrale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "industria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Industria , parte di un forno industriale in cui si immette il materiale da lavorare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Locale attrezzato per esperimenti, ricerche o attività pratiche",
+      "examples": [
+        "Il laboratorio di chimica è fornito di strumenti moderni.",
+        "Gli studenti hanno svolto la loro ricerca in un laboratorio universitario."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Struttura o reparto di un'azienda o ente dedicato allo sviluppo, alla sperimentazione o al controllo di prodotti o processi",
+      "examples": [
+        "Il laboratorio di sviluppo software ha creato un nuovo programma.",
+        "Il laboratorio di analisi cliniche ha confermato la diagnosi."
+      ],
+      "nota": null
+    }
+  ]
+}

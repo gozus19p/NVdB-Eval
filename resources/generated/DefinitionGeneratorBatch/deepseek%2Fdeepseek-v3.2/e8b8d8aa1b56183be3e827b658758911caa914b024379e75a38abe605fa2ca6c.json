@@ -1,0 +1,117 @@
+{
+  "lemma": "centinaio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9669ad0a50d0654be8"
+    },
+    "source": "paraviaXML/20892.xml",
+    "lemma": "centinaio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di cento o circa cento elementi di un certo tipo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho invitato un centinaio di persone",
+              "una collezione di un centinaio di quadri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Grande numero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "me l’hai detto un centinaio di volte!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , nel sistema di numerazione decimale, cifra a sinistra delle decine",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Secolo: Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "in quello centinaio nel quale in questo mondo ella fue posta"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Gruppo costituito approssimativamente da cento unità, usato per indicare una quantità non precisa ma di tale ordine di grandezza.",
+      "examples": [
+        "Nel parco c'erano un centinaio di persone.",
+        "Abbiamo raccolto un centinaio di firme per la petizione."
+      ],
+      "nota": "Usato quasi esclusivamente nella costruzione 'un centinaio di' o in locuzioni analoghe (qualche centinaio, alcune centinaia). Indica una quantità stimata o approssimativa."
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "lemma": "episodio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebd69ad0a50d0656c88"
+    },
+    "source": "paraviaXML/39453.xml",
+    "lemma": "episodio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "In una narrazione: avvenimento, specialmente secondario e relativamente autonomo, inserito nell’azione principale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’episodio di Paolo e Francesca"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Composto di due o più storie autonome; specialmente di teleromanzo: puntata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "film a episodi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Divagazione, digressione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avvenimento, vicenda notevole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un episodio dei tempi della scuola"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fatto occasionale e isolato, senza conseguenze",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quell’incontro fu soltanto un episodio nella sua vita"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Azione specialmente militare di secondaria importanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "storia del teatro",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia del teatro , nella tragedia greca, una o più scene fra due stasimi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , strofe intermedia fra due riprese del tema o della strofe principale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "TS",
+        "field": "scientifico",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scientifico , fenomeno ben definito e limitato nel tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "episodi vulcanici"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "TS",
+        "field": "medicina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina , manifestazione secondaria e occasionale di una malattia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Avvenimento singolo e circoscritto che si distingue all'interno di una sequenza più ampia di eventi, spesso con carattere marginale o incidentale rispetto al corso principale dei fatti.",
+      "examples": [
+        "Quell'incontro fortuito fu un episodio curioso nella sua vita tranquilla.",
+        "La polizia ha registrato diversi episodi di vandalismo nel quartiere."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Singola puntata di una serie televisiva, radiofonica o podcast, che costituisce un'unità narrativa autonoma all'interno di un ciclo più ampio.",
+      "examples": [
+        "Ho guardato i primi tre episodi della nuova serie in un solo pomeriggio.",
+        "L'episodio finale della stagione ha lasciato tutti con il fiato sospeso."
+      ],
+      "nota": "In questo senso è particolarmente diffuso nell'italiano contemporaneo in riferimento alle serie streaming."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Manifestazione acuta e temporanea di una malattia o di una condizione patologica, che si presenta in modo isolato o ricorrente.",
+      "examples": [
+        "Il paziente ha avuto un episodio ipertensivo durante la notte.",
+        "Soffre di episodi depressivi che si ripetono con cadenza stagionale."
+      ],
+      "nota": "Uso prevalentemente medico e clinico, ma ormai diffuso anche nel linguaggio comune."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Sezione narrativa secondaria di un'opera letteraria o drammatica, inserita nell'intreccio principale con funzione di ampliamento o digressione.",
+      "examples": [
+        "L'episodio di Francesca da Rimini è uno dei più celebri della Commedia dantesca.",
+        "Il romanzo è ricco di episodi secondari che arricchiscono la caratterizzazione dei personaggi."
+      ],
+      "nota": "Accezione propria della critica letteraria e narratologica."
+    }
+  ]
+}

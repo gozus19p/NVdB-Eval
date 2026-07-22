@@ -1,0 +1,738 @@
+{
+  "lemma": "quale",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0a69ad0a50d064cede"
+    },
+    "source": "paraviaXML/89422.xml",
+    "lemma": "quale",
+    "grammar": [
+      "agg.interr.",
+      "agg.escl.",
+      "agg.rel.",
+      "agg.indef.",
+      "pron.interr.",
+      "pron.rel.",
+      "pron.indef.",
+      "avv.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo interrogativo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile",
+              "qualcosa",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "In proposizioni interrogative dirette o indirette, per chiedere la qualità, l’identità, la natura e simile di qualcosa o qualcuno ( concorre con la forma , la quale è preferita nell’uso parlato)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che",
+              "quale genere di film guardi?",
+              "quale ragione ti ha spinto a fare ciò?",
+              "da quale parte vai?",
+              "con quali amici sei andato a cena?",
+              "a quale avvocato ti sei rivolto?",
+              "in quale anno è successo?",
+              "non riesco a capire quale ragionamento hai fatto",
+              "chissà per quale motivo non sei venuto con noi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ndeterminato, un certo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non so quale",
+              "era allegro per non so quale motivo",
+              "mi ha preso una non so quale tristezza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Escl. per sottolineare enfaticamente la qualità di qualcuno o qualcosa ( nell’uso parlato è più frequente la forma ) anche in frasi ellittiche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che",
+              "quale gioia averti con noi!",
+              "a quale punto siamo arrivati!",
+              "in quale pasticcio siamo finiti!",
+              "quale onore!",
+              "quale disgrazia!",
+              "quale orrore!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "aggettivo relativo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Aggettivo relativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Così come, nelle condizioni in cui ( equivale a , ed è usato spesso in correlazione con in epressioni comparative)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "come",
+              "tale",
+              "ha avuto un successo quale non immaginavamo",
+              "la scultura, quale voi la vedete, non è ancora terminata",
+              "ha ottenuto tali risultati quali nessuno immaginava"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nelle esemplificazioni, come per esempio: anche, della qualità, del livello di",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una grande città, quale Milano o Torino",
+              "poeti quali Dante e Petrarca"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Introduce il primo termine di una similitudine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "qual è quei che volentieri acquista, | e giugne ‘l tempo che perder lo face, | ... | tal mi fece la bestia senza pace"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Usato all’inizio di un periodo, stabilisce un collegamento tra il termine a cui è riferito e il periodo precedente ( spec. preceduto dall’articolo determinativo) Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a’ quali ragionamenti Calandrino posta orecchie ... si congiunse con loro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "IV",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo indefinito"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Qualsiasi, qualunque ( spec. seguito da , con il verbo al congiuntivo)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che",
+              "farò come ho deciso quali che siano le vostre opinioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In nessi correlativi: uno . un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quale ... quale",
+              "qual fior cadea sul lembo, | qual su le trecce bionde"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pleonastico, rafforza il valore indefinito di",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "certo",
+              "ho una certa qual fretta",
+              "con una certa qual sorpresa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "V",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "pronome interrogativo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile",
+              "qualcosa",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "In proposizioni interrogative dirette o indirette, per chiedere la qualità, l’identità, la natura e simile di qualcosa o qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quale preferisci?",
+              "quale di questi libri vuoi?",
+              "dimmi tu quale scegliere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi: Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "apri li occhi e riguarda qual son io"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In proposizioni interrogative, per introdurre una scelta tra due cose: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "io non so quale io mi dica, che io faccia più il mio piacere, o il tuo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "VI",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "pronome relativo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ll’articolo determinativo equivale a nei casi diretti, a nei casi indiretti ( si usa per evitare ambiguità o talvolta per dare un tono più elevato o formale alla frase, specialmente quando ha funzione di soggetto o complemento oggetto)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che",
+              "cui",
+              "ho visto la moglie di Carlo, la quale ti manda i suoi saluti",
+              "la persona alla quale ho parlato",
+              "risponderà il professore, il quale è uno degli studiosi più esimi in questo campo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche senza articolo determinativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questa immagine rompeo | sé per se stessa, a guisa d’una bulla | cui manca l’acqua sotto qual si feo"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nfatico, all’inizio di un periodo, per stabilire un collegamento con il periodo precedente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a le qua’ poi se tu vorrai salire | anima fia a ciò più di me degna"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "VII",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "pronome indefinito"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In nessi correlativi: chi . chi, alcuni . altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quale ... quale",
+              "quali ... quali",
+              "si cacciò tra lor col ferro in man: | e qual lasciò ferito e quale ucciso"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Ariosto)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Qualunque, chiunque",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "«Miserere di me», gridai a lui, | «qual che tu sii, od ombra od omo certo»"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ivi fa’ che ‘l tuo vero, | qual io mi sia, per la mia lingua s’oda"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Petrarca)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "VIII",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come, in qualità di",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlo quale presidente dell’azienda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "IX",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , la qualità, la natura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la vista mia ne l’ampio e ne l’altezza | non si smarriva, ma tutto prendeva | il quanto e il quale di quella allegrezza"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare",
+              "qualcosa",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , adatto, appropriato alle esigenze: di qualcuno , per bene, ammodo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una cenetta proprio per la quale",
+              "un ragazzo non tanto per la quale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Bene, in modo soddisfacente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la faccenda non è andata tanto per la quale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "I–VII",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "pronome/aggettivo interrogativo",
+      "definition": "Introduce una domanda diretta o indiretta chiedendo di identificare o specificare una persona, cosa o circostanza tra più possibilità.",
+      "examples": [
+        "Quale dei due libri preferisci?",
+        "Non so quale strada prendere.",
+        "Quale sarà il risultato di questa scelta?"
+      ],
+      "nota": "Può funzionare sia come aggettivo (accompagna un sostantivo: 'quale film?') sia come pronome (sostituisce il sostantivo: 'quale preferisci?'). Invariabile nel numero quando usato in forma apocopata 'qual' davanti a vocale."
+    },
+    {
+      "pos": "pronome/aggettivo esclamativo",
+      "definition": "Esprime meraviglia, stupore o enfasi riguardo a una qualità o circostanza notevole.",
+      "examples": [
+        "Quale sorpresa vederti qui!",
+        "Quale coraggio hai dimostrato in quella situazione!"
+      ],
+      "nota": "In questo uso ha valore enfatico e si trova tipicamente in frasi esclamative."
+    },
+    {
+      "pos": "pronome relativo",
+      "definition": "Introduce una proposizione relativa riferendosi a un antecedente nominale, equivalendo a 'che' ma con carattere più formale o scritto.",
+      "examples": [
+        "Il direttore, il quale ha approvato il progetto, sarà presente alla riunione.",
+        "Le ragioni per le quali ho preso questa decisione sono complesse.",
+        "Ho incontrato la professoressa, la quale mi ha dato ottimi consigli."
+      ],
+      "nota": "A differenza di 'che', concorda in genere e numero con l'antecedente e può essere preceduto dall'articolo determinativo. È tipico dei registri formali e dello scritto."
+    },
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una proposizione comparativa o modale con il significato di 'come', 'nella stessa misura in cui'.",
+      "examples": [
+        "Si comportò quale vero leader, guidando il gruppo con fermezza.",
+        "Era rispettato quale esperto nel suo campo."
+      ],
+      "nota": "In questo uso è tipicamente formale o letterario e introduce un termine di paragone o una qualifica. Equivale a 'in quanto', 'come'."
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "lemma": "treno",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6c69ad0a50d065fc9a"
+    },
+    "source": "paraviaXML/122849.xml",
+    "lemma": "treno",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Convoglio di vagoni o di carri ferroviari trainati da una locomotiva su una strada ferrata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il treno per Parigi parte fra due ore",
+              "treno espresso",
+              "diretto",
+              "locale",
+              "viaggiare in treno",
+              "salire sul treno",
+              "prendere il treno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ferrovia , l’insieme dei servizi ferroviari a cui i convogli sono adibiti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "treno periodico",
+              "treno speciale",
+              "treno straordinario",
+              "treno turistico"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tradotta; dotato di pezzi di artiglieria di vario calibro, specialmente cannoni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "treno militare",
+              "treno armato",
+              "treno blindato",
+              "treno corazzato"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per il trasporto di derrate o di materiali lungo la linea",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "treno derrate",
+              "treno materiali"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il seguito di carrozze e servi con cui uscivano in pubblico sovrani o grandi personaggi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Scorta, accompagnamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Convoglio di carri",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "TS",
+        "field": "storia militare",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia militare , l’insieme dei carri, degli animali e delle persone destinati ai trasporti militari",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La serie completa delle gomme di un autoveicolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "treno di pneumatici",
+              "sostituire tutto il treno di un autoarticolato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "meccanica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Meccanica , complesso di ruote dentate che, ingranando fra loro, trasmettono il movimento ad altri meccanismi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , sequenza di singoli elementi correlati fra loro che si susseguono a brevi intervalli",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "fisiologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , successione continua di impulsi elettrici, magnetici, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisiologia , flusso di scariche elettriche che tendono a depolarizzare la fibra nervosa e che costituiscono il sistema di propagazione dei messaggi nervosi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "comune",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Armi, armature, armamenti , non , affusto del cannone",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fenomeno che una volta iniziato segue il proprio corso senza interruzioni, in modo regolare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il treno dello sviluppo economico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9a",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Modo, tenore di vita, specialmente dispendioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9b",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Modo di vestire specialmente sfarzoso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "zoologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Zoologia , gli arti anteriori dei quadrupedi di dimensioni medie o grandi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "meccanica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Meccanica ; avantreno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Mezzo di trasporto su rotaia composto da una locomotiva e una serie di vagoni, utilizzato per il trasporto di passeggeri o merci su lunghe distanze.",
+      "examples": [
+        "Ho preso il treno delle 15:30 per Milano.",
+        "Il treno merci trasporta container dal porto alla fabbrica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Serie ordinata di elementi che si susseguono con regolarità, spesso in modo meccanico o ripetitivo.",
+      "examples": [
+        "Un treno di onde ha investito la costa durante la tempesta.",
+        "L'azienda ha avviato un treno di riforme per migliorare la produttività."
+      ],
+      "nota": "In questa accezione, il termine è spesso usato in contesti figurati o tecnici (es. treno di impulsi in elettronica)."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Insieme di attrezzi o strumenti utilizzati per un'attività specifica, spesso sportiva o artigianale.",
+      "examples": [
+        "Ha comprato un treno di sci nuovo per la stagione invernale.",
+        "Il falegname ha preparato il treno di pialle per levigare il legno."
+      ],
+      "nota": "In questa accezione, il termine è tipico di ambiti tecnici o specialistici."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Nel linguaggio giornalistico o politico, situazione in cui una serie di eventi o decisioni si susseguono rapidamente, spesso con effetti negativi.",
+      "examples": [
+        "Dopo lo scandalo, è partito un treno di dimissioni tra i dirigenti.",
+        "Il governo ha varato un treno di misure per contrastare l'inflazione."
+      ],
+      "nota": "Uso prevalentemente figurato, spesso con connotazione negativa o di urgenza."
+    }
+  ]
+}

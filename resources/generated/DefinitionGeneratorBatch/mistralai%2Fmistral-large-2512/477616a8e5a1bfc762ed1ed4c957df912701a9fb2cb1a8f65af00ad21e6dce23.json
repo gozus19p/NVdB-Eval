@@ -1,0 +1,101 @@
+{
+  "lemma": "fretta",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaecc69ad0a50d065791f"
+    },
+    "source": "paraviaXML/46144.xml",
+    "lemma": "fretta",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Desiderio o bisogno di concludere con grande rapidità ciò che si sta facendo o che si sta per fare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere fretta",
+              "non esserci fretta",
+              "dimenticare qcs. nella fretta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sollecitarlo a sbrigarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "mettere fretta a qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rapidità negli atti, nei movimenti e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parlare",
+              "mangiare con fretta",
+              "camminare con molta fretta"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Condizione di chi agisce o si muove con rapidità, spesso per mancanza di tempo o per urgenza.",
+      "examples": [
+        "Ho fatto tutto di fretta e ho dimenticato le chiavi a casa.",
+        "Non c'è fretta, possiamo prenderci tutto il tempo necessario."
+      ],
+      "nota": "Spesso usato in espressioni come 'in fretta', 'di fretta', 'con fretta' per indicare modalità o causa di un'azione. Può avere connotazione negativa se associato a superficialità o disattenzione."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Desiderio o necessità impellente di concludere qualcosa o di arrivare a una meta.",
+      "examples": [
+        "Ho una gran fretta di finire questo progetto per andare in vacanza.",
+        "La fretta di partire lo ha portato a trascurare i dettagli."
+      ],
+      "nota": "In questo senso, può essere accompagnato da aggettivi come 'grande', 'maledetta', 'inutile' per enfatizzare l'intensità o la frustrazione."
+    }
+  ]
+}

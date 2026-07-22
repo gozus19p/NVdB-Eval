@@ -1,0 +1,141 @@
+{
+  "lemma": "prevedere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc969ad0a50d0664644"
+    },
+    "source": "paraviaXML/86832.xml",
+    "lemma": "prevedere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Conoscere o annunciare qualcosa prima che accada, specialmente in base a eventi considerati segni premonitori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prevedere il futuro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Congetturare, supporre in anticipo, specialmente in base a indizi concreti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non è possibile prevedere la sua reazione",
+              "è necessario prevedere le mosse dell’avversario"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ritenere possibile, probabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "per domani prevediamo una bella giornata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prendere in considerazione, contemplare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo comportamento non è previsto dal regolamento",
+              "il caso non è previsto dalla legge"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Anticipare mentalmente un evento o una situazione futura sulla base di indizi, dati o ragionamenti logici.",
+      "examples": [
+        "Gli esperti prevedono un aumento delle temperature nei prossimi decenni.",
+        "Non potevo prevedere che la situazione sarebbe degenerata così rapidamente."
+      ],
+      "nota": "Si distingue da 'profetizzare' perché implica una base razionale o empirica, non soprannaturale."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Stabilire, disporre o contemplare qualcosa in anticipo all'interno di un piano, una norma, un contratto o un programma.",
+      "examples": [
+        "Il contratto prevede una penale in caso di ritardo nella consegna.",
+        "Il regolamento prevede che i candidati debbano presentare la domanda entro il 30 aprile."
+      ],
+      "nota": "In questo senso il soggetto è tipicamente un documento, una norma o un'istituzione, non una persona fisica. Molto frequente nel linguaggio giuridico e burocratico."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Includere o pianificare qualcosa nell'ambito di un progetto, un calendario o un'organizzazione futura.",
+      "examples": [
+        "Il programma prevede una visita guidata al museo nel pomeriggio.",
+        "Abbiamo previsto una pausa caffè a metà mattina durante il convegno."
+      ],
+      "nota": "Questo senso è affine al precedente ma il soggetto è tipicamente una persona o un gruppo che pianifica attività concrete."
+    }
+  ]
+}

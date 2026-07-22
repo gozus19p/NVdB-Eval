@@ -1,0 +1,455 @@
+{
+  "lemma": "otto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0a69ad0a50d064cf0a"
+    },
+    "source": "paraviaXML/77799.xml",
+    "lemma": "otto",
+    "grammar": [
+      "agg.num.card.inv.",
+      "s.m.inv.",
+      "s.f.pl."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo numerale cardinale",
+          "sostantivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è pari a sette unità più una ( nella numerazione araba rappresentato con 8, in quella romana con VIII)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavorare otto ore",
+              "camminare per otto chilometri"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ventotto",
+              "ottocento"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con sottinteso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una persona su otto"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’ottavo giorno a partire da oggi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "oggi a otto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo numerale cardinale",
+          "sostantivo",
+          "sostantivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "numerale ordinale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Posposto al con valore di numerale ordinale , ottavo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "aprite il libro a pagina otto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sottinteso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abita all’otto di questa via"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Numero naturale successivo a sette",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’otto è un numero pari"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il segno che rappresenta tale numero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ottavo giorno del mese",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è nato l’otto di marzo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente",
+              "secolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ottavo anno di un secolo, specialmente con riferimento al secolo XX: è nata nel 1908",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mia nonna è dell’otto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Voto scolastico che esprime una buona valutazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prendere otto in storia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Carta da gioco marcata in modo da mostrare che è ottava di una serie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’otto di cuori",
+              "di quadri"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pl. l’ottava ora dopo le ventiquattro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "alzarsi alle otto di mattina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pl. l’ottava ora dopo le dodici: anche inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cenare alle otto di sera",
+              "le ore otto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Percorso, tracciato a forma di tale numero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le automobiline descrivono un otto sulla pista"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8b",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nel pattinaggio artistico, figura obbligatoria che consiste nel descrivere un tracciato che ricorda tale numero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8c",
+        "usage": "TS",
+        "field": "aeronautica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Aeronautica , evoluzione compiuta secondo una traiettoria che ricorda tale numero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "otto orizzontale",
+              "verticale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nel canottaggio, imbarcazione da regata di tipo outrigger, il cui equipaggio è costituito da un timoniere e da otto vogatori con un remo ciascuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nei luna park, incastellatura di binari a forma di otto, con forti pendenze, percorsa velocemente da vagoncini agganciati l’uno all’altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Situazione caratterizzata da rapide alternanze di momenti positivi e negativi.",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Numero cardinale che segue il sette e precede il nove, equivalente alla somma di quattro più quattro.",
+      "examples": [
+        "Il totale dei partecipanti è otto.",
+        "Comprerò otto biglietti per il concerto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo numerale cardinale",
+      "definition": "Che corrisponde alla quantità rappresentata dal numero cardinale otto.",
+      "examples": [
+        "Ci sono otto giorni in una settimana.",
+        "La squadra ha segnato otto gol."
+      ],
+      "nota": "La categoria di aggettivo numerale non richiede ulteriori specificazioni di genere o numero, in quanto invariabile."
+    }
+  ]
+}

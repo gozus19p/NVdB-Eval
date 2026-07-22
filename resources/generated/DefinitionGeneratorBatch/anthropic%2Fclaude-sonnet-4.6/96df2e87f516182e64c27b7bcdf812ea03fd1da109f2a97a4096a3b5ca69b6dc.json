@@ -1,0 +1,290 @@
+{
+  "lemma": "lettore",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeec69ad0a50d0659405"
+    },
+    "source": "paraviaXML/63261.xml",
+    "lemma": "lettore",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi legge, chi si dedica alla lettura o a una specifica lettura: destinatario di un testo, specialmente un’opera narrativa, cui l’autore si rivolge nella prefazione o all’interno dell’opera stessa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un appassionato lettore",
+              "un insaziabile lettore di libri gialli",
+              "un quotidiano che conta migliaia di lettori",
+              "avvertenza ai lettori"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pensino ora i miei venticinque lettori che impressione dovesse fare... quello che s’è raccontato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi legge a persone che in vario modo non ne hanno la possibilità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare da lettore a un’anziana signora"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi legge comunicati radiofonici, a eccezione dei notiziari, o chi commenta fuori campo servizi o documentari televisivi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "editoria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Editoria , chi legge e giudica o revisiona testi per una casa editrice",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "termine ecclesiastico",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Termine ecclesiastico , in passato, chierico che aveva ricevuto l’ordine del lettorato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oggi, chierico o laico cui è conferito il ministero liturgico del lettorato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "funzione",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , nelle scuole e nelle università fino al Rinascimento, docente che aveva il compito di leggere e interpretare gli autori",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Religione , nelle scuole teologiche e nei conventi, insegnante di teologia; anche in funzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "padre lettore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "scuola e universit�",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scuola e universit� , nelle moderne università, insegnante, per lo più di madrelingua, che svolge corsi pratici di una lingua straniera moderna",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "tecnica, tecnologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica, tecnologia , qualsiasi strumento o dispositivo impiegato per leggere e decodificare dati o segnali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lettore laser",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–3,6",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "4,5,7",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona che legge un testo scritto, un libro, un articolo o qualsiasi altro materiale a stampa o digitale.",
+      "examples": [
+        "Il romanzo ha conquistato milioni di lettori in tutto il mondo.",
+        "La rivista ha perso molti lettori dopo il cambiamento di linea editoriale."
+      ],
+      "nota": "Il femminile è 'lettrice'. Si usa sia per la lettura per diletto sia per quella professionale o informativa."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Docente universitario, spesso di madrelingua straniera, incaricato di tenere esercitazioni pratiche di lingua.",
+      "examples": [
+        "Il lettore di inglese ci ha fatto fare un'esercitazione di conversazione.",
+        "L'università ha assunto nuovi lettori di tedesco e russo."
+      ],
+      "nota": "Figura contrattuale tipica dell'università italiana, distinta dal professore ordinario o associato; il suo status giuridico è stato oggetto di numerose controversie legali."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Dispositivo elettronico o meccanico in grado di leggere e riprodurre dati registrati su un supporto fisico o digitale.",
+      "examples": [
+        "Ho comprato un lettore di e-book per leggere comodamente in viaggio.",
+        "Il lettore CD è rimasto sul tavolo senza che nessuno lo usasse più."
+      ],
+      "nota": "Si riferisce a dispositivi come lettori DVD, lettori MP3, lettori di schede, lettori ottici, ecc. Il significato si è espanso con l'evoluzione tecnologica."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona che legge le bozze o i testi per conto di una casa editrice, valutandone la qualità e l'idoneità alla pubblicazione.",
+      "examples": [
+        "La casa editrice ha una squadra di lettori che seleziona i manoscritti in arrivo.",
+        "Lavora come lettore editoriale freelance per diverse case editrici."
+      ],
+      "nota": "In ambito editoriale è spesso chiamato anche 'lettore editoriale' o 'first reader'; svolge una funzione preliminare rispetto all'editor."
+    }
+  ]
+}

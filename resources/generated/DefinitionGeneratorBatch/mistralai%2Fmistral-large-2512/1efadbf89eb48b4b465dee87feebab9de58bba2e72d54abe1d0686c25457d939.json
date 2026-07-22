@@ -1,0 +1,225 @@
+{
+  "lemma": "soldo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5169ad0a50d065e61e"
+    },
+    "source": "paraviaXML/110180.xml",
+    "lemma": "soldo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "secolo",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Numismatica , moneta d’oro derivata dal solido della Roma tardo–imperiale, coniata negli stati europei a partire dal secolo XIII sotto la riforma carolingia ed equivalente alla ventesima parte di una lira",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "A partire dall’età medievale, moneta di bronzo di vario valore, generalmente equivalente alla ventesima parte di un’altra moneta",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Unità monetaria italiana del valore di cinque centesimi e corrispondente a un ventesimo di lira, in circolazione sino all’inizio del secondo conflitto mondiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , denaro, quattrini",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "possedere",
+              "guadagnare un sacco di soldi",
+              "essere pieno di soldi",
+              "costa un mucchio di soldi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente in frasi negative, con riferimento al ridotto valore dell’antica moneta, minima, scarsa quantità di denaro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rimanere senza un soldo",
+              "uscire di casa senza un soldo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nulla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo dipinto non vale un s.! | roba da pochi soldi"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di scarso pregio o valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "da due",
+              "da quattro soldi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diaria, paga del soldato mercenario",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mestiere delle armi, l’esercizio della milizia; servizio o vita militare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "metrologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Metrologia , antica misura di lunghezza in uso in Toscana prima dell’introduzione del sistema metrico decimale, equivalente alla ventesima parte del braccio e corrispondente a cm circa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Unità monetaria di valore minimo, usata in passato in vari paesi europei, oggi sostituita dall'euro o da altre valute.",
+      "examples": [
+        "Nel Medioevo, un soldo corrispondeva a dodici denari.",
+        "Il museo espone monete antiche, tra cui alcuni soldi d'argento."
+      ],
+      "nota": "In contesti storici, il termine può riferirsi specificamente alla moneta usata in Italia prima dell'unificazione monetaria. Non è più in uso come valuta corrente."
+    },
+    {
+      "pos": "sostantivo m. (pl. soldi)",
+      "definition": "Denaro in generale, spesso con riferimento a piccole somme o a disponibilità economiche personali.",
+      "examples": [
+        "Non ho un soldo in tasca, posso pagare domani?",
+        "Ha speso tutti i suoi soldi in vacanza.",
+        "Per quel lavoro mi hanno dato pochi soldi."
+      ],
+      "nota": "In questa accezione, il termine è spesso usato in contesti informali o colloquiali. Può avere una connotazione neutra o leggermente negativa, a seconda del contesto."
+    },
+    {
+      "pos": "sostantivo m. (pl. soldi)",
+      "definition": "Retribuzione percepita per il servizio militare o per lavori occasionali.",
+      "examples": [
+        "Dopo il congedo, ha faticato a trovare un lavoro che gli desse gli stessi soldi dell'esercito.",
+        "Ha fatto il soldo come muratore per qualche mese."
+      ],
+      "nota": "Uso meno comune, legato a contesti storici o specifici (es. servizio militare)."
+    }
+  ]
+}

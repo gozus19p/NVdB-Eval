@@ -1,0 +1,163 @@
+{
+  "lemma": "villa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8469ad0a50d0660f43"
+    },
+    "source": "paraviaXML/127629.xml",
+    "lemma": "villa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Casa signorile, modernamente di dimensioni non eccessive, circondata da un giardino o da un parco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "villa bifamiliare",
+              "unifamiliare",
+              "un quartiere residenziale ricco di ville",
+              "possiede una villa in Costa Smeralda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dimora, spesso di notevole pregio architettonico, situata in una tenuta agricola in cui i padroni trascorrevano i periodi di vacanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le ville medicee sulla collina fiorentina"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Podere: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli comandò che alla villa s’andasse e quivi co’ suoi lavoratori si dimorasse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Borgo, villaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "odi spesso un tonar di ferree canne, | che rimbomba lontan di villa in villa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Leopardi)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Città",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "e rividi la mia villa diserta | da Carlo di Valese"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Carducci)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Struttura abitativa indipendente di dimensioni consistenti e finiture curate, caratterizzata da un ampio spazio esterno privato e utilizzata come residenza stabile o di soggiorno stagionale.",
+      "examples": [
+        "L'agenzia ha mostrato una residenza indipendente con piscina e parco recintato appena fuori città.",
+        "Dopo anni in appartamento, si sono trasferiti in una dimora isolata per avere più spazio verde e tranquillità."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Estesa area verde urbana, solitamente cintata e dotata di percorsi pedonali e strutture ricreative, destinata al passeggio e allo svago collettivo.",
+      "examples": [
+        "Ogni domenica la famiglia fa un picnic nel grande parco pubblico vicino alla stazione.",
+        "Il comune ha riaperto l'area verde storica con nuovi viali alberati e zone gioco per bambini."
+      ],
+      "nota": "Ricorre frequentemente nei composti lessicali «villa comunale» o «villa pubblica»; in questa accezione indica un parco urbano, spesso di origine storica o nobiliare, e non un'abitazione privata."
+    }
+  ]
+}

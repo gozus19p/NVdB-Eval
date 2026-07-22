@@ -1,0 +1,257 @@
+{
+  "lemma": "pagare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc669ad0a50d06643de"
+    },
+    "source": "paraviaXML/78193.xml",
+    "lemma": "pagare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Corrispondere una somma di denaro per beni acquistati, obbligazioni contratte e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pagare il conto",
+              "le rate della macchina",
+              "la bolletta del gas",
+              "l’affitto",
+              "una multa",
+              "un biglietto",
+              "pagare a rate",
+              "in contanti",
+              "in natura",
+              "pagare un debito",
+              "pagare anticipatamente",
+              "alla consegna"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Estremamente poco; un prezzo molto elevato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pagare una miseria",
+              "una sciocchezza",
+              "pagare caro",
+              "profumatamente",
+              "lautamente",
+              "a peso d’oro",
+              "salato",
+              "un occhio",
+              "un occhio della testa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Retribuire o remunerare qualcuno per un servizio prestato o per un bene fornito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pagare un dipendente",
+              "pagare il panettiere",
+              "il padrone di casa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ripagare, ricompensare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pagare qcn. con l’ingratitudine"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il delitto non paga"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare",
+              "qualcosa",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Offrire qualcosa a qualcuno ; anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pagare il pranzo",
+              "un caffè",
+              "da bere",
+              "stasera si festeggia, pago io"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Espiare, scontare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pagare caro un errore",
+              "una mancanza",
+              "le proprie negligenze"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Contentare, appagare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Soddisfare una richiesta, adempiere a un obbligo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "Corrispondere una somma di denaro per acquistare qualcosa o per estinguere un debito",
+      "examples": [
+        "Devo pagare l'affitto entro il 5 del mese",
+        "Il prezzo è alto, ma ne vale la pena se devi pagare solo una volta"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "Soffrire le conseguenze di qualcosa, come se fosse un prezzo da pagare",
+      "examples": [
+        "Per essere felice, bisogna pagare il prezzo della rinuncia a certe cose",
+        "Ha dovuto pagare caro per la sua ingenuità"
+      ],
+      "nota": null
+    }
+  ]
+}

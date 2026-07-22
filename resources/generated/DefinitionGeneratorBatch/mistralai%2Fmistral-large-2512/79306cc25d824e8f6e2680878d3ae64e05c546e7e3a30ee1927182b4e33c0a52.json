@@ -1,0 +1,143 @@
+{
+  "lemma": "educazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb869ad0a50d06568e9"
+    },
+    "source": "paraviaXML/37602.xml",
+    "lemma": "educazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’educare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’educazione dei giovani"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sviluppo di capacità e facoltà, specialmente intellettuali e morali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’educazione del gusto",
+              "della mente"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Addestramento, istruzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di conoscenze, convinzioni, abitudini; formazione scolastica, culturale o professionale: cultura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ricevere una buona educazione",
+              "la sua educazione si è svolta all’estero",
+              "avere un’educazione letteraria",
+              "musicale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Garbo, buone maniere: modo di comportarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comportarsi con educazione",
+              "ma che razza di e.!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Processo di formazione e sviluppo delle capacità intellettuali, morali e sociali di una persona, soprattutto durante l'infanzia e l'adolescenza.",
+      "examples": [
+        "La scuola si occupa dell'educazione dei bambini.",
+        "I genitori hanno il dovere di provvedere all'educazione dei propri figli."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme di norme e comportamenti che esprimono rispetto e cortesia nei rapporti sociali.",
+      "examples": [
+        "Ha dimostrato una grande educazione durante la cena.",
+        "Non alzare la voce: è una questione di educazione."
+      ],
+      "nota": "Spesso usato in contesti in cui si sottolinea il rispetto delle buone maniere o la mancanza di esso (es. 'mancanza di educazione')."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme di conoscenze e competenze acquisite in un determinato ambito, specialmente culturale o professionale.",
+      "examples": [
+        "Ha un'educazione musicale di alto livello.",
+        "L'educazione finanziaria è fondamentale per gestire bene i propri risparmi."
+      ],
+      "nota": "In questo senso, può essere accompagnato da aggettivi che specificano l'ambito (es. 'educazione civica', 'educazione fisica')."
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "lemma": "mondiale",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064b0b2"
+    },
+    "source": "paraviaXML/71168.xml",
+    "lemma": "mondiale",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo al mondo; che riguarda, interessa tutto il mondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commercio mondiale",
+              "esposizione mondiale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conosciuto in tutto il mondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un attore di fama mondiale",
+              "un evento di importanza mondiale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Eccezionale, meraviglioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere un’idea mondiale",
+              "sei un ballerino mondiale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "sostantivo maschile",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, specialmente al ; campionato mondiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che concerne o si estende a tutto il globo terrestre; che interessa tutti i popoli della Terra.",
+      "examples": [
+        "La seconda guerra mondiale ha avuto un impatto devastante sull'intero pianeta.",
+        "Il riscaldamento globale è un problema mondiale che richiede una soluzione congiunta."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Di portata eccezionale, universale o di altissimo livello, spesso in riferimento a competizioni, eventi o riconoscimenti.",
+      "examples": [
+        "Ha stabilito un nuovo record mondiale nel salto in lungo.",
+        "L'esposizione di arte contemporanea ha raggiunto una risonanza mondiale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Campionato del mondo, competizione sportiva internazionale che assegna il titolo di campione globale in una determinata disciplina.",
+      "examples": [
+        "L'Italia ha vinto l'ultimo mondiale di calcio nel 2006.",
+        "La squadra si sta preparando intensamente per il mondiale di pallavolo."
+      ],
+      "nota": "Spesso usato al plurale per indicare l'evento in generale."
+    }
+  ]
+}

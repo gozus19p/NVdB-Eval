@@ -1,0 +1,120 @@
+{
+  "lemma": "crescita",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaea869ad0a50d0655b61"
+    },
+    "source": "paraviaXML/28893.xml",
+    "lemma": "crescita",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il crescere e il suo risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "crescita del livello del fiume",
+              "delle piante",
+              "della barba",
+              "dei capelli",
+              "il bambino presenta una crescita anormale",
+              "periodo della crescita"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Progresso, aumento, sviluppo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "crescita della mortalità",
+              "demografica",
+              "del capitale",
+              "dello sviluppo culturale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "economia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia ; crescita economica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Aumento delle dimensioni o del volume di un organismo vivente o di una sua parte, attraverso l'incremento del numero o delle dimensioni delle cellule.",
+      "examples": [
+        "La corretta alimentazione è fondamentale per la crescita dei bambini.",
+        "Le piante mostrano una crescita rigogliosa con l'arrivo della primavera."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Incremento di quantità, valore, intensità o livello in un settore, ambito o fenomeno.",
+      "examples": [
+        "Abbiamo registrato una crescita significativa delle vendite nell'ultimo trimestre.",
+        "La crescita economica del paese è stata sostenuta da nuovi investimenti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Processo di sviluppo e miglioramento intellettuale, morale o psicologico di un individuo, o di evoluzione e progresso di una collettività.",
+      "examples": [
+        "Affrontare le sfide contribuisce alla crescita personale di ognuno.",
+        "La scuola è un luogo essenziale per la crescita culturale dei giovani."
+      ],
+      "nota": null
+    }
+  ]
+}

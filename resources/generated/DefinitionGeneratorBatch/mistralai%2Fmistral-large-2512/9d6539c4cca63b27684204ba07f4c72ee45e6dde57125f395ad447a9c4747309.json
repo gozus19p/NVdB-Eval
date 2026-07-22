@@ -1,0 +1,174 @@
+{
+  "lemma": "animare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa269ad0a50d06626fd"
+    },
+    "source": "paraviaXML/6041.xml",
+    "lemma": "animare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Render vivo, vivificare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il soffio vitale che anima il corpo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Riempire di attività, di movimento, di vivacità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i bambini animavano la strada deserta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rendere interessante, avvincente, divertente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "animare una conversazione",
+              "una serata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Organizzare e intrattenere con attività ricreative",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "animare un gruppo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Incitare, incoraggiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "animare qcn. a un’impresa",
+              "alla battaglia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intensificare, promuovere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "animare i commerci",
+              "le attività culturali"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Dare vita o movimento a qualcosa di inanimato o renderlo vivace e dinamico.",
+      "examples": [
+        "Il vento animava le foglie secche sul marciapiede.",
+        "La musica animava la festa e tutti ballavano."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Infondere coraggio, entusiasmo o energia a qualcuno.",
+      "examples": [
+        "Le sue parole hanno animato il gruppo a continuare nonostante le difficoltà.",
+        "Il coach cerca sempre di animare i giocatori prima della partita."
+      ],
+      "nota": "Spesso usato in contesti motivazionali o di incoraggiamento."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Organizzare o promuovere un evento, un'attività o una discussione, rendendoli partecipati e interessanti.",
+      "examples": [
+        "Ha animato il dibattito con domande stimolanti.",
+        "L'associazione anima laboratori creativi per bambini."
+      ],
+      "nota": "Comune in contesti di intrattenimento, educazione o partecipazione sociale."
+    },
+    {
+      "pos": "verbo riflessivo (animarsi)",
+      "definition": "Diventare vivace, interessato o emozionato, spesso dopo un momento di calma o indifferenza.",
+      "examples": [
+        "Si è animato solo quando hanno iniziato a parlare del suo argomento preferito.",
+        "Il pubblico si è animato quando è salito sul palco il cantante."
+      ],
+      "nota": "Può indicare un cambiamento di stato emotivo o di partecipazione."
+    }
+  ]
+}

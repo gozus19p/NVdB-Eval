@@ -1,0 +1,184 @@
+{
+  "lemma": "mica",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7c69ad0a50d06535d7"
+    },
+    "source": "paraviaXML/69541.xml",
+    "lemma": "mica",
+    "grammar": [
+      "s.f.",
+      "avv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Briciola di pane",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Parte piccolissima, pezzetto di un qualunque materiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "colloquiale",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Affatto, per nulla, come rafforzativo di una negazione, specialmente posposto al verbo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non sono mica arrabbiato",
+              "non voleva mica ascoltarmi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Usato senza altra negazione, ha valore negativo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mica sono matto!",
+              "sono cose vere, mica stupidaggini!"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Poco, non tanto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mica tanto",
+              "«Ti piace il pollo?» «M. tanto»"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In espressioni interrogative o dubitative, per caso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non sarai mica offeso?",
+              "hai mica visto le mie scarpe?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "adv.",
+      "definition": "In modo negativo, affatto",
+      "examples": [
+        "Non mi piace mica il gelato di cioccolato.",
+        "Non è mica vero che non mi piace."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Piccola quantità di qualcosa, specialmente di cibo",
+      "examples": [
+        "Aggiungi un po' di mica di sale.",
+        "La mica di pane rimasta è poca."
+      ],
+      "nota": null
+    }
+  ]
+}

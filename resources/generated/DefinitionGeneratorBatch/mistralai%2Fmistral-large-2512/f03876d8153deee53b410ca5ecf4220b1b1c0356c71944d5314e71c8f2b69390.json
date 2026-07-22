@@ -1,0 +1,156 @@
+{
+  "lemma": "coltello",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9f69ad0a50d065535a"
+    },
+    "source": "paraviaXML/24480.xml",
+    "lemma": "coltello",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arnese formato da una lama affilata inserita in un manico, usato come utensile per tagliare o anche come arma",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "coltello da cucina",
+              "da tavola",
+              "da pesce",
+              "da frutta",
+              "da innesto",
+              "tagliare",
+              "affettare",
+              "incidere qcs. col coltello",
+              "ferire",
+              "uccidere qcn. col coltello",
+              "usare forchetta e coltello"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per difendersi o aggredire qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mettere mano al coltello"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [
+              "simile",
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Durante una rissa e simile , arrivare a prendersi a coltellate; un grande dolore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "venire al coltello",
+              "un coltello nel cuore"
+            ]
+          },
+          {
+            "number": 7,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Molto denso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nebbia",
+              "fumo che si taglia col coltello",
+              "una tensione che si taglia col coltello"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nello sci alpinismo ; None lama",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Utensile da taglio costituito da una lama affilata fissata a un manico, usato per tagliare cibi o altri materiali.",
+      "examples": [
+        "Ho affilato il coltello per tagliare il pane.",
+        "In cucina manca un coltello da carne."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Arma bianca con lama tagliente, usata come strumento di offesa.",
+      "examples": [
+        "L'aggressore brandiva un coltello durante la rapina.",
+        "Nei film western, i duelli con il coltello erano frequenti."
+      ],
+      "nota": "In questo senso, spesso associato a contesti di violenza o criminalità."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Strumento chirurgico utilizzato per incisioni precise durante interventi medici.",
+      "examples": [
+        "Il chirurgo ha richiesto un coltello bisturi per l'operazione.",
+        "Durante l'autopsia, è stato usato un coltello sterile."
+      ],
+      "nota": "In ambito medico, spesso chiamato anche *bisturi*."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Elemento o situazione che crea una divisione netta o un conflitto tra persone o gruppi.",
+      "examples": [
+        "La questione politica è diventata un coltello tra i due partiti.",
+        "Il suo commento ha messo un coltello tra i vecchi amici."
+      ],
+      "nota": "Uso figurato, spesso in espressioni come *mettere un coltello tra* o *essere un coltello*."
+    }
+  ]
+}

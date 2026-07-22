@@ -1,0 +1,124 @@
+{
+  "lemma": "rivelare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafd769ad0a50d06651b9"
+    },
+    "source": "paraviaXML/98679.xml",
+    "lemma": "rivelare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Svelare, rendere noto ciò che è segreto, poco conosciuto, misterioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rivelare un segreto",
+              "rivelare una confidenza",
+              "non ha voluto rivelare le sue intenzioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Palesare, mostrare con evidenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questa risposta rivela la tua malafede",
+              "i suoi occhi rivelano gioia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rendere percepibile, per mezzo di particolari congegni o procedimenti, un fenomeno non direttamente osservabile con i sensi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’apparecchio rivela la presenza di radiazioni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Far conoscere qualcosa che prima era sconosciuto, nascosto o tenuto segreto.",
+      "examples": [
+        "La testimone ha deciso di rivelare tutti i dettagli dell'accaduto.",
+        "La ricerca ha rivelato aspetti inediti della vita dell'artista."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Mostrare, rendere evidente una qualità, una caratteristica o uno stato.",
+      "examples": [
+        "Il suo gesto generoso ha rivelato un animo sensibile.",
+        "Quel piccolo incidente ha rivelato le debolezze del sistema."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Indicare, mostrare la presenza di qualcosa, spesso come risultato di un'indagine o di una misurazione.",
+      "examples": [
+        "L'analisi del terreno ha rivelato tracce di metalli pesanti.",
+        "La radiografia non ha rivelato fratture."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo pronominale (rivelarsi)",
+      "definition": "Dimostrarsi, risultare in un certo modo, mostrando la propria natura o qualità.",
+      "examples": [
+        "Quell'esperienza si è rivelata molto formativa per lui.",
+        "Il nuovo collega si è rivelato una persona affidabile."
+      ],
+      "nota": null
+    }
+  ]
+}

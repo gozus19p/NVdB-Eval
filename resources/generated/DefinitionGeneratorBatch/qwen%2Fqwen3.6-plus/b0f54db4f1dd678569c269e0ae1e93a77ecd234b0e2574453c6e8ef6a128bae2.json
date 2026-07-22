@@ -1,0 +1,60 @@
+{
+  "lemma": "papà",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1369ad0a50d065b3a0"
+    },
+    "source": "paraviaXML/79015.xml",
+    "lemma": "papà",
+    "grammar": [
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "papà-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Padre, babbo: pappà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il papà e la mamma",
+              "quando torna p.?"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Genitore di sesso maschile, indicato con registro informale o affettuoso all'interno del nucleo familiare o nella relazione con i figli.",
+      "examples": [
+        "Mio papà mi ha accompagnato alla stazione prima dell'esame.",
+        "I bambini hanno preparato un biglietto di auguri per il loro papà."
+      ],
+      "nota": "Termine di uso prevalentemente domestico e colloquiale, contrapposto al più formale padre."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Chi ha ideato, avviato o sostiene in modo determinante, anche economicamente, un progetto, un'attività o un'organizzazione.",
+      "examples": [
+        "Molti esperti lo considerano il papà del web italiano.",
+        "L'associazione è sopravvissuta grazie al papà che ne ha finanziato la nascita."
+      ],
+      "nota": "Accezione figurata consolidata nel lessico giornalistico, culturale e aziendale per designare il creatore o il principale finanziatore di un'iniziativa."
+    }
+  ]
+}

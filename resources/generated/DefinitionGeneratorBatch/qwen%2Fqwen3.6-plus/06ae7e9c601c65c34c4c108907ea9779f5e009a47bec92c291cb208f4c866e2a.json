@@ -1,0 +1,185 @@
+{
+  "lemma": "verità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8269ad0a50d0660d96"
+    },
+    "source": "paraviaXML/126845.xml",
+    "lemma": "verità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’essere vero, caratteristica di ciò che è conforme alla realtà: anche in funzione inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "verità di una notizia",
+              "non credere alla verità di un’affermazione",
+              "libro verità",
+              "televisione verità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione pragmatica"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che è vero in senso assoluto o in relazione con determinati fatti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la ricerca della verità",
+              "sapere",
+              "ignorare la verità",
+              "tacere",
+              "dire la verità",
+              "la pura",
+              "la sacrosanta verità",
+              "tutta la verità"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "In , per invitare qualcuno a parlare senza reticenze; per attenuare un’affermazione, un giudizio precedente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "di’",
+              "dica",
+              "dite la verità",
+              "a dire la verità",
+              "per dire la verità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Affermazione o conoscenza che corrisponde a un concetto ideale del vero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le verità della fede",
+              "della scienza",
+              "una verità indiscutibile",
+              "incontestabile",
+              "dire una grande",
+              "una profonda verità"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Un’asserzione non completamente vera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una mezza verità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sincerità, buonafede",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Corrispondenza tra quanto affermato o pensato e la realtà oggettiva dei fatti.",
+      "examples": [
+        "Il testimone ha giurato di dire tutta la verità davanti al giudice.",
+        "Dopo anni di indagini, le autorità hanno finalmente ricostruito la verità sull'accaduto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Principio, dato o fatto considerato valido in modo universale o inoppugnabile, specialmente in ambito scientifico, filosofico o etico.",
+      "examples": [
+        "Non è facile stabilire verità assolute in un campo così soggettivo come l'arte.",
+        "La ricerca storica cerca di avvicinarsi alla verità dei fatti superando leggende e interpretazioni parziali."
+      ],
+      "nota": "Si distingue dal primo senso per il riferimento a conoscenze strutturate o a concetti astratti, piuttosto che alla corrispondenza puntuale di un singolo enunciato agli eventi."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Formula discorsiva utilizzata per introdurre una franca ammissione, confessare qualcosa di rilevante o ribadire con enfasi la propria sincerità.",
+      "examples": [
+        "La verità è che non avevo le risorse economiche per gestire un progetto così complesso.",
+        "Devo dirti la verità: ho sbagliato a fidarmi e avrei dovuto avvertirti prima."
+      ],
+      "nota": "Nell'italiano contemporaneo funge spesso da marcatore pragmatico per segnalare un passaggio al tono confidenziale o il riconoscimento di una situazione scomoda o precedentemente taciuta."
+    }
+  ]
+}

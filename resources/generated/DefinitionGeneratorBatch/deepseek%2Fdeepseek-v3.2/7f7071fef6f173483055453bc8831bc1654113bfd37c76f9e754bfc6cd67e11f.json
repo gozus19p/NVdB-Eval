@@ -1,0 +1,80 @@
+{
+  "lemma": "fidarsi",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb569ad0a50d0663651"
+    },
+    "source": "paraviaXML/43520.xml",
+    "lemma": "fidarsi",
+    "grammar": [
+      "v.pronom.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere fiducia in qualcuno o qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fidarsi di un amico",
+              "non mi fido della mia memoria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere il coraggio, la sicurezza di fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non mi fido a tuffarmi",
+              "il trampolino è troppo alto"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo pronominale",
+      "definition": "Sentire un sentimento di sicurezza, affidamento e aspettativa positiva nei confronti dell'affidabilità, della sincerità o della competenza di qualcuno o qualcosa.",
+      "examples": [
+        "Mi fido ciecamente del tuo giudizio.",
+        "Non ci si può fidare di persone così poco trasparenti."
+      ],
+      "nota": "Il verbo regge la preposizione 'di' per introdurre l'oggetto della fiducia."
+    }
+  ]
+}

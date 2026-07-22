@@ -1,0 +1,659 @@
+{
+  "lemma": "freddo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064ac7b"
+    },
+    "source": "paraviaXML/46020.xml",
+    "lemma": "freddo",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è a temperatura bassa o più bassa rispetto a quella ambientale o corporea; che provoca una sensazione contraria a quella del caldo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "acqua fredda",
+              "stanze",
+              "ambienti freddi",
+              "una casa umida e fredda"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento al clima, alla temperatura dell’aria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giornata fredda",
+              "tempo freddo e piovoso",
+              "venti freddi",
+              "masse d’aria fredda"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’inverno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la stagione fredda"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento al corpo umano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "naso freddo",
+              "piedi freddi",
+              "gli ho toccato la fronte, ma è fredda"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Freddissimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "freddo come il ghiaccio",
+              "come il marmo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di cibo o bevanda: non riscaldato; a temperatura normale o di frigorifero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un po’ di latte freddo",
+              "una minestra fredda",
+              "arrosto freddo",
+              "mi dia un’aranciata, ma che sia bella fredda"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Le vivande che si consumano senza cuocerle o riscaldarle; a base di tali vivande",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "piatti freddi",
+              "una cena fredda",
+              "un buffet freddo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente nel linguaggio sportivo, di muscolo o arto non ancora pronto ad affrontare uno sforzo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di atleta, che non ha compiuto il riscaldamento muscolare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che non si lascia turbare dalle passioni, dalle emozioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un individuo freddo e calcolatore"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scarsamente passionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un amante freddo",
+              "una donna fredda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di indole, comportamento e simile , controllato nel manifestare i propri sentimenti, le proprie emozioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un carattere",
+              "un temperamento freddo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non turbata dal sentimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la fredda ragione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Privo di calore umano, di affetto o di simpatia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’accoglienza fredda",
+              "un tono freddo e distaccato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di stile o altra espressione artistica, privo di sentimento, di vivacità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una prosa fredda",
+              "un dipinto freddo",
+              "un’esecuzione impeccabile ma fredda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di un colore o di una tonalità, che appartiene alla gamma del grigio, del verde o dell’azzurro, anche con riferimento alla sensazione soggettiva suscitata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tinte",
+              "toni freddi",
+              "un grigio freddo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Condizione atmosferica di bassa temperatura; sensazione corporea che ne deriva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "oggi fa molto freddo",
+              "sentire freddo",
+              "patire il freddo",
+              "proteggersi",
+              "ripararsi dal freddo",
+              "un freddo secco",
+              "acuto",
+              "pungente",
+              "un freddo polare",
+              "un freddo boia",
+              "un freddo cane"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Periodo dell’anno con le temperature più basse",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è arrivato il freddo"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’inizio della stagione invernale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i primi freddi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sensazione di paura; brividi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i suoi racconti mi hanno messo il freddo addosso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Situazione caratterizzata da assenza di comunicazione, da freddezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è calato il freddo nei rapporti tra i due stati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Senza somministrare calore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavorare a freddo un metallo",
+              "saldare a freddo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Senza cuocerlo; anche inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un dolce che si prepara a freddo",
+              "lavorazione",
+              "preparazione a freddo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con freddezza, in modo meditato, calcolato o lucidamente spietato: anche inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un massacro deciso a freddo",
+              "sparare a freddo sulla folla",
+              "lo ha steso con un colpo a freddo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "All’improvviso, all’istante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rispondere a freddo a una domanda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nel gergo calcistico: nei primissimi istanti di gioco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "segnare a freddo",
+              "subire un gol a freddo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel linguaggio del pugilato, all’inizio dell’incontro, prima che l’avversario abbia i muscoli caldi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "colpire a freddo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha o presenta una temperatura bassa, percepibilmente al di sotto di quella considerata normale o confortevole.",
+      "examples": [
+        "Stamattina l'acqua della doccia era gelida, quasi fredda come il ghiaccio.",
+        "Tira un vento freddo che fa venire i brividi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Detto di cibo o bevanda, servito o consumato a temperatura ambiente o inferiore, non riscaldato.",
+      "examples": [
+        "Preferisco il tè freddo d'estate.",
+        "Il pranzo era già freddo quando siamo arrivati a tavola."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito a persona, che mostra scarso calore emotivo, distacco o mancanza di cordialità nei confronti degli altri.",
+      "examples": [
+        "Il nuovo collega è molto freddo: non saluta quasi nessuno.",
+        "L'accoglienza dei suoceri fu cortese ma fredda."
+      ],
+      "nota": "In questo senso ha valore valutativo e può implicare giudizio negativo sul comportamento interpersonale."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che denota lucidità, controllo razionale e assenza di coinvolgimento emotivo in una situazione.",
+      "examples": [
+        "Devi mantenere la testa fredda anche sotto pressione.",
+        "Analizzò la situazione con occhio freddo e distaccato."
+      ],
+      "nota": "In questo senso può avere connotazione positiva, indicando capacità di ragionamento non influenzato dalle emozioni."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito a colore, che appartiene alla gamma dei blu, verdi e violetti, associati visivamente a sensazioni di distanza o freschezza.",
+      "examples": [
+        "L'interior designer ha scelto toni freddi per dare un senso di ampiezza alla stanza.",
+        "Il quadro è dominato da colori freddi che trasmettono malinconia."
+      ],
+      "nota": "Uso tecnico diffuso nell'ambito delle arti visive, del design e della fotografia."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Condizione atmosferica o ambientale caratterizzata da temperatura bassa; sensazione fisica prodotta da tale condizione.",
+      "examples": [
+        "Quest'inverno il freddo è arrivato in anticipo.",
+        "Chiudi la finestra, entra il freddo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In senso figurato, mancanza di entusiasmo, accoglienza tiepida o reazione priva di calore da parte di qualcuno.",
+      "examples": [
+        "La sua proposta fu accolta con freddo dalla platea.",
+        "Tra i due ex amici si è creato un freddo difficile da sciogliere."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "lemma": "smettere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafdf69ad0a50d06658c5"
+    },
+    "source": "paraviaXML/109411.xml",
+    "lemma": "smettere",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sospendere, cessare temporaneamente o definitivamente ciò che si sta facendo o dicendo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "smettere una discussione",
+              "un lavoro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "impersonale"
+            ],
+            "definitions": [
+              {
+                "glossa": "E l’infinito: anche impersonale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "di",
+              "smettere di ridere",
+              "di lavorare",
+              "non smette di piovere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mettere da parte, abbandonare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "smettere un comportamento",
+              "un atteggiamento"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cessare di usare perché vecchio, consunto, fuori moda e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "smettere un vestito",
+              "un paio di scarpe"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "regionale",
+              "toscano"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale toscano , disfarsi della casa e della mobilia per trasferirsi presso altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "smettere casa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "O terminare, finire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la pioggia non smette da due giorni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Interrompere volontariamente e definitivamente un'azione o un'attività che si stava svolgendo.",
+      "examples": [
+        "Ho deciso di smettere di fumare per motivi di salute.",
+        "Dopo trent'anni, ha smesso di lavorare ed è andato in pensione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (aus. avere)",
+      "definition": "Cessare di fare qualcosa, terminare un'azione.",
+      "examples": [
+        "Smetti di fare rumore, sto cercando di concentrarmi.",
+        "Ha smesso di piovere poco fa."
+      ],
+      "nota": "È usato frequentemente con la preposizione 'di' seguita da un verbo all'infinito per indicare l'azione interrotta."
+    },
+    {
+      "pos": "verbo intransitivo (aus. avere) - uso informale/idiomatico",
+      "definition": "Arrestare qualcuno, specialmente nell'ambito sportivo o in situazioni di confronto.",
+      "examples": [
+        "Il difensore è riuscito a smettere l'attaccante avversario prima che potesse tirare in porta.",
+        "È un avvocato così bravo che in tribunale smette tutti."
+      ],
+      "nota": "Utilizzo figurato e colloquiale, spesso in contesti agonistici o competitivi."
+    }
+  ]
+}

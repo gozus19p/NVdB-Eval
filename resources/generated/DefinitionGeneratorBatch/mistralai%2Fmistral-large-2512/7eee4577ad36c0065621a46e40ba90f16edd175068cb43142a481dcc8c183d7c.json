@@ -1,0 +1,146 @@
+{
+  "lemma": "operaio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6c69ad0a50d065285a"
+    },
+    "source": "paraviaXML/76428.xml",
+    "lemma": "operaio",
+    "grammar": [
+      "s.m.",
+      "agg."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi, specialmente nell’industria, svolge un’attività lavorativa manuale alle dipendenze di qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operaio metalmeccanico",
+              "tessile",
+              "edile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lavoratore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi presta lavoro a opera nei campi, bracciante",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo ai lavoratori dipendenti dell’industria, che riguarda tale categoria sociale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "classe operaia"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m. (f. operaia)",
+      "definition": "Persona che svolge un lavoro manuale retribuito, soprattutto in ambito industriale o artigianale.",
+      "examples": [
+        "Gli operai della fabbrica hanno scioperato per chiedere migliori condizioni di lavoro.",
+        "Mio padre è un operaio specializzato nel settore metalmeccanico."
+      ],
+      "nota": "Può riferirsi anche a lavoratori non industriali (es. 'operaio agricolo'), ma l'uso prevalente è legato al contesto manifatturiero. Il femminile 'operaia' è pienamente attestato."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Insetto sterile appartenente a una colonia di api, formiche o termiti, che svolge compiti pratici come la raccolta di cibo o la cura della prole.",
+      "examples": [
+        "Le api operaie raccolgono il nettare per produrre il miele.",
+        "Gli operai di una colonia di formiche possono trasportare oggetti molto più grandi di loro."
+      ],
+      "nota": "Uso specialistico ma diffuso in contesti divulgativi o naturalistici. Non ha corrispettivo femminile in questo senso."
+    },
+    {
+      "pos": "aggettivo (invariabile)",
+      "definition": "Che svolge un ruolo attivo e pratico in un'organizzazione o in un processo, spesso in contrapposizione a ruoli direttivi o teorici.",
+      "examples": [
+        "Il comitato operaio ha organizzato una raccolta fondi per i colleghi in difficoltà.",
+        "La fase operativa del progetto è stata affidata a un gruppo operaio ben coordinato."
+      ],
+      "nota": "Uso prevalentemente in contesti politici, sindacali o organizzativi. Può avere connotazioni di concretezza e impegno diretto."
+    }
+  ]
+}

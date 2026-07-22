@@ -1,0 +1,151 @@
+{
+  "lemma": "ottenere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc669ad0a50d06643bb"
+    },
+    "source": "paraviaXML/77762.xml",
+    "lemma": "ottenere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Riuscire ad avere ciò che si desidera o si richiede, conseguire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ottenere un incarico",
+              "un premio",
+              "un permesso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conseguire come effetto, come risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cosa hai ottenuto comportandoti così?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ricavare mediante determinati procedimenti, operazioni, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mescolare fino a ottenere un composto omogeneo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Far prevalere, far accettare una proposta, un’opinione, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con questi et altri più efficaci detti | fece Sobrin sì, che ’l partito ottenne"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Ariosto)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Riuscire ad avere o a conseguire qualcosa di desiderato attraverso un'azione, una richiesta o uno sforzo.",
+      "examples": [
+        "Ha ottenuto il permesso di assentarsi dal lavoro per una settimana.",
+        "Dopo anni di sacrifici, ha ottenuto la laurea con il massimo dei voti."
+      ],
+      "nota": "Implica generalmente un processo attivo da parte del soggetto, a differenza di 'ricevere', che può essere passivo."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Raggiungere un determinato risultato o produrre un certo effetto come conseguenza di un'operazione, un procedimento o un calcolo.",
+      "examples": [
+        "Mescolando i due colori si ottiene una sfumatura di verde.",
+        "Sottraendo le spese dalle entrate, si ottiene il profitto netto."
+      ],
+      "nota": "In questo senso il soggetto può essere anche impersonale o inanimato; comune nel linguaggio scientifico e tecnico."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Persuadere o indurre qualcuno a fare qualcosa, riuscendo a ottenerne la collaborazione o il consenso.",
+      "examples": [
+        "È riuscita a ottenere dal dirigente un incontro urgente.",
+        "Non è facile ottenere da lui una risposta chiara."
+      ],
+      "nota": "In questo uso il complemento oggetto è una persona o un ente, e il risultato conseguito riguarda un'azione o una risposta da parte di tale soggetto."
+    }
+  ]
+}

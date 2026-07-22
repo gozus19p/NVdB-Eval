@@ -1,0 +1,441 @@
+{
+  "lemma": "fatto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaec369ad0a50d06571fb"
+    },
+    "source": "paraviaXML/42628.xml",
+    "lemma": "fatto",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che accade, si verifica nella realtà; risultato concreto di un comportamento, un’azione, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un fatto curioso",
+              "memorabile",
+              "raccontare",
+              "narrare un fatto",
+              "attenersi ai fatti",
+              "i fatti parlano chiaro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Un complemento o da una proposizione, introduce l’enunciazione di un avvenimento o la constatazione di una realtà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il fatto di parlare",
+              "di camminare",
+              "il fatto che ritardi mi preoccupa"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Un che specifica la natura dell’avvenimento o da quale punto di vista viene considerato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fatti naturali",
+              "soprannaturali",
+              "fatti storici",
+              "economici",
+              "linguistici"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In contrapposizione, esplicita o meno, con parole, idee o discorsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vogliamo fatti, non parole",
+              "è ora di passare ai fatti"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per introdurre o concludere sintetizzando l’esposizione dell’argomento toccato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fatto sta che",
+              "il fatto è che",
+              "non so cosa sia successo, il fatto è che non mi ha più scritto",
+              "fatto sta che alla fine siamo partiti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Vicenda rappresentata in un romanzo, in un film e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il fatto si svolge in una grande metropoli"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , questione personale, affare privato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questi sono fatti che non ti riguardano",
+              "è uno che si impiccia dei fatti altrui"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Occuparsi solo dei propri problemi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "farsi i fatti propri"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per invitare bruscamente qualcuno a non occuparsi di cose che non lo riguardano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fatti miei!",
+              "fatti nostri!"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per invitare bruscamente qualcuno a risolvere da solo un problema",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fatti tuoi!",
+              "fatti vostri!"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [
+              "familiare",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per invitare minacciosamente qualcuno a non interessarsi di cose che non lo riguardano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fatti i fatti tuoi",
+              "fatevi i fatti vostri"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Andarsene",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "andare per i fatti propri"
+            ]
+          },
+          {
+            "number": 7,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il proprio utile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare il fatto proprio"
+            ]
+          },
+          {
+            "number": 8,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per introdurre una domanda che potrebbe sembrare indiscreta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non per sapere i fatti tuoi, ma quanto vale la tua casa?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , vicende illustri, imprese, gesta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i fatti di Alessandro Magno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "diritto penale",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , avvenimento cui l’ordinamento giuridico attribuisce rilevanza, ricollegandogli determinati effetti giuridici",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto civile , evento che determina la nascita, la modificazione o l’estinzione di un rapporto giuridico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto penale , insieme degli elementi oggettivi di un reato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è stato assolto per non aver commesso il fatto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sostanziale, effettivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una decisione di fatto",
+              "un provvedimento di fatto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di unione che pur non essendo sancita dal matrimonio viene riconosciuta dalla legge in base al criterio della convivenza non transitoria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In realtà, in sostanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "di fatto era molto stanco"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Evento concreto accaduto nella realtà.",
+      "examples": [
+        "Il fatto è avvenuto ieri sera.",
+        "I fatti dimostrano la sua onestà."
+      ],
+      "nota": "Usato spesso per sottolineare l'evidenza oggettiva, in contrapposizione a opinioni o supposizioni."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Attività o azione compiuta, risultato di un'operazione.",
+      "examples": [
+        "Ha compiuto un fatto eroico.",
+        "La relazione dei fatti è dettagliata."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Compiuto, realizzato.",
+      "examples": [
+        "L'accordo è ormai fatto.",
+        "Una volta fatto il lavoro, potremo riposare."
+      ],
+      "nota": "Utilizzato spesso come participio passato del verbo 'fare' con funzione aggettivale."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Conformato, strutturato in un certo modo.",
+      "examples": [
+        "È un uomo fatto così, non cambierà.",
+        "La casa era fatta di legno."
+      ],
+      "nota": "Indica una caratteristica costituzionale o costitutiva."
+    }
+  ]
+}

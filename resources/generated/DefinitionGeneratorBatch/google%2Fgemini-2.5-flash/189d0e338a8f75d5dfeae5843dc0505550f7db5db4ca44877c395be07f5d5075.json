@@ -1,0 +1,170 @@
+{
+  "lemma": "ma",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae2369ad0a50d064eba0"
+    },
+    "source": "paraviaXML/65169.xml",
+    "lemma": "ma",
+    "grammar": [
+      "cong.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vversativo, contrappone due elementi di una proposizione che hanno la stessa funzione sintattica o due proposizioni della stessa specie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli ho telefonato, ma non l’ho trovato",
+              "è intelligente ma svogliato",
+              "la salsa era buona, ma un po’ salata",
+              "è stato molto male, ma poi si è ripreso",
+              "pensavo di riuscire, ma non ce l’ho fatta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "familiare",
+              "intensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non è bella, ma bellissima",
+              "sono stanco, ma proprio stanco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "congiunzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Posto all’inizio di un periodo indica il passaggio da un argomento a un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ma torniamo al problema principale",
+              "ma riprendiamo il racconto dall’inizio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "ironico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nfatico o in espressioni interrogative o esclamative",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ma certo!",
+              "ma tu ci credi?",
+              "ma non scherzare!",
+              "ma che bella notizia!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dubbio, incertezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dopo tanti ma e se, si decisero",
+              "con lui ci sono sempre dei ma",
+              "non c’è ma che tenga!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce un'idea o una frase che contrasta, limita o corregge quanto detto in precedenza.",
+      "examples": [
+        "Vorrei venire, ma ho troppo lavoro.",
+        "È un bel film, ma la trama è un po' debole."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "congiunzione",
+      "definition": "Utilizzato per aggiungere un elemento inaspettato o sorprendente rispetto a quanto ci si attenderebbe.",
+      "examples": [
+        "Ha studiato poco, ma ha comunque superato l'esame.",
+        "Non pensavo fosse così difficile, ma in realtà lo è stato molto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "congiunzione",
+      "definition": "Introduce una spiegazione o una precisazione, spesso con valore rafforzativo o conclusivo.",
+      "examples": [
+        "Non è cattiveria, ma solo incomprensione.",
+        "Non voglio sembrare insistente, ma è importante chiarire questo punto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "interiezione",
+      "definition": "Esprime esitazione, dubbio, incredulità o sorpresa.",
+      "examples": [
+        "Ma come? Non sapevo nulla di questo!",
+        "Ma dai, non è possibile!"
+      ],
+      "nota": null
+    }
+  ]
+}

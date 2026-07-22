@@ -1,0 +1,178 @@
+{
+  "lemma": "tassa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6269ad0a50d065f44d"
+    },
+    "source": "paraviaXML/118543.xml",
+    "lemma": "tassa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Compenso obbligatorio corrisposto allo stato o ad altro ente pubblico come controprestazione di un servizio specifico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tasse universitarie",
+              "scolastiche",
+              "automobilistiche"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Imposta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "metà del mio stipendio finisce in tasse",
+              "ci vorrebbero meno tasse!",
+              "pagare le tasse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Quota corrisposta a un’associazione, a un ente privato e simile per ricevere un servizio o per poter partecipare ad attività comuni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Multa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , retribuzione spettante a un pubblico ufficiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , quota o elemosina stabilita dal papa in occasione dei giubilei grazie alla quale si ottenevano le indulgenze senza andare a Roma",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Prezzo che si deve versare all'amministrazione statale o a un ente pubblico come corrispettivo per un servizio specifico o per l'utilizzo di un bene collettivo.",
+      "examples": [
+        "Ogni anno dobbiamo pagare la tassa sui rifiuti urbani.",
+        "Per ottenere il passaporto, è necessario versare una tassa governativa."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Contributo obbligatorio imposto su beni o servizi importati per regolarne il commercio o per fini fiscali.",
+      "examples": [
+        "Il governo ha annunciato un aumento della tassa sull'importazione di prodotti elettronici.",
+        "Le merci straniere sono spesso soggette a tasse doganali elevate."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Peso o aggravio che si ricade su qualcuno che ha commesso una colpa, o un evento negativo che comporta un sacrificio, un costo o un danno.",
+      "examples": [
+        "Comportamenti disonesti possono portare una pesante tassa sulla tua reputazione.",
+        "Il fumo, oltre ai danni sulla salute, impone una tassa significativa sul portafoglio."
+      ],
+      "nota": "Uso figurato."
+    }
+  ]
+}

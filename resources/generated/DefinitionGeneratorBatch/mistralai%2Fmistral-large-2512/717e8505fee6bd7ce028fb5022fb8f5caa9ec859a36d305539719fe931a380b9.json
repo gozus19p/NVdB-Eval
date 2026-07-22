@@ -1,0 +1,448 @@
+{
+  "lemma": "infinito",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064ae01"
+    },
+    "source": "paraviaXML/56428.xml",
+    "lemma": "infinito",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che non ha né inizio né fine, che non ha limiti di spazio, di tempo o di quantità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’universo infinito",
+              "la serie infinita dei numeri",
+              "l’infinita misericordia di Dio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Molto grande, immenso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la distesa infinita del mare",
+              "della pianura"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di sentimento, molto profondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha dimostrato un’infinita pazienza",
+              "un amore infinito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Interminabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è nata un’infinita discussione in proposito",
+              "ci ho messo un tempo infinito ad arrivare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Al , innumerevoli, svariati",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sull’argomento sono stati pubblicati infiniti testi",
+              "ci sono infiniti modi per affrontare il problema",
+              "ti faccio infiniti auguri",
+              "infinite congratulazioni"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come formula di ringraziamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "grazie infinite",
+              "infinite grazie"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , spazio o tempo senza limiti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’idea",
+              "il concetto di infinito"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il cosmo, l’universo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i misteri dell’infinito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , estremo ideale verso cui tende una variabile che non ha limite nel suo ingrandirsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "calcolare il limite di una funzione per x che tende a infinito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "esempio",
+        "grammar": [
+          "sostantivo maschile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Grammatica , modo indefinito della coniugazione verbale in cui l’azione è espressa senza determinazione di numero e persona, ma soltanto di tempo e di diatesi ( ad esempio in italiano )",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "amare",
+              "credere",
+              "finire",
+              "aver amato",
+              "aver creduto",
+              "essere amato",
+              "essere stato amato",
+              "infinito presente",
+              "passato",
+              "futuro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "infinito attivo",
+              "passivo",
+              "modo infinito"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quello usato in funzione di sostantivo ( ad esempio nella frase",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "infinito sostantivato",
+              "mi annoiava il suo continuo cicalare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "maiuscolo",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Teologia , per , solo singolare , con iniziale maiuscolo , Dio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Senza finire, illimitatamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il ciclo si ripete all’infinito",
+              "la serie dei numeri prosegue all’infinito"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "me lo ha ripetuto all’infinito",
+              "questo lavoro andrà avanti all’infinito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica tecnica, tecnologia , a una distanza molto grande da un elemento di riferimento, specialmente , in ottica e in fotografia, a una distanza molto maggiore di quella focale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "regolare l’obiettivo all’infinito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "TS",
+        "field": "elettrotecnica",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Elettrotecnica , di punto, che è a una distanza tanto grande dalle cariche che generano un campo elettrico da poter essere considerate trascurabili le azioni del campo su tale punto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "4,5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che non ha limiti o confini nel tempo, nello spazio o in quantità; privo di termine o conclusione.",
+      "examples": [
+        "L'universo è considerato uno spazio infinito.",
+        "Ha una pazienza infinita con i bambini."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Estremamente grande o numeroso, spesso usato in senso iperbolico.",
+      "examples": [
+        "Ho un'infinita quantità di lavoro da fare.",
+        "Mi ha fatto un'infinita serie di raccomandazioni prima di partire."
+      ],
+      "nota": "Spesso usato in contesti informali o espressivi per enfatizzare una quantità o un'intensità."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Ciò che non ha né inizio né fine, spesso riferito a concetti filosofici, teologici o matematici.",
+      "examples": [
+        "Nella filosofia greca, l'infinito era un concetto centrale.",
+        "In matematica, l'infinito è rappresentato con un simbolo specifico."
+      ],
+      "nota": "Può riferirsi anche a entità divine o a concetti astratti come il tempo o lo spazio senza limiti."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In grammatica, la forma base del verbo, priva di coniugazione per persona, numero o tempo.",
+      "examples": [
+        "In italiano, l'infinito dei verbi termina spesso in -are, -ere o -ire.",
+        "Per tradurre questa frase, devi trovare l'infinito del verbo."
+      ],
+      "nota": "In analisi grammaticale, è una delle forme non finite del verbo."
+    }
+  ]
+}

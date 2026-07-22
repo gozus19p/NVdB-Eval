@@ -1,0 +1,168 @@
+{
+  "lemma": "mattino",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef869ad0a50d0659d76"
+    },
+    "source": "paraviaXML/67815.xml",
+    "lemma": "mattino",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parte del giorno compresa tra il sorgere del sole e mezzogiorno; mattina",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un mattino sereno",
+              "nuvoloso",
+              "le sei",
+              "le dieci del mattino"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nelle ore della mattina",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "al mattino",
+              "il mattino",
+              "il mattino presto",
+              "il mattino tardi"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "La mattina del giorno successivo; per iniziare a raccontare qualcosa riferendosi a un giorno imprecisato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mattino dopo",
+              "il mattino seguente",
+              "un mattino",
+              "un bel mattino",
+              "un brutto mattino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Oriente, levante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "e volta nostra poppa nel m., | dei remi facemmo ali al folle volo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Inizio, esordio; l’infanzia, la giovinezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mattino della vita"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "liturgia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Liturgia ; mattutino",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo, m.",
+      "definition": "Frazione della giornata compresa tra l'alba e mezzogiorno.",
+      "examples": [
+        "Di solito mi sveglio alle sei del mattino per andare a correre.",
+        "Il traffico del mattino rende i tragitti verso il centro particolarmente lenti."
+      ],
+      "nota": null
+    }
+  ]
+}

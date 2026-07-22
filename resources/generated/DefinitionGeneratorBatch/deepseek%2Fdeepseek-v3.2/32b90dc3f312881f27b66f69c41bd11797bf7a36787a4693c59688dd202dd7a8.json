@@ -1,0 +1,493 @@
+{
+  "lemma": "studio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5d69ad0a50d065f045"
+    },
+    "source": "paraviaXML/116260.xml",
+    "lemma": "studio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lo studiare; applicazione volta all’apprendimento di una disciplina",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dedicare molte ore allo studio",
+              "lo studio delle lingue",
+              "della storia",
+              "una persona dedita allo studio |"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che si studia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "uno studio piacevole",
+              "gli studi classici",
+              "scientifici"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , attività di chi frequenta regolari corsi scolastici e universitari",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziare",
+              "terminare",
+              "lasciare gli studi",
+              "ha compiuto gli studi all’estero",
+              "corso di studi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ricerca, indagine approfondita di studiosi su un argomento specifico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "uno studio sulle Operette Morali di Leopardi",
+              "dopo lunghi studi si è scoperto il vaccino"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Saggio che contiene i risultati di tale ricerca, monografia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha pubblicato il suo studio sul Decadentismo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Analisi, esame",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ad uno studio più attento il problema potrà apparire chiaro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lavoro preparatorio, progetto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli studi per un nuovo traforo stradale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arte, lavoro preparatorio, generale o particolare, eseguito dall’artista prima di realizzare l’opera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "uno studio di Leonardo",
+              "gli studi di Michelangelo per la cappella Sistina"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Eseguito osservando direttamente un soggetto reale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "studio dal vero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , composizione vocale o strumentale di carattere didattico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli studi per chitarra di Sor"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Composizione per pianoforte, tipica del periodo romantico, in cui si sperimentano nuove potenzialità della tecnica e del timbro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli studi di Liszt",
+              "di Chopin"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Stanza di un appartamento destinata ad attività di studio, di lettura o simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "arredare lo studio",
+              "nello studio ha centinaia di volumi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mobili che costituiscono l’arredamento di tale stanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "acquistare uno studio nuovo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Locale in cui un professionista o un artista svolge la propria attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "studio medico",
+              "legale",
+              "notarile",
+              "lo studio di un avvocato",
+              "il pittore è nel suo studio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ambiente dotato di attrezzature adeguate per l’esecuzione di fotografie e per il loro sviluppo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "studio fotografico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sala o insieme di locali da cui si trasmettono spettacoli televisivi e radiofonici o si girano scene di film",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli studi della RAI di Milano",
+              "l’ultimo colossal girato negli studi di Cinecittà",
+              "studio televisivo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, negli scacchi, schema in cui una delle parti, anche se apparentemente inferiore per posizione o forze, può vincere o fare patta nel modo ideato dal giocatore, indipendentemente dal numero delle mosse",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cura, sollecitudine: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ella con tutto il suo studio s’ingegnava di piacergli"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Desiderio: Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che studio di ben far grazia rinverda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Occupazione, attività; lavoro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "effigiati Dei | inclito studio di scalpelli achei"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Foscolo)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel Medioevo, università",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "L'attività di apprendimento o approfondimento di una materia attraverso la lettura, l'esercizio o la riflessione.",
+      "examples": [
+        "Ha dedicato molte ore allo studio della fisica.",
+        "Per superare l'esame, è necessario uno studio costante."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Ambiente o locale adibito specificamente all'attività intellettuale o professionale di una persona.",
+      "examples": [
+        "Il suo studio è pieno di libri e quadri.",
+        "Il dentista la riceverà nel suo studio dopo le 15."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Indagine metodologica e approfondita finalizzata alla comprensione o alla progettazione di qualcosa.",
+      "examples": [
+        "L'università ha pubblicato uno studio sull'impatto ambientale.",
+        "Prima di costruire il ponte, sono stati condotti accurati studi di fattibilità."
+      ],
+      "nota": "In questo senso, spesso si riferisce a un prodotto di ricerca o analisi."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Locale adibito alla produzione di opere cinematografiche, televisive, radiofoniche o discografiche.",
+      "examples": [
+        "Il film è stato girato in uno studio di Cinecittà.",
+        "La band ha registrato il nuovo album in uno studio famoso."
+      ],
+      "nota": "Specifica di ambiti come cinema, televisione, musica."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "La fase di pianificazione e realizzazione preliminare di un'opera d'arte, come disegni o bozzetti preparatori.",
+      "examples": [
+        "La galleria espone gli studi preparatori per l'affresco.",
+        "Questo schizzo è uno studio per la scultura finale."
+      ],
+      "nota": null
+    }
+  ]
+}

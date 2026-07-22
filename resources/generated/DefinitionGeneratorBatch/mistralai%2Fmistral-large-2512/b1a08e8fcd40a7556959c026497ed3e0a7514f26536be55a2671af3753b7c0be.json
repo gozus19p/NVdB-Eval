@@ -1,0 +1,82 @@
+{
+  "lemma": "telefonata",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6369ad0a50d065f53f"
+    },
+    "source": "paraviaXML/118999.xml",
+    "lemma": "telefonata",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "telefonata-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chiamata, comunicazione fatta per mezzo del telefono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare una telefonata"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conversazione telefonica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una telefonata di mezz’ora",
+              "una telefonata interurbana"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Comunicazione vocale tra due o più persone effettuata tramite telefono.",
+      "examples": [
+        "Ho ricevuto una telefonata da mia madre mentre ero al lavoro.",
+        "Mi ha fatto una telefonata per avvisarmi che sarebbe arrivato in ritardo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Il suono o il segnale acustico emesso da un telefono per indicare una chiamata in arrivo.",
+      "examples": [
+        "La telefonata del cellulare mi ha svegliato nel cuore della notte.",
+        "Non ho sentito la telefonata perché avevo il volume abbassato."
+      ],
+      "nota": "In questo senso, il termine può riferirsi anche al semplice squillo, indipendentemente dall'effettiva comunicazione."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Breve conversazione o scambio di informazioni tramite telefono, spesso con uno scopo specifico.",
+      "examples": [
+        "Ho fatto una telefonata al medico per prenotare una visita.",
+        "Dopo la telefonata con il cliente, ho capito che dovevamo cambiare strategia."
+      ],
+      "nota": "Può implicare un'interazione rapida o finalizzata a uno scopo pratico, come un chiarimento o una conferma."
+    }
+  ]
+}

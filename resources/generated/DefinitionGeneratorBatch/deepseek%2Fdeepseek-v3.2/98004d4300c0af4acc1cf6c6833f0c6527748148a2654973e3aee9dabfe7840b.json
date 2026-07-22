@@ -1,0 +1,179 @@
+{
+  "lemma": "pistola",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3c69ad0a50d065d515"
+    },
+    "source": "paraviaXML/83441.xml",
+    "lemma": "pistola",
+    "grammar": [
+      "s.f.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "secolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Arma da fuoco portatile corta, di peso e di ingombro limitati, da impugnarsi specialmente con una sola mano contro bersagli ravvicinati, apparsa verso la metà del secolo XVI per poi seguire l’evoluzione tecnica del fucile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è partito un colpo di pistola"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Qualsiasi attrezzo, congegno o strumento simile a tale arma per la forma o per il funzionamento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pistola saldatrice"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Membro virile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "settentrionale",
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale settentrionale , persona poco intelligente e facile da ingannare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "aeronautica"
+            ],
+            "definitions": [
+              {
+                "glossa": "Aeronautica , gancio a scatto usato per trattenere un aliante quando si mettono in tensione i cavi di lancio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–3,5",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Arma da fuoco portatile di piccole dimensioni, destinata all'uso con una sola mano.",
+      "examples": [
+        "Il poliziotto estrasse la pistola dalla fondina.",
+        "La collezione comprende pistole d'epoca in perfetto stato."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attrezzo manuale che, premendo un grilletto, spruzza un materiale fluido, tipicamente vernice o colla.",
+      "examples": [
+        "Ho usato la pistola per verniciare la ringhiera.",
+        "Prima di sigillare la scatola, applica il silicone con la pistola."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che si riferisce a un tipo di caffè espresso preparato velocemente e servito in piccola quantità.",
+      "examples": [
+        "Preferisco un caffè pistola a quello lungo.",
+        "Al bar, per svegliarmi, ordino sempre un caffè pistola."
+      ],
+      "nota": "Uso prevalentemente in espressioni fisse come 'caffè pistola'."
+    }
+  ]
+}

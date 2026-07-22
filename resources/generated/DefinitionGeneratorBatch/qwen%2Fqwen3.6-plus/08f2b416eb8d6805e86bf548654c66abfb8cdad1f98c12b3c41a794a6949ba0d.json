@@ -1,0 +1,226 @@
+{
+  "lemma": "secolo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4769ad0a50d065de61"
+    },
+    "source": "paraviaXML/105376.xml",
+    "lemma": "secolo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Spazio di tempo di cento anni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la cattedrale è vecchia di tre secoli"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "secolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Accompagnato da un aggettivo numerale ordinale, ciascuno dei periodi di cento anni computati a partire dalla nascita di Cristo: abbr. s. secolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vivere nel ventesimo secolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Periodo di tempo molto lungo o che tale sembra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è un secolo che ti sto aspettando",
+              "erano secoli che non mi divertivo tanto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , lunghissimo e indefinito periodo di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una tradizione che dura da secoli",
+              "un’opera che ha sfidato i secoli",
+              "una storia tramandata nei secoli"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Periodo di tempo, inserito nell’arco di cento anni, connotato da una ben precisa temperie storica o culturale, dal regno di un sovrano, dalla presenza di scoperte importanti, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il secolo di Luigi XIV",
+              "il secolo delle scoperte geografiche"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Epoca, età",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il secolo dell’oro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Epoca in cui si vive, tempo attuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "seguire i costumi del secolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vita mondana, terrena; vita laica, in contrapposizione alla vita religiosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le preoccupazioni",
+              "le vanità del secolo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Unità di misura cronologica corrispondente a un periodo di cento anni consecutivi, comunemente impiegata per la datazione di eventi storici.",
+      "examples": [
+        "L'edificio è stato ristrutturato due secoli fa per garantire la stabilità strutturale.",
+        "Il censimento rileva i cambiamenti demografici avvenuti nell'arco di un secolo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Epoca storica caratterizzata da specifici lineamenti culturali, sociali o intellettuali, riconosciuta come un periodo unitario al di là della rigida scansione numerica.",
+      "examples": [
+        "La letteratura di quel periodo riflette le tensioni sociali tipiche di quel secolo.",
+        "Gli studiosi analizzano i mutamenti economici avvenuti durante questo secolo."
+      ],
+      "nota": "Uso frequente con i numerali ordinali per evidenziare i tratti distintivi di un'epoca."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Sfera della vita terrena, della società civile e delle attività quotidiane, contrapposta alla dimensione religiosa, contemplativa o ai voti di clausura.",
+      "examples": [
+        "Dopo anni di vita in monastero, ha scelto di reintegrarsi pienamente nel mondo del secolo.",
+        "I testi spirituali descrivono spesso il conflitto tra la vocazione interiore e i rumori del secolo."
+      ],
+      "nota": "Ricorre prevalentemente in contesti religiosi, ecclesiastici o nella reflectione spirituale contemporanea."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Lasso temporale percepito come estremamente lungo, impiegato in senso iperbolico per esprimere un'attesa prolungata o una lontananza temporale significativa.",
+      "examples": [
+        "Non ci vediamo da un secolo, raccontami subito cosa è successo.",
+        "Ci vuole un secolo solo per trovare le chiavi in mezzo a tutto questo disordine."
+      ],
+      "nota": "Uso figurato e informale, caratteristico del linguaggio parlato e della comunicazione quotidiana."
+    }
+  ]
+}

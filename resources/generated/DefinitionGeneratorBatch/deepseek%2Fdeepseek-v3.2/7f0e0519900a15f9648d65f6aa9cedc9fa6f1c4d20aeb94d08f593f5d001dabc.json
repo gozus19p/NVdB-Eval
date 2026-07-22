@@ -1,0 +1,188 @@
+{
+  "lemma": "dipendente",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6269ad0a50d06520c8"
+    },
+    "source": "paraviaXML/33423.xml",
+    "lemma": "dipendente",
+    "grammar": [
+      "p.pres.",
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio presente"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dipendere",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che dipende, che è soggetto o subordinato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "filiale dipendente dalla sede centrale",
+              "il cucciolo è in tutto dipendente dalla madre"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che è in condizione di dipendenza, di assuefazione specialmente all’alcol, agli stupefacenti e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un soggetto dipendente dalla droga",
+              "dagli psicofarmaci"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AD",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lavoratore dipendente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dipendente statale",
+              "pubblico",
+              "lavorare come dipendente in un’azienda"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "grammatica",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica grammatica ; proposizione subordinata",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2–4",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "5",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo, m./f.",
+      "definition": "Persona che lavora alle dipendenze di un datore di lavoro, pubblico o privato, con un rapporto subordinato.",
+      "examples": [
+        "Il nuovo dipendente inizierà il suo lavoro lunedì prossimo.",
+        "Tutti i dipendenti hanno diritto a ferie pagate."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che è vincolato o condizionato dall'esistenza di qualcos'altro, a cui è subordinato.",
+      "examples": [
+        "La qualità del suono è dipendente dal tipo di altoparlante utilizzato.",
+        "Il successo dell'iniziativa è dipendente dal supporto finanziario."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che ha sviluppato una condizione di assuefazione e bisogno patologico verso una sostanza psicoattiva o un comportamento.",
+      "examples": [
+        "È stato ricoverato in una comunità per persone dipendenti.",
+        "La terapia mira a rendere il paziente non più dipendente dalla sostanza."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "lemma": "avvertire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafea69ad0a50d0666146"
+    },
+    "source": "paraviaXML/11153.xml",
+    "lemma": "avvertire",
+    "grammar": [
+      "v.tr.",
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Informare qualcuno di qualcosa specialmente di importante o grave",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvertire di un pericolo",
+              "di una minaccia",
+              "di un rischio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avvisare, specialmente con tono minaccioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ti avverto di non scherzare col fuoco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sentire, percepire qualcosa ; notare, apprezzare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvertire un rumore",
+              "un dolore",
+              "avvertire l’importanza di qcs."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare attenzione, badare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Mettere in guardia qualcuno contro un pericolo o un rischio imminente.",
+      "examples": [
+        "Il meteo ha avvertito i cittadini di una forte perturbazione in arrivo.",
+        "Ti avverto che se continui così finirai nei guai."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Informare qualcuno in modo formale o ufficiale di qualcosa.",
+      "examples": [
+        "L'azienda avvertirà i dipendenti della chiusura tramite circolare.",
+        "Avvertimi quando sarai in partenza."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Percepire fisicamente attraverso uno dei sensi, notare.",
+      "examples": [
+        "Ho avvertito un leggero tremore durante la scossa.",
+        "Avverto un odore strano proveniente dalla cucina."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Provare o sperimentare uno stato d'animo o una sensazione interna.",
+      "examples": [
+        "Avverte una grande nostalgia per i luoghi della sua infanzia.",
+        "Dopo la notizia, avvertì un senso di sollievo."
+      ],
+      "nota": null
+    }
+  ]
+}

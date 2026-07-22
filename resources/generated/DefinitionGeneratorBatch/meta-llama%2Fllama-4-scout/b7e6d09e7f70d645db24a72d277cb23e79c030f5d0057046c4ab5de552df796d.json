@@ -1,0 +1,146 @@
+{
+  "lemma": "esistere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb469ad0a50d0663569"
+    },
+    "source": "paraviaXML/40424.xml",
+    "lemma": "esistere",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere, avere realtà effettiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esistono lingue molto diverse tra loro",
+              "nel passato sono esistite grandi civiltà",
+              "tutto ciò che esiste non può non meravigliarci"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esserci, manifestarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esistono molti casi simili a questo",
+              "anche se tra loro esistono delle differenze sono molto uniti",
+              "quel che dici esiste solo nella tua immaginazione!"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In pragm. non è possibile, non è immaginabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non esiste",
+              "hai vinto di nuovo, non esiste!",
+              "non esiste che abbiano promosso anche te!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere rilevante, importante, contare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "per lui esiste solo la professione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere in vita, vivere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "perché esisto?"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "essere in vita, avere esistenza reale",
+      "examples": [
+        "L'uomo esiste da milioni di anni.",
+        "La società esiste da secoli."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "essere presente, avere una certa realtà o consistenza",
+      "examples": [
+        "Il problema esiste ed è serio.",
+        "La soluzione esiste, bisogna trovarla."
+      ],
+      "nota": null
+    }
+  ]
+}

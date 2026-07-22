@@ -1,0 +1,150 @@
+{
+  "lemma": "spagnolo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0669ad0a50d064b7d7"
+    },
+    "source": "paraviaXML/111977.xml",
+    "lemma": "spagnolo",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo alla Spagna",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "popolo spagnolo",
+              "storia spagnola"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante della Spagna",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "secolo",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , la più diffusa delle lingue neolatine, appartenente al ramo iberoromanzo, parlata in Spagna e in numerosi stati dell’America centrale e meridionale, con crescente presenza negli USA, specialmente negli stati meridionali ( fondata sul castigliano, è documentata dal secolo X)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "conoscere",
+              "parlare lo spagnolo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Materia d’insegnamento relativa a tale lingua e alla sua letteratura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "professore",
+              "testo di spagnolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo o appartenente alla Spagna o al suo popolo.",
+      "examples": [
+        "La tradizione spagnola della siesta è famosa.",
+        "Ho comprato un libro di letteratura spagnola."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Abitante o nativo della Spagna.",
+      "examples": [
+        "Mio vicino è uno spagnolo di Madrid.",
+        "Lo spagnolo che ho incontrato era molto cordiale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Lingua romanza parlata in Spagna e in molti paesi dell'America Latina.",
+      "examples": [
+        "Sto studiando lo spagnolo da due anni.",
+        "L'italiano e lo spagnolo hanno molte somiglianze."
+      ],
+      "nota": "Nota anche come 'castigliano'."
+    }
+  ]
+}

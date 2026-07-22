@@ -1,0 +1,476 @@
+{
+  "lemma": "meccanico",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064b018"
+    },
+    "source": "paraviaXML/67998.xml",
+    "lemma": "meccanico",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo alla meccanica come parte della fisica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggi meccaniche",
+              "principio meccanico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di processo o fenomeno, specialmente naturale, che avviene spontaneamente senza essere provocato da fattori chimici, fisici o tecnologici",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di apparecchio, che funziona mediante meccanismi automatici, che è mosso da un congegno interno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un giocattolo",
+              "un orologio meccanico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che riguarda le macchine e i meccanismi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guasto",
+              "pezzo meccanico"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per la riparazione o il montaggio di macchine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "officina meccanica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che si esegue con l’aiuto di macchine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pulizia",
+              "piallatura meccanica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che non comporta l’intervento della volontà, inconscio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gesto",
+              "riflesso meccanico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che si esegue in modo automatico, con attenzione ridotta e senza alcun apporto della propria creatività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un lavoro meccanico",
+              "un’azione meccanica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , che riguarda la descrizione del movimento mediante forze",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6b",
+        "usage": "TS",
+        "field": "medicina",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisiologia , relativo all’attività dei muscoli in quanto organi di movimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisiologia medicina , che avviene per mezzo di forze fisiche o meccaniche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stimolo meccanico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "botanica",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Botanica , di cellula, che ha funzione di sostegno per ispessimento totale o parziale delle sue pareti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di tessuto, formato da tali cellule",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "AD",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi provvede alla riparazione e alla manutenzione di macchine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare la moto dal meccanico",
+              "avere un meccanico di fiducia"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi progetta e costruisce congegni, parti o elementi meccanici specialmente per conto di terzi: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "meccanico ortopedico",
+              "ingegnere meccanico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Macchinista",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "marina",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguaggio militare , nella marina militare, sottufficiale addetto al servizio generale di macchina, dello scafo o ai servizi delle armi e degli antisommergibili",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Marina , nella marina mercantile, chi è abilitato a condurre apparati a motore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Studioso di meccanica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lavoratore manuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Plebeo, persona rozza e volgare; anche ( Machiavelli)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "delle persone mecaniche non gliene capita a casa nessuna"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "operaio specializzato nella riparazione e manutenzione di macchine",
+      "examples": [
+        "Il meccanico ha riparato la mia macchina.",
+        "Ho portato la bicicletta dal meccanico per farla aggiustare."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "relativo a macchine o a procedimenti automatici",
+      "examples": [
+        "Il processo meccanico di assemblaggio è molto efficiente.",
+        "La calcolatrice meccanica è un reperto storico."
+      ],
+      "nota": null
+    }
+  ]
+}

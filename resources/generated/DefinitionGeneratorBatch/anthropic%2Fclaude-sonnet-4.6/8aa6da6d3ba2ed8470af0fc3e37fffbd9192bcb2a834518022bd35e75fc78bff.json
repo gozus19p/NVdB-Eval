@@ -1,0 +1,604 @@
+{
+  "lemma": "vuoto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0769ad0a50d064bb7c"
+    },
+    "source": "paraviaXML/128825.xml",
+    "lemma": "vuoto",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Privo del proprio contenuto, che non contiene nulla: riempita solo per metà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bicchiere vuoto",
+              "cassetto vuoto",
+              "magazzino vuoto",
+              "una bottiglia mezza vuota"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non avere mangiato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere la pancia vuota",
+              "lo stomaco vuoto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Privo di gente, spopolato: con uso , con pochi spettatori o avventori; in cui gli attori non ci sono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la città d’estate è vuota",
+              "teatro",
+              "cinema",
+              "locale vuoto",
+              "mezzo vuoto",
+              "scena vuota"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di posto a sedere e simile , non occupato, libero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accomodatevi, ci sono ancora sedie vuote"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di casa, alloggio e simile , non abitato, sfitto o, anche, non ammobiliato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specificazione, privo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "parole vuote di significato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Privo di senso, di scopo, di contenuti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un discorso vuoto",
+              "stile vuoto e ridondante"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Privo di attività, di avvenimenti significativi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giornata vuota"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che manca di interessi ed è dotato di scarsa capacità intellettuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una ragazza sciocca e vuota"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "araldica",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Araldica , di figura, rappresentata soltanto con la linea di contorno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , spazio privo di qualsiasi elemento solido o liquido: non guardare nulla in particolare; soffrire di vertigini",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "precipitare nel vuoto",
+              "avere lo sguardo perso nel vuoto",
+              "avere paura del vuoto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6b",
+        "usage": "TS",
+        "field": "singolare",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , solo singolare , spazio privo di materia e radiazioni o contenente solo gas molto rarefatti; condizione di rarefazione del contenuto gassoso di un recipiente",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6c",
+        "usage": "TS",
+        "field": "singolare",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , solo singolare , nella filosofia atomistica, lo spazio privo di materia postulato per spiegare il movimento degli atomi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’assenza di materia postulata, in età moderna, dai vacuisti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Spazio libero da oggetti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ho riempito il vuoto della parete con un quadro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Spazio o posto non occupato da persone",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ci sono molti vuoti tra il pubblico",
+              "tra le file dei soldati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cavità, intercapedine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un vuoto del muro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lacuna, carenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’è un vuoto nella sua preparazione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcosa",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mancanza di qualcosa o di qualcuno che provoca solitudine o sofferenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "provare una terribile sensazione di vuoto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento alla partenza o, più comunemente, alla morte di una persona cara",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lasciare un grande vuoto",
+              "un vuoto incolmabile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Recipiente, specialmente bottiglia e simile , privato del suo contenuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "restituire i vuoti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In calligrafia e paleografia, parte della lettera non segnata con inchiostro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1–5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "7–11",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che non contiene nulla al proprio interno; privo di contenuto materiale.",
+      "examples": [
+        "Il frigorifero è completamente vuoto, dobbiamo fare la spesa.",
+        "Ha lasciato il bicchiere vuoto sul tavolo senza dire nulla."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Privo di persone; non occupato, non frequentato.",
+      "examples": [
+        "La sala era vuota: non era venuto nessuno alla conferenza.",
+        "A quell'ora le strade del centro sono quasi vuote."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Privo di significato, di contenuto intellettuale o emotivo; superficiale.",
+      "examples": [
+        "Ha fatto un discorso lungo ma completamente vuoto, senza idee concrete.",
+        "Mi sento una persona vuota quando non ho nulla che mi appassiona."
+      ],
+      "nota": "Uso figurato, applicato a persone, discorsi, espressioni, gesti."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Spazio che non contiene materia o che è privo di aria; assenza di contenuto fisico.",
+      "examples": [
+        "Il vuoto assoluto non esiste in natura, ma si può approssimare in laboratorio.",
+        "La confezione è sigillata sottovuoto per conservare meglio il prodotto."
+      ],
+      "nota": "In fisica indica l'assenza totale o parziale di materia in uno spazio."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Sensazione interiore di mancanza, di assenza di senso o di affetti.",
+      "examples": [
+        "Dopo la morte del padre ha sentito un vuoto incolmabile dentro di sé.",
+        "Quella relazione finita ha lasciato un grande vuoto nella sua vita."
+      ],
+      "nota": "Uso figurato di carattere psicologico ed emotivo."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Spazio aperto verso il basso, precipizio o apertura che incute timore di cadere.",
+      "examples": [
+        "Affacciandosi dal cornicione, sentì le vertigini di fronte al vuoto.",
+        "Gli alpinisti avanzavano con cautela sul bordo del vuoto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Assenza o lacuna in un insieme organizzato, come una legge, un sistema o un organico.",
+      "examples": [
+        "Quella norma ha lasciato un vuoto legislativo che occorre colmare urgentemente.",
+        "La sua partenza ha creato un vuoto difficile da colmare nell'azienda."
+      ],
+      "nota": "Frequente nelle collocazioni 'vuoto normativo', 'vuoto legislativo', 'vuoto di potere'."
+    },
+    {
+      "pos": "avverbio",
+      "definition": "Senza carico, senza trasportare nulla (riferito a veicoli o contenitori).",
+      "examples": [
+        "Il camion tornava a vuoto dopo aver consegnato la merce.",
+        "Non conviene far girare i furgoni a vuoto: bisogna ottimizzare i percorsi."
+      ],
+      "nota": "Usato prevalentemente nella locuzione avverbiale 'a vuoto'."
+    },
+    {
+      "pos": "avverbio",
+      "definition": "Senza risultato, inutilmente; detto di un tentativo o di un'azione che non produce effetto.",
+      "examples": [
+        "Ha cercato di convincerlo, ma ha parlato a vuoto.",
+        "Il motore girava a vuoto senza riuscire ad avviare il macchinario."
+      ],
+      "nota": "Usato nella locuzione avverbiale 'a vuoto'; si distingue dall'accezione fisica per il senso metaforico di inefficacia."
+    }
+  ]
+}

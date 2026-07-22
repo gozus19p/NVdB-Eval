@@ -1,0 +1,583 @@
+{
+  "lemma": "mano",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef569ad0a50d0659b12"
+    },
+    "source": "paraviaXML/66718.xml",
+    "lemma": "mano",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Estremità dell’arto superiore formata dal palmo, dal dorso e dalle cinque dita, con funzioni prensili e tattili",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mani lunghe",
+              "sottili",
+              "affusolate",
+              "magre",
+              "tozze",
+              "ruvide",
+              "callose",
+              "aprire",
+              "chiudere le mani"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "anatomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anatomia , tratto terminale dell’arto superiore, comprendente tutte le strutture a valle dell’articolazione del radio e del carpo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Stile, impronta caratteristica di qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "in quest’opera si riconosce la mano dell’artista",
+              "si nota la mano dell’architetto nella tua casa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Calligrafia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "hai proprio una bella m.!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ognuno dei lati corrispondenti alle due mani",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a mano destra",
+              "dritta",
+              "sinistra"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ognuna delle due direzioni in cui si svolge il traffico dei veicoli in una strada",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tenere la mano destra",
+              "sinistra"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In una partita a carte, ogni singola fase in cui tutte le carte del mazzo vengono distribuite e giocate; giro, giocata",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In un gioco qualsiasi, ogni singola fase di una partita",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "gergale",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rapporto sessuale, specialmente occasionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona, specialmente donna, attraente e desiderabile che suscita il desiderio sessuale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Strato di colore, di vernice e simile che viene steso su una superficie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare una mano di bianco alla parete"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Quantità di cose che può essere contenuta in una mano",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ordine, serie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quattro mani di reticolati",
+              "di trincee"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Manicure",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "farsi fare le mani"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Squadra di operai",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tessile , insieme delle caratteristiche di un filato, di un tessuto e simile che si rivela al tatto e che ne stabilisce un determinato impiego",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Araldica , in uno scudo, stemma e simile , la raffigurazione di una mano",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "TS",
+        "field": "filologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Paleografia filologia , la scrittura di ogni singolo scrivente e le sue caratteristiche peculiari",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto romano , potestà, specialmente con riferimento a quella del pater familias",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Manipolo, drappello: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "né molto poi con picciola mano d’armati venuto a Scipione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Schiera, gruppo: Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbiamo laggiù una mano di scapestrati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , che è pronto da usare o da esibire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prove",
+              "contanti",
+              "documenti alla mano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , semplice, cordiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è una donna molto alla mano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nell’equitazione, di un cavallo, che è ben addestrato, che risponde bene ai comandi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "parte del corpo umano che comprende il palmo, il dorso e le dita",
+      "examples": [
+        "Si lava le mani prima di mangiare.",
+        "La mano destra è quella più usata per scrivere."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "persona che aiuta o assiste in un lavoro o compito",
+      "examples": [
+        "Ho assunto una mano per aiutarmi con la casa.",
+        "Il cuoco ha una mano che lo aiuta a preparare i piatti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "influsso o potere esercitato su qualcosa o qualcuno",
+      "examples": [
+        "La mano del destino lo ha portato a incontrare l'amore della sua vita.",
+        "La sua mano è pesante sulla squadra di calcio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "aspetto o lato di una questione",
+      "examples": [
+        "La mano destra della politica è quella più estrema.",
+        "La mano sinistra dell'azienda si occupa della beneficenza."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "lemma": "gesto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaed169ad0a50d0657d57"
+    },
+    "source": "paraviaXML/48231.xml",
+    "lemma": "gesto",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Movimento, specialmente del capo, della mano o del braccio, che accompagna la parola o con cui si esprime un pensiero, un desiderio e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un gesto di rifiuto",
+              "di rabbia",
+              "un gesto eloquente",
+              "comunicare",
+              "esprimersi a gesti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Atteggiamento, posa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gesto teatrale",
+              "melodrammatico"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Azione, atto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gesto disperato",
+              "gesto disinteressato"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Azione ammirevole, generosa e simile , compiuta specialmente per ostentazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un bel gesto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , impresa valorosa, eroica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’alto valore e’ chiari gesti suoi | vi farò udir"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "( Ariosto)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Movimento del corpo, in particolare di mani, braccia o volto, compiuto per comunicare un'emozione, un'intenzione o un significato, spesso in accompagnamento o in sostituzione della parola.",
+      "examples": [
+        "Alzò la mano in un gesto di saluto verso i colleghi.",
+        "Con un gesto della testa indicò la direzione da prendere.",
+        "Il bambino esprimeva la sua gioia con gesti vivaci e disinvolti."
+      ],
+      "nota": "Può essere volontario e codificato culturalmente (come il pollice su/giù) oppure spontaneo ed emotivo."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Azione concreta, spesso di breve durata, considerata nella sua valenza simbolica o morale, come manifestazione di un sentimento, di una volontà o di un valore.",
+      "examples": [
+        "Pagare il conto a sorpresa è stato un gesto di grande generosità.",
+        "Con quel gesto coraggioso si guadagnò il rispetto di tutti.",
+        "Bastava un piccolo gesto di affetto per farla sentire meglio."
+      ],
+      "nota": "In questo senso 'gesto' si avvicina a 'atto' o 'azione', ma conserva una connotazione valutativa o simbolica che l'azione non sempre ha."
+    }
+  ]
+}

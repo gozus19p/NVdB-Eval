@@ -1,0 +1,136 @@
+{
+  "lemma": "pubblicità",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2a69ad0a50d065c625"
+    },
+    "source": "paraviaXML/88688.xml",
+    "lemma": "pubblicità",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere pubblico, l’essere accessibile al pubblico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicità di un dibattito",
+              "pubblicità delle udienze preliminari"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Divulgazione, diffusione tra il pubblico di dati, informazioni, fatti o simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una notizia che non ha ricevuto alcuna pubblicità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Propaganda svolta da un’azienda per richiamare l’attenzione del pubblico sul proprio prodotto e incrementarne le vendite",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicità affissionale",
+              "giornalistica",
+              "radiofonica",
+              "televisiva",
+              "agenzia di pubblicità",
+              "la pubblicità incide sul bilancio dell’azienda"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Qualsiasi forma di annuncio, specialmente riportato dai mass media, cui sia affidato tale compito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una pubblicità girata in esterni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività volta a promuovere la conoscenza e la vendita di un prodotto, servizio o idea attraverso mezzi di comunicazione di massa.",
+      "examples": [
+        "La campagna di pubblicità per il nuovo smartphone è stata molto efficace.",
+        "Le aziende spendono milioni in pubblicità ogni anno per aumentare le vendite."
+      ],
+      "nota": "Può riferirsi sia all'attività in generale sia a una singola campagna o messaggio promozionale."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Messaggio promozionale diffuso attraverso mezzi di comunicazione come televisione, radio, stampa o internet.",
+      "examples": [
+        "Ho visto una pubblicità divertente in televisione ieri sera.",
+        "Questa rivista è piena di pubblicità di cosmetici."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Condizione di ciò che è reso noto o visibile al pubblico.",
+      "examples": [
+        "La pubblicità degli atti amministrativi è fondamentale per la trasparenza.",
+        "La pubblicità di un evento ne garantisce una maggiore partecipazione."
+      ],
+      "nota": "In questo senso, il termine è spesso usato in contesti giuridici o amministrativi."
+    }
+  ]
+}

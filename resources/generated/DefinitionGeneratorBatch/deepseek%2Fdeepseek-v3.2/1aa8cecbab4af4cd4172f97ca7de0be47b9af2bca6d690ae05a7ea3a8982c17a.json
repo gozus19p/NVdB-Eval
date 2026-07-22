@@ -1,0 +1,821 @@
+{
+  "lemma": "tagliare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe669ad0a50d0665e6d"
+    },
+    "source": "paraviaXML/117992.xml",
+    "lemma": "tagliare",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dividere un oggetto o un corpo in più parti o pezzi per mezzo di una lama o di un altro strumento affilato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare la carne",
+              "il formaggio a pezzetti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Affettarlo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare il pane",
+              "il salame"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") essere affilato, tagliente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo coltello non taglia",
+              "forbici che tagliano bene"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Produrre un taglio, un’incisione e simile su di una superficie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare l’involucro per farne uscire il contenuto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ferire, fare un taglio con uno strumento affilato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "con le forbici gli ha inavvertitamente tagliato il braccio"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Inciderlo chirurgicamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare un ascesso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Recidere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare i rami degli alberi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Abbatterlo; falciarlo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare un bosco",
+              "tagliare il fieno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Amputare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "purtroppo i medici sono stati costretti a tagliargli il dito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3d",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accorciare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare le unghie",
+              "i capelli"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fendere, solcare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la prora della nave taglia le onde"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Separare una parte dall’intero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliatevi una fetta di torta a testa",
+              "taglia un pezzo di nastro adesivo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "sartoria"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sartoria , confezionare un indumento, ritagliando una pezza di stoffa seguendo un determinato modello",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare una camicia",
+              "una gonna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Interrompere, impedire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare le comunicazioni"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sospendere l’erogazione del servizio per mancato pagamento da parte dell’utente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare la luce",
+              "il telefono"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impedire a qualcuno di raggiungere il fine voluto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare la ritirata ai nemici"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Attraversare, intersecare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la ferrovia taglia il paese a metà",
+              "la retta taglia la circonferenza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prendere la via più corta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "se si taglia per i campi si arriva prima"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8c",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Percorrere una curva tenendosi molto vicino al limite interno invece di seguirne l’arco esterno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Abbreviare, ridurre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cerca di tagliare il tuo intervento, è troppo lungo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Eliminare, sopprimere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bisogna tagliare alcuni settori improduttivi",
+              "la censura ha tagliato alcune scene del film"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Diminuire, limitare, specialmente con riferimento a provvedimenti finanziari o amministrativi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare le spese",
+              "gli sprechi",
+              "gli stipendi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "oreficeria"
+            ],
+            "definitions": [
+              {
+                "glossa": "Oreficeria , sfaccettare una pietra preziosa eseguendo un determinato taglio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare un diamante a rosetta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11a",
+        "usage": "TS",
+        "field": "enologia",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Enologia , mescolare un vino leggero con un altro di gradazione superiore per migliorarne la qualità e renderlo più gradevole",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trattare una sostanza mescolandola ad altre di più basso costo o di qualità più scadente per guadagnare di più",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tagliare l’eroina con il bicarbonato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nel calcio, imprimere alla palla una traiettoria curva colpendola con l’esterno del piede",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel tennis, colpire la palla dall’alto verso il basso tenendo la racchetta inclinata",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13a",
+        "usage": "TS",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi ; alzare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "13b",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [
+          "verbo transitivo",
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giochi, nel bridge, nella briscola, eccetera , rispondere a una giocata avversaria con una carta di atout",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "usage": "TS",
+        "field": "informatica",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Informatica , in un programma di elaborazione dati, asportare da un documento un blocco di dati copiandolo in un’apposita area di memoria",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ferire con un’arma da taglio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Taglieggiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "numismatica"
+            ],
+            "definitions": [
+              {
+                "glossa": "Numismatica , tosare una moneta",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ritirare una moneta dalla circolazione distruggendo gli esemplari che presentano difetti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Separare in due o più parti utilizzando un utensile affilato, applicando forza.",
+      "examples": [
+        "Il panettiere tagliò il pane fresco con un coltello a serramanico.",
+        "Per il progetto ho dovuto tagliare una lastra di compensato."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Ridurre la lunghezza di qualcosa, tipicamente capelli, unghie, erba o tessuto.",
+      "examples": [
+        "Devo andare dal parrucchiere a farmi tagliare i capelli.",
+        "Tagliò l'erba del prato domenica mattina."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Interrompere il flusso o la fornitura di qualcosa.",
+      "examples": [
+        "Per un guasto hanno tagliato l'acqua in tutto il quartiere.",
+        "L'azienda ha deciso di tagliare i fondi per quel progetto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rimuovere una parte da un testo, un film o un discorso.",
+      "examples": [
+        "Il regista ha tagliato diverse scene nella versione finale del film.",
+        "Il redattore mi ha consigliato di tagliare due paragrafi dell'articolo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Diminuire in modo significativo una quantità, un prezzo o un valore.",
+      "examples": [
+        "Il negozio taglia i prezzi di tutti i capi invernali.",
+        "Il governo promette di tagliare le tasse per le famiglie."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "In ambito sportivo, cambiare bruscamente direzione durante una corsa per superare un avversario.",
+      "examples": [
+        "L'ala destra tagliò verso l'interno e calciò in porta.",
+        "Per evitare il placcaggio, il giocatore tagliò sul lato sinistro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo/riflessivo (tagliarsi)",
+      "definition": "Prodursi accidentalmente una ferita con un oggetto affilato.",
+      "examples": [
+        "Mi sono tagliato il dito mentre affettavo le verdure.",
+        "Attenzione al vetro rotto, potresti tagliarti."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "lemma": "mondiale",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064b0b2"
+    },
+    "source": "paraviaXML/71168.xml",
+    "lemma": "mondiale",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo al mondo; che riguarda, interessa tutto il mondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commercio mondiale",
+              "esposizione mondiale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conosciuto in tutto il mondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un attore di fama mondiale",
+              "un evento di importanza mondiale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "iperbolico"
+            ],
+            "definitions": [
+              {
+                "glossa": "Eccezionale, meraviglioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere un’idea mondiale",
+              "sei un ballerino mondiale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [
+          "sostantivo maschile",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, specialmente al ; campionato mondiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che riguarda l'intero pianeta Terra e la sua popolazione.",
+      "examples": [
+        "Il cambiamento climatico è una preoccupazione mondiale.",
+        "Il turismo mondiale è stato fortemente ridotto dalla pandemia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che è il più importante o rappresentativo in un determinato ambito su scala planetaria.",
+      "examples": [
+        "È una competizione mondiale a cui partecipano i migliori atleti.",
+        "Il prodotto ha conquistato il mercato mondiale grazie alla sua innovazione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Competizione sportiva che assegna il titolo di campione del mondo.",
+      "examples": [
+        "L'Italia ha vinto i mondiali di calcio nel 2006.",
+        "Quest'anno i mondiali di nuoto si svolgeranno in Giappone."
+      ],
+      "nota": "Per antonomasia, il termine si riferisce spesso ai campionati del mondo di calcio."
+    }
+  ]
+}

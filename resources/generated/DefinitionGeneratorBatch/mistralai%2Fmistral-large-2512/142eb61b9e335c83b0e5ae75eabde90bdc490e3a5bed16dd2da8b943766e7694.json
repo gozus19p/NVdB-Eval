@@ -1,0 +1,195 @@
+{
+  "lemma": "relazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3169ad0a50d065cc46"
+    },
+    "source": "paraviaXML/92479.xml",
+    "lemma": "relazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Connessione, rapporto fra due concetti correlati",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "relazione di somiglianza"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nesso intercorrente fra due o più concetti o fatti, l’uno dei quali richiama immediatamente l’altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "relazione di causa ed effetto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vincolo, rapporto fra due o più persone, gruppi, nazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "relazione d’amicizia",
+              "abbiamo buone relazioni con i vicini",
+              "fra Italia e Francia intercorrono relazioni amichevoli"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Legame amoroso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere una relazione con qcn."
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Funziona da coppiogeno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "relazione uomo donna",
+              "relazione padre figlio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Esposizione orale o scritta intorno a un tema",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "al convegno è stata letta una relazione sull’economia francese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , legame fra due o più grandezze; anche, la formula che esprime tale rapporto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "relazione binaria",
+              "relazione di proporzionalità"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Legame o connessione tra due o più elementi, persone o entità.",
+      "examples": [
+        "Esiste una stretta relazione tra alimentazione e salute.",
+        "La relazione tra i due paesi si è rafforzata negli ultimi anni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Resoconto orale o scritto che descrive fatti, situazioni o risultati di un'attività.",
+      "examples": [
+        "Il direttore ha presentato una relazione dettagliata sull'andamento dell'azienda.",
+        "Dopo l'esperimento, gli studenti hanno scritto una relazione scientifica."
+      ],
+      "nota": "Spesso usato in contesti formali o professionali, come riunioni, convegni o attività di ricerca."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Rapporto sentimentale o amoroso tra due persone.",
+      "examples": [
+        "Dopo cinque anni, la loro relazione è finita.",
+        "Ha iniziato una nuova relazione con un collega."
+      ],
+      "nota": "Può implicare un legame stabile e duraturo, ma non necessariamente formalizzato (es. matrimonio)."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Collegamento logico o dipendenza tra concetti, idee o variabili.",
+      "examples": [
+        "In matematica, la relazione tra due variabili può essere rappresentata graficamente.",
+        "Non c'è alcuna relazione tra questi due eventi."
+      ],
+      "nota": "Usato soprattutto in ambiti scientifici, filosofici o tecnici."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Rapporto di parentela o affinità tra persone.",
+      "examples": [
+        "Non sapevo che ci fosse una relazione di parentela tra loro.",
+        "La relazione tra madre e figlio è molto intensa."
+      ],
+      "nota": null
+    }
+  ]
+}

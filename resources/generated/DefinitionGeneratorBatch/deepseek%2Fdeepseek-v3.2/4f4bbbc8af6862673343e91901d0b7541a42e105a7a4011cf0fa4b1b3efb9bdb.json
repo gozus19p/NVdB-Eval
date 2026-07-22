@@ -1,0 +1,186 @@
+{
+  "lemma": "nonno",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0869ad0a50d065aafa"
+    },
+    "source": "paraviaXML/74482.xml",
+    "lemma": "nonno",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Padre di uno dei genitori, considerato rispetto ai loro figli",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Lucia ha ancora un n., Marta li ha tutti e due"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Padre della madre; padre del padre; può precedere il nome proprio: al , il nonno e la nonna",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nonno materno",
+              "nonno paterno",
+              "nonno Carlo",
+              "i nonni"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esclamazione di incredulità verso affermazioni esagerate e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mio nonno",
+              "mio nonno in carriola"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "familiare",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Uomo anziano, specialmente come vocativo affettuoso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , antenato, predecessore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i nostri nonni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che costituisce un antecedente, un archetipo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "settentrionale",
+              "gergale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale settentrionale , soldato di leva vicino al congedo che ha un atteggiamento prepotente verso le nuove reclute",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Genitore del padre o della madre di una persona.",
+      "examples": [
+        "Il mio nonno materno racconta sempre storie della guerra.",
+        "I nonni vanno spesso a prendere i nipoti a scuola."
+      ],
+      "nota": "Il termine femminile corrispondente è 'nonna'. La forma plurale è 'nonni', utilizzata anche per riferirsi collettivamente alla coppia."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Uomo molto anziano, spesso usato in modo affettuoso o rispettoso.",
+      "examples": [
+        "Quel nonno al parco gioca ancora a bocce con gli amici.",
+        "Buongiorno, nonno, ha bisogno di aiuto per attraversare la strada?"
+      ],
+      "nota": "Uso figurato ed estensivo che enfatizza l'età avanzata e, talvolta, una posizione di saggezza o esperienza."
+    }
+  ]
+}

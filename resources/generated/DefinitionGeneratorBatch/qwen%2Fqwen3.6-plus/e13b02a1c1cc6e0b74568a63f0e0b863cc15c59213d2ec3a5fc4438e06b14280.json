@@ -1,0 +1,81 @@
+{
+  "lemma": "edicola",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb869ad0a50d06568cc"
+    },
+    "source": "paraviaXML/37528.xml",
+    "lemma": "edicola",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "simile",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Architettura , piccola costruzione contenente un’immagine sacra, una statua e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’edicola con molti ex voto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chiosco, specialmente per la vendita dei giornali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Piccolo chiosco o struttura fissa di modeste dimensioni, situata generalmente su suolo pubblico, adibita principalmente alla vendita e alla distribuzione di quotidiani, periodici e riviste.",
+      "examples": [
+        "Ogni mattina passo dall'edicola sotto casa per acquistare il quotidiano prima di andare in ufficio.",
+        "A causa dei lavori in corso, il gestore ha dovuto spostare temporaneamente l'edicola in un gazebo provvisorio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Piccola struttura architettonica o vano incassato in una parete esterna, concepito per ospitare e proteggere un'immagine sacra, un affresco o una statua religiosa, spesso collocato all'incrocio di strade o lungo percorsi pedonali.",
+      "examples": [
+        "Durante la passeggiata nel centro storico, abbiamo notato un'edicola votiva del Settecento con la Madonna affrescata, recentemente restaurata.",
+        "I residenti del quartiere si fermano spesso a pregare davanti all'edicola sacra, illuminandola con una candela ogni sera."
+      ],
+      "nota": "Nell'uso corrente è frequentemente accompagnata dagli aggettivi 'sacra' o 'votiva' per distinguerla dall'esercizio commerciale."
+    }
+  ]
+}

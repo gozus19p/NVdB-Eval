@@ -1,0 +1,131 @@
+{
+  "lemma": "gioia",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaed269ad0a50d0657e73"
+    },
+    "source": "paraviaXML/48735.xml",
+    "lemma": "gioia",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stato d’animo di pieno godimento, di allegria, di contentezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "provare",
+              "dimostrare gioia",
+              "lacrime di gioia",
+              "che g., sei tornato!",
+              "saltare di gioia",
+              "essere pazzo di gioia"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere felicissimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non toccare terra dalla gioia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cosa o persona che è motivo di felicità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere la gioia della famiglia",
+              "il lavoro è la sua gioia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Soddisfazione, piacere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono poche le gioie della vita"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sentimento di viva e profonda letizia, che si manifesta attraverso espressioni di allegria e soddisfazione per un evento positivo, un desiderio realizzato o una situazione piacevole.",
+      "examples": [
+        "Ho provato una gioia immensa quando ho saputo di essere stato ammesso all'università.",
+        "La nascita di suo nipote ha riempito la sua vita di pura gioia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Causa o fonte di beatitudine e serenità profonda.",
+      "examples": [
+        "I suoi figli sono la sua più grande gioia.",
+        "Ascoltare musica classica è per me una vera gioia."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Oggetto prezioso o di grande valore affettivo, spesso di piccole dimensioni.",
+      "examples": [
+        "Ha mostrato agli amici la nuova gioia che le era stata regalata.",
+        "Il ciondolo al suo collo era una vecchia gioia di famiglia."
+      ],
+      "nota": "Questo senso è meno comune e può riferirsi a gioielli o monili."
+    }
+  ]
+}

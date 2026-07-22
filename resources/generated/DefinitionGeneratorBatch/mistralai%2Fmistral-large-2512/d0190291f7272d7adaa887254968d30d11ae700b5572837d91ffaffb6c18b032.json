@@ -1,0 +1,61 @@
+{
+  "lemma": "agosto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6d69ad0a50d06529d8"
+    },
+    "source": "paraviaXML/3390.xml",
+    "lemma": "agosto",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "agosto-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ottavo mese dell’anno, di trentuno giorni nel calendario gregoriano e giuliano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partire in, ad agosto",
+              "è stato un agosto piovoso",
+              "accadde nell’agosto del 1960"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Ottavo mese dell'anno nel calendario gregoriano, composto da 31 giorni.",
+      "examples": [
+        "In agosto fa molto caldo e molte persone vanno in vacanza al mare.",
+        "Quest'anno il Ferragosto cade di martedì."
+      ],
+      "nota": "Spesso associato al periodo delle ferie estive e a festività come il Ferragosto (15 agosto)."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Periodo di tempo caratterizzato da caldo intenso e, in molte località, da una riduzione delle attività lavorative.",
+      "examples": [
+        "Durante l'agosto romano, la città è meno trafficata del solito.",
+        "Non riesco a concentrarmi con questo agosto afoso."
+      ],
+      "nota": "Usato anche in senso figurato per indicare un periodo di calura o di rallentamento generale."
+    }
+  ]
+}

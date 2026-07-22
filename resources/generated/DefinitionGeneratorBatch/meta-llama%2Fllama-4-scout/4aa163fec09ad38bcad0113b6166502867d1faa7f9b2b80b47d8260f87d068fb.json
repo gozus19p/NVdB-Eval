@@ -1,0 +1,200 @@
+{
+  "lemma": "mentire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc369ad0a50d0664199"
+    },
+    "source": "paraviaXML/68630.xml",
+    "lemma": "mentire",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Affermare il falso o negare il vero con deliberato proposito, alterare consapevolmente o tacere indebitamente la verità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mentire sfacciatamente",
+              "spudoratamente",
+              "mi accorsi subito che stava mentendo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Illudersi, voler credere vero ciò che si sa essere falso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mentire a se stessi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , trarre in inganno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "se il suo aspetto non mente direi che è ormai guarito"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per alludere al manifestarsi in una persona di inclinazioni che si ritengono ereditarie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "buon sangue non mente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mancare alla parola data, deludere",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Simulare, fingere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mentire il riso",
+              "il pianto"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alterare, falsare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mentire la realtà dei fatti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Smentire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mentire le promesse"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "dire il falso",
+      "examples": [
+        "Ha mentito durante la testimonianza.",
+        "Non mentire a tua madre."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "ingannare con false apparenze",
+      "examples": [
+        "Il suo sorriso non mentiva la sua tristezza.",
+        "Non mentire con lo sguardo."
+      ],
+      "nota": "Uso figurato"
+    }
+  ]
+}

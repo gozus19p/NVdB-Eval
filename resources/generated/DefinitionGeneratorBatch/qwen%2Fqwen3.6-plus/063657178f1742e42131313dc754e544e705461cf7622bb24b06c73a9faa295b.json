@@ -1,0 +1,250 @@
+{
+  "lemma": "dietro",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6469ad0a50d0652235"
+    },
+    "source": "paraviaXML/32797.xml",
+    "lemma": "dietro",
+    "grammar": [
+      "prep.",
+      "avv.",
+      "agg.inv.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio",
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nella parte posteriore: con un altro di luogo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non guardare dietro",
+              "voglio stare dietro",
+              "nasconditi qua dietro",
+              "l’ho trovato lì dietro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di là da qualcosa , nella parte posteriore, retrostante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tieni le mani dietro la schiena",
+              "l’orto è dietro la casa",
+              "nascondersi dietro la porta",
+              "dietro me"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dopo, appresso ( con valore spaziale o temporale)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "camminare",
+              "entrare uno dietro l’altro",
+              "i guai mi capitano uno dietro l’altro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Alle spalle di, all’insaputa di",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "io le cose non te le dico dietro",
+              "parlare male dietro qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "preposizione"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In base a, secondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’ho fatto dietro sua esplicita richiesta",
+              "ho agito dietro suo consiglio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcuno",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Su istanza di qualcuno , per intercessione di qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dietro preghiera",
+              "è stato assunto dietro tua preghiera"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Posteriore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la parte dietro",
+              "il lato dietro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La parte posteriore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "devo ricucire il dietro dei pantaloni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "avverbio",
+      "definition": "Indica una posizione stazionaria o un movimento verso la parte posteriore rispetto al parlante o a un riferimento implicito.",
+      "examples": [
+        "I bambini si sono seduti tutti davanti, mentre gli adulti sono rimasti dietro.",
+        "Non bloccare l'ingresso, spostati sul lato opposto e mettiti dietro."
+      ],
+      "nota": "Si usa spesso in correlazione oppositiva con «avanti» o «davanti»."
+    },
+    {
+      "pos": "preposizione",
+      "definition": "Regge un nome o un pronome specificando la collocazione o la direzione verso la zona posteriore di un determinato elemento.",
+      "examples": [
+        "Il giardino si estende proprio dietro la villetta.",
+        "Camminavano ordinatamente uno dietro l'altro lungo il sentiero."
+      ],
+      "nota": "Grammaticalmente classificata come preposizione impropria; quando regge pronomi personali tonici richiede l'ausilio della preposizione «di» (es. «dietro di te»)."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "La faccia o la zona opposta a quella anteriore di un corpo, un oggetto o un edificio.",
+      "examples": [
+        "Ho controllato il dietro della scatola e ho trovato le istruzioni per il montaggio.",
+        "La facciata del palazzo è stata restaurata, ma il dietro dell'edificio versa ancora in pessimo stato."
+      ],
+      "nota": "Forma invariabile al plurale; l'uso è comune nel parlato e in contesti tecnici o descrittivi."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "lemma": "tassa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6269ad0a50d065f44d"
+    },
+    "source": "paraviaXML/118543.xml",
+    "lemma": "tassa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Compenso obbligatorio corrisposto allo stato o ad altro ente pubblico come controprestazione di un servizio specifico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tasse universitarie",
+              "scolastiche",
+              "automobilistiche"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Imposta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "metà del mio stipendio finisce in tasse",
+              "ci vorrebbero meno tasse!",
+              "pagare le tasse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Quota corrisposta a un’associazione, a un ente privato e simile per ricevere un servizio o per poter partecipare ad attività comuni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Multa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , retribuzione spettante a un pubblico ufficiale",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , quota o elemosina stabilita dal papa in occasione dei giubilei grazie alla quale si ottenevano le indulgenze senza andare a Roma",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Prelievo obbligatorio imposto dallo Stato o da un ente pubblico ai cittadini a fronte di un servizio specifico ricevuto o del diritto di svolgere una determinata attività.",
+      "examples": [
+        "La tassa sui rifiuti è aumentata del dieci percento quest'anno.",
+        "Per iscriversi all'università bisogna pagare le tasse universitarie entro febbraio."
+      ],
+      "nota": "In senso tecnico si distingue dall'imposta, che è un prelievo non correlato a un servizio specifico, e dal tributo, termine generico che comprende entrambi. Nell'uso comune i tre termini sono spesso usati in modo intercambiabile."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Somma di denaro richiesta come diritto di accesso, partecipazione o utilizzo di un servizio, anche in ambito privato.",
+      "examples": [
+        "Per partecipare al concorso è prevista una tassa di iscrizione di cinquanta euro.",
+        "La tassa d'ingresso al museo è ridotta per gli studenti."
+      ],
+      "nota": "In questo uso il termine si avvicina semanticamente a 'tariffa' o 'quota', riferendosi a un corrispettivo non necessariamente di natura pubblica."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In senso figurato, svantaggio, peso o sacrificio che si è costretti a sopportare come conseguenza inevitabile di una scelta, di una condizione o di un successo.",
+      "examples": [
+        "La solitudine è spesso la tassa che si paga per il successo.",
+        "Gli straordinari continui sono la tassa da pagare per lavorare in quel settore."
+      ],
+      "nota": "Uso metaforico, frequente nel registro giornalistico e nel parlato. Costruzione tipica: 'la tassa da pagare per...' oppure 'pagare la tassa di...'."
+    }
+  ]
+}

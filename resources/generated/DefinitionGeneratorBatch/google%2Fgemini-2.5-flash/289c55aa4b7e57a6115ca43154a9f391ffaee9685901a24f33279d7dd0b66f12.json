@@ -1,0 +1,132 @@
+{
+  "lemma": "emergere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb469ad0a50d06634ed"
+    },
+    "source": "paraviaXML/38510.xml",
+    "lemma": "emergere",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Salire alla superficie, specialmente dell’acqua",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il sommergibile emerse lentamente"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rendersi visibile, spiccare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cominciano a emergere dalla nebbia le cime dei monti",
+              "il campanile emerge tra le case"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Farsi progressivamente evidente, conosciuto: essere percepibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "finalmente la verità emerse",
+              "da quelle parole emergeva una profonda tenerezza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , segnalarsi, distinguersi, elevarsi sulla media",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Venire a galla, salire in superficie da un liquido o da uno stato di sommersione.",
+      "examples": [
+        "Il sottomarino è emerso dalle profondità dell'oceano.",
+        "Dopo la tempesta, alcuni detriti sono emersi dal lago."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Manifestarsi in modo evidente, apparire in rilievo dopo essere stato nascosto o latente.",
+      "examples": [
+        "Dai dati analizzati è emerso un problema inaspettato.",
+        "Progressivamente, la verità ha iniziato ad emergere dalle testimonianze raccolte."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Riuscire a distinguersi o a farsi notare in un contesto, superando un'iniziale condizione di anonimato o difficoltà.",
+      "examples": [
+        "Nonostante la concorrenza, il giovane talento è riuscito ad emergere nel settore.",
+        "Dopo molti anni di lavoro, finalmente il suo progetto è emerso e ha ottenuto riconoscimento."
+      ],
+      "nota": "Spesso impiegato con riferimento a persone o idee che si affermano."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "telefonare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe769ad0a50d0665eb5"
+    },
+    "source": "paraviaXML/118997.xml",
+    "lemma": "telefonare",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") mettersi in contatto, parlare per mezzo del telefono",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "telefonare a qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Comunicare telefonicamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi telefonò la notizia"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Comunicare con qualcuno a distanza utilizzando un apparecchio telefonico.",
+      "examples": [
+        "Ti devo telefonare per confermare l'orario dell'appuntamento.",
+        "La settimana scorsa le ho telefonato, ma era sempre impegnata."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Consegnare un messaggio o comunicare una notizia a qualcuno mediante una chiamata telefonica.",
+      "examples": [
+        "Mi ha telefonato la notizia della nascita del nipote.",
+        "Ti telefonerò i risultati dell'esame non appena saranno disponibili."
+      ],
+      "nota": "L'oggetto diretto è tipicamente un contenuto informativo (notizia, risultato), non la persona interlocutrice."
+    }
+  ]
+}

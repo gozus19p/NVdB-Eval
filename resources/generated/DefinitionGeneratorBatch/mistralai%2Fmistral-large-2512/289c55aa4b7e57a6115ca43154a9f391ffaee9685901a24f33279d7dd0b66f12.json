@@ -1,0 +1,141 @@
+{
+  "lemma": "emergere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb469ad0a50d06634ed"
+    },
+    "source": "paraviaXML/38510.xml",
+    "lemma": "emergere",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Salire alla superficie, specialmente dell’acqua",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il sommergibile emerse lentamente"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rendersi visibile, spiccare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cominciano a emergere dalla nebbia le cime dei monti",
+              "il campanile emerge tra le case"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Farsi progressivamente evidente, conosciuto: essere percepibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "finalmente la verità emerse",
+              "da quelle parole emergeva una profonda tenerezza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , segnalarsi, distinguersi, elevarsi sulla media",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "venire alla superficie o diventare visibile dopo essere stato nascosto o sommerso",
+      "examples": [
+        "Dopo la tempesta, alcuni relitti sono emersi dalle acque.",
+        "Dalla nebbia è emerso all'improvviso un cervo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "diventare evidente o noto dopo un'indagine o un'analisi",
+      "examples": [
+        "Dall'inchiesta sono emersi nuovi dettagli sul caso.",
+        "Dopo lunghe ricerche, è emerso che il documento era falso."
+      ],
+      "nota": "Spesso usato in contesti investigativi o di scoperta di informazioni."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "distinguersi positivamente per qualità o abilità rispetto ad altri",
+      "examples": [
+        "Tra tutti i candidati, è emerso per la sua preparazione.",
+        "Nel gruppo di lavoro, lei è emersa come leader naturale."
+      ],
+      "nota": "Implica un giudizio positivo e una superiorità rispetto a un contesto di riferimento."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare essere)",
+      "definition": "manifestarsi o apparire in modo improvviso o inaspettato",
+      "examples": [
+        "Durante la riunione, è emerso un problema che nessuno aveva previsto.",
+        "Dopo anni di silenzio, è emersa una nuova testimonianza."
+      ],
+      "nota": "Può riferirsi a situazioni, problemi o elementi che si rivelano in modo inatteso."
+    }
+  ]
+}

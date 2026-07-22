@@ -1,0 +1,219 @@
+{
+  "lemma": "attività",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7a69ad0a50d0653457"
+    },
+    "source": "paraviaXML/10107.xml",
+    "lemma": "attività",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere attivo, impegnato in un lavoro, in un’opera; indole o comportamento attivo, dinamico di una persona",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Agire, darsi da fare, lavorare; specialmente di complesso industriale, essere in funzione, produrre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere in attività",
+              "lo stabilimento è in piena attività"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’insieme delle azioni coordinate e dei lavori compiuti dagli esseri umani, in generale o in rapporto a una finalità particolare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "attività intellettuale, manuale",
+              "attività lavorativa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lavoro, occupazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha un’attività redditizia",
+              "svolge un’attività in ambito finanziario"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "ragioneria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia ragioneria , bene o credito di un soggetto economico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle voci che, nel loro insieme, costituiscono l’attivo di un bilancio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "geologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geologia , fase di eruzione di un vulcano",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , proprietà di un elemento di emettere radiazioni; l’emissione di radiazioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6b",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , la concentrazione effettiva con cui un elettrolito presente in una soluzione prende parte agli equilibri che vi si stabiliscono",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Stato di operatività e dinamismo che caratterizza l'agire di una persona o di un organismo, in opposizione alla quiete o alla sospensione del movimento.",
+      "examples": [
+        "Dopo la pausa estiva, l'attività mentale richiede qualche giorno per riprendere il ritmo.",
+        "I medici sottolineano come il movimento regolare migliori significativamente la qualità del sonno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Insieme coordinato di compiti, operazioni o eventi organizzati per raggiungere un fine comune in ambito istituzionale, formativo o ricreativo.",
+      "examples": [
+        "Le lezioni frontali sono state temporaneamente sostituite da laboratori pratici fino a fine mese.",
+        "Il centro culturale propone ogni stagione seminari e incontri rivolti ai residenti del quartiere."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (f.)",
+      "definition": "Esercizio autonomo di un mestiere, di una professione o di un commercio, con riferimento all'impresa economica o alla sede operativa in cui viene svolta.",
+      "examples": [
+        "Per aprire un punto vendita è necessario presentare la documentazione richiesta dagli enti di controllo.",
+        "La prolungata sospensione dei lavori ha costretto diversi titolari a chiudere definitivamente la propria impresa commerciale."
+      ],
+      "nota": null
+    }
+  ]
+}

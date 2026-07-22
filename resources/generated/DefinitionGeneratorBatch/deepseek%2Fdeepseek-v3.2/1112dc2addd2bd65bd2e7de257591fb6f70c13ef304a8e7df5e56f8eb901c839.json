@@ -1,0 +1,155 @@
+{
+  "lemma": "ricetta",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3469ad0a50d065ce3a"
+    },
+    "source": "paraviaXML/94093.xml",
+    "lemma": "ricetta",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prescrizione scritta con cui il medico indica la medicina che il paziente deve prendere e le modalità di assunzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scrivere",
+              "mostrare la ricetta",
+              "farmaco acquistabile solo con la ricetta medica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il foglietto che riporta tale prescrizione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ritirare la ricetta dal medico",
+              "consegnare la ricetta al farmacista"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Cura, rimedio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "chiedere al medico una ricetta contro la gastrite"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Espediente, rimedio, accorgimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "trovare una ricetta per combattere la tristezza"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AD",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Spiegazione dettagliata di ingredienti, dosi o procedimenti per preparare un piatto, un dolce, una bevanda",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "leggere la ricetta su un libro di cucina",
+              "farsi dare la ricetta da un’amica"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Insieme scritto di istruzioni per la preparazione di un piatto o di una bevanda.",
+      "examples": [
+        "Ho trovato una ricetta del pane che è infallibile.",
+        "Per la torta, dovremo seguire la ricetta passo per passo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Prescrizione medica rilasciata da un dottore per l'acquisto di medicinali.",
+      "examples": [
+        "Il medico mi ha dato una ricetta per gli antibiotici.",
+        "Senza ricetta, questa medicina non è in vendita."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Proposta o piano d'azione considerato efficace per risolvere un problema.",
+      "examples": [
+        "Il suo intervento non offre ricette magiche per la crisi economica.",
+        "Secondo l'esperto, quella è la ricetta giusta per il successo."
+      ],
+      "nota": "Uso figurato."
+    }
+  ]
+}

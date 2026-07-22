@@ -1,0 +1,141 @@
+{
+  "lemma": "prevedere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc969ad0a50d0664644"
+    },
+    "source": "paraviaXML/86832.xml",
+    "lemma": "prevedere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Conoscere o annunciare qualcosa prima che accada, specialmente in base a eventi considerati segni premonitori",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prevedere il futuro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Congetturare, supporre in anticipo, specialmente in base a indizi concreti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non è possibile prevedere la sua reazione",
+              "è necessario prevedere le mosse dell’avversario"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ritenere possibile, probabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "per domani prevediamo una bella giornata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prendere in considerazione, contemplare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo comportamento non è previsto dal regolamento",
+              "il caso non è previsto dalla legge"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "immaginare o calcolare in anticipo ciò che accadrà o potrebbe accadere, basandosi su dati, esperienze o ragionamenti",
+      "examples": [
+        "Gli esperti prevedono un aumento delle temperature nei prossimi anni.",
+        "Non avevo previsto che il traffico fosse così intenso."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "stabilire o includere qualcosa in un piano, un regolamento o un progetto come parte integrante o necessaria",
+      "examples": [
+        "Il contratto prevede una clausola di recesso.",
+        "La legge prevede sanzioni per chi non rispetta le norme."
+      ],
+      "nota": "In questo senso, il verbo è spesso usato in contesti giuridici, amministrativi o organizzativi."
+    },
+    {
+      "pos": "verbo intransitivo (ausiliare 'avere')",
+      "definition": "avere la capacità o la caratteristica di anticipare mentalmente eventi futuri",
+      "examples": [
+        "Non tutti sanno prevedere con precisione.",
+        "Con la sua esperienza, riesce a prevedere le mosse dell'avversario."
+      ],
+      "nota": "In questo uso, il verbo è spesso accompagnato da avverbi o locuzioni che specificano il grado di accuratezza (es. 'prevedere con esattezza')."
+    }
+  ]
+}

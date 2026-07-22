@@ -1,0 +1,213 @@
+{
+  "lemma": "davanti",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0a69ad0a50d064d00d"
+    },
+    "source": "paraviaXML/30252.xml",
+    "lemma": "davanti",
+    "grammar": [
+      "avv.",
+      "agg.inv.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In posizione anteriore rispetto a un punto di riferimento o al punto di vista dell’osservatore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "al cinema mi sono seduto davanti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In posizione frontale rispetto a qualcosa, di fronte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi venne davanti con un grande sorriso",
+              "lui abita nella casa davanti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prima, in un tempo precedente: Dante)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "si mise com’era davante"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anteriore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la poltrona davanti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parte anteriore di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il davanti della casa è stato ritinteggiato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di fronte a",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "guardare davanti a sé"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alla presenza di",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "difendersi davanti ai testimoni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "preposizione",
+      "definition": "In posizione avanzata rispetto a qualcosa o qualcuno",
+      "examples": [
+        "Il cane si è messo davanti alla porta.",
+        "La casa si trova davanti al mare."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "avverbio",
+      "definition": "In posizione anteriore o avanzata",
+      "examples": [
+        "Il bambino è andato davanti a guardare il film.",
+        "Metti la sedia davanti, così ci sediamo comodamente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Parte anteriore di qualcosa",
+      "examples": [
+        "Il davanti della casa è stato ridipinto.",
+        "Il davanti della camicia è sporco."
+      ],
+      "nota": null
+    }
+  ]
+}

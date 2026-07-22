@@ -1,0 +1,74 @@
+{
+  "lemma": "ristorante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3869ad0a50d065d1cd"
+    },
+    "source": "paraviaXML/98171.xml",
+    "lemma": "ristorante",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "ristorante-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Locale pubblico in cui si cucinano, si servono e si consumano ai tavoli pasti completi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ristorante di lusso",
+              "tipico",
+              "cinese",
+              "messicano",
+              "andare",
+              "cenare al ristorante"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "albergo",
+              "caffè ristorante"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Esercizio commerciale in cui si servono pasti completi a pagamento, con tavoli, personale di sala e una cucina organizzata.",
+      "examples": [
+        "Stasera andiamo a cena fuori: ho prenotato un tavolo in un ristorante in centro.",
+        "Il ristorante era pieno di gente nonostante fosse un martedì sera.",
+        "Ha aperto un ristorante di cucina fusion nel quartiere nuovo."
+      ],
+      "nota": "Si distingue dalla trattoria e dall'osteria per un livello generalmente più elevato di servizio e formalità, benché nella lingua corrente i confini tra questi termini siano spesso sfumati. Può essere qualificato per tipo di cucina (ristorante cinese, ristorante vegetariano) o per fascia di prezzo."
+    }
+  ]
+}

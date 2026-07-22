@@ -1,0 +1,202 @@
+{
+  "lemma": "operazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0c69ad0a50d065ae46"
+    },
+    "source": "paraviaXML/76451.xml",
+    "lemma": "operazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’operare e il suo risultato, azione, procedimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "infilare un ago non è un’operazione facilissima"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di atti volti a un fine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’abile operazione di marketing",
+              "operazione finanziaria",
+              "economica",
+              "commerciale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "medicina"
+            ],
+            "definitions": [
+              {
+                "glossa": "Medicina ; intervento chirurgico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "linguaggio militare",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguaggio militare , insieme di attività e avvenimenti militari sia in tempo bellico che in tempo di pace",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operazione navale",
+              "aerea",
+              "operazione difensiva",
+              "offensiva"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Serie di azioni o iniziative coordinate di vasta portata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operazione mare pulito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , processo che da uno o più enti noti permette di ottenerne un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Operazione aritmetica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Azione o procedura chirurgica",
+      "examples": [
+        "Il paziente è stato sottoposto a un'operazione di bypass.",
+        "L'operazione è stata eseguita con successo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Azione o manovra militare",
+      "examples": [
+        "L'operazione di salvataggio è stata condotta con successo.",
+        "Le truppe hanno eseguito un'operazione di ricognizione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Azione o processo di natura finanziaria, commerciale o industriale",
+      "examples": [
+        "L'operazione di acquisizione è stata conclusa.",
+        "L'azienda ha effettuato un'operazione di fusione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Azione o processo astratto, come un'operazione logica o matematica",
+      "examples": [
+        "L'operazione di addizione è stata eseguita correttamente.",
+        "L'operazione logica ha prodotto il risultato atteso."
+      ],
+      "nota": null
+    }
+  ]
+}

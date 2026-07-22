@@ -1,0 +1,174 @@
+{
+  "lemma": "debito",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeac69ad0a50d0655e2e"
+    },
+    "source": "paraviaXML/30344.xml",
+    "lemma": "debito",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dovere, obbligo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sentirsi in debito",
+              "avere un debito con",
+              "verso qcn.",
+              "debito morale",
+              "di coscienza",
+              "è tuo debito ascoltarlo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente dei peccatori verso Dio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rimetti a noi i nostri debiti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "specialmente",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impegno a restituire qualcosa specialmente denaro, a qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "contrarre",
+              "accollarsi",
+              "addossarsi un debito",
+              "pagare",
+              "estinguere un debito",
+              "affogare nei debiti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , in un rapporto obbligatorio, la prestazione dovuta dal debitore al creditore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "saldo",
+              "operazione a debito"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Obbligazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "scuola e universit�",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scuola e universit� , nella scuola media superiore, negli ultimi tre anni, punteggio che uno studente, cui sia stato assegnato un credito scolastico l’anno precedente, nel successivo deve e può recuperare migliorando nettamente la sua preparazione nelle materie in cui aveva ottenuto voti bassi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Somma di denaro che una persona o un'entità deve restituire a un'altra per un prestito ricevuto o per un'obbligazione contratta.",
+      "examples": [
+        "Ha accumulato un debito di diecimila euro con la banca.",
+        "Il governo sta cercando di ridurre il debito pubblico."
+      ],
+      "nota": "Può riferirsi anche a obblighi finanziari tra privati, aziende o istituzioni. Spesso usato in contesti economici e giuridici."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Obbligo morale o sociale di ricambiare un favore, un gesto o un beneficio ricevuto.",
+      "examples": [
+        "Sento di avere un debito di gratitudine verso di lui per tutto quello che ha fatto per me.",
+        "Dopo avermi aiutato così tanto, mi sento in debito con lei."
+      ],
+      "nota": "In questo senso, assume una connotazione più astratta e relazionale, spesso legata a dinamiche interpersonali."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che è dovuto o necessario in base a regole, norme o aspettative.",
+      "examples": [
+        "Per superare l'esame, è necessario studiare con la debita attenzione.",
+        "Il rispetto delle regole è un comportamento debito in questa situazione."
+      ],
+      "nota": "Usato prevalentemente in contesti formali o burocratici. Spesso accompagnato da sostantivi come 'attenzione', 'rispetto', 'cura'."
+    }
+  ]
+}

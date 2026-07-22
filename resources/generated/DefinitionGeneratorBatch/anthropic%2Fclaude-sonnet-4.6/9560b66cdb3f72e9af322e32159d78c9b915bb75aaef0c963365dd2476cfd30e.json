@@ -1,0 +1,139 @@
+{
+  "lemma": "traduzione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6a69ad0a50d065fad3"
+    },
+    "source": "paraviaXML/121722.xml",
+    "lemma": "traduzione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "traduzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il tradurre un testo orale o scritto da una lingua in un’altra; il testo tradotto ( abbr. traduzione )",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "eseguire una traduzione dal tedesco",
+              "in inglese",
+              "una recente traduzione di Shakespeare",
+              "una buona",
+              "cattiva traduzione",
+              "traduzione fedele",
+              "libera"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Versione scolastica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli alunni dovranno fare una traduzione dal greco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "burocrazia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Burocrazia , trasporto di un detenuto da un carcere a un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia , sintesi della serie di amminoacidi che costituiscono un polipeptide, che avviene nei ribosomi per azione dell’RNA messaggero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Testo ottenuto trasponendo il contenuto di un documento scritto o orale da una lingua a un'altra.",
+      "examples": [
+        "La traduzione italiana del romanzo è uscita due anni dopo l'originale.",
+        "Ha letto l'Odissea in una traduzione moderna molto scorrevole."
+      ],
+      "nota": "Si distingue 'traduzione letterale' (fedele alla struttura della lingua di partenza) da 'traduzione libera' (privilegia la resa del senso complessivo)."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività o pratica consistente nel rendere un testo da una lingua in un'altra, intesa come processo o disciplina.",
+      "examples": [
+        "Si è specializzata in traduzione letteraria dopo la laurea in lingue.",
+        "La traduzione automatica ha fatto grandi progressi negli ultimi anni."
+      ],
+      "nota": "In questo senso indica il processo o il campo professionale, non il prodotto finito."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Trasposizione di un concetto, un'idea o un progetto in una forma concreta o in un ambito diverso da quello originario.",
+      "examples": [
+        "La traduzione pratica di queste teorie richiederà anni di sperimentazione.",
+        "Il film è una riuscita traduzione cinematografica del romanzo."
+      ],
+      "nota": "Uso figurato, esteso a contesti non linguistici."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Trasferimento di un detenuto o di un imputato da un istituto penitenziario a un altro o dinanzi all'autorità giudiziaria.",
+      "examples": [
+        "La traduzione del detenuto in tribunale è avvenuta sotto scorta.",
+        "Durante la traduzione il prigioniero ha tentato di fuggire."
+      ],
+      "nota": "Termine tecnico-giuridico e amministrativo, corrente nel linguaggio delle forze dell'ordine e della giustizia."
+    }
+  ]
+}

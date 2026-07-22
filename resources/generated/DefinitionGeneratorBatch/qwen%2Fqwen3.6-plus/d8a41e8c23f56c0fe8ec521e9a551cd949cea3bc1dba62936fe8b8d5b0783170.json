@@ -1,0 +1,151 @@
+{
+  "lemma": "commissario",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9f69ad0a50d06553da"
+    },
+    "source": "paraviaXML/24759.xml",
+    "lemma": "commissario",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Funzionario addetto all’amministrazione straordinaria di enti, organismi, imprese e simile , con competenze solitamente proprie di organi collegiali",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi è incaricato, in via temporanea o permanente, di una determinata funzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Membro di una commissione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "commissario di concorso",
+              "d’esami"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nella polizia di stato, chi riveste il primo grado dei funzionari dirigenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nel vecchio ordinamento di polizia, il dirigente di un commissariato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Ufficiale superiore della Polizia di Stato con funzioni di comando territoriale o di coordinamento di un'unità investigativa.",
+      "examples": [
+        "Il funzionario ha coordinato le squadre operative perquisendo l'intero edificio.",
+        "Dopo anni di gavetta, è stato finalmente promosso al grado che gli consente di dirigere un distretto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Funzionario nominato da un'autorità governativa o sovranazionale per gestire temporaneamente un ente, un'azienda, un territorio o un specifico settore, spesso in sostituzione della dirigenza ordinaria o in casi di emergenza.",
+      "examples": [
+        "Il governo ha insediato un incaricato straordinario per coordinare gli interventi di ricostruzione post-alluvione.",
+        "Ciascun rappresentante degli Stati membri è responsabile di uno specifico portafoglio all'interno dell'esecutivo di Bruxelles."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Membro di una commissione preposto alla valutazione dei candidati e alla verifica del rispetto delle procedure negli esami finali o nelle selezioni pubbliche.",
+      "examples": [
+        "Il docente è stato nominato per la correzione degli scritti dell'esame di maturità.",
+        "La commissione era composta da tre esperti esterni e due insegnanti della scuola ospitante."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Addetto designato a vigilare sul regolare svolgimento di una competizione agonistica, accertando il rispetto dei regolamenti e verificando tempi, punteggi o condizioni di gara.",
+      "examples": [
+        "Dopo il traguardo, il responsabile di competizione ha convalidato il nuovo record nonostante le condizioni avverse.",
+        "La federazione ha nominato un giudice per ogni tappa per vigilare sul rispetto del regolamento tecnico."
+      ],
+      "nota": null
+    }
+  ]
+}

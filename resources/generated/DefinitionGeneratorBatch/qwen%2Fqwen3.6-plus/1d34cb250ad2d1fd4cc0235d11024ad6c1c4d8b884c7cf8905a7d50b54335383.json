@@ -1,0 +1,340 @@
+{
+  "lemma": "vicino",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a6a9"
+    },
+    "source": "paraviaXML/127427.xml",
+    "lemma": "vicino",
+    "grammar": [
+      "agg.",
+      "s.m.",
+      "avv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "I",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che si trova a poca distanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "due strade vicine",
+              "un paese vicino",
+              "abita nella casa vicina alla mia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che sta per accadere, verificarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la fine della scuola è vicina",
+              "le vacanze sono ormai vicine"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che si sta avvicinando a un evento particolare, che vi è prossimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere vicino ai cinquanta",
+              "il pranzo è vicino alla fine",
+              "essere vicini a partire"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per indicare una vicinanza ideale, astratta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere vicini alla verità"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che ha rapporti di parentela piuttosto stretti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un parente vicino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Presente, partecipe",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi è stato molto vicino",
+              "ti ho sentito vicina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Simile, affine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere opinioni",
+              "idee vicine",
+              "un azzurro piuttosto vicino al blu"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vicino di casa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i miei vicini",
+              "i vicini del piano di sopra"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi si trova accanto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i miei vicini di ombrellone",
+              "il mio vicino di banco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Concittadino, corregionale: Carducci)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Dante, il vicin mio grande"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "III",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "A poca distanza, non lontano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i miei amici abitano vicino"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Mancarci poco",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "arrivare",
+              "andarci vicino",
+              "la risposta è un’altra ma ci sei andato vicino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "I,II",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "che si trova o avviene a breve distanza nello spazio o nel tempo rispetto a un termine di riferimento",
+      "examples": [
+        "La metropolitana è così vicina che ci arrivo a piedi in dieci minuti.",
+        "Le scadenze fiscali sono ormai vicine."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "che condivide orientamenti ideali, gusti o sentimenti affettivi con qualcuno o qualcosa, manifestando forte affinità o sostegno",
+      "examples": [
+        "I due partiti sono molto vicini su questo tema.",
+        "Si sente molto vicino alle cause ambientaliste."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "individuo la cui abitazione o sede operativa si colloca nelle immediate vicinanze di un luogo specifico",
+      "examples": [
+        "Domani organizzeremo una cena per tutti i vicini del palazzo.",
+        "Ha bussato alla porta per chiedere un attrezzo al vicino."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "avverbio",
+      "definition": "a breve distanza, in prossimità del punto, dell'oggetto o del momento considerato",
+      "examples": [
+        "Siediti più vicino al camino, fa davvero freddo.",
+        "Hanno piantato gli alberi troppo vicino al muro di casa."
+      ],
+      "nota": "ricorre sistematicamente in costruzioni preposizionali con 'a' quando regge un complemento esplicito, e accetta regolarmente avverbi di grado come 'molto' o 'più'"
+    }
+  ]
+}

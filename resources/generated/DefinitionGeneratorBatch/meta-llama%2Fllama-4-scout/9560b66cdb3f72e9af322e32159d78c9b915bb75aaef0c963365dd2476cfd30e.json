@@ -1,0 +1,121 @@
+{
+  "lemma": "traduzione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6a69ad0a50d065fad3"
+    },
+    "source": "paraviaXML/121722.xml",
+    "lemma": "traduzione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "traduzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il tradurre un testo orale o scritto da una lingua in un’altra; il testo tradotto ( abbr. traduzione )",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare",
+              "eseguire una traduzione dal tedesco",
+              "in inglese",
+              "una recente traduzione di Shakespeare",
+              "una buona",
+              "cattiva traduzione",
+              "traduzione fedele",
+              "libera"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Versione scolastica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli alunni dovranno fare una traduzione dal greco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "burocrazia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Burocrazia , trasporto di un detenuto da un carcere a un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia , sintesi della serie di amminoacidi che costituiscono un polipeptide, che avviene nei ribosomi per azione dell’RNA messaggero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Atto o effetto del tradurre",
+      "examples": [
+        "La traduzione del testo è stata fatta in fretta.",
+        "La traduzione letterale non sempre coglie il senso profondo dell'opera."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Testo o opera tradotta",
+      "examples": [
+        "Ho letto la traduzione italiana del libro.",
+        "La traduzione del film è stata fatta in diverse lingue."
+      ],
+      "nota": null
+    }
+  ]
+}

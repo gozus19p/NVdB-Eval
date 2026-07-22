@@ -1,0 +1,379 @@
+{
+  "lemma": "periodo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf1969ad0a50d065b895"
+    },
+    "source": "paraviaXML/81579.xml",
+    "lemma": "periodo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arco di tempo determinato o meno dalla durata, con indicazione degli eventi o delle situazioni che lo caratterizzano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un periodo di tre anni",
+              "un lungo periodo",
+              "il periodo della scuola",
+              "delle vacanze",
+              "un periodo di benessere",
+              "di crisi",
+              "passare",
+              "attraversare un bel",
+              "un brutto periodo"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fase storica caratterizzata da particolari avvenimenti o da una specifica situazione politica, sociale o culturale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il periodo delle invasioni barbariche",
+              "il periodo delle guerre napoleoniche",
+              "il periodo del Rinascimento",
+              "di che periodo sono gli affreschi?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "geologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geologia , intervallo di tempo in cui si suddivide ciascuna era geologica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "grammatica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Grammatica , insieme di proposizioni tra loro collegate in modo da formare un’unità sintatticamente autonoma e di senso compiuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "periodo ipotattico",
+              "paratattico",
+              "un periodo complesso",
+              "agile",
+              "armonioso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , insieme organico di frasi musicali avente senso compiuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "metrica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Metrica , nella metrica antica, il tratto di strofa compreso tra due pause",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "estensivo",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , intervallo di tempo costante dopo il quale una grandezza o un fenomeno si riproducono con le stesse caratteristiche ( simb. T)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciclo di un fenomeno periodico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "astronomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Astronomia , arco di tempo impiegato da un astro per compiere un giro completo della sua orbita o sul suo asse",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , in un numero periodico decimale, l’insieme delle cifre dopo la virgola che si ripetono indefinitamente nello stesso ordine",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intervallo di valori secondo cui una funzione si ripete",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , nel sistema periodico degli elementi, serie di elementi a numero atomico crescente aventi tutti lo stesso numero di livelli energetici, ma numero crescente di elettroni nel livello più esterno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina fisiologia , fase, specialmente ricorrente, di una malattia o di un fenomeno fisiologico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "usage": "TS",
+        "field": "paleografia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Paleografia , nella paleografia latina, segno di interpunzione che indicava la fine della frase",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "medicina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina ; fase critica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "fisiologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisiologia , i giorni della mestruazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Intervallo di tempo di durata determinata o indeterminata, caratterizzato da tratti comuni o delimitato da eventi precisi.",
+      "examples": [
+        "Il periodo estivo è il più frequentato dalle famiglie con bambini.",
+        "Ha attraversato un periodo difficile dopo la perdita del lavoro.",
+        "Nel periodo compreso tra il 1939 e il 1945 scoppiò la Seconda Guerra Mondiale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In grammatica e stilistica, unità sintattica complessa formata da una proposizione principale e da una o più proposizioni subordinate, che costituisce un'unità di senso compiuto.",
+      "examples": [
+        "Il professore ha spiegato come costruire un periodo ipotetico correttamente.",
+        "Quel testo è caratterizzato da periodi molto lunghi e articolati."
+      ],
+      "nota": "In ambito grammaticale si distingue dalla frase semplice (o proposizione), che non contiene subordinate."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In matematica e fisica, l'intervallo di tempo o la grandezza minima dopo cui un fenomeno periodico si ripete identicamente.",
+      "examples": [
+        "Il periodo di oscillazione del pendolo dipende dalla sua lunghezza.",
+        "La funzione seno ha periodo pari a 2π."
+      ],
+      "nota": "In questo senso è strettamente tecnico-scientifico ma di uso diffuso nell'istruzione secondaria e superiore."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In chimica, ciascuna delle righe orizzontali della tavola periodica degli elementi, che raggruppa elementi con lo stesso numero di livelli elettronici.",
+      "examples": [
+        "Il sodio e il cloro appartengono allo stesso periodo della tavola periodica.",
+        "Gli elementi del terzo periodo hanno tre livelli energetici occupati."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In geologia e paleontologia, suddivisione della scala dei tempi geologici, compresa tra un'era e un'epoca.",
+      "examples": [
+        "I dinosauri si estinsero alla fine del periodo Cretaceo.",
+        "Il periodo Giurassico è noto per la proliferazione dei grandi rettili."
+      ],
+      "nota": null
+    }
+  ]
+}

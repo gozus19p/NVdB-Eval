@@ -1,0 +1,279 @@
+{
+  "lemma": "chinese",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0869ad0a50d064bf93"
+    },
+    "source": "paraviaXML/22630.xml",
+    "lemma": "cinese",
+    "grammar": [
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo alla Cina",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "arte",
+              "filosofia",
+              "storia cinese"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che serve piatti tipici della cucina cinese",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ristorante cinese"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante della Cina",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La lingua nazionale della Repubblica di Cina, di Taiwan e di Singapore, basata sulla variante pechinese dei dialetti mandarini",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "politica",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Politica , che, chi sosteneva in Europa una linea politica ispirata alle teorie del leader politico Mao Zedong ( 1893–1976)",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Estremista di sinistra",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "stereotipo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Stereotipo , lingua oscura, incomprensibile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo per me è cinese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipo di colino in acciaio di forma conica, dotato di piccolissimi fori",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è alla maniera cinese o dei cinesi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Occhi a mandorla; lunghi e spioventi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "occhi alla cinese",
+              "baffi alla cinese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alla maniera dei cinesi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "preparare, cucinare alla cinese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "2,4,5",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "relativo alla Cina",
+      "examples": [
+        "La Grande Muraglia cinese è una delle più famose attrazioni turistiche.",
+        "La cucina cinese è famosa per la sua varietà di piatti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "persona originaria della Cina",
+      "examples": [
+        "Il cinese è stato assunto dall'azienda come consulente.",
+        "La comunità cinese di Milano organizza eventi culturali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "lingua parlata in Cina",
+      "examples": [
+        "Il cinese è una lingua tonale molto complessa.",
+        "Il cinese mandarino è la lingua ufficiale della Cina."
+      ],
+      "nota": null
+    }
+  ]
+}

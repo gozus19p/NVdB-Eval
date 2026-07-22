@@ -1,0 +1,163 @@
+{
+  "lemma": "riflessione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3569ad0a50d065cf00"
+    },
+    "source": "paraviaXML/95018.xml",
+    "lemma": "riflessione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "eccetera",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , fenomeno per il quale un raggio di luce, incidendo su una superficie riflettente, ad esempio uno specchio, specialmente metallico, subisce una deflessione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tale fenomeno riferito al suono, alle onde elettromagnetiche, agli elettroni, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "ottica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ottica , in ottica geometrica, fenomeno per cui un raggio incidente su una superficie speculare riemerge dalla stessa parte da cui proveniva restando nel piano che contiene la normale alla superficie e il raggio incidente, e formando con la detta normale un angolo uguale a quello di incidenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’azione del riflettere, del considerare e valutare attentamente: la capacità di riflettere e valutare, senno, ponderatezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scegliere dopo lunga riflessione",
+              "persona propensa alla riflessione",
+              "agire con riflessione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Considerazione, pensiero, osservazione che deriva da un’approfondita elaborazione mentale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rendere pubbliche le proprie riflessioni"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "filosofia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , momento del processo conoscitivo in cui l’intelletto acquisisce consapevolezza delle proprie funzioni conoscitive e assume ad oggetto se stesso e le proprie attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Processo mentale di esame attento e meditato di un problema, un'esperienza o un'idea, volto a comprenderli più a fondo.",
+      "examples": [
+        "Prima di prendere una decisione così importante, ho bisogno di un momento di riflessione.",
+        "Il libro invita il lettore a una profonda riflessione sul senso della vita."
+      ],
+      "nota": "È il senso più frequente nell'uso corrente. Può indicare sia il processo mentale sia il risultato di esso (una riflessione = un pensiero elaborato)."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Osservazione o considerazione espressa ad alta voce o per iscritto, frutto di un ragionamento personale.",
+      "examples": [
+        "Vorrei condividere alcune riflessioni sul tema della giustizia sociale.",
+        "Le sue riflessioni a margine del testo sono molto acute e originali."
+      ],
+      "nota": "In questo senso è spesso usato al plurale ('riflessioni') per indicare un insieme di pensieri o annotazioni."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Fenomeno fisico per cui un'onda (luminosa, sonora, elettromagnetica) rimbalza su una superficie tornando indietro nel mezzo di provenienza.",
+      "examples": [
+        "La riflessione della luce sull'acqua crea suggestivi giochi di colore.",
+        "In fisica studiamo le leggi della riflessione e della rifrazione."
+      ],
+      "nota": "Termine tecnico-scientifico di uso comune nei contesti scolastici e divulgativi. Da non confondere con 'rifrazione', che indica la deviazione dell'onda nel passaggio tra due mezzi diversi."
+    }
+  ]
+}

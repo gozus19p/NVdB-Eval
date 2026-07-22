@@ -1,0 +1,161 @@
+{
+  "lemma": "impedire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb969ad0a50d06639bc"
+    },
+    "source": "paraviaXML/53211.xml",
+    "lemma": "impedire",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rendere impossibile o impraticabile, proibire, vietare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "impedire l’ingresso",
+              "l’uscita",
+              "impedire a qcn. di parlare",
+              "perché non lo fai, chi te lo impedisce?"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fare in modo che qualcosa non succeda, evitare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la sua onestà gli impedisce di scendere a compromessi",
+              "la rapidità di intervento ha impedito che succedesse un disastro"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Vietarne l’accesso: Foscolo)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "impedire un luogo",
+              "impedir l’Elba ai nemici"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ostruire, intralciare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una frana impedisce il passaggio",
+              "un muro impedisce la vista del giardino"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impacciare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un abito che impedisce i movimenti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Rendere inabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la malattia gli ha impedito la gamba destra"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Rendere impossibile o molto difficile il compimento di un'azione o il verificarsi di un evento, interponendo un ostacolo fisico o materiale.",
+      "examples": [
+        "Un albero caduto impediva il transito sulla strada provinciale.",
+        "Le catene agli ingranaggi impedivano il movimento della macchina."
+      ],
+      "nota": "Costruzione frequente: impedire + complemento oggetto; oppure impedire a qualcuno di fare qualcosa."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Ostacolare o bloccare qualcuno nel fare qualcosa, intervenendo con la propria autorità, volontà o azione.",
+      "examples": [
+        "La polizia ha impedito ai manifestanti di avvicinarsi al palazzo del governo.",
+        "Nessuno ti impedisce di esprimere la tua opinione."
+      ],
+      "nota": "In questo uso il soggetto è tipicamente animato; enfatizza un intervento intenzionale di blocco nei confronti di un agente."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Precludere o rendere impossibile il realizzarsi di una situazione, uno stato o un processo in senso astratto.",
+      "examples": [
+        "La mancanza di fondi ha impedito la realizzazione del progetto.",
+        "Il maltempo ha impedito lo svolgimento della cerimonia all'aperto."
+      ],
+      "nota": "Il complemento oggetto è spesso un sostantivo astratto o un'azione nominalizzata; si distingue dai sensi precedenti per l'assenza di un agente animato bloccante."
+    }
+  ]
+}

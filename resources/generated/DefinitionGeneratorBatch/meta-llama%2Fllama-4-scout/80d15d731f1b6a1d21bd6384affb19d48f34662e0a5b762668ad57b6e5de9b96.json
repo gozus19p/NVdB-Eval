@@ -1,0 +1,154 @@
+{
+  "lemma": "avvertire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafea69ad0a50d0666146"
+    },
+    "source": "paraviaXML/11153.xml",
+    "lemma": "avvertire",
+    "grammar": [
+      "v.tr.",
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Informare qualcuno di qualcosa specialmente di importante o grave",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvertire di un pericolo",
+              "di una minaccia",
+              "di un rischio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avvisare, specialmente con tono minaccioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ti avverto di non scherzare col fuoco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sentire, percepire qualcosa ; notare, apprezzare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvertire un rumore",
+              "un dolore",
+              "avvertire l’importanza di qcs."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare attenzione, badare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "rendere noto qualcosa a qualcuno affinché ne sia informato",
+      "examples": [
+        "La madre avvertì il figlio di non uscire tardi la sera.",
+        "Il professore avvertì gli studenti dell'imminente esame."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "far sentire, percepire qualcosa",
+      "examples": [
+        "Il campanello avvertì tutti dell'arrivo del treno.",
+        "Il freddo avvertì la sua presenza con un brivido."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "accorgersi, rendersi conto di qualcosa",
+      "examples": [
+        "Avvertì subito che qualcosa non andava bene.",
+        "Avvertì una strana sensazione di disagio."
+      ],
+      "nota": null
+    }
+  ]
+}

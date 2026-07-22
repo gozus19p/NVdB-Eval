@@ -1,0 +1,153 @@
+{
+  "lemma": "baciare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa569ad0a50d06629b9"
+    },
+    "source": "paraviaXML/11577.xml",
+    "lemma": "baciare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dare uno o più baci a qualcuno in segno di affetto o amore, o anche a qualcosa specialmente in segno di rispetto o devozione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "baciare un bambino",
+              "la sposa",
+              "baciare sulle labbra",
+              "baciare la fronte",
+              "baciare una reliquia",
+              "il crocifisso"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "È molto fortunato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è stato baciato",
+              "baciato in fronte",
+              "dalla fortuna"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In segno di ossequio, di riverenza; al papa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "baciare la mano",
+              "la veste a qcn.",
+              "baciare la pantofola"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per indicare il rispetto e la riconoscenza che gli si tributa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "baciare la terra dove qcn. passa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Toccare lievemente, sfiorare: Pascoli)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la luna bacia il cipresseto fosco"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Toccare qualcuno o qualcosa con le labbra come segno di affetto, amore, rispetto o saluto.",
+      "examples": [
+        "Ha baciato la sua ragazza con passione prima di salutarla.",
+        "Il bambino ha baciato la guancia della nonna per ringraziarla."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Riferito a due o più persone, compiere reciprocamente l'atto di toccarsi con le labbra, specialmente come espressione d'amore.",
+      "examples": [
+        "Si sono baciati sotto il cielo stellato, felici e innamorati.",
+        "Prima di andare ognuno per la propria strada, i due amici si sono baciati sulla guancia in segno di saluto."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Di oggetti o superfici, venire in contatto in modo delicato e leggero, quasi sfiorandosi.",
+      "examples": [
+        "I raggi del sole baciavano dolcemente i petali dei fiori nel prato.",
+        "La prua della barca baciava le onde del mare calmo."
+      ],
+      "nota": "Uso figurato."
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Riferito a una persona, portare le proprie labbra a contatto con una parte del proprio corpo o con un oggetto, solitamente per esprimere affetto o gratitudine.",
+      "examples": [
+        "Si è baciato la mano per salutare la folla acclamante.",
+        "Dopo la vittoria, il calciatore si è baciato la maglia in segno di appartenenza."
+      ],
+      "nota": null
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "lemma": "preferire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc869ad0a50d06645e1"
+    },
+    "source": "paraviaXML/86117.xml",
+    "lemma": "preferire",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "preferire-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anteporre nel proprio giudizio, nei gusti, nella simpatia, negli affetti qualcuno o qualcosa rispetto ad altri o ad altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli preferisco di gran lunga il fratello",
+              "preferisco il mare alla montagna",
+              "preferirei che tu evitassi di coinvolgermi"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con riferimento a una scelta specifica compiuta in una determinata occasione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "all’ultimo momento hanno preferito andare al cinema",
+              "gli è stata preferita la candidata più giovane"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Considerare qualcosa o qualcuno più desiderabile, gradevole o adatto rispetto a un'altra opzione, accordandogli la propria scelta.",
+      "examples": [
+        "Preferisco il caffè al tè ogni mattina.",
+        "Lei preferisce viaggiare in treno piuttosto che in aereo.",
+        "Di solito preferisco i film d'autore ai blockbuster."
+      ],
+      "nota": "Costruzione tipica: preferire A a B, oppure preferire A piuttosto che B. Può reggere un infinito: 'preferisco restare a casa'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Avere una particolare predilezione per una persona rispetto ad altre, trattandola con maggior favore.",
+      "examples": [
+        "I colleghi mormoravano che il capo preferiva sempre i suoi collaboratori storici.",
+        "Non è giusto che tu preferisca tuo fratello in ogni decisione."
+      ],
+      "nota": "In questo senso può avere una connotazione negativa di parzialità o favoritismo."
+    }
+  ]
+}

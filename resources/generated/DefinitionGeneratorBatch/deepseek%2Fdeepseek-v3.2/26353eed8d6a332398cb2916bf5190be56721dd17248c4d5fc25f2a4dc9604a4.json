@@ -1,0 +1,233 @@
+{
+  "lemma": "uccello",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf7069ad0a50d065ff7e"
+    },
+    "source": "paraviaXML/124313.xml",
+    "lemma": "uccello",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Animale con arti anteriori costituiti da ali, nella maggior parte dei casi atti al volo, con corpo ricoperto di penne e piume e dotato di becco corneo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sentire cinguettare gli uccelli",
+              "trovare un nido di uccelli",
+              "osservare il volo degli uccelli",
+              "uccello di gabbia",
+              "di voliera"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Non avere vincoli o limitazioni, potersi muovere liberamente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere libero come un uccello"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere sempre pronto a cambiare sede, ad andarsene da un momento all’altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "star come l’uccello sulla frasca"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "maiuscolo",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ornitologia , animale della classe degli Uccelli, oviparo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con iniziale maiuscolo , classe del phylum dei Vertebrati",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "volgare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Volgare , pene",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sempliciotto, babbeo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "popolare",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "U. che veniva ritenuto annunciatore di sventure, come la civetta, il corvo, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona che si crede abbia un influsso nefasto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere un uccello di malaugurio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi pronostica disgrazie, insuccessi, eventi sgraditi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non fare l’uccello del malaugurio!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Animale vertebrato di sangue caldo, generalmente in grado di volare, caratterizzato dalla presenza di piume, un becco corneo e la deposizione di uova.",
+      "examples": [
+        "Un uccello canterino si è posato sul ramo.",
+        "Ho osservato molti uccelli migratori durante la primavera."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Persona giudicata ingenua, sprovveduta o facilmente ingannabile.",
+      "examples": [
+        "Si è fatto fregare come un uccello.",
+        "Quel venditore ambulante vedeva negli anziani degli uccelli da spennare."
+      ],
+      "nota": "Termine colloquiale, spesso usato in espressioni fisse come 'prendere per un uccello'."
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Organo riproduttivo maschile esterno.",
+      "examples": [
+        "Il bambino, durante il bagnetto, indicava il suo uccellino.",
+        "La parola è considerata volgare in contesti formali."
+      ],
+      "nota": "Termine volgare e colloquiale per indicare il pene."
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "lemma": "metà",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaefc69ad0a50d065a0ca"
+    },
+    "source": "paraviaXML/69081.xml",
+    "lemma": "metà",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle due parti uguali che insieme formano un intero",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tre è la metà di sei",
+              "dividere un’arancia in due metà",
+              "una metà scarsa",
+              "una buona metà"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "I primi cinquant’anni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la prima metà del secolo"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "si è mangiato metà torta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "scherzoso"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona a cui si è uniti in matrimonio o a cui si è legati sentimentalmente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha finalmente trovato la sua metà",
+              "verrò con la mia dolce metà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Punto che sta nel mezzo, esattamente o approssimativamente, di una determinata estensione spaziale o temporale, di un oggetto, di una determinata quantità, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a metà del cammino",
+              "tornerà alla metà di luglio",
+              "sono appena alla metà del libro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "Anche in funzione inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "chi ben comincia è alla metà dell’opera",
+              "a metà strada",
+              "a metà settimana",
+              "a metà pagina"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al 50% del valore o, anche, sottocosto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a metà prezzo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "comune",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , non ; minima",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In due parti approssimativamente uguali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dividere il lavoro a metà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In parte, non del tutto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una castagna sgusciata a metà"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Ciascuna delle due parti uguali in cui un oggetto, una quantità o un periodo di tempo viene diviso.",
+      "examples": [
+        "Ho mangiato solo metà della torta, l'altra metà l'ho lasciata per te.",
+        "Ci siamo incontrati a metà strada tra le nostre città.",
+        "Lavorerò soltanto metà giornata la prossima settimana."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "La parte centrale o un punto imprecisato di un processo, di un percorso o di un intervallo.",
+      "examples": [
+        "Siamo a metà del progetto, ci aspetta ancora molto lavoro.",
+        "Il film diventa interessante solo a metà.",
+        "A metà del mese ti aspetto per la cena."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Una persona che completa o si abbina perfettamente a un'altra, spesso in contesti affettivi o relazionali.",
+      "examples": [
+        "Finalmente ho trovato la mia dolce metà.",
+        "Ci vuole più di una vita per trovare l'altra metà della mela.",
+        "Era felice di aver incontrato la sua metà dopo tanti anni."
+      ],
+      "nota": "Uso figurato per indicare la partner o l'anima gemella."
+    }
+  ]
+}

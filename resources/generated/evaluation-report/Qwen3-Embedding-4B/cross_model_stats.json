@@ -1,0 +1,114 @@
+{
+  "friedman_test": {
+    "description": "Non-parametric test for differences across all three LLMs on matched lemma similarities.",
+    "statistic": 960.8777654867257,
+    "p_value": 1.7710082285272589e-205
+  },
+  "pairwise_wilcoxon_bonferroni": [
+    {
+      "model_a": "mistral-large-2512",
+      "model_b": "llama-4-scout",
+      "wilcoxon_stat": 3689.0,
+      "p_raw": 3.646749072416067e-77,
+      "p_bonferroni": 5.470123608624101e-76
+    },
+    {
+      "model_a": "mistral-large-2512",
+      "model_b": "qwen3.6-plus",
+      "wilcoxon_stat": 13753.0,
+      "p_raw": 5.052714301443692e-55,
+      "p_bonferroni": 7.579071452165538e-54
+    },
+    {
+      "model_a": "mistral-large-2512",
+      "model_b": "gemini-2.5-flash",
+      "wilcoxon_stat": 34961.0,
+      "p_raw": 3.060354773247124e-20,
+      "p_bonferroni": 4.590532159870686e-19
+    },
+    {
+      "model_a": "mistral-large-2512",
+      "model_b": "deepseek-v3.2",
+      "wilcoxon_stat": 19710.0,
+      "p_raw": 2.798581261622981e-43,
+      "p_bonferroni": 4.197871892434472e-42
+    },
+    {
+      "model_a": "mistral-large-2512",
+      "model_b": "claude-sonnet-4.6",
+      "wilcoxon_stat": 46914.5,
+      "p_raw": 3.060359024478179e-08,
+      "p_bonferroni": 4.5905385367172685e-07
+    },
+    {
+      "model_a": "llama-4-scout",
+      "model_b": "qwen3.6-plus",
+      "wilcoxon_stat": 31501.0,
+      "p_raw": 4.671237843731146e-25,
+      "p_bonferroni": 7.00685676559672e-24
+    },
+    {
+      "model_a": "llama-4-scout",
+      "model_b": "gemini-2.5-flash",
+      "wilcoxon_stat": 8021.5,
+      "p_raw": 1.4095473065160114e-66,
+      "p_bonferroni": 2.114320959774017e-65
+    },
+    {
+      "model_a": "llama-4-scout",
+      "model_b": "deepseek-v3.2",
+      "wilcoxon_stat": 19030.5,
+      "p_raw": 3.738739036127378e-45,
+      "p_bonferroni": 5.608108554191067e-44
+    },
+    {
+      "model_a": "llama-4-scout",
+      "model_b": "claude-sonnet-4.6",
+      "wilcoxon_stat": 2945.0,
+      "p_raw": 5.933413865665268e-79,
+      "p_bonferroni": 8.900120798497902e-78
+    },
+    {
+      "model_a": "qwen3.6-plus",
+      "model_b": "gemini-2.5-flash",
+      "wilcoxon_stat": 29742.5,
+      "p_raw": 6.71272263844569e-28,
+      "p_bonferroni": 1.0069083957668535e-26
+    },
+    {
+      "model_a": "qwen3.6-plus",
+      "model_b": "deepseek-v3.2",
+      "wilcoxon_stat": 51101.0,
+      "p_raw": 3.0990762027206446e-06,
+      "p_bonferroni": 4.648614304080967e-05
+    },
+    {
+      "model_a": "qwen3.6-plus",
+      "model_b": "claude-sonnet-4.6",
+      "wilcoxon_stat": 6532.0,
+      "p_raw": 3.8422903520544095e-70,
+      "p_bonferroni": 5.763435528081615e-69
+    },
+    {
+      "model_a": "gemini-2.5-flash",
+      "model_b": "deepseek-v3.2",
+      "wilcoxon_stat": 44403.5,
+      "p_raw": 1.0243624334163065e-10,
+      "p_bonferroni": 1.5365436501244597e-09
+    },
+    {
+      "model_a": "gemini-2.5-flash",
+      "model_b": "claude-sonnet-4.6",
+      "wilcoxon_stat": 23832.0,
+      "p_raw": 1.1353264169168495e-36,
+      "p_bonferroni": 1.7029896253752743e-35
+    },
+    {
+      "model_a": "deepseek-v3.2",
+      "model_b": "claude-sonnet-4.6",
+      "wilcoxon_stat": 12550.0,
+      "p_raw": 7.608711196774537e-57,
+      "p_bonferroni": 1.1413066795161805e-55
+    }
+  ]
+}

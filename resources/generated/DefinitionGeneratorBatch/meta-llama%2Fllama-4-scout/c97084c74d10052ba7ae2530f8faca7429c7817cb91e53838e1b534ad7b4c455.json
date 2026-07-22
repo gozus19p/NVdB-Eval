@@ -1,0 +1,117 @@
+{
+  "lemma": "circondare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa969ad0a50d0662c61"
+    },
+    "source": "paraviaXML/22895.xml",
+    "lemma": "circondare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Limitare tutt’intorno, cingere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le mura circondano la città",
+              "circondare la città di mura",
+              "circondare il giardino con una staccionata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accerchiare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i soldati circondano il nemico",
+              "la polizia ha circondato la casa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ricolmare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "circondare di attenzioni qcn."
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "chiudere intorno, essere tutt'intorno",
+      "examples": [
+        "La polizia circondò l'edificio.",
+        "La siepe circonda il giardino."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "cingere, essere intorno a qualcosa o qualcuno in modo da racchiuderlo o proteggerlo",
+      "examples": [
+        "Le montagne circondano la valle.",
+        "L'aura di pace circonda il parco."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "essere in prevalenza intorno a qualcuno o qualcosa, in senso figurato",
+      "examples": [
+        "La folla lo circondava di attenzioni.",
+        "I giornalisti lo circondarono di domande."
+      ],
+      "nota": null
+    }
+  ]
+}

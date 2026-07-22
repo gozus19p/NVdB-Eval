@@ -1,0 +1,215 @@
+{
+  "lemma": "dirigere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafaf69ad0a50d0663174"
+    },
+    "source": "paraviaXML/33559.xml",
+    "lemma": "dirigere",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Volgere in una data direzione, verso un punto preciso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dirigere l’auto verso il parcheggio",
+              "dirigere la luce della pila sul sentiero",
+              "dirigere gli sguardi all’ingresso del salone"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dirigere il tiro",
+              "dirigere la mira",
+              "dirigere a nord"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Indirizzare, rivolgere specialmente la parola, il discorso, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dirigere un saluto all’assemblea",
+              "un telegramma"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rivolgere a un fine determinato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dirigerò le forze alla riuscita dei miei progetti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Guidare, disciplinare una determinata attività; amministrare, comandare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dirigere un’organizzazione",
+              "una filiale",
+              "un’impresa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dirigere un’orchestra",
+              "un coro",
+              "sai chi dirige?"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Controllare, disciplinare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dirigere il traffico aereo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, arbitrare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dirigere lo spareggio",
+              "la finalissima"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Indirizzare, volgere o orientare un oggetto, uno sguardo o un'azione verso un punto o una direzione specifici.",
+      "examples": [
+        "Per evitare l'ingorgo, l'autista ha diretto il veicolo verso la tangenziale.",
+        "Durante la conferenza, il relatore ha saputo dirigere l'attenzione del pubblico sui dati più recenti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Guidare, sovraintendere e coordinare il funzionamento di un'organizzazione, di un gruppo di persone o di un'opera artistica o professionale.",
+      "examples": [
+        "Dopo anni di esperienza nel settore, è stata chiamata a dirigere il reparto marketing internazionale.",
+        "Il compositore ha diretto la prima esecuzione del suo sinfonico con grande rigore espressivo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo pronominale",
+      "definition": "Muoversi o avviarsi spontaneamente verso una determinata meta o direzione.",
+      "examples": [
+        "Appena scesi dalla nave, i passeggeri si sono diretti subito verso il terminal partenze.",
+        "Il temporale si sta dirigendo verso la costa tirrenica e potrebbe causare forti rovesci."
+      ],
+      "nota": "La forma pronominale è lessicalizzata e rappresenta l'accezione più frequente per indicare il movimento del soggetto verso un luogo; richiede l'ausiliare 'essere' nei tempi composti."
+    }
+  ]
+}

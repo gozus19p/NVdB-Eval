@@ -1,0 +1,187 @@
+{
+  "lemma": "cultura",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeaa69ad0a50d0655d01"
+    },
+    "source": "paraviaXML/29686.xml",
+    "lemma": "cultura",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Complesso delle conoscenze intellettuali e delle nozioni che contribuisce alla formazione della personalità; educazione, istruzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "farsi",
+              "formarsi una cultura",
+              "avere una buona cultura",
+              "una persona di grande",
+              "media",
+              "scarsa cultura"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Gli ambienti intellettuali; colta; l’insieme delle conoscenze",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mondo della cultura",
+              "una persona di cultura",
+              "cultura letteraria",
+              "musicale",
+              "storica",
+              "la cultura umanistica e la cultura scientifica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pratiche e conoscenze collettive di una società o di un gruppo sociale; civiltà",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la cultura rinascimentale",
+              "la cultura occidentale",
+              "la cultura contadina",
+              "la cultura borghese",
+              "culture preistoriche",
+              "culture scritte e culture orali"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Coltura, coltivazione del terreno",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Cura del corpo e della persona",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Culto religioso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme delle conoscenze, delle tradizioni, delle credenze e dei valori condivisi da una comunità o da un gruppo sociale.",
+      "examples": [
+        "La cultura italiana è ricca di storia e arte.",
+        "Studiare la cultura di un popolo aiuta a comprenderne le abitudini."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Livello di istruzione e di conoscenze acquisite da una persona, specialmente in ambito umanistico o scientifico.",
+      "examples": [
+        "Ha una cultura vastissima in campo letterario.",
+        "La sua mancanza di cultura si nota quando parla di storia."
+      ],
+      "nota": "Spesso usato in contrapposizione a 'ignoranza' o 'incultura'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Coltivazione di microrganismi, cellule o tessuti in laboratorio per scopi scientifici o medici.",
+      "examples": [
+        "Il laboratorio ha sviluppato una nuova cultura batterica per la ricerca.",
+        "La cultura cellulare è fondamentale per lo studio delle malattie."
+      ],
+      "nota": "Uso tecnico diffuso in ambito biologico e medico."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Coltivazione di piante o terreni agricoli.",
+      "examples": [
+        "La cultura del grano è una delle principali attività della zona.",
+        "Hanno introdotto nuove tecniche per migliorare la cultura dei vigneti."
+      ],
+      "nota": "Uso meno comune nel linguaggio quotidiano, più frequente in contesti agricoli o specialistici."
+    }
+  ]
+}

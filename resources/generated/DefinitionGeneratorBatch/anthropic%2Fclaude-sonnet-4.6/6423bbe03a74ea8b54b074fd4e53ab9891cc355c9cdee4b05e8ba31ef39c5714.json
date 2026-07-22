@@ -1,0 +1,285 @@
+{
+  "lemma": "istituto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaee669ad0a50d0658f26"
+    },
+    "source": "paraviaXML/60904.xml",
+    "lemma": "istituto",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ente autonomamente organizzato che persegue scopi culturali, sociali e di pubblico interesse, e che può essere dotato di personalità giuridica pubblica e privata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "istituto centrale di statistica",
+              "istituto previdenziale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "scuola e universit�",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scuola e universit� ; istituto di istruzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "TS",
+        "field": "scuola e universit�",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scuola e universit� , settore di una facoltà universitaria che organizza la ricerca scientifica per discipline affini, istituito dal e in via di sostituzione con il dipartimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "istituto di microbiologia",
+              "di anglistica",
+              "di economia politica"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impresa privata per lo svolgimento di un’attività economica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "istituto di analisi mediche"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Edificio in cui ha sede un ente, un’impresa, una scuola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "danni subiti dall’istituto nell’incendio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ordine o congregazione religiosa; famiglia religiosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La regola a cui si ispirano, i principi che li caratterizzano",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto , norma o complesso di norme ispirate a uno o più principi fondamentali che regola una data materia in modo coerente, producendo organismi e dando origine a procedure",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "istituto della proprietà privata"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "BU",
+        "field": "sociologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Diritto sociologia , strumento di organizzazione della società regolato da norme morali, culturali, politiche e giuridiche, profondamente radicato nella vita sociale e produttivo di comportamenti uniformi ma suscettibili di evoluzione storica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "istituto del matrimonio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fenomeno sociale largamente diffuso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’istituto del fine settimana fuori città"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Proposito; impegno preso; scopo prefisso",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Ente o organizzazione pubblica o privata costituita per svolgere attività di natura educativa, scientifica, culturale o assistenziale.",
+      "examples": [
+        "L'istituto di ricerca ha pubblicato i risultati dello studio.",
+        "Ha studiato all'istituto d'arte prima di iscriversi all'università."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Edificio o complesso di edifici in cui ha sede un ente scolastico, sanitario, religioso o assistenziale.",
+      "examples": [
+        "I ragazzi escono dall'istituto alle due del pomeriggio.",
+        "L'istituto sorge in periferia ed è circondato da un ampio parco."
+      ],
+      "nota": "In questo senso si riferisce alla struttura fisica, non all'organizzazione in sé."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Nell'ambito giuridico, insieme di norme e principi che regolano una determinata materia o figura del diritto.",
+      "examples": [
+        "L'istituto della prescrizione è oggetto di frequenti riforme legislative.",
+        "Il contratto di locazione è un istituto disciplinato dal codice civile."
+      ],
+      "nota": "Tipico del linguaggio tecnico-giuridico; indica una categoria normativa consolidata."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Istituto bancario: azienda autorizzata a svolgere attività di raccolta del risparmio e concessione del credito.",
+      "examples": [
+        "Ha chiesto un mutuo all'istituto di credito del suo quartiere.",
+        "Gli istituti bancari hanno ridotto i tassi di interesse sui prestiti."
+      ],
+      "nota": "Forma abbreviata di 'istituto di credito' o 'istituto bancario', comunemente usata nel linguaggio finanziario e giornalistico."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Comunità religiosa, specialmente femminile, dedita alla vita consacrata o all'apostolato.",
+      "examples": [
+        "Le suore appartengono a un istituto fondato nel Settecento.",
+        "L'istituto missionario opera in diverse regioni dell'Africa subsahariana."
+      ],
+      "nota": "Uso prevalente in ambito ecclesiastico; spesso in espressioni come 'istituto religioso' o 'istituto secolare'."
+    }
+  ]
+}

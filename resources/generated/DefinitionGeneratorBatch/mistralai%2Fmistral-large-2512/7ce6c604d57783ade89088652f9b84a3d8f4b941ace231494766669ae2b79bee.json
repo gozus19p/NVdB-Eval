@@ -1,0 +1,149 @@
+{
+  "lemma": "giocatore",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaed269ad0a50d0657e5b"
+    },
+    "source": "paraviaXML/48693.xml",
+    "lemma": "giocatore",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi si dedica a un gioco per divertimento o passatempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giocatore di carte",
+              "di scacchi",
+              "essere un ottimo",
+              "un pessimo giocatore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi pratica un gioco sportivo come professionista o come dilettante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "giocatore di calcio",
+              "di basket",
+              "di tennis",
+              "i giocatori sono in campo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi pratica abitualmente il gioco d’azzardo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere un accanito giocatore"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi raggira gli altri comportandosi con astuzia e senza scrupoli",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m. (f. giocatrice)",
+      "definition": "Persona che partecipa a un gioco, soprattutto se organizzato secondo regole precise.",
+      "examples": [
+        "Il giocatore di scacchi ha vinto il torneo nazionale.",
+        "Ogni squadra di calcio è composta da undici giocatori."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m. (f. giocatrice)",
+      "definition": "Persona che pratica uno sport a livello agonistico o professionistico.",
+      "examples": [
+        "Il giocatore di basket ha firmato un contratto milionario.",
+        "La giocatrice di tennis si è ritirata dopo una lunga carriera."
+      ],
+      "nota": "Spesso usato in contesti sportivi, anche per atleti non professionisti ma impegnati in competizioni."
+    },
+    {
+      "pos": "sostantivo m. (f. giocatrice)",
+      "definition": "Persona che ha la tendenza a scommettere denaro o a rischiare in attività di gioco d'azzardo.",
+      "examples": [
+        "È un giocatore incallito: passa le notti al casinò.",
+        "Quel giocatore ha perso tutti i suoi risparmi alla roulette."
+      ],
+      "nota": "Può avere una connotazione negativa, associata a dipendenza o irresponsabilità."
+    },
+    {
+      "pos": "sostantivo m. (f. giocatrice)",
+      "definition": "Persona che assume un ruolo attivo in una situazione, spesso con riferimento a strategie o dinamiche competitive.",
+      "examples": [
+        "Nella trattativa commerciale, è un giocatore chiave del settore.",
+        "I giocatori politici stanno cercando un accordo per la riforma."
+      ],
+      "nota": "Uso figurato, esteso a contesti non ludici o sportivi."
+    }
+  ]
+}

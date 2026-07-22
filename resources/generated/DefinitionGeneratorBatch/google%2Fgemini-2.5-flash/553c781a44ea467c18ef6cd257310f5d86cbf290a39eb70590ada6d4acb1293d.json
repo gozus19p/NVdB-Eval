@@ -1,0 +1,91 @@
+{
+  "lemma": "comunista",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0869ad0a50d064bfae"
+    },
+    "source": "paraviaXML/25291.xml",
+    "lemma": "comunista",
+    "grammar": [
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo al comunismo, ai comunisti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "movimento",
+              "paese comunista",
+              "idee comuniste",
+              "principi comunisti"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che, chi crede, aderisce alla teoria del comunismo o chi fa parte di un partito che vi si ispira",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un militante",
+              "un simpatizzante comunista"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo al comunismo o ai suoi principi politici e sociali.",
+      "examples": [
+        "Il partito comunista ha presentato un programma di riforme economiche.",
+        "Le idee comuniste hanno influenzato diversi movimenti rivoluzionari nel XX secolo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo (m./f.)",
+      "definition": "Persona che aderisce ai principi del comunismo o è membro di un partito comunista.",
+      "examples": [
+        "Mio nonno è stato un fervente comunista per tutta la vita.",
+        "Molti giovani si dichiaravano comunisti negli anni Settanta."
+      ],
+      "nota": null
+    }
+  ]
+}

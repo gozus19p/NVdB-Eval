@@ -1,0 +1,184 @@
+{
+  "lemma": "blu",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a74f"
+    },
+    "source": "paraviaXML/14698.xml",
+    "lemma": "blu",
+    "grammar": [
+      "agg.inv.",
+      "s.m.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Del colore del cielo sereno, del mare profondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vestito blu",
+              "scarpe blu",
+              "inchiostro blu"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Essere fortemente spaventato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere una fifa, una paura blu",
+              "essere blu dalla paura"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il colore del cielo sereno, del mare profondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ha gli occhi di un blu intenso"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche seguito da un sostantivo che indica una cosa o un animale di tale colore che ne individua la tonalità: anche seguito da un aggettivo o da un altro colore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il blu è il mio colore preferito",
+              "blu oltremare, blu pavone, blu cobalto, blu marina",
+              "blu notte",
+              "blu madonna",
+              "blu scuro, blu metallico",
+              "blu nero, blu verde, blu grigio, blu avio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "chimica",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sostanza colorante blu",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chimica , composto chimico di colore blu, pigmento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "blu di fenolo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Di colore della luce tra il violetto e il verde nello spettro visibile, simile al cielo sereno.",
+      "examples": [
+        "Ha comprato una camicia di seta blu.",
+        "Il mare è diventato di un blu intenso all'orizzonte."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Il colore della luce tra il violetto e il verde nello spettro visibile.",
+      "examples": [
+        "Il blu è il suo colore preferito.",
+        "La bandiera nazionale presenta tre tonalità di blu."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo a squadre, uniformi o divise caratterizzate tradizionalmente da tale colore.",
+      "examples": [
+        "La squadra blu ha vinto la partita.",
+        "Indossava la maglia blu della nazionale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che manifesta tristezza, malinconia o stato depressivo.",
+      "examples": [
+        "Da quando si è trasferita, si sente sempre un po' blu.",
+        "Quella musica malinconica mi mette di umore blu."
+      ],
+      "nota": "Uso figurato, dall'inglese 'blue'; comune nell'italiano contemporaneo."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito a film, spettacoli o contenuti a carattere pornografico o osceno.",
+      "examples": [
+        "In quel canale trasmettono spesso film blu a tarda notte.",
+        "La commedia ha battute molto blu."
+      ],
+      "nota": "Uso figurato, dall'espressione inglese 'blue movie'; comune nell'italiano contemporaneo."
+    }
+  ]
+}

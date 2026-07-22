@@ -1,0 +1,82 @@
+{
+  "lemma": "avvenire",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa569ad0a50d0662965"
+    },
+    "source": "paraviaXML/11088.xml",
+    "lemma": "avvenire",
+    "grammar": [
+      "v.intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "avvenire-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "proposizione",
+          "locuzione congiuntivale",
+          "locuzione congiuntivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accadere, succedere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avvenne l’imprevisto",
+              "sono avvenuti fatti terribili",
+              "andrò, avvenga quel che vuole"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "impersonale",
+              "variante",
+              "variante"
+            ],
+            "definitions": [
+              {
+                "glossa": "Impersonale , introduce soggettive: variante ; avvegnaché None variante ; avvegnaché.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avviene di incontrare per caso qcn."
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo (m.)",
+      "definition": "Tempo che deve ancora trascorrere a partire dal momento presente; l'insieme degli eventi futuri.",
+      "examples": [
+        "Gli insegnanti discutono spesso sull'avvenire dei ragazzi in un mercato del lavoro in rapida trasformazione.",
+        "Investire in educazione significa garantire un avvenire più stabile alle nuove generazioni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo (intransitivo, ausiliare essere)",
+      "definition": "Accadere o verificarsi, con riferimento a fatti, eventi o circostanze.",
+      "examples": [
+        "L'incidente è avvenuto in tarda serata senza che intervenissero le forze dell'ordine.",
+        "Non è ancora chiaro come il trasferimento di proprietà sia potuto avvenire così rapidamente."
+      ],
+      "nota": "Termine caratteristico del registro formale, giornalistico o amministrativo; spesso preferito a sinonimi come succedere per sottolineare la concretezza o l'ufficialità del fatto."
+    }
+  ]
+}

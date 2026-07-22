@@ -1,0 +1,97 @@
+{
+  "lemma": "istante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaee669ad0a50d0658f0b"
+    },
+    "source": "paraviaXML/60839.xml",
+    "lemma": "istante",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Frazione minima di tempo, attimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il lampo durò un istante",
+              "sono arrivato un istante dopo la partenza del treno"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Breve lasso di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "aspetta solo un istante",
+              "sarò pronta in un istante",
+              "concedersi un istante di riposo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica specialmente seguito da ulteriori specificazioni, particolare valore della variabile di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Minimo intervallo di tempo percepibile; attimo; momento di brevissima durata.",
+      "examples": [
+        "Per un istante credetti di averla vista.",
+        "La sua risposta giunse dopo un istante di esitazione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Punto preciso nel flusso temporale; momento specifico e definito.",
+      "examples": [
+        "Segnò l'istante esatto della collisione.",
+        "Ricorderò per sempre quell'istante magico."
+      ],
+      "nota": null
+    }
+  ]
+}

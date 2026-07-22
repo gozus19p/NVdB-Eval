@@ -1,0 +1,148 @@
+{
+  "lemma": "ricerca",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3469ad0a50d065ce2f"
+    },
+    "source": "paraviaXML/94070.xml",
+    "lemma": "ricerca",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il ricercare e il suo risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la ricerca di un documento perso",
+              "di un lavoro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Attività intellettuale che mira a informarsi su un argomento o a estendere e ad approfondire la conoscenza in modo sistematico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ricerca filologica",
+              "storica",
+              "linguistica",
+              "laboratorio di ricerca"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il risultato di tale indagine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pubblicare",
+              "presentare una ricerca sul nucleare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’insieme delle indagini scientifiche prodotte in un dato periodo, disciplina o paese",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività sistematica volta a trovare qualcosa o qualcuno di cui si ignora la posizione o l'esistenza.",
+      "examples": [
+        "Le forze dell'ordine hanno avviato le ricerche del bambino scomparso.",
+        "La ricerca dei documenti negli archivi ha richiesto ore di lavoro."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività intellettuale e sperimentale condotta in modo metodico per ampliare le conoscenze in un determinato campo scientifico, umanistico o tecnico.",
+      "examples": [
+        "Il laboratorio riceve fondi pubblici per la ricerca sul cancro.",
+        "Ha dedicato tutta la sua carriera alla ricerca in campo linguistico."
+      ],
+      "nota": "In questo senso si usa spesso in contesti accademici e istituzionali; può comparire nella locuzione 'ricerca scientifica' o come termine autonomo con lo stesso valore."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Elaborato scritto, solitamente scolastico o universitario, in cui si approfondisce un argomento attraverso raccolta e organizzazione di informazioni.",
+      "examples": [
+        "La professoressa ci ha assegnato una ricerca sulla Seconda guerra mondiale.",
+        "Ho preparato una ricerca di dieci pagine sull'ecosistema delle foreste tropicali."
+      ],
+      "nota": "In ambito scolastico è spesso sinonimo informale di 'tesina' o 'elaborato'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Funzione o operazione informatica che consente di individuare elementi, dati o contenuti all'interno di un sistema, database o rete.",
+      "examples": [
+        "Puoi affinare la ricerca usando filtri avanzati sul sito.",
+        "Ho digitato le parole chiave nella barra di ricerca ma non ho trovato nulla di utile."
+      ],
+      "nota": "In questo senso è frequente nella locuzione 'motore di ricerca' per indicare strumenti come Google."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Sforzo o indagine personale finalizzata a ottenere o raggiungere qualcosa di desiderato o ambito, anche in senso figurato.",
+      "examples": [
+        "La ricerca della felicità è un tema centrale in molta letteratura moderna.",
+        "È partito per un lungo viaggio alla ricerca di sé stesso."
+      ],
+      "nota": "Questo uso è prevalentemente figurato e si trova spesso nella costruzione 'alla ricerca di'."
+    }
+  ]
+}

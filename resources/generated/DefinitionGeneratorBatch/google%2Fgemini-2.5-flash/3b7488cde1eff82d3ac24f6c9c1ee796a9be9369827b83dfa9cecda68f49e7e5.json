@@ -1,0 +1,61 @@
+{
+  "lemma": "causare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa869ad0a50d0662bbc"
+    },
+    "source": "paraviaXML/20209.xml",
+    "lemma": "causare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "causare-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Far succedere, provocare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "causare un danno",
+              "causare uno scandalo",
+              "la grandinata ha causato danni alle colture"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Essere la ragione o la fonte di un evento, una condizione o un effetto, provocando un determinato risultato.",
+      "examples": [
+        "Un cortocircuito ha causato l'interruzione della corrente in tutto il quartiere.",
+        "Il suo comportamento sconsiderato sta causando molti problemi ai colleghi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Dare origine a sentimenti, reazioni o stati d'animo specifici in qualcuno.",
+      "examples": [
+        "Le sue parole causarono un forte imbarazzo in tutta la sala.",
+        "Il film ha causato molta commozione tra gli spettatori."
+      ],
+      "nota": "Spesso usato per riferirsi a effetti emotivi o psicologici."
+    }
+  ]
+}

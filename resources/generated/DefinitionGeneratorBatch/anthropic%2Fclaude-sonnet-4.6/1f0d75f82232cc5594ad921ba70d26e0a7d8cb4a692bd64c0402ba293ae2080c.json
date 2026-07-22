@@ -1,0 +1,91 @@
+{
+  "lemma": "insegnante",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6269ad0a50d06520ec"
+    },
+    "source": "paraviaXML/57710.xml",
+    "lemma": "insegnante",
+    "grammar": [
+      "p.pres.",
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [
+          "participio presente",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi insegna, specialmente per professione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "insegnante di lettere",
+              "insegnante di nuoto",
+              "di liceo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona che svolge professionalmente l'attività di trasmettere conoscenze, abilità o valori a studenti o allievi, generalmente in un contesto scolastico o formativo istituzionale.",
+      "examples": [
+        "L'insegnante di matematica ha spiegato i teoremi con grande chiarezza.",
+        "Mia sorella lavora come insegnante di scuola primaria da dieci anni.",
+        "Gli insegnanti si sono riuniti in sala professori per discutere i risultati degli studenti."
+      ],
+      "nota": "Il termine è invariabile nel genere morfologico (un insegnante / una insegnante), ma il genere grammaticale concorda con il referente. Spesso usato come sinonimo di 'professore' o 'maestro', dai quali si distingue per essere più neutro e generico rispetto al grado scolastico o alla disciplina."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che esercita la funzione di trasmettere conoscenze o istruire; relativo all'attività di istruzione.",
+      "examples": [
+        "Il personale insegnante dell'istituto è composto da trenta docenti.",
+        "La componente insegnante del consiglio di istituto ha votato compatta."
+      ],
+      "nota": "Uso prevalentemente burocratico-amministrativo, spesso in sintagmi come 'corpo insegnante' o 'personale insegnante'. In questi contesti è sostituibile con 'docente'."
+    }
+  ]
+}

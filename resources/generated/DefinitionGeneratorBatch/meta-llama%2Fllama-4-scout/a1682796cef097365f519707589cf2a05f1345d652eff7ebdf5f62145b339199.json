@@ -1,0 +1,144 @@
+{
+  "lemma": "baciare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa569ad0a50d06629b9"
+    },
+    "source": "paraviaXML/11577.xml",
+    "lemma": "baciare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Dare uno o più baci a qualcuno in segno di affetto o amore, o anche a qualcosa specialmente in segno di rispetto o devozione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "baciare un bambino",
+              "la sposa",
+              "baciare sulle labbra",
+              "baciare la fronte",
+              "baciare una reliquia",
+              "il crocifisso"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "È molto fortunato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è stato baciato",
+              "baciato in fronte",
+              "dalla fortuna"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "In segno di ossequio, di riverenza; al papa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "baciare la mano",
+              "la veste a qcn.",
+              "baciare la pantofola"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Per indicare il rispetto e la riconoscenza che gli si tributa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "baciare la terra dove qcn. passa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Toccare lievemente, sfiorare: Pascoli)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la luna bacia il cipresseto fosco"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo",
+      "definition": "toccare con le labbra, come segno di affetto o di saluto",
+      "examples": [
+        "Si baciarono sulla guancia",
+        "La baciò sulla fronte"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "esprimere affetto o ammirazione con un bacio",
+      "examples": [
+        "Cominciò a baciare la foto del figlio",
+        "Bacia il quadro della Madonna"
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo",
+      "definition": "baciarsi a vicenda",
+      "examples": [
+        "I due ragazzi si baciano ogni giorno",
+        "Si baciano davanti a tutti"
+      ],
+      "nota": null
+    }
+  ]
+}

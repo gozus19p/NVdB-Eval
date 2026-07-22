@@ -1,0 +1,149 @@
+{
+  "lemma": "visita",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8569ad0a50d066101b"
+    },
+    "source": "paraviaXML/128008.xml",
+    "lemma": "visita",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il recarsi presso qualcuno e intrattenersi in sua compagnia per amicizia, cortesia, dovere, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare visita a un amico",
+              "a un malato",
+              "andare in visita dai parenti",
+              "ricevere",
+              "restituire una visita"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "metonimia"
+            ],
+            "definitions": [
+              {
+                "glossa": "Per , la persona che visita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’è una visita per te"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Visita medica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visita specialistica",
+              "visita ambulatoriale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il recarsi in un luogo o in una località a scopo culturale, per turismo, come atto di culto, per ispezionare, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la visita di un museo",
+              "di una città",
+              "di una chiesa",
+              "di una scuola"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Atto di recarsi da qualcuno o in un luogo per incontri sociali, cortesi o di controllo.",
+      "examples": [
+        "La nonna attende la nostra visita ogni domenica.",
+        "Il sindaco ha effettuato una visita in cantiere."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Controllo medico o ispezione sanitaria eseguita da un professionista.",
+      "examples": [
+        "È ora di prenotare la visita dal dentista.",
+        "La dottoressa farà le visite domiciliari oggi pomeriggio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Ispezione ufficiale da parte di un'autorità, di un ispettore o di un ente di controllo.",
+      "examples": [
+        "L'ispettore ha annunciato una visita a sorpresa in ufficio.",
+        "La scuola si prepara per la visita del provveditore."
+      ],
+      "nota": "Questa accezione si estende tipicamente a contesti amministrativi, lavorativi o educativi."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività turistica o culturale che consiste nell'esplorare un luogo di interesse.",
+      "examples": [
+        "Ho programmato una visita al museo domani.",
+        "La guida ci ha accompagnato nella visita della città antica."
+      ],
+      "nota": "Il termine è qui usato nel contesto del turismo e della fruizione di siti storici, artistici o naturali."
+    }
+  ]
+}

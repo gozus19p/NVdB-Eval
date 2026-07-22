@@ -1,0 +1,211 @@
+{
+  "lemma": "operazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0c69ad0a50d065ae46"
+    },
+    "source": "paraviaXML/76451.xml",
+    "lemma": "operazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’operare e il suo risultato, azione, procedimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "infilare un ago non è un’operazione facilissima"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di atti volti a un fine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un’abile operazione di marketing",
+              "operazione finanziaria",
+              "economica",
+              "commerciale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "medicina"
+            ],
+            "definitions": [
+              {
+                "glossa": "Medicina ; intervento chirurgico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "linguaggio militare",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguaggio militare , insieme di attività e avvenimenti militari sia in tempo bellico che in tempo di pace",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operazione navale",
+              "aerea",
+              "operazione difensiva",
+              "offensiva"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Serie di azioni o iniziative coordinate di vasta portata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operazione mare pulito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "CO",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , processo che da uno o più enti noti permette di ottenerne un altro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Operazione aritmetica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme di azioni coordinate e pianificate volte al raggiungimento di uno scopo specifico, spesso in ambito militare, di polizia o di soccorso.",
+      "examples": [
+        "Le forze dell'ordine hanno condotto un'operazione antidroga nel quartiere.",
+        "L'operazione militare è stata pianificata nei minimi dettagli."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Intervento chirurgico eseguito su un paziente per trattare una patologia, riparare un danno fisico o asportare un tessuto.",
+      "examples": [
+        "Il chirurgo ha eseguito l'operazione al cuore con successo.",
+        "Dopo l'operazione al ginocchio, ha seguito mesi di fisioterapia."
+      ],
+      "nota": "In questo senso è sinonimo di 'intervento chirurgico'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Procedimento matematico elementare (addizione, sottrazione, moltiplicazione, divisione) o più complesso che trasforma uno o più valori in un risultato.",
+      "examples": [
+        "Gli alunni hanno imparato le quattro operazioni fondamentali.",
+        "Il calcolatore esegue milioni di operazioni al secondo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Transazione o insieme di attività di natura commerciale, finanziaria o burocratica.",
+      "examples": [
+        "Ha concluso un'operazione immobiliare molto vantaggiosa.",
+        "La banca ha bloccato l'operazione in attesa di ulteriori verifiche."
+      ],
+      "nota": "Frequente nelle espressioni 'operazione finanziaria', 'operazione di borsa', 'operazione commerciale'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Attività o manovra di carattere tecnico o pratico compiuta su un oggetto, un sistema o un impianto.",
+      "examples": [
+        "Le operazioni di manutenzione della rete idrica dureranno tutta la notte.",
+        "Prima di accendere il macchinario, esegui le operazioni preliminari indicate nel manuale."
+      ],
+      "nota": null
+    }
+  ]
+}

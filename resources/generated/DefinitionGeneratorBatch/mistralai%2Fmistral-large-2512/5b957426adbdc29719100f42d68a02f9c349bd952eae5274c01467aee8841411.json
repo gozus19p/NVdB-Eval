@@ -1,0 +1,215 @@
+{
+  "lemma": "spettacolo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf5669ad0a50d065ea32"
+    },
+    "source": "paraviaXML/112748.xml",
+    "lemma": "spettacolo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Rappresentazione, manifestazione, specialmente di tipo teatrale, cinematografico, televisivo, eccetera , che si svolge davanti a un pubblico appositamente convenuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "spettacolo lirico",
+              "musicale",
+              "di varietà",
+              "di balletto",
+              "di burattini"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con fuochi d’artificio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "spettacolo pirotecnico",
+              "pirico",
+              "uno spettacolo divertente",
+              "noioso"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione , che è stato trasformato in una sorta di rappresentazione che ne fa risaltare solo gli aspetti più sensazionali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "politica",
+              "informazione",
+              "cultura spettacolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciascuna delle identiche rappresentazioni facenti parte di una serie programmata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la compagnia darà solo tre spettacoli",
+              "andare al cinema all’ultimo spettacolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , insieme delle attività attinenti cinema, teatro, televisione, eccetera e delle persone che vi lavorano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il mondo",
+              "l’industria dello spettacolo",
+              "gente di spettacolo",
+              "lavorare nello spettacolo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che colpisce o impressiona in quanto straordinario, impressionante, curioso, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo spettacolo del tramonto",
+              "quelle cascate sono un vero spettacolo",
+              "è uno spettacolo vederli litigare!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Folla di spettatori",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1a,1b,2,3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Rappresentazione pubblica di un'opera teatrale, musicale, cinematografica o di altro genere, destinata a un pubblico.",
+      "examples": [
+        "Abbiamo prenotato i biglietti per lo spettacolo di stasera al teatro comunale.",
+        "Il festival offre una varietà di spettacoli, dalle commedie ai concerti di musica classica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Evento o situazione che attira l'attenzione per la sua eccezionalità, bellezza o stranezza.",
+      "examples": [
+        "Lo spettacolo delle luci al tramonto sul mare era mozzafiato.",
+        "La finale di calcio è stata uno spettacolo di emozioni e colpi di scena."
+      ],
+      "nota": "Può avere una connotazione positiva o negativa a seconda del contesto."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Comportamento o situazione che suscita imbarazzo, disapprovazione o derisione per la sua mancanza di decoro o dignità.",
+      "examples": [
+        "Ha fatto uno spettacolo davanti a tutti, urlando e piangendo senza motivo.",
+        "Non voglio essere parte di questo spettacolo, è umiliante per tutti."
+      ],
+      "nota": "Spesso usato in contesti informali con una sfumatura negativa."
+    }
+  ]
+}

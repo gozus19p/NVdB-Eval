@@ -1,0 +1,230 @@
+{
+  "lemma": "bordo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae8669ad0a50d0653eba"
+    },
+    "source": "paraviaXML/15144.xml",
+    "lemma": "bordo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fianco di un’imbarcazione, specialmente la parte del fianco che emerge dall’acqua",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lo spazio interno praticabile di un’imbarcazione o di altro mezzo di trasporto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "personale di bordo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Salirvi sopra; entrarvi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "salire a bordo di una nave",
+              "salire a bordo di un’automobile",
+              "di un aeroplano"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Orlo, margine, estremità di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il bordo della vasca",
+              "del campo",
+              "ai bordi della strada"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Guarnizione usata per orlare un capo di biancheria, di vestiario e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una coperta col bordo ricamato",
+              "fare un bordo all’uncinetto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "geometria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Geometria , il contorno d’una superficie piana o curva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il bordo di un rettangolo",
+              "di un emisfero"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "astronomia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Astronomia , la parte estrema del contorno di un astro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "marina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Marina , nella navigazione di bolina delle barche a vela, ogni tratto percorso con il vento da uno stesso lato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Linea o fascia che delimita il margine esterno di una superficie o di un oggetto.",
+      "examples": [
+        "Ha ricamato un motivo floreale lungo il bordo della tovaglia.",
+        "Attento a non cadere: sei troppo vicino al bordo del marciapiede."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Struttura laterale di un'imbarcazione, in particolare la fiancata che separa l'interno dello scafo dall'acqua.",
+      "examples": [
+        "I marinai si sporsero oltre il bordo per issare la rete.",
+        "L'onda si abbatté sul bordo della barca, inzuppando tutti."
+      ],
+      "nota": "Da questo senso derivano le locuzioni 'a bordo' e 'uomo in mare', nonché il termine 'bordo' usato per estensione a qualsiasi veicolo."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "L'interno di un mezzo di trasporto (nave, aereo, treno, automobile); la condizione di chi si trova su tale mezzo.",
+      "examples": [
+        "I passeggeri a bordo dell'aereo sono stati invitati ad allacciare le cinture.",
+        "Il comandante ha dato il benvenuto a tutti i presenti a bordo."
+      ],
+      "nota": "Usato prevalentemente nella locuzione 'a bordo di' o ellitticamente 'a bordo'. Esteso dal contesto nautico a qualsiasi veicolo."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "In informatica ed elettronica, l'insieme dei componenti e dei sistemi integrati all'interno di un dispositivo o di un veicolo.",
+      "examples": [
+        "Il computer di bordo ha rilevato un'anomalia al motore.",
+        "Il sistema di navigazione di bordo è aggiornato automaticamente."
+      ],
+      "nota": "Ricorre spesso in composti come 'computer di bordo', 'strumentazione di bordo', 'telecamera di bordo'."
+    }
+  ]
+}

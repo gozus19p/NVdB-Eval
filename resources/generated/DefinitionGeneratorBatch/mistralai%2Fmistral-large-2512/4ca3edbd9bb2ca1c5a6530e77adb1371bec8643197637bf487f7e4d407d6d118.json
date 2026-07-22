@@ -1,0 +1,183 @@
+{
+  "lemma": "discutere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb169ad0a50d066326f"
+    },
+    "source": "paraviaXML/34354.xml",
+    "lemma": "discutere",
+    "grammar": [
+      "v.tr. e intr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile",
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Esaminare un problema, una questione o simile , da parte di due o più persone che mettono a confronto pareri e punti di vista differenti specialmente per arrivare a una conclusione o una decisione comune",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "discutere una proposta di legge",
+              "il piano",
+              "il bilancio dell’azienda",
+              "la pianificazione di un lavoro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo",
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": ") dibattere di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "discutere di politica",
+              "sono anni che si discute su questo problema",
+              "forse è il caso di discutere con calma"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Conversare, colloquiare, chiacchierare di un dato argomento: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "discutere di cinema",
+              "abbiamo discusso per tutta la sera"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo",
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Muovere obiezioni, esprimere riserve; mettere in dubbio, in discussione: anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non è il momento di discutere le mie affermazioni",
+              "non discuto certo il tuo diritto di fare quello che credi",
+              "non ammettono che si discutano i loro ordini",
+              "non discuto più"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo",
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Litigare, bisticciare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "smettetela di d., vi pare il caso!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Esaminare un argomento in modo approfondito, scambiando opinioni o punti di vista con altri, spesso per analizzarne aspetti diversi o per giungere a una conclusione.",
+      "examples": [
+        "Abbiamo discusso il progetto per ore prima di prendere una decisione.",
+        "Durante la riunione, discuteremo i nuovi obiettivi aziendali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Parlare con qualcuno in modo animato o polemico, spesso per esprimere disaccordo o contrarietà.",
+      "examples": [
+        "Hanno discusso per tutta la sera senza trovare un accordo.",
+        "Non voglio discutere con te, è inutile."
+      ],
+      "nota": "In questo senso, il verbo è spesso accompagnato da preposizioni come 'con' o 'su' (es. 'discutere con qualcuno', 'discutere su un tema')."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Mettere in dubbio la validità o l'opportunità di qualcosa, spesso criticandola.",
+      "examples": [
+        "Molti esperti discutono l'efficacia di questa terapia.",
+        "Non si può discutere la sua competenza in materia."
+      ],
+      "nota": "In questo senso, il verbo assume una sfumatura critica o di contestazione."
+    },
+    {
+      "pos": "verbo transitivo (uso assoluto)",
+      "definition": "Trattare un tema o un problema in un contesto formale, come una conferenza, un dibattito o un testo scritto.",
+      "examples": [
+        "Il professore discuterà della Rivoluzione Francese nella prossima lezione.",
+        "Nel suo saggio, l'autore discute le cause della crisi economica."
+      ],
+      "nota": "Spesso usato in contesti accademici o divulgativi."
+    }
+  ]
+}

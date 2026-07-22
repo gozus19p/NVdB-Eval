@@ -1,0 +1,205 @@
+{
+  "lemma": "accompagnare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf9f69ad0a50d066242e"
+    },
+    "source": "paraviaXML/1163.xml",
+    "lemma": "accompagnare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Seguire, scortare per tenere compagnia, dare protezione e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare qcn. a casa",
+              "accompagnare la sposa all’altare",
+              "accompagnare gli ospiti alla porta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Seguirne il feretro al funerale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare un defunto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Seguire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare qcn. con lo sguardo",
+              "col pensiero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trattenerla con la mano per non farla sbattere chiudendola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare la porta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mettere insieme, accordare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare una pietanza col vino",
+              "accompagnare lo studio con la riflessione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , seguire con l’accompagnamento di uno strumento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare la cantante al",
+              "con il pianoforte"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Andare insieme a qualcuno in un luogo, facendogli compagnia durante il tragitto o la permanenza.",
+      "examples": [
+        "Ti accompagno alla stazione, così non devi prendere il taxi.",
+        "La maestra accompagnò i bambini in gita al museo."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Condurre o scortare qualcuno verso una destinazione, assumendosi la responsabilità del trasporto o della guida.",
+      "examples": [
+        "L'infermiere accompagnò il paziente in sala operatoria.",
+        "Le guardie del corpo accompagnarono il ministro all'uscita."
+      ],
+      "nota": "Si distingue dal senso precedente per l'enfasi sulla funzione di guida o scorta piuttosto che sulla semplice compagnia."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Eseguire una parte musicale di supporto a una voce o a uno strumento solista.",
+      "examples": [
+        "Il pianista ha accompagnato la cantante durante il concerto.",
+        "La chitarra acustica accompagnava dolcemente il violino."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Abbinare o associare un elemento a un altro in modo armonioso, in ambito gastronomico o estetico.",
+      "examples": [
+        "Ho accompagnato il filetto con una riduzione di vino rosso.",
+        "Accompagna il vestito con una cintura sottile per valorizzare la silhouette."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Essere presente insieme a qualcosa come elemento che si aggiunge o che segue, detto di fenomeni, sensazioni o circostanze.",
+      "examples": [
+        "La febbre era accompagnata da forti dolori muscolari.",
+        "Al comunicato stampa era accompagnata una nota esplicativa."
+      ],
+      "nota": "In questo uso il soggetto è tipicamente inanimato e il verbo assume un valore descrittivo di co-occorrenza."
+    },
+    {
+      "pos": "verbo riflessivo",
+      "definition": "Stare insieme a qualcuno, frequentarlo come compagno o partner.",
+      "examples": [
+        "Da qualche mese si accompagna con una ragazza conosciuta al lavoro.",
+        "Preferisce accompagnarsi a persone positive e motivate."
+      ],
+      "nota": "L'uso riflessivo può avere sfumature che vanno dalla semplice frequentazione alla relazione sentimentale, a seconda del contesto."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Chiudere delicatamente qualcosa, in particolare una porta, senza sbatterla.",
+      "examples": [
+        "Accompagna la porta quando esci, per favore.",
+        "Uscì dalla stanza accompagnando piano l'uscio."
+      ],
+      "nota": "Uso specifico e idiomatico, tipicamente con 'la porta' come complemento oggetto."
+    }
+  ]
+}

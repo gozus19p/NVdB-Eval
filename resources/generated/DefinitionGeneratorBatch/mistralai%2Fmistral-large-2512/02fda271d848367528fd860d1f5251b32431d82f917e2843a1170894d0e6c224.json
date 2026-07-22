@@ -1,0 +1,211 @@
+{
+  "lemma": "iniziale",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064ae16"
+    },
+    "source": "paraviaXML/57250.xml",
+    "lemma": "iniziale",
+    "grammar": [
+      "agg.",
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo all’inizio, che costituisce l’inizio, che sta all’inizio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fase iniziale di una trattativa"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quello percepito all’inizio di una carriera lavorativa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stipendio iniziale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di lettera o sillaba, che è la prima di una parola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la consonante iniziale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , di valori delle variabili che descrivono un sistema all’istante convenzionale assunto come origine dei tempi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accelerazione",
+              "velocità iniziale"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di fenomeno, identificato nel suo primo manifestarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "magnetizzazione iniziale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "TS",
+        "field": "bibliologia",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prima lettera di una parola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "iniziale maiuscola"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipografia bibliologia , lettera con cui inizia un libro o un capitolo, contraddistinta da carattere diverso, fregi o miniature",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "codice con iniziali ornate"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile",
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , le prime lettere del nome e del cognome di qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "siglare con le iniziali"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "che si trova all'inizio di qualcosa o che ne costituisce la prima parte.",
+      "examples": [
+        "La lettera iniziale del suo nome è una 'M'.",
+        "Nelle fasi iniziali del progetto, abbiamo incontrato molte difficoltà."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "relativo all'avvio o all'origine di un processo, di un'attività o di una condizione.",
+      "examples": [
+        "Il costo iniziale dell'abbonamento è molto basso.",
+        "L'entusiasmo iniziale si è trasformato in delusione."
+      ],
+      "nota": "Spesso usato in contrapposizione a 'finale' o 'successivo'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "la prima lettera di una parola o di un nome proprio.",
+      "examples": [
+        "L'iniziale del suo cognome è una 'R'.",
+        "Sulla copertina del libro spicca una grande iniziale decorata."
+      ],
+      "nota": "Frequentemente usato in contesti grafici o tipografici."
+    }
+  ]
+}

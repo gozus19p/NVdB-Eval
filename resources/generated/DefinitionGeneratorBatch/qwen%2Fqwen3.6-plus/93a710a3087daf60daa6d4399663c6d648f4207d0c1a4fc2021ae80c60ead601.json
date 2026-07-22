@@ -1,0 +1,202 @@
+{
+  "lemma": "associazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7969ad0a50d0653373"
+    },
+    "source": "paraviaXML/9479.xml",
+    "lemma": "associazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’associare, l’associarsi e il loro risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’associazione di due aziende",
+              "quota di associazione",
+              "l’associazione delle forze"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Unione organizzata di più persone con finalità comuni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "associazione benefica",
+              "associazione sportiva",
+              "associazione politica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "iniziale",
+              "maiuscolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con iniziale maiuscolo , in denominazioni di società diverse",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "A. Bancaria Italiana",
+              "A. di Mutuo Soccorso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Concatenamento, collegamento, relazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "associazione di ricordi",
+              "di fatti",
+              "di sensazioni",
+              "ci sono arrivato per associazione di idee"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , processo per cui idee e immagini si uniscono e si coordinano tra loro secondo rapporti di somiglianza, di opposizione e di continuità",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "burocrazia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Burocrazia , nell’ordinamento universitario italiano, carica di professore associato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "genetica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Genetica ; linkage",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "burocrazia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Burocrazia , presa in consegna, trasferimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "associazione di un malavitoso alla prigione"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Organizzazione stabile costituita da più persone o enti uniti dal perseguimento di scopi, interessi o attività comuni.",
+      "examples": [
+        "L'associazione di volontariato ha deciso di ampliare i propri servizi sul territorio.",
+        "I due comuni hanno costituito un ente per la gestione associata dei servizi ambientali."
+      ],
+      "nota": "In ambito giuridico e criminologico compare in locuzioni cristallizzate come associazione per delinquere e associazione mafiosa."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Collegamento mentale, logico o percettivo tra elementi, ricordi o concetti che vengono individuati come correlati.",
+      "examples": [
+        "La fragranza del gelsomino evoca in lui una immediata associazione con i giardini della sua infanzia.",
+        "Nella comunicazione moderna si punta spesso a creare una forte correlazione tra un determinato prodotto e un certo stile di vita."
+      ],
+      "nota": null
+    }
+  ]
+}

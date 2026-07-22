@@ -1,0 +1,186 @@
+{
+  "lemma": "avanzare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafa569ad0a50d066294d"
+    },
+    "source": "paraviaXML/10924.xml",
+    "lemma": "avanzare",
+    "grammar": [
+      "v.intr. e tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": ") essere in sovrabbondanza: essere d’avanzo, restare inutilizzato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il vino basta e avanza",
+              "è avanzato del pane"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo intransitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sopravvivere, scamparla",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avanzare a una catastrofe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere in credito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avanzare diecimila lire da qcn."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "verbo transitivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere in più, avere risparmiato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avanzare una piccola somma"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Spostarsi in avanti, procedere verso una direzione o una meta.",
+      "examples": [
+        "Le truppe avanzarono lentamente verso la città.",
+        "Il corteo avanzava tra due ali di folla."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Progredire, fare progressi in un campo o in un'attività; procedere verso uno stadio più elevato o sviluppato.",
+      "examples": [
+        "La ricerca scientifica avanza a ritmi sempre più rapidi.",
+        "Con lo studio costante stai avanzando molto nel tuo percorso."
+      ],
+      "nota": "Uso figurato rispetto al senso di movimento fisico."
+    },
+    {
+      "pos": "verbo intransitivo",
+      "definition": "Rimanere come eccedenza o residuo dopo un utilizzo o una distribuzione; essere in soprannumero.",
+      "examples": [
+        "Dopo la festa è avanzato molto cibo.",
+        "Avanzano ancora tre posti liberi in prima fila."
+      ],
+      "nota": "In questo senso è sinonimo di 'restare', 'rimanere'. Si usa spesso in costruzioni impersonali o con soggetto inanimato."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Avere diritto a ricevere qualcosa da qualcuno, in particolare una somma di denaro non ancora corrisposta.",
+      "examples": [
+        "Avanzo ancora duecento euro dal mio datore di lavoro.",
+        "Quanti soldi avanza ancora da lui per quel lavoro?"
+      ],
+      "nota": "Opposto di 'dovere' nel senso creditizio: chi avanza è il creditore."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Proporre o presentare formalmente qualcosa, come una richiesta, un'ipotesi o una proposta.",
+      "examples": [
+        "Il ministro ha avanzato una proposta di riforma.",
+        "Gli esperti hanno avanzato l'ipotesi che il fenomeno sia legato al clima."
+      ],
+      "nota": "Tipico del registro formale e burocratico; spesso collocato con 'proposta', 'richiesta', 'ipotesi', 'dubbi'."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Superare qualcuno o qualcosa in una graduatoria, in età o in una qualità misurabile.",
+      "examples": [
+        "Con quella promozione ha avanzato tutti i colleghi in carriera.",
+        "Il fratello maggiore la avanza di cinque anni."
+      ],
+      "nota": "Meno frequente; in questo senso è prossimo a 'sorpassare', 'superare'."
+    }
+  ]
+}

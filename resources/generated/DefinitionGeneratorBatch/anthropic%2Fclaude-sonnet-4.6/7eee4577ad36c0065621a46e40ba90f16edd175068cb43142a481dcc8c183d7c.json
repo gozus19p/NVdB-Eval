@@ -1,0 +1,149 @@
+{
+  "lemma": "operaio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae6c69ad0a50d065285a"
+    },
+    "source": "paraviaXML/76428.xml",
+    "lemma": "operaio",
+    "grammar": [
+      "s.m.",
+      "agg."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Chi, specialmente nell’industria, svolge un’attività lavorativa manuale alle dipendenze di qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "operaio metalmeccanico",
+              "tessile",
+              "edile"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Lavoratore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Chi presta lavoro a opera nei campi, bracciante",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo ai lavoratori dipendenti dell’industria, che riguarda tale categoria sociale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "classe operaia"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Lavoratore dipendente impiegato in attività manuali o meccaniche, generalmente nell'industria, nell'edilizia o in altri settori produttivi, inquadrato in una categoria contrattuale distinta da quella impiegatizia.",
+      "examples": [
+        "Gli operai dello stabilimento hanno scioperato per chiedere aumenti salariali.",
+        "Mio padre ha lavorato come operaio metalmeccanico per trent'anni.",
+        "L'azienda ha assunto venti nuovi operai per far fronte agli ordini in aumento."
+      ],
+      "nota": "Si contrappone tradizionalmente a 'impiegato' e 'dirigente' nella classificazione delle figure lavorative subordinate. La forma femminile 'operaia' è pienamente attestata."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo alla classe dei lavoratori manuali dipendenti, alle loro condizioni di vita, alle loro organizzazioni o alla loro cultura.",
+      "examples": [
+        "Il movimento operaio italiano ha avuto un ruolo fondamentale nella conquista dei diritti sociali.",
+        "Cresciuto in un quartiere operaio alla periferia di Torino, conosceva bene le difficoltà di quella realtà.",
+        "La tradizione operaia di questa città si riflette ancora nell'architettura industriale del centro storico."
+      ],
+      "nota": "In questa accezione aggettivale è spesso usato in collocazioni come 'classe operaia', 'movimento operaio', 'quartiere operaio', 'lotta operaia'."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Nelle colonie di insetti sociali come api, formiche e termiti, individuo sterile che svolge compiti di lavoro collettivo quali costruzione, raccolta del cibo e cura della covata.",
+      "examples": [
+        "Le api operaie vivono in media solo poche settimane durante la stagione estiva.",
+        "Nelle formiche, le operaie costituiscono la stragrande maggioranza della colonia.",
+        "L'operaia della termite è cieca e priva di ali, a differenza degli individui riproduttori."
+      ],
+      "nota": "Termine proprio dell'entomologia e della zoologia; in questo senso il femminile 'operaia' è la forma più frequente, poiché tali individui sono generalmente di sesso femminile nelle api e nelle formiche."
+    }
+  ]
+}

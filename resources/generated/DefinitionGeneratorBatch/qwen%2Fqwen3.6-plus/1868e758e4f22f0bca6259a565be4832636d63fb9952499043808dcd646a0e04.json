@@ -1,0 +1,155 @@
+{
+  "lemma": "latte",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf3c69ad0a50d065d4a9"
+    },
+    "source": "paraviaXML/62445.xml",
+    "lemma": "latte",
+    "grammar": [
+      "s.m.",
+      "s.m.inv.",
+      "agg.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Liquido bianco, opaco, altamente nutritivo, prodotto dalla secrezione delle ghiandole mammarie subito dopo il parto, destinato all’alimentazione della prole dei mammiferi nei primi mesi di vita",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "succhiare il latte"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Allattare; divezzare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare il latte",
+              "levare il latte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Alimento di grande valore dietetico ottenuto dalla mungitura delle femmine di alcuni mammiferi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "latte di mucca",
+              "di capra"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Colore bianco simile a quello del latte",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di tale colore",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bianco latte"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Liquido biancastro secreto dalle ghiandole mammarie delle femmine dei mammiferi, essenziale per la crescita della prole e comunemente commercializzato per il consumo umano.",
+      "examples": [
+        "Ogni mattino scaldo un bicchiere di latte fresco per accompagnare i biscotti.",
+        "Le normative sanitarie regolano attentamente la vendita del prodotto crudo sfuso."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Preparato dalla consistenza fluida e opaca, formulato con agenti idratanti o emollienti per la detersione e la cura della pelle.",
+      "examples": [
+        "Dopo la doccia applico sempre un latte corpo per mantenere l'epidermide morbida.",
+        "Il farmacista mi ha consigliato questo detergente specifico per pelli sensibili."
+      ],
+      "nota": "Estensione semantica basata sulla somiglianza di colore e viscosità con il prodotto alimentare."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Sfumatura bianca tendente al crema o al giallino, impiegata frequentemente in ambito cromatico, tessile e del design.",
+      "examples": [
+        "Ha scelto un abito color latte per la cerimonia diurna.",
+        "La parete dell'angolo cottura è stata tinteggiata con questa nuance per donare maggiore luminosità."
+      ],
+      "nota": null
+    }
+  ]
+}

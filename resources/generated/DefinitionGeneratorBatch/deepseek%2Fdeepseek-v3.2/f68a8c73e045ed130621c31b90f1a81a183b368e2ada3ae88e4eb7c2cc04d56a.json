@@ -1,0 +1,158 @@
+{
+  "lemma": "turno",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf6f69ad0a50d065ff26"
+    },
+    "source": "paraviaXML/124116.xml",
+    "lemma": "turno",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciascuno dei periodi di tempo, specialmente di otto ore, in cui viene suddivisa l’attività lavorativa, ovunque sia necessario il pieno utilizzo delle macchine o la copertura notturna per esigenze di servizio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lavoro al turno di notte",
+              "è stato un turno molto faticoso"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il gruppo, la squadra che lavora in quel particolare periodo di tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il primo turno ha lasciato il posto al secondo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Momento in cui spetta a qualcuno compiere una determinata attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stasera è il mio turno di lavare i piatti",
+              "aspetta il tuo turno"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avvicendamento di persone che si alternano nello svolgere un determinato lavoro o servizio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "organizzare i turni di guardia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "estensivo",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, in un torneo, ciascuna delle fasi eliminatorie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "uscire al primo turno"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Giornata di un campionato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "essere squalificato per due turni"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Sequenza prestabilita in cui più persone svolgono la stessa attività o godono dello stesso servizio",
+      "examples": [
+        "Oggi è il mio turno per fare la spesa.",
+        "Devi aspettare il tuo turno in coda."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Periodo lavorativo di una squadra, spesso in un sistema di rotazione oraria",
+      "examples": [
+        "Lavoro di notte perché mi è stato assegnato il turno serale.",
+        "L'ospedale è attivo 24 ore su 24 grazie a tre turni di personale."
+      ],
+      "nota": "Utilizzato prevalentemente in contesto lavorativo o organizzativo"
+    }
+  ]
+}

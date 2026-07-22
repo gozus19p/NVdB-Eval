@@ -1,0 +1,172 @@
+{
+  "lemma": "carcere",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9169ad0a50d06547cd"
+    },
+    "source": "paraviaXML/19057.xml",
+    "lemma": "carcere",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Edificio in cui viene rinchiuso chi è condannato per un reato o è in attesa di giudizio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scontare una pena in carcere",
+              "mettere",
+              "rinchiudere qcn. in carcere",
+              "fuggire dal carcere",
+              "uscire di",
+              "dal carcere"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Detenzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "condannare qcn. a sei anni di carcere"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Luogo opprimente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questa casa è diventata un carcere per me"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il corpo umano in quanto prigione dell’anima",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’inferno: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "caggiono in quel carcere cieco, nel quale mai il divino lume con grazia o con misericordia si vede"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , nei circhi romani, recinto in cui stavano cavalli e cocchi prima delle gare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo, maschile",
+      "definition": "Luogo chiuso e sorvegliato destinato alla custodia di persone in attesa di giudizio o condannate a pene detentive.",
+      "examples": [
+        "L'edificio è stato convertito in carcere di massima sicurezza alla fine degli anni Novanta.",
+        "I detenuti sono stati trasferiti in un carcere più vicino alle loro famiglie."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, maschile",
+      "definition": "Pena detentiva comminata dall'autorità giudiziaria, intesa come istituto giuridico di privazione della libertà personale.",
+      "examples": [
+        "Il giudice ha comminato tre anni di carcere per il reato di frode.",
+        "La riforma prevede la riduzione dei tempi di permanenza in carcere per le pene brevi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo, maschile",
+      "definition": "Situazione, luogo o condizione che viene percepita come fonte di coercizione, isolamento o limitazione della libertà individuale.",
+      "examples": [
+        "Dopo il divorzio, la sua routine quotidiana si è trasformata in un carcere dorato.",
+        "La dipendenza dalle notifiche dei social può diventare un carcere mentale."
+      ],
+      "nota": null
+    }
+  ]
+}

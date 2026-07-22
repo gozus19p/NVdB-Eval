@@ -1,0 +1,274 @@
+{
+  "lemma": "carne",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae9269ad0a50d065485f"
+    },
+    "source": "paraviaXML/19310.xml",
+    "lemma": "carne",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "CO",
+        "field": "pittura",
+        "grammar": [
+          "plurale",
+          "plurale",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La massa muscolare dell’uomo e degli animali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la freccia gli penetrò nella carne"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Essere grasso, magro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere molta",
+              "poca carne addosso"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , aspetto esteriore del corpo umano: carnagione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "carni sode",
+              "flaccide",
+              "carni rosee"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pittura , al , le parti nude dei personaggi raffigurati",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 5,
+            "marks": [
+              "funzione"
+            ],
+            "definitions": [
+              {
+                "glossa": "In funzione inv. di colore roseo, simile a quello della carnagione, della pelle",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "calze color carne",
+              "vestito rosa carne"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "La parte commestibile, costituita da tessuto muscolare e adiposo, degli animali, specialmente da macello",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "carne bovina",
+              "equina",
+              "ovina",
+              "suina",
+              "carne di vitello",
+              "carne cotta",
+              "cruda",
+              "in scatola",
+              "affumicata",
+              "salata",
+              "carne arrosto",
+              "lessa",
+              "bollita",
+              "alla brace",
+              "brodo",
+              "sugo di carne"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "La corporeità, l’elemento materiale della natura umana, in contrapposizione all’anima, allo spirito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo spirito è forte ma la carne è debole"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Istinto sessuale; erotismo, sensualità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i piaceri",
+              "le tentazioni della carne"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Istinto, impulso naturale: Manzoni)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è troppa l’avversione della carne e del sangue alla legge"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Polpa di un frutto o parte consistente di un organo vegetale come funghi, tuberi e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "tecnica conciaria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tecnica conciaria , strato profondo del cuoio conciato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Alimento ricavato prevalentemente da tessuti muscolari e organi interni di animali, destinato al consumo umano.",
+      "examples": [
+        "Il nutrizionista ha consigliato di limitare il consumo di prodotti animali per abbassare il colesterolo.",
+        "Al supermercato ho acquistato un taglio pregiato di manzo per preparare il ragù della domenica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Insieme dei tessuti molli che rivestono lo scheletro e avvolgono gli organi nel corpo di esseri umani e animali.",
+      "examples": [
+        "La profonda ferita alla gamba ha esposto l'osso, lesionando gravemente il tessuto circostante.",
+        "Con il gelo intenso il freddo penetrava rapidamente sotto la pelle fino alle articolazioni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "In ambito religioso, filosofico o etico, indica il corpo fisico con i suoi bisogni, gli istinti naturali e le tendenze materiali, considerati in opposizione alla vita spirituale o alla ragione.",
+      "examples": [
+        "Secondo la tradizione ascetica, è necessario mortificare gli impulsi terreni per purificare l'anima.",
+        "La riflessione morale mette in guardia dalle tentazioni che nascono dai desideri effimeri e non dalla coscienza."
+      ],
+      "nota": "Accezione frequente in testi teologici e discorsi etici per marcare la dicotomia tra natura materiale e aspirazione spirituale."
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "lemma": "cinque",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0a69ad0a50d064cf06"
+    },
+    "source": "paraviaXML/22720.xml",
+    "lemma": "cinque",
+    "grammar": [
+      "agg.num.card.inv.",
+      "s.m.inv.",
+      "s.f.pl."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo numerale cardinale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è pari a quattro unità più una ( nella numerazione araba rappresentato con 5, in quella romana con V)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "misura cinque metri",
+              "dista cinque chilometri"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cinquecento",
+              "cinquemila"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Con sostantivo sottinteso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "saranno premiati i primi cinque"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo numerale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Card. inv. posposto al sostantivo, con valore di numerale ordinale, quinto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "pagina",
+              "capitolo cinque"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abita al cinque di questa via"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Numero naturale successivo a quattro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "contare fino a cinque",
+              "cinque per sei uguale trenta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il segno che rappresenta tale numero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quinto giorno del mese",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ci siamo conosciuti il cinque di ottobre"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il quinto anno di un secolo: è nato nel 1905",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mio nonno è del cinque"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Voto scolastico immediatamente sotto la sufficienza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "prendere cinque",
+              "un cinque di storia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Carta da gioco marcata in modo da mostrare che è quinta in una serie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "cinque di fiori",
+              "di coppe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pl. quinta ora dopo le dodici",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare merenda alle cinque"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo femminile",
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pl. quinta ora dopo le ventiquattro: anche inv.",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "alzarsi alle cinque di mattina",
+              "ore cinque"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo numerale cardinale",
+      "definition": "Indica una quantità pari alla somma di quattro e uno.",
+      "examples": [
+        "La torta è stata divisa in cinque parti uguali.",
+        "Il tragitto dura esattamente cinque ore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Il numero che segue il quattro e precede il sei.",
+      "examples": [
+        "Il suo numero preferito è il cinque.",
+        "Sulla maglia del capitano c'è stampato un grande cinque."
+      ],
+      "nota": null
+    }
+  ]
+}

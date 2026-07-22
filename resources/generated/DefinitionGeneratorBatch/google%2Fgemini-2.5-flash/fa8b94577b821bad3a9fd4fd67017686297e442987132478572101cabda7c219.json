@@ -1,0 +1,96 @@
+{
+  "lemma": "bambina",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7e69ad0a50d06537e9"
+    },
+    "source": "paraviaXML/11992.xml",
+    "lemma": "bambina",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’essere umano femmina tra la nascita e l’inizio della fanciullezza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è una bambina molto tranquilla"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Figlia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "come sta la tua b.?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come appellativo affettuoso o ironico riferito a una ragazza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bambina stasera si va a ballare!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Persona di sesso femminile che si trova nella fase dell'infanzia, dall'età neonatale fino all'inizio dell'adolescenza.",
+      "examples": [
+        "La bambina ha imparato a camminare da sola la scorsa settimana.",
+        "Le bambine giocavano felicemente nel parco, correndo dietro a un pallone."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "In senso affettivo e scherzoso, donna adulta trattata o considerata con tenerezza per la sua ingenuità o fragilità, o perché si comporta in modo infantile.",
+      "examples": [
+        "Non fare la bambina, affronta le tue responsabilità.",
+        "È una bambina, ha bisogno di essere protetta e rassicurata costantemente."
+      ],
+      "nota": "Spesso usato in contesti di rimprovero o per indicare un atteggiamento immaturo."
+    }
+  ]
+}

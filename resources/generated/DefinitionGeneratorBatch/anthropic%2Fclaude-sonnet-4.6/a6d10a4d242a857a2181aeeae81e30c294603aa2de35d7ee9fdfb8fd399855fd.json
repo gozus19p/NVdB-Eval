@@ -1,0 +1,259 @@
+{
+  "lemma": "media",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef869ad0a50d0659dee"
+    },
+    "source": "paraviaXML/68055.xml",
+    "lemma": "media",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Valore intermedio compreso tra il minimo e il massimo di una serie di grandezze",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare la media di due numeri",
+              "media stagionale delle temperature",
+              "media giornaliera",
+              "annua"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Media oraria",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "tenere una media di 60 Km all’ora"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica ; media aritmetica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nell’abbigliamento confezionato in serie, taglia media",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "portare la media"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Capo di tale taglia: abbr. M)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questa camicia è piccola: ha una m.?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Birra media",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mi porti una media chiara"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Condizione normale, lontana dagli estremi, standard, norma",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere una cultura superiore",
+              "inferiore alla media",
+              "stare",
+              "rientrare nella media"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "scuola e universit�"
+            ],
+            "definitions": [
+              {
+                "glossa": "Scuola e universit� , media aritmetica dei voti ottenuti in un dato periodo di tempo nelle varie materie o, all’università, nei vari esami sostenuti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo scorso trimestre avevo la media dell’otto",
+              "essere promosso con la media del sette",
+              "avere la media del 27"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "CO TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "scuola e universit�"
+            ],
+            "definitions": [
+              {
+                "glossa": "Scuola e universit� ; scuola media inferiore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "obsoleto, tecnico-specialistico",
+              "fonetica"
+            ],
+            "definitions": [
+              {
+                "glossa": "Fonetica , consonante occlusiva sonora",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Valore numerico ottenuto sommando più quantità e dividendo il totale per il numero dei termini; valore intermedio rappresentativo di un insieme di dati.",
+      "examples": [
+        "La media dei voti di questo studente è 7,5.",
+        "La temperatura media di gennaio a Milano è intorno ai 2 gradi."
+      ],
+      "nota": "Si distingue in media aritmetica, geometrica, armonica ecc. Nel linguaggio comune si intende quasi sempre la media aritmetica."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Livello intermedio, standard considerato normale o tipico in un contesto dato.",
+      "examples": [
+        "Il suo rendimento è nella media, non eccelle ma nemmeno è in difficoltà.",
+        "Come stipendio è nella media per il settore."
+      ],
+      "nota": "Spesso usato nella locuzione 'nella media' o 'sopra/sotto la media'."
+    },
+    {
+      "pos": "sostantivo m. plurale (invariabile)",
+      "definition": "L'insieme dei mezzi di comunicazione di massa, come televisione, radio, giornali e piattaforme digitali.",
+      "examples": [
+        "La notizia è stata ripresa da tutti i media nazionali.",
+        "I social media hanno cambiato profondamente il modo in cui ci informiamo."
+      ],
+      "nota": "Prestito dall'inglese 'media', plurale di 'medium'. In italiano è usato come sostantivo maschile plurale invariabile. Spesso compare nella locuzione 'social media' e nell'espressione composta 'mass media'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Scuola secondaria di primo grado, ovvero il ciclo scolastico che segue le elementari e precede le superiori.",
+      "examples": [
+        "Mia figlia inizia le medie a settembre.",
+        "Ci siamo conosciuti alle medie e siamo rimasti amici."
+      ],
+      "nota": "Forma abbreviata di 'scuola media'. Usato prevalentemente al plurale nel parlato informale."
+    }
+  ]
+}

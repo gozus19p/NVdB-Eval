@@ -1,0 +1,133 @@
+{
+  "lemma": "proposito",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf2869ad0a50d065c493"
+    },
+    "source": "paraviaXML/87819.xml",
+    "lemma": "proposito",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ferma volontà di compiere un’azione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esporre i propri propositi",
+              "è pieno di buoni propositi",
+              "non riuscì a distoglierlo dal suo proposito di vendetta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ripromettersi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare proposito"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Intenzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sono arrivato col proposito di telefonargli, poi mi è passato di mente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scopo prefisso, fine che si persegue",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo sforzo è sproporzionato al proposito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Argomento di cui si vuole parlare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "vorrei dire qcs. a questo proposito",
+              "non hai diritto di pronunciarti su tale proposito",
+              "«Devo parlarti!»«A che p.?»"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Intento, scopo che si prefigge di raggiungere",
+      "examples": [
+        "Il mio proposito è di finire il lavoro entro la fine della settimana.",
+        "Ha fatto il proposito di alzarsi presto ogni mattina per fare esercizio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo maschile",
+      "definition": "Determinazione, decisione di fare qualcosa",
+      "examples": [
+        "Ho preso il proposito di smettere di fumare.",
+        "Il suo proposito di viaggiare in giro per il mondo è rimasto sulla carta."
+      ],
+      "nota": null
+    }
+  ]
+}

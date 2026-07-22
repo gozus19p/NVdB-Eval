@@ -1,0 +1,205 @@
+{
+  "lemma": "maniera",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef469ad0a50d0659ae6"
+    },
+    "source": "paraviaXML/66633.xml",
+    "lemma": "maniera",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Modo particolare e caratteristico di agire, di procedere, di operare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "maniera di vivere",
+              "di discutere",
+              "ci siamo comportati tutti nella stessa maniera"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Lla preposizione e seguito da un aggettivo, forma locuzioni di valore avverbiale: scorrettamente; furbescamente, come? così",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "in",
+              "le cose sono andate nella maniera migliore",
+              "in maniera scorretta",
+              "in maniera furbesca",
+              "in che m.?",
+              "in questa maniera"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente al , modo particolare di comportarsi nei confronti degli altri",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è una persona di buone maniere",
+              "qualche volta usa maniere brusche"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come espressioni di biasimo verso chi si è comportato in modo scortese o sgarbato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "che maniere!",
+              "che maniere sono queste?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arte, pratica artistica che si fonda sull’imitazione cristallizzata e sulla ripetizione di formule e modi ormai scontati denunciando carenza di ispirazione, di naturalezza, di invenzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Modo di operare di un artista, specialmente di un pittore, facilmente riconoscibile nelle sue opere; stile individuale inconfondibile, tratto caratteristico che rende sicura l’attribuzione di un’opera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imitare nello scrivere la maniera di Gadda",
+              "un pittore seguace della maniera dei macchiaioli"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "OB LE",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sorta, specie, modo di essere: Boccaccio)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "veggionsi ... d’alberi ben mille maniere"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "modo, metodo o sistema di fare qualcosa",
+      "examples": [
+        "Ha una maniera tutta sua di risolvere i problemi.",
+        "La maniera più efficace di imparare è praticando."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "modo di essere o di comportarsi di qualcuno",
+      "examples": [
+        "È una persona educata, si comporta con buona maniera.",
+        "La sua maniera di parlare è molto diretta."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "stile o tecnica artistica",
+      "examples": [
+        "La maniera gotica si caratterizza per le sue linee eleganti.",
+        "La maniera impressionista di dipingere è caratterizzata da pennellate rapide."
+      ],
+      "nota": null
+    }
+  ]
+}

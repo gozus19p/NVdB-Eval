@@ -1,0 +1,175 @@
+{
+  "lemma": "visitare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafee69ad0a50d0666500"
+    },
+    "source": "paraviaXML/128013.xml",
+    "lemma": "visitare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Recarsi in visita presso qualcuno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visitare un amico",
+              "un conoscente",
+              "visitare qcn. per chiedergli un favore"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Due delle sette opere di misericordia corporali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visitare gli infermi",
+              "visitare i carcerati"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sottoporre a visita medica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "devi farti visitare da uno specialista"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fare visite mediche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il dottore visita solo al mattino"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Recarsi in un certo luogo per osservare ciò che vi si trova o vi si svolge, per motivi di svago, di studio, di lavoro, eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "visitare una mostra",
+              "una cattedrale",
+              "un centro sportivo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ispezionare, esaminare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il capitano ha visitato le camerate"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Recarsi da qualcuno o in un luogo, spesso per cortesia, per ispezionare, per consulto medico o semplicemente per vedere e conoscere.",
+      "examples": [
+        "Ho intenzione di visitare i miei nonni la prossima settimana.",
+        "Il medico ha visitato il paziente per diagnosticare la malattia.",
+        "Abbiamo visitato il museo d'arte moderna durante il nostro viaggio.",
+        "Gli ispettori hanno visitato la fabbrica per controllare le condizioni di sicurezza."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "In senso figurato, manifestarsi o presentarsi in modo inatteso e talvolta spiacevole, detto di stati d'animo, eventi o sensazioni.",
+      "examples": [
+        "Una profonda tristezza lo visitò dopo la notizia.",
+        "L'ispirazione visitò l'artista mentre passeggiava nel bosco.",
+        "Un attacco di debolezza lo visitò all'improvviso, facendolo sedere di colpo."
+      ],
+      "nota": "Spesso usato in contesti più formali o letterari."
+    },
+    {
+      "pos": "verbo intransitivo pronominale",
+      "definition": "Recarsi in un luogo o presso una persona per brevi periodi o con una certa regolarità (visitatore o ospite).",
+      "examples": [
+        "Prima di lasciare la città, si è visitato tutto il centro storico.",
+        "Ogni estate le spiagge si visitano di molti turisti da tutto il mondo.",
+        "Quando era adolescente, si visitava spesso da suo cugino durante le vacanze."
+      ],
+      "nota": "L'uso intransitivo pronominale è meno comune del transitivo e indica spesso un'azione reciproca o un'azione intrapresa dal soggetto per il proprio interesse."
+    }
+  ]
+}

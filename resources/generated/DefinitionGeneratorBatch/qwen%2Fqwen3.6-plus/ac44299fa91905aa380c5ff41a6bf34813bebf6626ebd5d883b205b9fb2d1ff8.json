@@ -1,0 +1,187 @@
+{
+  "lemma": "accompagnare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf9f69ad0a50d066242e"
+    },
+    "source": "paraviaXML/1163.xml",
+    "lemma": "accompagnare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Seguire, scortare per tenere compagnia, dare protezione e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare qcn. a casa",
+              "accompagnare la sposa all’altare",
+              "accompagnare gli ospiti alla porta"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Seguirne il feretro al funerale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare un defunto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Seguire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare qcn. con lo sguardo",
+              "col pensiero"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Trattenerla con la mano per non farla sbattere chiudendola",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare la porta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Mettere insieme, accordare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare una pietanza col vino",
+              "accompagnare lo studio con la riflessione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , seguire con l’accompagnamento di uno strumento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "accompagnare la cantante al",
+              "con il pianoforte"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "transitivo",
+      "definition": "recarsi insieme a una persona, restandole al fianco durante un tragitto o un'attività.",
+      "examples": [
+        "Ti accompagno alla fermata dell'autobus.",
+        "Il nonno accompagna sempre i nipotini a scuola."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "transitivo",
+      "definition": "eseguire una parte musicale complementare che sostiene la melodia principale o un'esibizione vocale.",
+      "examples": [
+        "Il pianista accompagnerà il tenore durante il concerto.",
+        "Ha accompagnato il brano alla chitarra acustica."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "transitivo",
+      "definition": "presentarsi o manifestarsi insieme a un fenomeno principale, spesso come elemento secondario, conseguenza o circostanza collegata.",
+      "examples": [
+        "L'influenza è spesso accompagnata da forte malessere generale.",
+        "La nuova riforma è stata accompagnata da numerose critiche."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "transitivo",
+      "definition": "proporre o servire un alimento o una bevanda insieme a un piatto per completarne o esaltarne il gusto.",
+      "examples": [
+        "Lo chef consiglia di accompagnare il salmone con asparagi al vapore.",
+        "Ha deciso di accompagnare la cena con un vino rosso intenso."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "pronominale",
+      "definition": "frequentare in modo continuativo una persona, instaurando con essa un legame affettivo o di stretta amicizia.",
+      "examples": [
+        "Da qualche mese si accompagna stabilmente con un architetto.",
+        "Non mi aspettavo che la direttrice si accompagnasse a quel gruppo di colleghi."
+      ],
+      "nota": "L'uso pronominale implica tipicamente una relazione sentimentale o una frequentazione abituale e sociale."
+    }
+  ]
+}

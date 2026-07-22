@@ -1,0 +1,241 @@
+{
+  "lemma": "scarpa",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf4269ad0a50d065da21"
+    },
+    "source": "paraviaXML/102740.xml",
+    "lemma": "scarpa",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "generalmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Parte dell’abbigliamento, di cuoio o di altro materiale, che copre e protegge il piede generalmente fino alla caviglia o poco sopra",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "scarpa di camoscio",
+              "di vernice",
+              "di tela",
+              "scarpa da uomo",
+              "da donna",
+              "scarpa con tacco alto",
+              "basso",
+              "lucidare",
+              "risuolare le scarpe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "TS",
+        "field": "storia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia , parte delle antiche armature, di maglia o lamine di ferro, che proteggeva il piede",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "familiare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Persona incapace, poco abile in un’attività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "a briscola sei proprio una s.!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "dialettale",
+              "romanesco"
+            ],
+            "definitions": [
+              {
+                "glossa": "Romanesco , nel gergo della malavita, borseggiatore, borsaiolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "marina",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Marina , ciascuna delle custodie di legno che proteggono le unghie dell’ancora",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "S. usata in diverse specialità sportive, studiata per rispondere a criteri di aderenza al terreno e di adattabilità alla forma e ai movimenti del piede",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "S. stringata con la suola di gomma usata anche al di fuori dell’attività sportiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "S. bassa con suola morbida e flessibile, usata per giocare a tennis",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Scarpa da ginnastica",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Calzatura che copre il piede, con suola rigida o semirigida e tomaia di varia forma e materiale.",
+      "examples": [
+        "Ha comprato un paio di scarpe nuove per la stagione estiva.",
+        "Le scarpe da ginnastica sono comode per fare lunghe passeggiate."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Formazione di neve o ghiaccio a forma di cono rovesciato, formatasi sotto una cascata o uno stillicidio.",
+      "examples": [
+        "Dopo la lunga gelata, si è formata un'alta scarpa di ghiaccio sotto il tetto.",
+        "Le stalattiti di neve, chiamate anche scarpe, sono uno spettacolo tipico dell'inverno in montagna."
+      ],
+      "nota": "Significato più specifico e meno frequente del primo; utilizzato soprattutto in contesti alpini o meteorologici."
+    }
+  ]
+}

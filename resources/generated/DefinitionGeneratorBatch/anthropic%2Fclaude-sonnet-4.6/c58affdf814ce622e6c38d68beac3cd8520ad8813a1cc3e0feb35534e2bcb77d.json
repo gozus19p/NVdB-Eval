@@ -1,0 +1,63 @@
+{
+  "lemma": "utilizzare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafe969ad0a50d06660fe"
+    },
+    "source": "paraviaXML/125439.xml",
+    "lemma": "utilizzare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "utilizzare-0",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Impiegare utilmente, usare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "utilizzare gli avanzi",
+              "utilizzare i ritagli di tempo",
+              "utilizzare un tecnico",
+              "un professionista",
+              "un esperto"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Fare uso di qualcosa o di qualcuno per uno scopo determinato, impiegando ciò che è disponibile in modo funzionale.",
+      "examples": [
+        "Puoi utilizzare il mio computer per finire la relazione.",
+        "Hanno utilizzato materiali riciclati per costruire il padiglione."
+      ],
+      "nota": "È il sinonimo più neutro e formale di 'usare'. Rispetto a 'usare', 'utilizzare' implica spesso un impiego razionale o ottimizzato della risorsa, sebbene nella pratica i due verbi siano spesso intercambiabili."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Servirsi di una persona strumentalmente, traendo vantaggio dalle sue capacità o dalla sua posizione senza riguardo per i suoi interessi.",
+      "examples": [
+        "Si è accorta tardi che lui la stava semplicemente utilizzando per fare carriera.",
+        "Quel dirigente utilizza i collaboratori senza mai riconoscerne il merito."
+      ],
+      "nota": "Uso figurato con connotazione negativa; implica strumentalizzazione di una persona come se fosse un mezzo anziché un fine."
+    }
+  ]
+}

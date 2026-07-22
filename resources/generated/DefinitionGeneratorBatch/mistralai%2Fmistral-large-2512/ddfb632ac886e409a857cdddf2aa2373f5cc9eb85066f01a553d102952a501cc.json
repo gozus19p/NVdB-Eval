@@ -1,0 +1,209 @@
+{
+  "lemma": "osso",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0e69ad0a50d065b022"
+    },
+    "source": "paraviaXML/77506.xml",
+    "lemma": "osso",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "anatomia"
+            ],
+            "definitions": [
+              {
+                "glossa": "None anatomia , ciascuna delle strutture dure, rigide e resistenti di colore biancastro che costituiscono l’apparato scheletrico dei Vertebrati",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le ossa del braccio",
+              "piede",
+              "del bacino",
+              "osso lungo",
+              "corto",
+              "piatto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parte ossea di un animale macellato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bistecca con l’osso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "La parte più compatta delle ossa animali impiegata nella produzione di oggetti d’uso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "bottone d’osso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nocciolo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "osso dell’albicocca"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "scherzoso"
+            ],
+            "definitions": [
+              {
+                "glossa": "Al , corpo umano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "non ho dove posare le mie povere ossa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , resti mortali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "le sue misere ossa sono state sepolte"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Ciascuna delle strutture rigide e resistenti che compongono lo scheletro dei vertebrati, formate da tessuto osseo.",
+      "examples": [
+        "Si è rotto un osso del braccio cadendo dalla bicicletta.",
+        "Il cane rosicchiava un osso trovato in giardino."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Parte dura e interna di alcuni frutti, come pesche, albicocche o ciliegie, che contiene il seme.",
+      "examples": [
+        "Non ingoiare l'osso della pesca, potrebbe essere pericoloso.",
+        "Ho piantato l'osso di una ciliegia per vedere se cresce un albero."
+      ],
+      "nota": "In questa accezione, è sinonimo di *nocciolo* per alcuni frutti."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Persona o cosa che rappresenta una difficoltà o un ostacolo particolarmente arduo da superare.",
+      "examples": [
+        "Questo esame è un osso duro, non sarà facile passarlo.",
+        "Il nuovo capo è un osso, non concede mai nulla."
+      ],
+      "nota": "Uso figurato, spesso in espressioni come *essere un osso duro* o *dare del filo da torcere*."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Parte magra e poco appetibile di un taglio di carne, priva di muscolo o grasso.",
+      "examples": [
+        "Questo spezzatino ha più ossi che carne, non vale il prezzo.",
+        "Ho dato gli ossi avanzati al cane."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m. (plurale: ossa)",
+      "definition": "Corpo umano o animale considerato nella sua struttura scheletrica, spesso in riferimento alla magrezza o alla resistenza fisica.",
+      "examples": [
+        "Dopo la malattia, gli si vedevano tutte le ossa.",
+        "Ha un fisico asciutto, si notano le ossa delle spalle."
+      ],
+      "nota": "In questa accezione, il plurale *ossa* è più comune del singolare."
+    }
+  ]
+}

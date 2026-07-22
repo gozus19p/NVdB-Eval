@@ -1,0 +1,167 @@
+{
+  "lemma": "destino",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeaf69ad0a50d06560c9"
+    },
+    "source": "paraviaXML/32082.xml",
+    "lemma": "destino",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il corso delle cose considerato come predeterminato e indipendente dalla volontà dell’uomo; fato, sorte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "seguire",
+              "accettare",
+              "subire il proprio destino",
+              "rassegnarsi al destino",
+              "il destino ha voluto così",
+              "è il destino che ci ha fatto incontrare",
+              "credere al destino",
+              "predire il destino a qcn.",
+              "leggere il destino nelle carte"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Disinteressarsi della sua sorte; di fatto, avvenimento, eccetera , deciderne la sorte",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "abbandonare",
+              "lasciare qcn.",
+              "qcs. al suo destino",
+              "segnare il destino di qcn.",
+              "di qcs."
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "impersonale"
+            ],
+            "definitions": [
+              {
+                "glossa": "In usi impersonale , è inevitabile, fatale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è destino",
+              "era destino che ci incontrassimo",
+              "è destino che io mi debba arrabbiare"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "CO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , sorti, vicende future",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i destini dei popoli",
+              "sognare destini di gloria"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "BU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Specialmente di lettera, pacco e simile , destinazione, recapito",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "andare",
+              "spedire a destino"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Porto di arrivo di una nave",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "porto di destino"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Principio o entità impersonale a cui si attribuisce il potere di determinare in anticipo gli eventi della vita e il corso della storia.",
+      "examples": [
+        "Secondo alcune credenze popolari, il destino decide in anticipo chi incontreremo nella vita.",
+        "Nonostante tutti gli sforzi per evitarla, sembrava che la tragedia fosse voluta dal destino."
+      ],
+      "nota": "Spesso personificato o invocato in contesti letterari, filosofici o quotidiani per esprimere un senso di predestinazione o di ordine cosmico."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Complesso degli avvenimenti futuri o l'esito finale che attendono specificamente una persona, un gruppo o una cosa.",
+      "examples": [
+        "Il destino dell'impresa ora è nelle mani dei nuovi investitori.",
+        "Le trattative diplomatiche decideranno il destino della regione per i prossimi decenni."
+      ],
+      "nota": null
+    }
+  ]
+}

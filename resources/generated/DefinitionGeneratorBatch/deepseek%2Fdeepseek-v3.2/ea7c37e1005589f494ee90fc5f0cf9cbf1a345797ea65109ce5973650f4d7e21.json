@@ -1,0 +1,153 @@
+{
+  "lemma": "meridionale",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0869ad0a50d064c14a"
+    },
+    "source": "paraviaXML/68794.xml",
+    "lemma": "meridionale",
+    "grammar": [
+      "agg.",
+      "s.m. e f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "meridionale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che è situato a sud rispetto a un punto di riferimento ( abbr. meridionale )",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "costa meridionale della Francia",
+              "regioni meridionali dell’Inghilterra"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che proviene da sud",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "venti meridionali"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che è esposto, che è rivolto verso sud",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "versante meridionale del Monte Bianco"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Relativo a regioni o territori posti a sud, specialmente con riferimento all’Italia",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dialetti meridionali",
+              "pronuncia meridionale",
+              "mi piace molto la cucina meridionale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante delle regioni del sud, specialmente d’Italia",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo (relazionale)",
+      "definition": "Relativo o appartenente alla parte sud di un territorio, di una regione o di un paese.",
+      "examples": [
+        "Le regioni meridionali della Francia sono molto soleggiate.",
+        "Il clima meridionale dell'isola è mite tutto l'anno."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo (proprio dell'Italia)",
+      "definition": "Relativo o proprio dell'Italia del Sud.",
+      "examples": [
+        "La cucina meridionale è ricca di sapori decisi.",
+        "Ha un forte accento meridionale quando parla."
+      ],
+      "nota": "In questo senso specifico, il termine si contrappone tipicamente a 'settentrionale' nel contesto geografico e culturale italiano."
+    },
+    {
+      "pos": "sostantivo maschile / femminile (per origine)",
+      "definition": "Persona originaria o abitante della parte sud di un territorio, in particolare dell'Italia del Sud.",
+      "examples": [
+        "È un meridionale che si è trasferito al nord per lavoro.",
+        "Molti meridionali hanno contribuito allo sviluppo industriale del paese."
+      ],
+      "nota": null
+    }
+  ]
+}

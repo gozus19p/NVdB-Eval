@@ -1,0 +1,266 @@
+{
+  "lemma": "volontà",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf8669ad0a50d06610e4"
+    },
+    "source": "paraviaXML/128472.xml",
+    "lemma": "volontà",
+    "grammar": [
+      "s.f.inv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Capacità di volere, facoltà di decidere consapevolmente il proprio comportamento per raggiungere un determinato fine",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere volontà",
+              "essere privo di volontà",
+              "una volontà fiacca",
+              "debole",
+              "tenace",
+              "costante"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’atto del volere",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "forzare la volontà di qcn."
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Senza costrizioni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "di propria spontanea volontà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Disponibilità comune a una collettività a seguire un determinato comportamento o a dimostrare un atto volitivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "volontà del paese",
+              "volontà democratica",
+              "politica",
+              "volontà di pace",
+              "di riforme"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ciò che si vuole",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "fare qcs. contro la volontà di altri",
+              "fare la volontà di Dio"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Al , le disposizioni testamentarie",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ultime volontà",
+              "scrivere",
+              "dettare le ultime volontà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Buona disposizione a fare qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "nel suo lavoro dimostra volontà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "OB",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Passione, concupiscenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione avverbiale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Secondo il proprio piacere o gusto, nella quantità che si desidera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "mangiare, bere a volontà"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "locuzione aggettivale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Disponibile nella quantità sufficiente a qualunque desiderio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "c’era vino a volontà"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Capacità dell'individuo di scegliere liberamente e di decidere di agire in un certo modo.",
+      "examples": [
+        "Nonostante la stanchezza, con molta volontà ha terminato il lavoro.",
+        "Il successo dipende spesso dalla volontà di persistere negli sforzi."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Documento legale che esprime le ultime disposizioni di una persona relative alla destinazione dei propri beni dopo la morte.",
+      "examples": [
+        "Ha lasciato scritto nel suo testamento che la casa andrà in eredità al nipote.",
+        "L'avvocato lesse pubblicamente le volontà del defunto."
+      ],
+      "nota": "Sinonimo formale di 'testamento'. L'uso è tipico in contesti legali o formali."
+    },
+    {
+      "pos": "sostantivo femminile",
+      "definition": "Desiderio, intenzione, disposizione d'animo verso qualcosa o qualcuno.",
+      "examples": [
+        "Ho la ferma intenzione di partire per un lungo viaggio il prossimo anno.",
+        "Si è espresso con grande benevolenza nei confronti del nuovo collega."
+      ],
+      "nota": "In questa accezione, il termine è spesso accompagnato da un aggettivo (buona, cattiva, ferma) o da una specificazione (di fare qualcosa)."
+    }
+  ]
+}

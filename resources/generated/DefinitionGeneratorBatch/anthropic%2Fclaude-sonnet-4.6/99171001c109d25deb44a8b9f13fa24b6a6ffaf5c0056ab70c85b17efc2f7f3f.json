@@ -1,0 +1,374 @@
+{
+  "lemma": "espressione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebf69ad0a50d0656e97"
+    },
+    "source": "paraviaXML/40704.xml",
+    "lemma": "espressione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "L’esprimere, il comunicare, specialmente col linguaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "dare libera espressione alle proprie idee",
+              "espressione dei propri sentimenti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Il modo con cui si esprime qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "semplicità di espressione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Parola, modo di dire, costruzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "usare un’espressione appropriata",
+              "gergale",
+              "triviale",
+              "dialettale",
+              "espressione attiva",
+              "passiva",
+              "impersonale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "CO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Atteggiamento del volto o comportamento che rivela uno stato psicologico",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere un’espressione assente",
+              "beata",
+              "assumere un’espressione assorta",
+              "sguardo senza espressione"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Modo di parlare, intonazione della voce che rivela intensità di sentimenti",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "voce senza espressione",
+              "leggere con espressione"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Espressività",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ritratto ricco di espressione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Manifestazione esteriore di uno stato d’animo o di un fenomeno culturale, sociale e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "quel dono era l’espressione della sua riconoscenza",
+              "voglia accogliere l’espressione della mia gratitudine",
+              "la Grecia trovò la sua massima espressione artistica nel V sec. a.C."
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Il prodotto che ne risulta",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "questo romanzo è la più alta espressione della letteratura contemporanea"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "musica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Musica , rilievo primario dato al fraseggio o alla cantabilità durante l’esecuzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Negli strumenti ad arco, movimento delle dita della mano sinistra sulle corde per produrre arpeggi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Registro dell’armonium che regola l’intensità del suono collegando direttamente mantici e ante",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "matematica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Matematica , insieme di numeri, lettere e simboli usati per rappresentare le operazioni aritmetiche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "espressione numerica",
+              "logaritmica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di simboli avente significato matematico",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "filosofia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Filosofia , manifestazione di Dio agli uomini",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nella filosofia crociana, prima attività dello spirito legata al linguaggio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "usage": "TS",
+        "field": "linguistica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Linguistica , nella glossematica, significante",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "forma",
+              "piano",
+              "sostanza dell’espressione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "usage": "TS",
+        "field": "qualcosa",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina specialmente in chirurgia e ostetricia, compressione per provocare l’evacuazione di qualcosa",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme di parole o locuzioni che formano un'unità lessicale o fraseologica con un significato specifico.",
+      "examples": [
+        "«Prendere in giro» è un'espressione idiomatica molto comune in italiano.",
+        "Ha usato un'espressione tecnica che pochi nel pubblico riuscivano a capire."
+      ],
+      "nota": "In linguistica si distingue tra espressione idiomatica (il cui significato non è composizionale) ed espressione libera."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Atto del comunicare pensieri, sentimenti o idee attraverso il linguaggio, la scrittura, il corpo o l'arte.",
+      "examples": [
+        "La danza è per lei la forma di espressione più spontanea e autentica.",
+        "La libertà di espressione è un diritto fondamentale garantito dalla Costituzione."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Manifestazione visibile di uno stato d'animo o di un'emozione sul volto di una persona.",
+      "examples": [
+        "Aveva un'espressione stanca e preoccupata quando è entrato in ufficio.",
+        "Dal suo viso leggeva un'espressione di sorpresa mista a soddisfazione."
+      ],
+      "nota": "In questo senso è sinonimo parziale di 'mimica facciale' o 'aria del viso'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "In matematica, combinazione di simboli, numeri e operatori che rappresenta una quantità o una relazione formale.",
+      "examples": [
+        "Semplifica l'espressione algebrica prima di procedere con il calcolo.",
+        "L'espressione (a+b)² si espande in a²+2ab+b²."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Qualità interpretativa e intensità emotiva con cui un brano musicale o una performance artistica viene eseguita.",
+      "examples": [
+        "Il maestro chiese agli allievi di suonare con più espressione e meno meccanicità.",
+        "La cantante ha dato una prova di grande espressione nel secondo atto dell'opera."
+      ],
+      "nota": "Usato frequentemente in ambito musicale e teatrale per indicare la capacità di trasmettere emozioni attraverso l'interpretazione."
+    }
+  ]
+}

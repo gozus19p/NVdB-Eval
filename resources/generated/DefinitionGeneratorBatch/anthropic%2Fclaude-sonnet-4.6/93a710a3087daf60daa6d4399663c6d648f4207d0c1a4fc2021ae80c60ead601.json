@@ -1,0 +1,220 @@
+{
+  "lemma": "associazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae7969ad0a50d0653373"
+    },
+    "source": "paraviaXML/9479.xml",
+    "lemma": "associazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’associare, l’associarsi e il loro risultato",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’associazione di due aziende",
+              "quota di associazione",
+              "l’associazione delle forze"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Unione organizzata di più persone con finalità comuni",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "associazione benefica",
+              "associazione sportiva",
+              "associazione politica"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "iniziale",
+              "maiuscolo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Con iniziale maiuscolo , in denominazioni di società diverse",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "A. Bancaria Italiana",
+              "A. di Mutuo Soccorso"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "psicologia, psicanalisi, psichiatria",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Concatenamento, collegamento, relazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "associazione di ricordi",
+              "di fatti",
+              "di sensazioni",
+              "ci sono arrivato per associazione di idee"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Psicologia, psicanalisi, psichiatria , processo per cui idee e immagini si uniscono e si coordinano tra loro secondo rapporti di somiglianza, di opposizione e di continuità",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "burocrazia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Burocrazia , nell’ordinamento universitario italiano, carica di professore associato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "genetica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Genetica ; linkage",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "burocrazia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Burocrazia , presa in consegna, trasferimento",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "associazione di un malavitoso alla prigione"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Gruppo organizzato di persone che si uniscono per perseguire uno scopo comune, dotato di una struttura formale o informale.",
+      "examples": [
+        "Ha fondato un'associazione di volontariato per aiutare i senza tetto.",
+        "L'associazione sportiva del quartiere organizza tornei ogni estate."
+      ],
+      "nota": "Può riferirsi sia a enti riconosciuti giuridicamente (es. associazione di promozione sociale, associazione no profit) sia a raggruppamenti informali."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Atto o processo con cui più soggetti, persone o entità si uniscono o vengono messi in relazione tra loro.",
+      "examples": [
+        "L'associazione tra i due partner commerciali si è rivelata molto fruttuosa.",
+        "La legge regola i criteri di associazione tra le imprese del settore."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Collegamento mentale spontaneo o ragionato tra due o più idee, concetti, immagini o ricordi.",
+      "examples": [
+        "La vista del mare gli suscitò un'immediata associazione con i ricordi d'infanzia.",
+        "In psicologia, il metodo delle associazioni libere è fondamentale nella pratica psicoanalitica."
+      ],
+      "nota": "In questo senso è frequente nell'espressione 'associazione di idee', calco del francese 'association d'idées'."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Nel linguaggio giuridico, accordo tra più persone finalizzato a commettere reati, punito come reato autonomo indipendentemente dalla commissione dei singoli illeciti.",
+      "examples": [
+        "Gli imputati erano accusati di associazione a delinquere di stampo mafioso.",
+        "Il pubblico ministero ha contestato il reato di associazione per delinquere a tutti e sei gli indagati."
+      ],
+      "nota": "Ricorre quasi esclusivamente nelle locuzioni giuridiche 'associazione a delinquere' e 'associazione per delinquere'."
+    }
+  ]
+}

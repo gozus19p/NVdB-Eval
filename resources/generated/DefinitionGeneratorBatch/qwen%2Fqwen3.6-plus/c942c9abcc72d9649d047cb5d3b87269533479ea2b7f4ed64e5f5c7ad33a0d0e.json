@@ -1,0 +1,176 @@
+{
+  "lemma": "esame",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebe69ad0a50d0656da8"
+    },
+    "source": "paraviaXML/40075.xml",
+    "lemma": "esame",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "specialmente",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa",
+              "qualcuno",
+              "eccetera"
+            ],
+            "definitions": [
+              {
+                "glossa": "Attenta considerazione di qualcosa o qualcuno per capirne le caratteristiche, farsene un’opinione, darne un giudizio eccetera",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esame di un motore",
+              "di un testo",
+              "di una proposta",
+              "un accurato",
+              "attento",
+              "rapido esame",
+              "sottoporre qcs. a esame",
+              "la proposta è all’esame della commissione"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scientifico , analisi di una sostanza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esame chimico",
+              "fisico",
+              "microscopico",
+              "esame delle urine",
+              "del sangue"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Medicina , indagine specialmente a scopo diagnostico di un organismo o di un organo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "sottoporsi a un esame",
+              "a una serie di esami",
+              "fare l’esame della vista",
+              "dell’udito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "plurale"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Prova a cui si sottopone qualcuno per accertarne la preparazione su un argomento, l’idoneità a una professione e simile ; al , l’insieme di tali prove",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esame scritto",
+              "orale",
+              "esame attitudinale",
+              "esame di concorso",
+              "esame universitario",
+              "dare",
+              "fare",
+              "sostenere",
+              "affrontare un esame",
+              "gli esami",
+              "prepararsi agli",
+              "per gli esami",
+              "presentarsi agli esami",
+              "superare un esame",
+              "essere promosso",
+              "respinto a un esame",
+              "passare un esame",
+              "a un esame"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "storia del diritto",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Storia del diritto ; interrogatorio",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Prova ufficiale, scritta o orale, che valuta la competenza o la preparazione acquisita in un percorso di studi o in un corso di formazione, al fine di assegnare un voto, un'abilitazione o un titolo.",
+      "examples": [
+        "Domani ho il primo esame di analisi matematica.",
+        "Ha superato tutti gli esami della sessione autunnale con il massimo dei voti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Procedura clinica o di laboratorio, come analisi di fluidi, immagini diagnostiche o visite specialistiche, eseguita per verificare lo stato di salute o identificare disturbi fisici.",
+      "examples": [
+        "Il medico mi ha prescritto un esame del sangue per controllare i valori della tiroide.",
+        "Dopo l'esame radiografico il chirurgo ha deciso il tipo di intervento."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Analisi approfondita e critica di un documento, di una situazione o di un fenomeno, condotta con metodo per valutarne gli aspetti, individuare criticità o prendere decisioni informate.",
+      "examples": [
+        "Il documento è sotto esame da parte della commissione parlamentare.",
+        "Merita un attento esame la relazione tra inflazione e potere d'acquisto."
+      ],
+      "nota": null
+    }
+  ]
+}

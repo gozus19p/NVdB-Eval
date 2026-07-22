@@ -1,0 +1,222 @@
+{
+  "lemma": "romano",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0669ad0a50d064b57b"
+    },
+    "source": "paraviaXML/99114.xml",
+    "lemma": "romano",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di Roma, con riferimento all’antichità classica",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "storia romana",
+              "centurioni romani",
+              "strade romane",
+              "acquedotti romani"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante dell’antica Roma o cittadino del suo Impero",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dell’odierna Roma",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la periferia romana"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Nativo o abitante di Roma moderna",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Relativo alla città di Roma in quanto sede del papato e centro del cattolicesimo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "Chiesa apostolica romana"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "TS",
+        "field": "tipografia",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Tipografia ; tondo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1,2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo alla città di Roma, alla sua storia, alla sua cultura o ai suoi abitanti.",
+      "examples": [
+        "Il Colosseo è il monumento romano più famoso al mondo.",
+        "La cucina romana è apprezzata in tutto il paese."
+      ],
+      "nota": "Include sia riferimenti alla Roma antica sia alla Roma moderna. Il contesto disambigua l'epoca di riferimento."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Relativo all'Impero o alla civiltà dell'antica Roma, in senso storico e culturale.",
+      "examples": [
+        "Il diritto romano è alla base degli ordinamenti giuridici europei.",
+        "Le legioni romane conquistarono gran parte del mondo allora conosciuto."
+      ],
+      "nota": "Quando usato in contesti storici, si riferisce esclusivamente alla Roma antica, a differenza dell'accezione geografica contemporanea."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Riferito alla Chiesa cattolica romana o al rito liturgico latino della Chiesa di Roma.",
+      "examples": [
+        "Il rito romano è quello praticato nella maggior parte delle chiese cattoliche.",
+        "La Chiesa cattolica romana ha sede in Vaticano."
+      ],
+      "nota": "Usato spesso nell'espressione 'cattolico romano' per distinguere la Chiesa di Roma dalle Chiese ortodosse o da altre confessioni cristiane."
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Persona originaria o abitante della città di Roma.",
+      "examples": [
+        "I romani hanno un carattere diretto e ironico, almeno secondo il luogo comune.",
+        "Da romano doc, conosce ogni angolo del centro storico della capitale."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m./f.",
+      "definition": "Cittadino dell'antica Roma o suddito dell'Impero romano.",
+      "examples": [
+        "I romani costruirono strade che attraversavano tutta l'Europa.",
+        "Come ogni romano, era tenuto a rispettare le leggi dell'Impero."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Detto di tipo di carattere tipografico con aste verticali diritte, contrapposto al corsivo o all'italico.",
+      "examples": [
+        "Il testo del corpo è composto in carattere romano, mentre le citazioni sono in corsivo.",
+        "Scegli un font romano per i titoli: risulta più leggibile."
+      ],
+      "nota": "Termine tecnico della tipografia ancora ampiamente in uso."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Detto di numerazione che utilizza le lettere dell'alfabeto latino (I, V, X, L, C, D, M) per rappresentare i valori numerici.",
+      "examples": [
+        "I capitoli del libro sono numerati con cifre romane.",
+        "L'anno di costruzione è inciso sulla facciata in numeri romani: MCMXII."
+      ],
+      "nota": "Usato quasi esclusivamente nell'espressione 'numeri romani' o 'cifre romane'."
+    }
+  ]
+}

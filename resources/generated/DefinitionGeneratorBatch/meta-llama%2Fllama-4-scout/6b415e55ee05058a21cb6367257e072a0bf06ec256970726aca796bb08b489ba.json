@@ -1,0 +1,131 @@
+{
+  "lemma": "opinione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaf0c69ad0a50d065ae52"
+    },
+    "source": "paraviaXML/76480.xml",
+    "lemma": "opinione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno",
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Ciò che si pensa di qualcuno o di qualcosa , idea, convincimento soggettivo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "opinione arbitraria",
+              "fondata",
+              "infondata",
+              "cambiare opinione",
+              "farsi",
+              "formarsi un’opinione",
+              "rimanere della propria opinione",
+              "avere il coraggio delle proprie opinioni | essere dell’opinione"
+            ]
+          },
+          {
+            "number": 6,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Ritenere",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 7,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Quella della maggior parte della gente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "opinione corrente",
+              "prevalente"
+            ]
+          },
+          {
+            "number": 8,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "O. che ha preso vigore, radicata",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "opinione invalsa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Considerazione o stima sia pubblica sia privata: reputarsi di grande valore, stimarsi oltremodo",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere una buona",
+              "una cattiva opinione di qcn.",
+              "avere alta opinione di sé"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo",
+      "definition": "Giudizio o punto di vista soggettivo su qualcosa",
+      "examples": [
+        "La sua opinione sul film è molto diversa dalla mia.",
+        "È importante rispettare l'opinione degli altri."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo",
+      "definition": "Parere o pensiero espresso verbalmente o per iscritto",
+      "examples": [
+        "Ha espresso la sua opinione durante la riunione.",
+        "L'opinione pubblica è divisa sulla questione."
+      ],
+      "nota": null
+    }
+  ]
+}

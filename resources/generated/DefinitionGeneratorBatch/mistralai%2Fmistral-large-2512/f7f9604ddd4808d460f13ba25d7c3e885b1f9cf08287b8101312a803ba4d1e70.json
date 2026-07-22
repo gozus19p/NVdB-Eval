@@ -1,0 +1,304 @@
+{
+  "lemma": "equilibrio",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaebd69ad0a50d0656cce"
+    },
+    "source": "paraviaXML/39600.xml",
+    "lemma": "equilibrio",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , stato di quiete di un corpo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Posizione stabile, stabilità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "stare",
+              "tenersi in equilibrio",
+              "mantenere",
+              "perdere l’equilibrio",
+              "tenere qcs. in equilibrio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Situazione in cui vari elementi o forze contrastanti si armonizzano fra loro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "equilibrio politico"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Armonia compositiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’equilibrio di una natura morta"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Stabilità interiore, intellettuale o emotiva",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ritrovare il proprio equilibrio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Senso della misura, buonsenso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comportarsi con equilibrio",
+              "avere equilibrio",
+              "una persona con molto equilibrio"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "TS",
+        "field": "aeronautica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Aeronautica , di un aeromobile in volo: stato in cui il momento di tutte le forze applicate è nullo rispetto al baricentro",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "TS",
+        "field": "scientifico",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Scientifico , stato di un sistema in cui uno o più parametri rimangono costanti nel tempo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nell’ippica, capacità di un cavallo di sostenere con rendimento uguale le tre andature di passo, trotto e galoppo",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6b",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, nel nuoto, armonia dei movimenti delle gambe e delle braccia del nuotatore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "TS",
+        "field": "fisica",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fisica , e. di un corpo che, spostato dalla sua posizione non tende a tornarvi",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "economia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Economia , situazione di equilibrio a cui il sistema non torna spontaneamente se una o più variabili che lo definiscono cambia di valore",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Condizione di stabilità fisica in cui le forze agenti su un corpo si annullano reciprocamente, impedendone il movimento.",
+      "examples": [
+        "Il funambolo ha perso l'equilibrio e è caduto dalla fune.",
+        "Per mantenere l'equilibrio su una gamba sola, devi contrarre i muscoli addominali."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Stato di armonia o proporzione tra elementi diversi, che evita eccessi o squilibri.",
+      "examples": [
+        "Un'alimentazione sana richiede un equilibrio tra proteine, carboidrati e grassi.",
+        "Il governo cerca di trovare un equilibrio tra crescita economica e tutela dell'ambiente."
+      ],
+      "nota": "Spesso usato in contesti figurati per indicare una situazione ideale di bilanciamento tra opposti (es. lavoro/vita privata, libertà/sicurezza)."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Capacità di controllare le proprie emozioni e reazioni, mantenendo calma e razionalità.",
+      "examples": [
+        "Nonostante la provocazione, ha risposto con grande equilibrio.",
+        "In situazioni di crisi, è fondamentale mantenere l'equilibrio mentale."
+      ],
+      "nota": "Frequente in espressioni come *perdere l'equilibrio* (emotivo) o *ritrovare l'equilibrio* (psicologico)."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Distribuzione uniforme del peso o delle parti di un oggetto, che ne garantisce la stabilità.",
+      "examples": [
+        "Il tavolo traballa perché non ha un buon equilibrio delle gambe.",
+        "L'architetto ha progettato la struttura per assicurare l'equilibrio delle forze."
+      ],
+      "nota": "Usato anche in ambiti tecnici come l'ingegneria o il design."
+    }
+  ]
+}

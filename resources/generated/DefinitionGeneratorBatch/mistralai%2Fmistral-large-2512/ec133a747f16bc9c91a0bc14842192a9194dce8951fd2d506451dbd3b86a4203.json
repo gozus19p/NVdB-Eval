@@ -1,0 +1,87 @@
+{
+  "lemma": "marzo",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaef669ad0a50d0659c8a"
+    },
+    "source": "paraviaXML/67384.xml",
+    "lemma": "marzo",
+    "grammar": [
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "marzo-0",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Terzo mese dell’anno, di trentuno giorni nel calendario gregoriano e giuliano",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "partirò in",
+              "a marzo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Perché caratterizzato da tempo variabile",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "marzo pazzerello",
+              "pazzo"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Avere un carattere volubile, bizzarro",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "esser nato di marzo"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo m.",
+      "definition": "Terzo mese dell'anno nel calendario gregoriano, composto da 31 giorni.",
+      "examples": [
+        "A marzo le giornate iniziano ad allungarsi.",
+        "Il mio compleanno è il 15 marzo."
+      ],
+      "nota": "Spesso associato all'inizio della primavera nell'emisfero boreale (equinozio di primavera intorno al 20-21 marzo)."
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "Periodo di tempo caratterizzato da condizioni meteorologiche tipiche di questo mese, come instabilità atmosferica e temperature variabili.",
+      "examples": [
+        "Quest'anno sembra di essere ancora a marzo, con questo freddo.",
+        "Con questo marzo pazzerello non so mai come vestirmi."
+      ],
+      "nota": "Uso figurato o estensivo per indicare un clima instabile o imprevedibile, anche al di fuori del mese effettivo."
+    }
+  ]
+}

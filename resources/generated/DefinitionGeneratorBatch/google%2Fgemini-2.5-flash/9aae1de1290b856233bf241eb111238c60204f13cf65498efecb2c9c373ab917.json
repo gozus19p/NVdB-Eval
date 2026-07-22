@@ -1,0 +1,215 @@
+{
+  "lemma": "raro",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0469ad0a50d064a69c"
+    },
+    "source": "paraviaXML/91343.xml",
+    "lemma": "raro",
+    "grammar": [
+      "agg.",
+      "s.m.",
+      "avv."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Difficile a trovarsi, non comune",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un caso più unico che raro",
+              "è raro trovare dei veri amici"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Che si verifica con scarsa frequenza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "lo incontro in qualche rara occasione"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "LE",
+        "field": "",
+        "grammar": [
+          "aggettivo",
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Prezioso per la sua rarità",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un francobollo",
+              "un tappeto raro"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Fuori dal comune, eccezionale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "una persona di raro ingegno"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche ( Leopardi)",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il grande e il raro ha nome di follia"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Poco denso o fitto, rado",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Situato a intervalli relativamente grandi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli alberi erano rari",
+              "le rare case del paese"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "BU",
+        "field": "",
+        "grammar": [
+          "avverbio"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Raramente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "presto e bene raro avviene"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1–3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "Che si incontra o si verifica con poca frequenza o in quantità limitata.",
+      "examples": [
+        "Le orchidee di quella specie sono fiori molto rari da trovare in natura.",
+        "È un evento così raro che capita una volta ogni cent'anni."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Che denota un pregio o una qualità eccezionale, che lo rende quasi unico nel suo genere.",
+      "examples": [
+        "Un talento così raro merita di essere coltivato con cura e attenzione.",
+        "Possiede una rara capacità di ascolto, che lo rende un amico prezioso."
+      ],
+      "nota": "Spesso usato in contesti di apprezzamento o ammirazione."
+    },
+    {
+      "pos": "aggettivo",
+      "definition": "Di materiale o tessuto, che presenta una tessitura rada, con spazi significativi tra gli elementi.",
+      "examples": [
+        "Il tessuto di lino, soprattutto d'estate, è molto raro e permette alla pelle di respirare.",
+        "I capelli erano così rari che la cute si intravedeva facilmente."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "avverbio",
+      "definition": "Di uso non frequente o non costante.",
+      "examples": [
+        "Viene in città molto raro, quasi ogni cinque anni.",
+        "Si manifesta raro con scatti d'ira, per il resto è sempre tranquillo."
+      ],
+      "nota": "È meno comune dell'avverbio 'raramente', ma attestato nell'uso colloquiale."
+    }
+  ]
+}

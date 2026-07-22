@@ -1,0 +1,194 @@
+{
+  "lemma": "noto",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aae0569ad0a50d064b192"
+    },
+    "source": "paraviaXML/74652.xml",
+    "lemma": "noto",
+    "grammar": [
+      "agg.",
+      "s.m."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcosa"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcosa , conosciuto per esperienza o per informazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "la questione gli è nota"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Conosciuto da tutti, famoso",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "i noti versi di Dante",
+              "è nota la sua simpatia"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Divulgare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "rendere noto"
+            ]
+          },
+          {
+            "number": 4,
+            "marks": [
+              "impersonale"
+            ],
+            "definitions": [
+              {
+                "glossa": "In usi impersonale",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "è noto che ci sarà un armistizio"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Come si sa, come tutti sanno",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "come è noto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "aggettivo"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "qualcuno"
+            ],
+            "definitions": [
+              {
+                "glossa": "Di qualcuno , che ha acquisito fama per le sue qualità o per le sue opere, celebre",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "un noto chirurgo"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Che ha raggiunto la notorietà attraverso le pagine dei giornali, specialmente per essere stato protagonista di fatti delittuosi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "noto alle cronache"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "sostantivo maschile"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "singolare"
+            ],
+            "definitions": [
+              {
+                "glossa": "Solo singolare , ciò che è conosciuto",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il noto e l’ignoto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": []
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "aggettivo",
+      "definition": "conosciuto, familiare",
+      "examples": [
+        "È un artista molto noto.",
+        "Il suo nome è noto a tutti."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "sostantivo m.",
+      "definition": "persona famosa o conosciuta",
+      "examples": [
+        "È un noto della politica italiana.",
+        "I notoi del mondo dello spettacolo sono sempre sotto i riflettori."
+      ],
+      "nota": null
+    }
+  ]
+}

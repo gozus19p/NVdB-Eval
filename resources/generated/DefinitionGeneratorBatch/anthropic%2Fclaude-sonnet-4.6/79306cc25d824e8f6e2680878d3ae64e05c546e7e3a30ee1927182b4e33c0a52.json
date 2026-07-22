@@ -1,0 +1,143 @@
+{
+  "lemma": "educazione",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aaeb869ad0a50d06568e9"
+    },
+    "source": "paraviaXML/37602.xml",
+    "lemma": "educazione",
+    "grammar": [
+      "s.f."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "L’educare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’educazione dei giovani"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "specialmente"
+            ],
+            "definitions": [
+              {
+                "glossa": "Sviluppo di capacità e facoltà, specialmente intellettuali e morali",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’educazione del gusto",
+              "della mente"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Addestramento, istruzione",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Insieme di conoscenze, convinzioni, abitudini; formazione scolastica, culturale o professionale: cultura",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ricevere una buona educazione",
+              "la sua educazione si è svolta all’estero",
+              "avere un’educazione letteraria",
+              "musicale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Garbo, buone maniere: modo di comportarsi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "comportarsi con educazione",
+              "ma che razza di e.!"
+            ]
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "sostantivo f.",
+      "definition": "Processo di formazione intellettuale, morale e sociale di una persona, specialmente durante l'infanzia e l'adolescenza, attraverso l'insegnamento e l'esempio.",
+      "examples": [
+        "L'educazione dei figli è una delle responsabilità più importanti dei genitori.",
+        "Una buona educazione sin da piccoli influenza il carattere per tutta la vita."
+      ],
+      "nota": "Include sia l'educazione familiare sia quella scolastica e sociale."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Insieme di conoscenze, valori e norme di comportamento acquisiti attraverso l'istruzione e l'esperienza; il livello culturale e formativo di una persona.",
+      "examples": [
+        "Ha ricevuto un'educazione classica che le ha aperto molte porte.",
+        "La sua educazione musicale cominciò all'età di cinque anni."
+      ],
+      "nota": "In questo senso si riferisce al contenuto o al risultato del processo formativo, spesso accompagnato da un aggettivo specificativo (classica, scientifica, religiosa, ecc.)."
+    },
+    {
+      "pos": "sostantivo f.",
+      "definition": "Rispetto delle regole di buon comportamento sociale; cortesia e garbo nei rapporti con gli altri.",
+      "examples": [
+        "Ha avuto la buona educazione di alzarsi quando è entrato il professore.",
+        "Rispondere in modo scortese a un anziano è mancanza di educazione."
+      ],
+      "nota": "Corrisponde approssimativamente a 'buone maniere'. Spesso usato nelle costruzioni 'avere educazione', 'mancare di educazione', 'che educazione!'."
+    }
+  ]
+}

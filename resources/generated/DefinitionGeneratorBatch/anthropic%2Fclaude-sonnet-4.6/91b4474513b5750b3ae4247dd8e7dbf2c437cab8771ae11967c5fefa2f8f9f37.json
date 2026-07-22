@@ -1,0 +1,235 @@
+{
+  "lemma": "ospitare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafc569ad0a50d0664397"
+    },
+    "source": "paraviaXML/77381.xml",
+    "lemma": "ospitare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accogliere come ospite nella propria casa",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "li abbiamo ospitati qualche giorno al mare",
+              "sono stato ospitato da un amico |"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Dare ospitalità stabilmente",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "ormai da molti anni ospitavano la vecchia nonna"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Accogliere e proteggere un fuoriuscito o un ricercato",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "TS",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Sport, ricevere una squadra avversaria sul proprio terreno di gioco",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Di un luogo, un locale, un ambiente, accogliere o poter accogliere un certo numero di persone; avere una determinata capienza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "l’albergo può ospitare cento persone"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato"
+            ],
+            "definitions": [
+              {
+                "glossa": "Raccogliere, custodire",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "il museo ospita una vasta collezione di macchiaioli"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "usage": "AU",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "figurato",
+              "estensivo"
+            ],
+            "definitions": [
+              {
+                "glossa": "Accettare uno scritto in una rivista o in una pubblicazione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "gli atti del convegno ospitano solo gli interventi più importanti"
+            ]
+          },
+          {
+            "number": 2,
+            "marks": [
+              "simile"
+            ],
+            "definitions": [
+              {
+                "glossa": "Avere come ospite in una trasmissione radiofonica o televisiva, in una manifestazione, un convegno e simile",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "usage": "TS",
+        "field": "biologia",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Biologia , fornire il nutrimento necessario a un parassita",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Accogliere qualcuno nella propria casa o in un luogo di propria gestione, fornendogli alloggio e assistenza per un periodo di tempo.",
+      "examples": [
+        "Quest'estate ospiteremo i nostri cugini per due settimane.",
+        "L'associazione ospita famiglie di rifugiati in appartamenti del comune."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Contenere o accogliere all'interno della propria struttura fisica persone, eventi o attività, in riferimento a edifici, spazi o luoghi.",
+      "examples": [
+        "Il palazzetto dello sport ospita fino a cinquemila spettatori.",
+        "L'antico convento ospita ora un museo d'arte contemporanea."
+      ],
+      "nota": "Si distingue dal senso precedente perché il soggetto è un luogo o una struttura, non una persona."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Organizzare o tenere un evento in un determinato luogo o città, che ne diventa la sede ufficiale.",
+      "examples": [
+        "La città di Milano ospiterà l'Expo del prossimo anno.",
+        "Il nostro stadio ospiterà la finale di Coppa Italia."
+      ],
+      "nota": "In questo senso il soggetto è tipicamente una città, un paese o un'istituzione che si fa sede di un evento."
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Pubblicare o trasmettere un contributo di terzi all'interno di una propria testata, piattaforma o programma.",
+      "examples": [
+        "La rivista ha ospitato un lungo articolo di analisi politica firmato da un esperto esterno.",
+        "La trasmissione ha ospitato un'intervista esclusiva al premier."
+      ],
+      "nota": "Uso frequente nel linguaggio giornalistico e mediatico."
+    }
+  ]
+}

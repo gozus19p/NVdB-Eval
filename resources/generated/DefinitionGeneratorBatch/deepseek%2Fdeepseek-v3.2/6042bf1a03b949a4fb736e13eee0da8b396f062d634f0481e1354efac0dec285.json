@@ -1,0 +1,187 @@
+{
+  "lemma": "imparare",
+  "lemma_data": {
+    "_id": {
+      "$oid": "648aafb969ad0a50d0663997"
+    },
+    "source": "paraviaXML/53089.xml",
+    "lemma": "imparare",
+    "grammar": [
+      "v.tr."
+    ],
+    "discr": 0,
+    "acceptations": [
+      {
+        "id": "1a",
+        "usage": "FO",
+        "field": "",
+        "grammar": [
+          "assoluto"
+        ],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Acquisire e ritenere nella memoria studiando o esercitandosi",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare le tabelline",
+              "la matematica",
+              "una lingua straniera",
+              "imparare a memoria",
+              "a mente"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arrivare a conoscere e a saper praticare",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare un mestiere",
+              "imparare a sciare",
+              "imparare a suonare la chitarra"
+            ]
+          },
+          {
+            "number": 5,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Anche",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "avere voglia di imparare",
+              "un bambino che imparare rapidamente"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Arrivare a sapere per mezzo dell’esperienza",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare a vivere",
+              "imparare a comportarsi",
+              "imparerai cosa vuol dire lavorare"
+            ]
+          },
+          {
+            "number": 3,
+            "marks": [],
+            "definitions": [
+              {
+                "glossa": "Pagandone le conseguenze; come rimprovero e monito rivolto a chi ha commesso un errore che può comunque servigli di lezione",
+                "source": "tdm"
+              }
+            ],
+            "examples": [
+              "imparare qcs. a proprie spese",
+              "ti sta bene, così impari!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "centromeridionale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale centromeridionale , venire a sapere, apprendere",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "usage": "FO",
+        "field": "",
+        "grammar": [],
+        "is_link": false,
+        "senses": [
+          {
+            "number": 1,
+            "marks": [
+              "regionale",
+              "centromeridionale"
+            ],
+            "definitions": [
+              {
+                "glossa": "Regionale centromeridionale , insegnare",
+                "source": "tdm"
+              }
+            ],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "locutions": []
+  },
+  "senses": [
+    {
+      "pos": "verbo transitivo",
+      "definition": "Acquisire conoscenza o abilità attraverso lo studio, l'esperienza o l'insegnamento.",
+      "examples": [
+        "Ha deciso di imparare il francese prima di trasferirsi a Parigi.",
+        "Il bambino ha imparato ad andare in bicicletta in un solo pomeriggio."
+      ],
+      "nota": null
+    },
+    {
+      "pos": "verbo transitivo",
+      "definition": "Memorizzare una sequenza di informazioni, come un testo o una parte teatrale.",
+      "examples": [
+        "L'attrice ha dovuto imparare un monologo di due pagine per l'audizione.",
+        "Per l'esame di storia, dovrò imparare tutte le date a memoria."
+      ],
+      "nota": "In questo senso è spesso sinonimo di 'mandare a memoria' o 'memorizzare'."
+    },
+    {
+      "pos": "verbo transitivo/intransitivo",
+      "definition": "Trarre una lezione o un insegnamento da un'esperienza, positiva o negativa.",
+      "examples": [
+        "Dagli errori si può solo imparare per migliorarsi.",
+        "Spero che tu abbia imparato la lezione e non ripeta lo stesso sbaglio."
+      ],
+      "nota": "Questo senso figurato implica spesso un cambiamento di comportamento futuro."
+    }
+  ]
+}
